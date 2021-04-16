@@ -8,9 +8,9 @@ if [ "${1}" == "--clean" ]; then
 fi
 
 # we are in ~/RandomMetroidSolver/varia_custom_sprites/ as a submodule
-CUR=$(dirname $0)/..
-cd ${CUR}
-CUR=$(pwd)
+BASE=$(dirname $0)/..
+cd ${BASE}
+CUR=$(pwd)/varia_custom_sprites
 
 CUSTOM_SPRITES=$(python3 -c "from varia_custom_sprites.custom_sprites import customSprites; print(' '.join(list(customSprites.keys())))")
 
@@ -19,7 +19,7 @@ SHEETS_DIR=~/web2py/applications/solver/static/images/sprite_sheets
 
 if [ ${CLEAN} -eq 0 ]; then
     echo "Clean existing web2py symlinks"
-    for SPRITE in ${CUSTOMSPRITES}; do
+    for SPRITE in ${CUSTOM_SPRITES}; do
         rm -f ${THUMBNAILS_DIR}/${SPRITE}.png
         rm -f ${SHEETS_DIR}/${SPRITE}.png
     done
