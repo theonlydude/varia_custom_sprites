@@ -27,7 +27,7 @@ fi
 
 # add ln for thumbnails & sprite sheets in web2py
 echo "Create web2py symlinks"
-for SPRITE in ${CUSTOMSPRITES}; do
+for SPRITE in ${CUSTOM_SPRITES}; do
     [ -L ${THUMBNAILS_DIR}/${SPRITE}.png ] || ln -s ${CUR}/samus_sprites/${SPRITE}.png ${THUMBNAILS_DIR}/${SPRITE}.png
     [ -L ${SHEETS_DIR}/${SPRITE}.png ] || ln -s ${CUR}/sprite_sheets/${SPRITE}.png ${SHEETS_DIR}/${SPRITE}.png
 done
