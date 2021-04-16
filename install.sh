@@ -3,14 +3,16 @@
 
 # remove symlinks in web2py install first, for first time use
 CLEAN=1
-if [ $1 == "--clean" ]; then
+if [ "${1}" == "--clean" ]; then
     CLEAN=0
 fi
 
 # we are in ~/RandomMetroidSolver/varia_custom_sprites/ as a submodule
-CUR=$(dirname $0)
+CUR=$(dirname $0)/..
+cd ${CUR}
+CUR=$(pwd)
 
-CUSTOM_SPRITES=$(python3 -c "from custom_sprites import customSprites; print(' '.join(list(customSprites.keys())))")
+CUSTOM_SPRITES=$(python3 -c "from varia_custom_sprites.custom_sprites import customSprites; print(' '.join(list(customSprites.keys())))")
 
 THUMBNAILS_DIR=~/web2py/applications/solver/static/images
 SHEETS_DIR=~/web2py/applications/solver/static/images/sprite_sheets
