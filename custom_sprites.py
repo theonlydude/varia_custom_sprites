@@ -182,7 +182,7 @@ messageBoxes = {
         'SpeedBooster': 'pegasus boots',
         'Charge': 'silver arrow',
         'Ice': 'ice arrow',
-        'Wave': 'wave arrow',
+        'Wave': 'slingshot',
         'Spazer': 'light arrow',
         'Plasma': 'fire arrow',
         'Bomb': 'bomb',
