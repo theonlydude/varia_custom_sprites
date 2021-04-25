@@ -211,5 +211,28 @@ messageBoxes = {
         'XRayScope': 'shining ray',
         'Reserve': 'sub tank',
         'ETank': 'heart tank'
+    },
+    'win95_cursor.ips': {
+        'Charge': 'wireless charge',
+        'Ice': 'app freeze',
+        'Wave': 'click-through',
+        'Spazer': 'split screen',
+        'Plasma': 'antivirus',
+        'HiJump': 'reboots',
+        'SpeedBooster': 'overclocker',
+        'SpaceJump': 'spacebar',
+        'Varia': 'water cooling',
+        'Gravity': 'flood filtering',
+        'Morph': 'minimize',
+        'Bomb': 'delete',
+        'SpringBall': 'mouse ball',
+        'ScrewAttack': 'ddos attack',
+        'Missile': 'click',
+        'Super': 'double click',
+        'PowerBomb': 'fork bomb',
+        'Grapple': 'drag and drop',
+        'XRayScope': 'scandisk',
+        'ETank': 'ssd drive',
+        'Reserve': 'hdd drive'
     }
 }
