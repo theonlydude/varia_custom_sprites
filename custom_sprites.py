@@ -188,5 +188,28 @@ messageBoxes = {
         'Bomb': 'bomb',
         'Reserve': 'bottle',
         'Gravity': 'zora tunic'
+    },
+    'megaman.ips': {
+        'Varia': 'shadow armor',
+        'Gravity': 'icarus armor',
+        'Charge': 'mega buster',
+        'Ice': 'ice slasher',
+        'Wave': 'wave burner',
+        'Spazer': 'chameleon sting',
+        'Plasma': 'laser cutter',
+        'HiJump': 'leg upgrade',
+        'SpeedBooster': 'dash upgrade',
+        'SpaceJump': 'rolling cutter',
+        'Morph': 'rolling shield',
+        'Bomb': 'bomb bee',
+        'SpringBall': 'bounce ball',
+        'ScrewAttack': 'screw crusher',
+        'Missile': 'photon missile',
+        'Super': 'sniper missile',
+        'PowerBomb': 'hyper bomb',
+        'Grapple': 'strike chain',
+        'XRayScope': 'shining ray',
+        'Reserve': 'sub tank',
+        'ETank': 'heart tank'
     }
 }
