@@ -236,5 +236,31 @@ messageBoxes = {
         'XRayScope': 'scandisk',
         'ETank': 'ssd drive',
         'Reserve': 'hdd drive'
+    },
+    'luigi.ips': {
+        'Charge': 'cheep charge',
+        'Ice': 'ice flower',
+        'Wave': 'superball',
+        'Spazer': 'spiny shelmet',
+        'Plasma': 'hammer suit',
+        'HiJump': 'raccoon suit',
+        'SpeedBooster': 'p-speed',
+        'SpaceJump': 'p-wing',
+        'Varia': 'fire flower',
+        'Gravity': 'frog suit',
+        'Morph': 'mini mushroom',
+        'Bomb': 'bob-omb',
+        'SpringBall': 'spring',
+        'ScrewAttack': 'super star',
+        'Missile': 'bullet bill',
+        'Super': 'banzai bill',
+        'PowerBomb': 'pow block',
+        'Grapple': 'claw',
+        'XRayScope': 'subspace',
+        'ETank': 'magic mushroom',
+        'Reserve': 'reserve mushroom'
     }
 }
+
+messageBoxes['mario_8bit.ips'] = messageBoxes['luigi.ips']
+messageBoxes['mario_8bit_modern.ips'] = messageBoxes['luigi.ips']
