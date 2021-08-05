@@ -1,20 +1,23 @@
 {
     "Title sequence intro": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_28620d_28b629.nspc",
+        "nspc_path": "vanilla/vanilla_28620d_28b629.nspc",
+        "data_index": 0,
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid"
     },
     "Menu theme": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_28620d_28b629.nspc",
+        "nspc_path": "vanilla/vanilla_28620d_28b629.nspc",
+        "data_index": 0,
         "track_index": 1,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid"
     },
     "Crateria Landing - Thunder, Zebes asleep": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_28b62a_2908c9.nspc",
+        "nspc_path": "vanilla/vanilla_28b62a_2908c9.nspc",
+        "data_index": 1,
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
@@ -25,7 +28,8 @@
         ]
     },
     "Crateria Landing - Thunder, Zebes awake": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_28b62a_2908c9.nspc",
+        "nspc_path": "vanilla/vanilla_28b62a_2908c9.nspc",
+        "data_index": 1,
         "track_index": 1,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
@@ -35,7 +39,8 @@
         ]
     },
     "Crateria Landing - No Thunder": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_28b62a_2908c9.nspc",
+        "nspc_path": "vanilla/vanilla_28b62a_2908c9.nspc",
+        "data_index": 1,
         "track_index": 2,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
@@ -45,7 +50,8 @@
         ]
     },
     "Crateria Pirates": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2908ca_2959b5.nspc",
+        "nspc_path": "vanilla/vanilla_2908ca_2959b5.nspc",
+        "data_index": 2,
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
@@ -60,13 +66,14 @@
             497812,
             499407
         ],
-        "pc_addresses_extra": [
+        "pc_addresses_area": [
             498042,
             498126
         ]
     },
     "Tourian Entrance": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2908ca_2959b5.nspc",
+        "nspc_path": "vanilla/vanilla_2908ca_2959b5.nspc",
+        "data_index": 2,
         "track_index": 1,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
@@ -76,7 +83,8 @@
         ]
     },
     "Samus Theme": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2959b6_29933b.nspc",
+        "nspc_path": "vanilla/vanilla_2959b6_29933b.nspc",
+        "data_index": 3,
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
@@ -87,14 +95,15 @@
             496910,
             497312
         ],
-        "pc_addresses_extra": [
+        "pc_addresses_area": [
             497168,
             496797,
             497038
         ]
     },
     "Green Brinstar": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_29933c_29e811.nspc",
+        "nspc_path": "vanilla/vanilla_29933c_29e811.nspc",
+        "data_index": 4,
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
@@ -112,7 +121,8 @@
         ]
     },
     "Red Brinstar": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_29e812_2a386b.nspc",
+        "nspc_path": "vanilla/vanilla_29e812_2a386b.nspc",
+        "data_index": 5,
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
@@ -128,15 +138,18 @@
             511761,
             511889
         ],
-        "pc_addresses_extra": [
-            500866,
+        "pc_addresses_area": [
+            500866
+        ],
+        "pc_addresses_boss": [
             501116,
             501047,
             501073
         ]
     },
     "Upper Norfair": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2a386c_2a741f.nspc",
+        "nspc_path": "vanilla/vanilla_2a386c_2a741f.nspc",
+        "data_index": 6,
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
@@ -153,14 +166,15 @@
             504227,
             504268
         ],
-        "pc_addresses_extra": [
+        "pc_addresses_area": [
             503589,
             503429,
             502205
         ]
     },
     "Lower Norfair": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2a7420_2ac843.nspc",
+        "nspc_path": "vanilla/vanilla_2a7420_2ac843.nspc",
+        "data_index": 7,
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
@@ -176,7 +190,8 @@
         ]
     },
     "East Maridia": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2ac844_2b18b6.nspc",
+        "nspc_path": "vanilla/vanilla_2ac844_2b18b6.nspc",
+        "data_index": 8,
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
@@ -192,12 +207,13 @@
             514037,
             514091
         ],
-        "pc_addresses_extra": [
+        "pc_addresses_boss": [
             513957
         ]
     },
     "West Maridia": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2ac844_2b18b6.nspc",
+        "nspc_path": "vanilla/vanilla_2ac844_2b18b6.nspc",
+        "data_index": 8,
         "track_index": 1,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
@@ -210,7 +226,8 @@
         ]
     },
     "Tourian": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2b18b7_2b6f9c.nspc",
+        "nspc_path": "vanilla/vanilla_2b18b7_2b6f9c.nspc",
+        "data_index": 9,
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
@@ -227,14 +244,16 @@
         ]
     },
     "Mother Brain": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2b6f9d_2bbf72.nspc",
+        "nspc_path": "vanilla/vanilla_2b6f9d_2bbf72.nspc",
+        "data_index": 10,
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid"
     },
     "Boss fight - BT/Ridley/Draygon": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2bbf73_2c19b1.nspc",
+        "nspc_path": "vanilla/vanilla_2bbf73_2c19b1.nspc",
+        "data_index": 11,
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
@@ -244,14 +263,16 @@
         ]
     },
     "Boss fight - BT tension": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2bbf73_2c19b1.nspc",
+        "nspc_path": "vanilla/vanilla_2bbf73_2c19b1.nspc",
+        "data_index": 11,
         "track_index": 1,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid"
     },
     "Escape": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2bbf73_2c19b1.nspc",
+        "nspc_path": "vanilla/vanilla_2bbf73_2c19b1.nspc",
+        "data_index": 11,
         "track_index": 2,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
@@ -263,7 +284,8 @@
         ]
     },
     "Boss fight - Kraid/Phantoon/Croc": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2c19b2_2c6a8a.nspc",
+        "nspc_path": "vanilla/vanilla_2c19b2_2c6a8a.nspc",
+        "data_index": 12,
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
@@ -273,7 +295,8 @@
         ]
     },
     "Boss fight - Kraid/Phantoon/Croc tension": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2c19b2_2c6a8a.nspc",
+        "nspc_path": "vanilla/vanilla_2c19b2_2c6a8a.nspc",
+        "data_index": 12,
         "track_index": 1,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
@@ -285,7 +308,8 @@
         ]
     },
     "Boss fight - Spore Spawn/Botwoon": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2c6a8b_2cb67a.nspc",
+        "nspc_path": "vanilla/vanilla_2c6a8b_2cb67a.nspc",
+        "data_index": 13,
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
@@ -296,14 +320,16 @@
         ]
     },
     "Flying to Ceres": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2cb67b_2cf5dc.nspc",
+        "nspc_path": "vanilla/vanilla_2cb67b_2cf5dc.nspc",
+        "data_index": 14,
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid"
     },
     "Ceres": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2cb67b_2cf5dc.nspc",
+        "nspc_path": "vanilla/vanilla_2cb67b_2cf5dc.nspc",
+        "data_index": 14,
         "track_index": 1,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
@@ -313,21 +339,24 @@
         ]
     },
     "Flying to Zebes": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2cb67b_2cf5dc.nspc",
+        "nspc_path": "vanilla/vanilla_2cb67b_2cf5dc.nspc",
+        "data_index": 14,
         "track_index": 2,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid"
     },
     "Ceres time up": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2cb67b_2cf5dc.nspc",
+        "nspc_path": "vanilla/vanilla_2cb67b_2cf5dc.nspc",
+        "data_index": 14,
         "track_index": 3,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid"
     },
     "Wrecked Ship - Power off": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2cf5dd_2d364f.nspc",
+        "nspc_path": "vanilla/vanilla_2cf5dd_2d364f.nspc",
+        "data_index": 15,
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
@@ -342,7 +371,8 @@
         ]
     },
     "Wrecked Ship - Power on": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2cf5dd_2d364f.nspc",
+        "nspc_path": "vanilla/vanilla_2cf5dd_2d364f.nspc",
+        "data_index": 15,
         "track_index": 1,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
@@ -357,56 +387,64 @@
         ]
     },
     "Zebes boom": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2d3650_2d563a.nspc",
+        "nspc_path": "vanilla/vanilla_2d3650_2d563a.nspc",
+        "data_index": 16,
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid"
     },
     "Intro": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2d563b_2da40e.nspc",
+        "nspc_path": "vanilla/vanilla_2d563b_2da40e.nspc",
+        "data_index": 17,
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid"
     },
     "Death": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2da40f_2ddf4e.nspc",
+        "nspc_path": "vanilla/vanilla_2da40f_2ddf4e.nspc",
+        "data_index": 18,
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid"
     },
     "Credits": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2ddf4f_2e2f6b.nspc",
+        "nspc_path": "vanilla/vanilla_2ddf4f_2e2f6b.nspc",
+        "data_index": 19,
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid"
     },
     "The last Metroid is in captivity": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2e2f6c_2e7ac6.nspc",
+        "nspc_path": "vanilla/vanilla_2e2f6c_2e7ac6.nspc",
+        "data_index": 20,
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid"
     },
     "The galaxy is at peace": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2e7ac7_2eb103.nspc",
+        "nspc_path": "vanilla/vanilla_2e7ac7_2eb103.nspc",
+        "data_index": 21,
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid"
     },
     "Baby Metroid": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2eb104_2f01c0.nspc",
+        "nspc_path": "vanilla/vanilla_2eb104_2f01c0.nspc",
+        "data_index": 22,
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid"
     },
     "Baby Metroid - Tension": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2eb104_2f01c0.nspc",
+        "nspc_path": "vanilla/vanilla_2eb104_2f01c0.nspc",
+        "data_index": 22,
         "track_index": 1,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
@@ -417,14 +455,16 @@
         ]
     },
     "Baby Metroid - No music": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2eb104_2f01c0.nspc",
+        "nspc_path": "vanilla/vanilla_2eb104_2f01c0.nspc",
+        "data_index": 22,
         "track_index": 2,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid"
     },
     "Mother Brain 3 (Samus Theme 2)": {
-        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2f01c1_2f51bf.nspc",
+        "nspc_path": "vanilla/vanilla_2f01c1_2f51bf.nspc",
+        "data_index": 23,
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
