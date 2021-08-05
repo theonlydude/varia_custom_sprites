@@ -18,91 +18,213 @@
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            496151,
+            497610
+        ]
     },
     "Crateria Landing - Thunder, Zebes awake": {
         "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_28b62a_2908c9.nspc",
         "track_index": 1,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            496177
+        ]
     },
     "Crateria Landing - No Thunder": {
         "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_28b62a_2908c9.nspc",
         "track_index": 2,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            499381
+        ]
     },
     "Crateria Pirates": {
         "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2908ca_2959b5.nspc",
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            496355,
+            496434,
+            496614,
+            497391,
+            497547,
+            497838,
+            497812,
+            499407
+        ],
+        "pc_addresses_extra": [
+            498042,
+            498126
+        ]
     },
     "Tourian Entrance": {
         "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2908ca_2959b5.nspc",
         "track_index": 1,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            501371
+        ]
     },
     "Samus Theme": {
         "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2959b6_29933b.nspc",
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            496203,
+            496655,
+            496910,
+            497312
+        ],
+        "pc_addresses_extra": [
+            497168,
+            496797,
+            497038
+        ]
     },
     "Green Brinstar": {
         "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_29933c_29e811.nspc",
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            498410,
+            498986,
+            499117,
+            499299,
+            499659,
+            499893,
+            500117,
+            500242,
+            500283
+        ]
     },
     "Red Brinstar": {
         "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_29e812_2a386b.nspc",
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            500324,
+            500531,
+            500971,
+            501532,
+            501573,
+            511715,
+            511787,
+            511761,
+            511889
+        ],
+        "pc_addresses_extra": [
+            500866,
+            501116,
+            501047,
+            501073
+        ]
     },
     "Upper Norfair": {
         "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2a386c_2a741f.nspc",
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            501743,
+            502068,
+            502419,
+            502470,
+            503151,
+            503632,
+            504046,
+            504184,
+            504227,
+            504268
+        ],
+        "pc_addresses_extra": [
+            503589,
+            503429,
+            502205
+        ]
     },
     "Lower Norfair": {
         "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2a7420_2ac843.nspc",
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            504310,
+            504391,
+            504555,
+            504715,
+            505447,
+            505599,
+            505682
+        ]
     },
     "East Maridia": {
         "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2ac844_2b18b6.nspc",
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            512557,
+            512796,
+            513008,
+            513464,
+            513576,
+            513910,
+            513983,
+            514037,
+            514091
+        ],
+        "pc_addresses_extra": [
+            513957
+        ]
     },
     "West Maridia": {
         "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2ac844_2b18b6.nspc",
         "track_index": 1,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            511962,
+            512155,
+            512277,
+            512436
+        ]
     },
     "Tourian": {
         "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2b18b7_2b6f9c.nspc",
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            514751,
+            515069,
+            515043,
+            515221,
+            515344,
+            515588,
+            515636,
+            515884
+        ]
     },
     "Mother Brain": {
         "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2b6f9d_2bbf72.nspc",
@@ -116,7 +238,10 @@
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            514678
+        ]
     },
     "Boss fight - BT tension": {
         "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2bbf73_2c19b1.nspc",
@@ -125,26 +250,50 @@
         "port_author": "",
         "description": "Original track from vanilla Super Metroid"
     },
+    "Escape": {
+        "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2bbf73_2c19b1.nspc",
+        "track_index": 2,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "",
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            497417,
+            497864,
+            515678
+        ]
+    },
     "Boss fight - Kraid/Phantoon/Croc": {
         "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2c19b2_2c6a8a.nspc",
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            502179
+        ]
     },
     "Boss fight - Kraid/Phantoon/Croc tension": {
         "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2c19b2_2c6a8a.nspc",
         "track_index": 1,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            501047,
+            501173,
+            511273
+        ]
     },
     "Boss fight - Spore Spawn/Botwoon": {
         "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2c6a8b_2cb67a.nspc",
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            499165,
+            514420
+        ]
     },
     "Flying to Ceres": {
         "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2cb67b_2cf5dc.nspc",
@@ -158,7 +307,10 @@
         "track_index": 1,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            515931
+        ]
     },
     "Flying to Zebes": {
         "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2cb67b_2cf5dc.nspc",
@@ -179,14 +331,30 @@
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            510494,
+            510568,
+            510732,
+            510955,
+            511109,
+            511648
+        ]
     },
     "Wrecked Ship - Power on": {
         "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2cf5dd_2d364f.nspc",
         "track_index": 1,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            510520,
+            510594,
+            510758,
+            510981,
+            511135,
+            511674
+        ]
     },
     "Zebes boom": {
         "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2d3650_2d563a.nspc",
@@ -242,7 +410,11 @@
         "track_index": 1,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            515119,
+            515195
+        ]
     },
     "Baby Metroid - No music": {
         "nspc_path": "varia_custom_sprites/music/vanilla/vanilla_2eb104_2f01c0.nspc",
