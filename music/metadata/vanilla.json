@@ -5,7 +5,10 @@
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            518253
+        ]
     },
     "Menu theme": {
         "nspc_path": "vanilla/vanilla_28620d_28b629.nspc",
@@ -13,7 +16,10 @@
         "track_index": 1,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            518255
+        ]
     },
     "Crateria Landing - Thunder, Zebes asleep": {
         "nspc_path": "vanilla/vanilla_28b62a_2908c9.nspc",
@@ -280,7 +286,8 @@
         "pc_addresses": [
             497417,
             497864,
-            515678
+            515678,
+            518257
         ]
     },
     "Boss fight - Kraid/Phantoon/Croc": {
@@ -416,7 +423,10 @@
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            518259
+        ]
     },
     "The last Metroid is in captivity": {
         "nspc_path": "vanilla/vanilla_2e2f6c_2e7ac6.nspc",
@@ -468,6 +478,9 @@
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            518261
+        ]
     }
 }
