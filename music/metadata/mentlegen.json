@@ -1,0 +1,42 @@
+{
+    "Blue_on_Black": {
+        "nspc_path": "mentlegen/Blue_on_Black.nspc",
+        "track_index": 0,
+        "original_author": "?",
+        "port_author": "Mentlegen",
+        "description": "Music found on metconst, by Mentlegen",
+        "spc_path": "mentlegen/Blue_on_Black.spc"
+    },
+    "escape_remix": {
+        "nspc_path": "mentlegen/escape_remix.nspc",
+        "track_index": 0,
+        "original_author": "?",
+        "port_author": "Mentlegen",
+        "description": "Music found on metconst, by Mentlegen",
+        "spc_path": "mentlegen/escape_remix.spc"
+    },
+    "Miniboss_remix": {
+        "nspc_path": "mentlegen/Miniboss_remix.nspc",
+        "track_index": 0,
+        "original_author": "?",
+        "port_author": "Mentlegen",
+        "description": "Music found on metconst, by Mentlegen",
+        "spc_path": "mentlegen/Miniboss_remix.spc"
+    },
+    "Phantoon_busters_v1.1": {
+        "nspc_path": "mentlegen/Phantoon_busters_v1.1.nspc",
+        "track_index": 0,
+        "original_author": "?",
+        "port_author": "Mentlegen",
+        "description": "Music found on metconst, by Mentlegen",
+        "spc_path": "mentlegen/Phantoon_busters_v1.1.spc"
+    },
+    "VS_Boss_remix": {
+        "nspc_path": "mentlegen/VS_Boss_remix.nspc",
+        "track_index": 0,
+        "original_author": "?",
+        "port_author": "Mentlegen",
+        "description": "Music found on metconst, by Mentlegen",
+        "spc_path": "mentlegen/VS_Boss_remix.spc"
+    }
+}

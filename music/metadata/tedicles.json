@@ -1,0 +1,18 @@
+{
+    "Chozo_Ruins_MZM": {
+        "nspc_path": "tedicles/Chozo_Ruins_MZM.nspc",
+        "track_index": 0,
+        "original_author": "?",
+        "port_author": "Tedicles",
+        "description": "Music found on metconst, by Tedicles",
+        "spc_path": "tedicles/Chozo_Ruins_MZM.spc"
+    },
+    "never_forget": {
+        "nspc_path": "tedicles/never_forget.nspc",
+        "track_index": 0,
+        "original_author": "?",
+        "port_author": "Tedicles",
+        "description": "Music found on metconst, by Tedicles",
+        "spc_path": "tedicles/never_forget.spc"
+    }
+}
