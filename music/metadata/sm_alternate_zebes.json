@@ -1,0 +1,138 @@
+{
+    "AlternateZebes_BossFight1": {
+        "nspc_path": "SM_Alternate_Zebes/AlternateZebes_BossFight1.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Alternate take on Super Metroid soudtrack",
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_BossFight1.spc"
+    },
+    "AlternateZebes_Credits": {
+        "nspc_path": "SM_Alternate_Zebes/AlternateZebes_Credits.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Alternate take on Super Metroid soudtrack",
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_Credits.spc"
+    },
+    "AlternateZebes_EmptyCrateria": {
+        "nspc_path": "SM_Alternate_Zebes/AlternateZebes_EmptyCrateria.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Alternate take on Super Metroid soudtrack",
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_EmptyCrateria.spc"
+    },
+    "AlternateZebes_GreenBrinstar": {
+        "nspc_path": "SM_Alternate_Zebes/AlternateZebes_GreenBrinstar.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Alternate take on Super Metroid soudtrack",
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_GreenBrinstar.spc"
+    },
+    "AlternateZebes_Intro": {
+        "nspc_path": "SM_Alternate_Zebes/AlternateZebes_Intro.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Alternate take on Super Metroid soudtrack",
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_Intro.spc"
+    },
+    "AlternateZebes_LowerNorfair": {
+        "nspc_path": "SM_Alternate_Zebes/AlternateZebes_LowerNorfair.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Alternate take on Super Metroid soudtrack",
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_LowerNorfair.spc"
+    },
+    "AlternateZebes_Maridia": {
+        "nspc_path": "SM_Alternate_Zebes/AlternateZebes_Maridia.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Alternate take on Super Metroid soudtrack",
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_Maridia1.spc"
+    },
+    "AlternateZebes_Maridia_1": {
+        "nspc_path": "SM_Alternate_Zebes/AlternateZebes_Maridia.bin",
+        "track_index": 1,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Alternate take on Super Metroid soudtrack",
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_Maridia2.spc"
+    },
+    "AlternateZebes_MiniBossFight": {
+        "nspc_path": "SM_Alternate_Zebes/AlternateZebes_MiniBossFight.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Alternate take on Super Metroid soudtrack",
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_MiniBossFight.spc"
+    },
+    "AlternateZebes_MotherBrain": {
+        "nspc_path": "SM_Alternate_Zebes/AlternateZebes_MotherBrain.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Alternate take on Super Metroid soudtrack",
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_MotherBrain.spc"
+    },
+    "AlternateZebes_RedBrinstar": {
+        "nspc_path": "SM_Alternate_Zebes/AlternateZebes_RedBrinstar.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Alternate take on Super Metroid soudtrack",
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_RedBrinstar.spc"
+    },
+    "AlternateZebes_SamusTheme": {
+        "nspc_path": "SM_Alternate_Zebes/AlternateZebes_SamusTheme.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Alternate take on Super Metroid soudtrack",
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_SamusTheme.spc"
+    },
+    "AlternateZebes_SpacePirates": {
+        "nspc_path": "SM_Alternate_Zebes/AlternateZebes_SpacePirates.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Alternate take on Super Metroid soudtrack",
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_SpacePirates1.spc"
+    },
+    "AlternateZebes_SpacePirates_1": {
+        "nspc_path": "SM_Alternate_Zebes/AlternateZebes_SpacePirates.bin",
+        "track_index": 1,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Alternate take on Super Metroid soudtrack",
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_SpacePirates2.spc"
+    },
+    "AlternateZebes_Tourian": {
+        "nspc_path": "SM_Alternate_Zebes/AlternateZebes_Tourian.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Alternate take on Super Metroid soudtrack",
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_Tourian.spc"
+    },
+    "AlternateZebes_UpperNorfair": {
+        "nspc_path": "SM_Alternate_Zebes/AlternateZebes_UpperNorfair.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Alternate take on Super Metroid soudtrack",
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_UpperNorfair.spc"
+    },
+    "AlternateZebes_WreckedShip": {
+        "nspc_path": "SM_Alternate_Zebes/AlternateZebes_WreckedShip.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Alternate take on Super Metroid soudtrack",
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_WreckedShip.spc"
+    }
+}

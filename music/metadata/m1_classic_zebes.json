@@ -1,0 +1,66 @@
+{
+    "ClassicZebes_Brinstar": {
+        "nspc_path": "M1_Classic_Zebes/ClassicZebes_Brinstar.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Metroid 1 soudtrack with SNES samples",
+        "spc_path": "M1_Classic_Zebes/ClassicZebes_Brinstar.spc"
+    },
+    "ClassicZebes_Ending": {
+        "nspc_path": "M1_Classic_Zebes/ClassicZebes_Ending.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Metroid 1 soudtrack with SNES samples",
+        "spc_path": "M1_Classic_Zebes/ClassicZebes_Ending.spc"
+    },
+    "ClassicZebes_Escape": {
+        "nspc_path": "M1_Classic_Zebes/ClassicZebes_Escape.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Metroid 1 soudtrack with SNES samples",
+        "spc_path": "M1_Classic_Zebes/ClassicZebes_Escape.spc"
+    },
+    "ClassicZebes_Intro": {
+        "nspc_path": "M1_Classic_Zebes/ClassicZebes_Intro.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Metroid 1 soudtrack with SNES samples",
+        "spc_path": "M1_Classic_Zebes/ClassicZebes_Intro.spc"
+    },
+    "ClassicZebes_Kraid": {
+        "nspc_path": "M1_Classic_Zebes/ClassicZebes_Kraid.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Metroid 1 soudtrack with SNES samples",
+        "spc_path": "M1_Classic_Zebes/ClassicZebes_Kraid.spc"
+    },
+    "ClassicZebes_Norfair": {
+        "nspc_path": "M1_Classic_Zebes/ClassicZebes_Norfair.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Metroid 1 soudtrack with SNES samples",
+        "spc_path": "M1_Classic_Zebes/ClassicZebes_Norfair.spc"
+    },
+    "ClassicZebes_Ridley": {
+        "nspc_path": "M1_Classic_Zebes/ClassicZebes_Ridley.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Metroid 1 soudtrack with SNES samples",
+        "spc_path": "M1_Classic_Zebes/ClassicZebes_Ridley.spc"
+    },
+    "ClassicZebes_Tourian": {
+        "nspc_path": "M1_Classic_Zebes/ClassicZebes_Tourian.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Metroid 1 soudtrack with SNES samples",
+        "spc_path": "M1_Classic_Zebes/ClassicZebes_Tourian.spc"
+    }
+}

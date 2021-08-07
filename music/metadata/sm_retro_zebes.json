@@ -1,0 +1,74 @@
+{
+    "RetroZebes_BossFight1": {
+        "nspc_path": "SM_Retro_Zebes/RetroZebes_BossFight1.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Super Metroid soudtrack with retro sounding samples",
+        "spc_path": "SM_Retro_Zebes/RetroZebes_BossFight1.spc"
+    },
+    "RetroZebes_GreenBrinstar": {
+        "nspc_path": "SM_Retro_Zebes/RetroZebes_GreenBrinstar.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Super Metroid soudtrack with retro sounding samples",
+        "spc_path": "SM_Retro_Zebes/RetroZebes_GreenBrinstar.spc"
+    },
+    "RetroZebes_LowerNorfair": {
+        "nspc_path": "SM_Retro_Zebes/RetroZebes_LowerNorfair.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Super Metroid soudtrack with retro sounding samples",
+        "spc_path": "SM_Retro_Zebes/RetroZebes_LowerNorfair.spc"
+    },
+    "RetroZebes_Maridia": {
+        "nspc_path": "SM_Retro_Zebes/RetroZebes_Maridia.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Super Metroid soudtrack with retro sounding samples",
+        "spc_path": "SM_Retro_Zebes/RetroZebes_Maridia1.spc"
+    },
+    "RetroZebes_Maridia_1": {
+        "nspc_path": "SM_Retro_Zebes/RetroZebes_Maridia.bin",
+        "track_index": 1,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Super Metroid soudtrack with retro sounding samples",
+        "spc_path": "SM_Retro_Zebes/RetroZebes_Maridia2.spc"
+    },
+    "RetroZebes_MiniBossFight": {
+        "nspc_path": "SM_Retro_Zebes/RetroZebes_MiniBossFight.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Super Metroid soudtrack with retro sounding samples",
+        "spc_path": "SM_Retro_Zebes/RetroZebes_MiniBossFight.spc"
+    },
+    "RetroZebes_RedBrinstar": {
+        "nspc_path": "SM_Retro_Zebes/RetroZebes_RedBrinstar.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Super Metroid soudtrack with retro sounding samples",
+        "spc_path": "SM_Retro_Zebes/RetroZebes_RedBrinstar.spc"
+    },
+    "RetroZebes_SamusTheme": {
+        "nspc_path": "SM_Retro_Zebes/RetroZebes_SamusTheme.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Super Metroid soudtrack with retro sounding samples",
+        "spc_path": "SM_Retro_Zebes/RetroZebes_SamusTheme.spc"
+    },
+    "RetroZebes_UpperNorfair": {
+        "nspc_path": "SM_Retro_Zebes/RetroZebes_UpperNorfair.bin",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Metaquarius",
+        "description": "Super Metroid soudtrack with retro sounding samples",
+        "spc_path": "SM_Retro_Zebes/RetroZebes_UpperNorfair.spc"
+    }
+}

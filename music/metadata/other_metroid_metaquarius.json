@@ -1,0 +1,42 @@
+{
+    "m2_sr388": {
+        "nspc_path": "other_metroid_metaquarius/m2_sr388.bin",
+        "track_index": 0,
+        "original_author": "Nintendo",
+        "port_author": "metaquarius",
+        "description": "Ports from various Metroid games",
+        "spc_path": "other_metroid_metaquarius/m2_sr388.spc"
+    },
+    "m4_prologue": {
+        "nspc_path": "other_metroid_metaquarius/m4_prologue.bin",
+        "track_index": 0,
+        "original_author": "Nintendo",
+        "port_author": "metaquarius",
+        "description": "Ports from various Metroid games",
+        "spc_path": "other_metroid_metaquarius/m4_prologue.spc"
+    },
+    "m4_ridleyx": {
+        "nspc_path": "other_metroid_metaquarius/m4_ridleyx.bin",
+        "track_index": 0,
+        "original_author": "Nintendo",
+        "port_author": "metaquarius",
+        "description": "Ports from various Metroid games",
+        "spc_path": "other_metroid_metaquarius/m4_ridleyx.spc"
+    },
+    "m4_serris": {
+        "nspc_path": "other_metroid_metaquarius/m4_serris.bin",
+        "track_index": 0,
+        "original_author": "Nintendo",
+        "port_author": "metaquarius",
+        "description": "Ports from various Metroid games",
+        "spc_path": "other_metroid_metaquarius/m4_serris.spc"
+    },
+    "mzm_kraid": {
+        "nspc_path": "other_metroid_metaquarius/mzm_kraid.bin",
+        "track_index": 0,
+        "original_author": "Nintendo",
+        "port_author": "metaquarius",
+        "description": "Ports from various Metroid games",
+        "spc_path": "other_metroid_metaquarius/mzm_kraid.spc"
+    }
+}
