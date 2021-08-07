@@ -255,7 +255,10 @@
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "pc_addresses": [
+            518263
+        ]
     },
     "Boss fight - BT/Ridley/Draygon": {
         "nspc_path": "vanilla/vanilla_2bbf73_2c19b1.nspc",
