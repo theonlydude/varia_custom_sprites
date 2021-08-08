@@ -1,14 +1,14 @@
 {
     "Animals_Dance": {
-        "nspc_path": "AlbertV_Apollo/Animals_Dance.nspc",
+        "nspc_path": "MMC_Server/Animals_Dance.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Animals_Dance.spc"
+        "spc_path": "MMC_Server/Animals_Dance.spc"
     },
     "asphalt_and_ablution": {
-        "nspc_path": "AlbertV_Apollo/asphalt_and_ablution.nspc",
+        "nspc_path": "MMC_Server/asphalt_and_ablution.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
@@ -16,255 +16,255 @@
         "spc_path": ""
     },
     "A_Vision_of_Dark_Secrets_v1.0": {
-        "nspc_path": "AlbertV_Apollo/A_Vision_of_Dark_Secrets_v1.0.nspc",
+        "nspc_path": "MMC_Server/A_Vision_of_Dark_Secrets_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/A_Vision_of_Dark_Secrets_v1.0.spc"
+        "spc_path": "MMC_Server/A_Vision_of_Dark_Secrets_v1.0.spc"
     },
     "Beginning_of_the_Journey_v1.0": {
-        "nspc_path": "AlbertV_Apollo/Beginning_of_the_Journey_v1.0.nspc",
+        "nspc_path": "MMC_Server/Beginning_of_the_Journey_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Beginning_of_the_Journey_v1.0.spc"
+        "spc_path": "MMC_Server/Beginning_of_the_Journey_v1.0.spc"
     },
     "Bryyo_2019": {
-        "nspc_path": "AlbertV_Apollo/Bryyo_2019.nspc",
+        "nspc_path": "MMC_Server/Bryyo_2019.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Bryyo_2019.spc"
+        "spc_path": "MMC_Server/Bryyo_2019.spc"
     },
     "Cellar_Custom_v1.0": {
-        "nspc_path": "AlbertV_Apollo/Cellar_Custom_v1.0.nspc",
+        "nspc_path": "MMC_Server/Cellar_Custom_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Cellar_Custom_v1.0.spc"
+        "spc_path": "MMC_Server/Cellar_Custom_v1.0.spc"
     },
     "Chase_Maze_Clocktober_Hack_v1.1": {
-        "nspc_path": "AlbertV_Apollo/Chase_Maze_Clocktober_Hack_v1.1.nspc",
+        "nspc_path": "MMC_Server/Chase_Maze_Clocktober_Hack_v1.1.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Chase_Maze_Clocktober_Hack_v1.1.spc"
+        "spc_path": "MMC_Server/Chase_Maze_Clocktober_Hack_v1.1.spc"
     },
     "Choirs_of_the_Temple_v1.0": {
-        "nspc_path": "AlbertV_Apollo/Choirs_of_the_Temple_v1.0.nspc",
+        "nspc_path": "MMC_Server/Choirs_of_the_Temple_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Choirs_of_the_Temple_v1.0.spc"
+        "spc_path": "MMC_Server/Choirs_of_the_Temple_v1.0.spc"
     },
     "Chozo_Chamber_-_Alberts": {
-        "nspc_path": "AlbertV_Apollo/Chozo_Chamber_-_Alberts.nspc",
+        "nspc_path": "MMC_Server/Chozo_Chamber_-_Alberts.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Chozo_Chamber_-_Alberts.spc"
+        "spc_path": "MMC_Server/Chozo_Chamber_-_Alberts.spc"
     },
     "Clocktober_-_Castle_Corridor_v1.0": {
-        "nspc_path": "AlbertV_Apollo/Clocktober_-_Castle_Corridor_v1.0.nspc",
+        "nspc_path": "MMC_Server/Clocktober_-_Castle_Corridor_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Clocktober_-_Castle_Corridor_v1.0.spc"
+        "spc_path": "MMC_Server/Clocktober_-_Castle_Corridor_v1.0.spc"
     },
     "Custom_Parasite_Queen_v1.0": {
-        "nspc_path": "AlbertV_Apollo/Custom_Parasite_Queen_v1.0.nspc",
+        "nspc_path": "MMC_Server/Custom_Parasite_Queen_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Custom_Parasite_Queen_v1.0.spc"
+        "spc_path": "MMC_Server/Custom_Parasite_Queen_v1.0.spc"
     },
     "Custom_Remix_Kraids_Lair_-_Metroid_Zero_Mission_V1.0": {
-        "nspc_path": "AlbertV_Apollo/Custom_Remix_Kraids_Lair_-_Metroid_Zero_Mission_V1.0.nspc",
+        "nspc_path": "MMC_Server/Custom_Remix_Kraids_Lair_-_Metroid_Zero_Mission_V1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Custom_Remix_Kraids_Lair_-_Metroid_Zero_Mission_V1.0.spc"
+        "spc_path": "MMC_Server/Custom_Remix_Kraids_Lair_-_Metroid_Zero_Mission_V1.0.spc"
     },
     "Custom_Underwater_Torvus_2019": {
-        "nspc_path": "AlbertV_Apollo/Custom_Underwater_Torvus_2019.nspc",
+        "nspc_path": "MMC_Server/Custom_Underwater_Torvus_2019.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Custom_Underwater_Torvus_2019.spc"
+        "spc_path": "MMC_Server/Custom_Underwater_Torvus_2019.spc"
     },
     "Dank_Dungeons.spc_v1.0": {
-        "nspc_path": "AlbertV_Apollo/Dank_Dungeons.spc_v1.0.nspc",
+        "nspc_path": "MMC_Server/Dank_Dungeons.spc_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Dank_Dungeons.spc_v1.0.spc"
+        "spc_path": "MMC_Server/Dank_Dungeons.spc_v1.0.spc"
     },
     "Dark_Sector_6_Small_arrangement": {
-        "nspc_path": "AlbertV_Apollo/Dark_Sector_6_Small_arrangement.nspc",
+        "nspc_path": "MMC_Server/Dark_Sector_6_Small_arrangement.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Dark_Sector_6_Small_arrangement.spc"
+        "spc_path": "MMC_Server/Dark_Sector_6_Small_arrangement.spc"
     },
     "Deku_Tree_v1.0": {
-        "nspc_path": "AlbertV_Apollo/Deku_Tree_v1.0.nspc",
+        "nspc_path": "MMC_Server/Deku_Tree_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Deku_Tree_v1.0.spc"
+        "spc_path": "MMC_Server/Deku_Tree_v1.0.spc"
     },
     "Dragon_View_-_Cave_of_Fire_v0.1": {
-        "nspc_path": "AlbertV_Apollo/Dragon_View_-_Cave_of_Fire_v0.1.nspc",
+        "nspc_path": "MMC_Server/Dragon_View_-_Cave_of_Fire_v0.1.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Dragon_View_-_Cave_of_Fire_v0.1.spc"
+        "spc_path": "MMC_Server/Dragon_View_-_Cave_of_Fire_v0.1.spc"
     },
     "Dragon_View_Desert_Field_v0.5": {
-        "nspc_path": "AlbertV_Apollo/Dragon_View_Desert_Field_v0.5.nspc",
+        "nspc_path": "MMC_Server/Dragon_View_Desert_Field_v0.5.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Dragon_View_Desert_Field_v0.5.spc"
+        "spc_path": "MMC_Server/Dragon_View_Desert_Field_v0.5.spc"
     },
     "Dragon_View_Game_Over_v0.1": {
-        "nspc_path": "AlbertV_Apollo/Dragon_View_Game_Over_v0.1.nspc",
+        "nspc_path": "MMC_Server/Dragon_View_Game_Over_v0.1.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Dragon_View_Game_Over_v0.1.spc"
+        "spc_path": "MMC_Server/Dragon_View_Game_Over_v0.1.spc"
     },
     "FederationShip": {
-        "nspc_path": "AlbertV_Apollo/FederationShip.nspc",
+        "nspc_path": "MMC_Server/FederationShip.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/FederationShip.spc"
+        "spc_path": "MMC_Server/FederationShip.spc"
     },
     "Flooded-ruins_v1.1": {
-        "nspc_path": "AlbertV_Apollo/Flooded-ruins_v1.1.nspc",
+        "nspc_path": "MMC_Server/Flooded-ruins_v1.1.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Flooded-ruins_v1.1.spc"
+        "spc_path": "MMC_Server/Flooded-ruins_v1.1.spc"
     },
     "Forest_of_Monsters_v1.0": {
-        "nspc_path": "AlbertV_Apollo/Forest_of_Monsters_v1.0.nspc",
+        "nspc_path": "MMC_Server/Forest_of_Monsters_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Forest_of_Monsters_v1.0.spc"
+        "spc_path": "MMC_Server/Forest_of_Monsters_v1.0.spc"
     },
     "Forest_Temple_v1.0": {
-        "nspc_path": "AlbertV_Apollo/Forest_Temple_v1.0.nspc",
+        "nspc_path": "MMC_Server/Forest_Temple_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Forest_Temple_v1.0.spc"
+        "spc_path": "MMC_Server/Forest_Temple_v1.0.spc"
     },
     "Gerudo_Valley_v1.0": {
-        "nspc_path": "AlbertV_Apollo/Gerudo_Valley_v1.0.nspc",
+        "nspc_path": "MMC_Server/Gerudo_Valley_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Gerudo_Valley_v1.0.spc"
+        "spc_path": "MMC_Server/Gerudo_Valley_v1.0.spc"
     },
     "Ghosts_n_Goblins": {
-        "nspc_path": "AlbertV_Apollo/Ghosts_n_Goblins.nspc",
+        "nspc_path": "MMC_Server/Ghosts_n_Goblins.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Ghosts_n_Goblins.spc"
+        "spc_path": "MMC_Server/Ghosts_n_Goblins.spc"
     },
     "Guiles_Theme_v0.5": {
-        "nspc_path": "AlbertV_Apollo/Guiles_Theme_v0.5.nspc",
+        "nspc_path": "MMC_Server/Guiles_Theme_v0.5.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Guiles_Theme_v0.5_FixedbyAlbertV.spc"
+        "spc_path": "MMC_Server/Guiles_Theme_v0.5_FixedbyAlbertV.spc"
     },
     "Halo3ODST_Skyline_Were_The_Desperate_Measures_v0.7": {
-        "nspc_path": "AlbertV_Apollo/Halo3ODST_Skyline_Were_The_Desperate_Measures_v0.7.nspc",
+        "nspc_path": "MMC_Server/Halo3ODST_Skyline_Were_The_Desperate_Measures_v0.7.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Halo3ODST_Skyline_Were_The_Desperate_Measures_v0.7.spc"
+        "spc_path": "MMC_Server/Halo3ODST_Skyline_Were_The_Desperate_Measures_v0.7.spc"
     },
     "Halo_Reach_Ashes_v0.5": {
-        "nspc_path": "AlbertV_Apollo/Halo_Reach_Ashes_v0.5.nspc",
+        "nspc_path": "MMC_Server/Halo_Reach_Ashes_v0.5.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Halo_Reach_Ashes_v0.5.spc"
+        "spc_path": "MMC_Server/Halo_Reach_Ashes_v0.5.spc"
     },
     "Halo_Reach_Winter_Contingency_Bait_and_Switch_v1": {
-        "nspc_path": "AlbertV_Apollo/Halo_Reach_Winter_Contingency_Bait_and_Switch_v1.nspc",
+        "nspc_path": "MMC_Server/Halo_Reach_Winter_Contingency_Bait_and_Switch_v1.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Halo_Reach_Winter_Contingency_Bait_and_Switch_v1.spc"
+        "spc_path": "MMC_Server/Halo_Reach_Winter_Contingency_Bait_and_Switch_v1.spc"
     },
     "Halo_Wars_Insignificantia_v1": {
-        "nspc_path": "AlbertV_Apollo/Halo_Wars_Insignificantia_v1.nspc",
+        "nspc_path": "MMC_Server/Halo_Wars_Insignificantia_v1.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Halo_Wars_Insignificantia_v1.spc"
+        "spc_path": "MMC_Server/Halo_Wars_Insignificantia_v1.spc"
     },
     "High_Echo_Forest_Temple_v1.1": {
-        "nspc_path": "AlbertV_Apollo/High_Echo_Forest_Temple_v1.1.nspc",
+        "nspc_path": "MMC_Server/High_Echo_Forest_Temple_v1.1.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/High_Echo_Forest_Temple_v1.1.spc"
+        "spc_path": "MMC_Server/High_Echo_Forest_Temple_v1.1.spc"
     },
     "House_Theme_v1.1": {
-        "nspc_path": "AlbertV_Apollo/House_Theme_v1.1.nspc",
+        "nspc_path": "MMC_Server/House_Theme_v1.1.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/House_Theme_v1.1.spc"
+        "spc_path": "MMC_Server/House_Theme_v1.1.spc"
     },
     "Killer_Instinct_Main_Theme": {
-        "nspc_path": "AlbertV_Apollo/Killer_Instinct_Main_Theme.nspc",
+        "nspc_path": "MMC_Server/Killer_Instinct_Main_Theme.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Killer_Instinct_Main_Theme.spc"
+        "spc_path": "MMC_Server/Killer_Instinct_Main_Theme.spc"
     },
     "Kraids_Lair_Remix_1.0": {
-        "nspc_path": "AlbertV_Apollo/Kraids_Lair_Remix_1.0.nspc",
+        "nspc_path": "MMC_Server/Kraids_Lair_Remix_1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
@@ -272,23 +272,23 @@
         "spc_path": ""
     },
     "La_Mulana_Custom_v1.0_2019": {
-        "nspc_path": "AlbertV_Apollo/La_Mulana_Custom_v1.0_2019.nspc",
+        "nspc_path": "MMC_Server/La_Mulana_Custom_v1.0_2019.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/La_Mulana_Custom_v1.0_2019.spc"
+        "spc_path": "MMC_Server/La_Mulana_Custom_v1.0_2019.spc"
     },
     "Legend_of_Zelda_-_Ocarina_of_Time_-_Lost_Woods": {
-        "nspc_path": "AlbertV_Apollo/Legend_of_Zelda_-_Ocarina_of_Time_-_Lost_Woods.nspc",
+        "nspc_path": "MMC_Server/Legend_of_Zelda_-_Ocarina_of_Time_-_Lost_Woods.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Legend_of_Zelda_-_Ocarina_of_Time_-_Lost_Woods.spc"
+        "spc_path": "MMC_Server/Legend_of_Zelda_-_Ocarina_of_Time_-_Lost_Woods.spc"
     },
     "Let_The_Draygon_Fly_v1.1": {
-        "nspc_path": "AlbertV_Apollo/Let_The_Draygon_Fly_v1.1.nspc",
+        "nspc_path": "MMC_Server/Let_The_Draygon_Fly_v1.1.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
@@ -296,343 +296,343 @@
         "spc_path": ""
     },
     "Lonely_Halls": {
-        "nspc_path": "AlbertV_Apollo/Lonely_Halls.nspc",
+        "nspc_path": "MMC_Server/Lonely_Halls.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Lonely_Halls.spc"
+        "spc_path": "MMC_Server/Lonely_Halls.spc"
     },
     "LoZ_Wind_Waker_-_Cursed_Sea_v0.2": {
-        "nspc_path": "AlbertV_Apollo/LoZ_Wind_Waker_-_Cursed_Sea_v0.2.nspc",
+        "nspc_path": "MMC_Server/LoZ_Wind_Waker_-_Cursed_Sea_v0.2.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/LoZ_Wind_Waker_-_Cursed_Sea_v0.2.spc"
+        "spc_path": "MMC_Server/LoZ_Wind_Waker_-_Cursed_Sea_v0.2.spc"
     },
     "Machine_Tower_v1.1": {
-        "nspc_path": "AlbertV_Apollo/Machine_Tower_v1.1.nspc",
+        "nspc_path": "MMC_Server/Machine_Tower_v1.1.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Machine_Tower_v1.1.spc"
+        "spc_path": "MMC_Server/Machine_Tower_v1.1.spc"
     },
     "Machine_Tower_v1.2": {
-        "nspc_path": "AlbertV_Apollo/Machine_Tower_v1.2.nspc",
+        "nspc_path": "MMC_Server/Machine_Tower_v1.2.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Machine_Tower_v1.2.spc"
+        "spc_path": "MMC_Server/Machine_Tower_v1.2.spc"
     },
     "Magmoor_Caverns_Entrance_v1.0": {
-        "nspc_path": "AlbertV_Apollo/Magmoor_Caverns_Entrance_v1.0.nspc",
+        "nspc_path": "MMC_Server/Magmoor_Caverns_Entrance_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Magmoor_Caverns_Entrance_v1.0.spc"
+        "spc_path": "MMC_Server/Magmoor_Caverns_Entrance_v1.0.spc"
     },
     "Music_Box_House_v1.0": {
-        "nspc_path": "AlbertV_Apollo/Music_Box_House_v1.0.nspc",
+        "nspc_path": "MMC_Server/Music_Box_House_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Music_Box_House_v1.0.spc"
+        "spc_path": "MMC_Server/Music_Box_House_v1.0.spc"
     },
     "Opus_13_v1.1": {
-        "nspc_path": "AlbertV_Apollo/Opus_13_v1.1.nspc",
+        "nspc_path": "MMC_Server/Opus_13_v1.1.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Opus_13_v1.1.spc"
+        "spc_path": "MMC_Server/Opus_13_v1.1.spc"
     },
     "Pillared_Corridor_SM_S": {
-        "nspc_path": "AlbertV_Apollo/Pillared_Corridor_SM_S.nspc",
+        "nspc_path": "MMC_Server/Pillared_Corridor_SM_S.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Pillared_Corridor_SM_S.spc"
+        "spc_path": "MMC_Server/Pillared_Corridor_SM_S.spc"
     },
     "Prime_MainMenu": {
-        "nspc_path": "AlbertV_Apollo/Prime_MainMenu.nspc",
+        "nspc_path": "MMC_Server/Prime_MainMenu.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Prime_MainMenu.spc"
+        "spc_path": "MMC_Server/Prime_MainMenu.spc"
     },
     "Resident_Evil_2_Save_Room_theme_v0.2": {
-        "nspc_path": "AlbertV_Apollo/Resident_Evil_2_Save_Room_theme_v0.2.nspc",
+        "nspc_path": "MMC_Server/Resident_Evil_2_Save_Room_theme_v0.2.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Resident_Evil_2_Save_Room_theme_v0.2.spc"
+        "spc_path": "MMC_Server/Resident_Evil_2_Save_Room_theme_v0.2.spc"
     },
     "Samus_Escape_remix_v1.2": {
-        "nspc_path": "AlbertV_Apollo/Samus_Escape_remix_v1.2.nspc",
+        "nspc_path": "MMC_Server/Samus_Escape_remix_v1.2.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Samus_Escape_remix_v1.2.spc"
+        "spc_path": "MMC_Server/Samus_Escape_remix_v1.2.spc"
     },
     "Sector_4_AQA_Custom_Remix_v1.0": {
-        "nspc_path": "AlbertV_Apollo/Sector_4_AQA_Custom_Remix_v1.0.nspc",
+        "nspc_path": "MMC_Server/Sector_4_AQA_Custom_Remix_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Sector_4_AQA_Custom_Remix_v1.0.spc"
+        "spc_path": "MMC_Server/Sector_4_AQA_Custom_Remix_v1.0.spc"
     },
     "Sector_5_ARC_Low-Temperature_Area_v1.0": {
-        "nspc_path": "AlbertV_Apollo/Sector_5_ARC_Low-Temperature_Area_v1.0.nspc",
+        "nspc_path": "MMC_Server/Sector_5_ARC_Low-Temperature_Area_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Sector_5_ARC_Low-Temperature_Area_v1.0.spc"
+        "spc_path": "MMC_Server/Sector_5_ARC_Low-Temperature_Area_v1.0.spc"
     },
     "Sheiks_Harp_v1.0": {
-        "nspc_path": "AlbertV_Apollo/Sheiks_Harp_v1.0.nspc",
+        "nspc_path": "MMC_Server/Sheiks_Harp_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Sheiks_Harp_v1.0.spc"
+        "spc_path": "MMC_Server/Sheiks_Harp_v1.0.spc"
     },
     "Siege_of_Madrigal": {
-        "nspc_path": "AlbertV_Apollo/Siege_of_Madrigal.nspc",
+        "nspc_path": "MMC_Server/Siege_of_Madrigal.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Siege_of_Madrigal.spc"
+        "spc_path": "MMC_Server/Siege_of_Madrigal.spc"
     },
     "Silent_Madness_v1.0": {
-        "nspc_path": "AlbertV_Apollo/Silent_Madness_v1.0.nspc",
+        "nspc_path": "MMC_Server/Silent_Madness_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Silent_Madness_v1.0.spc"
+        "spc_path": "MMC_Server/Silent_Madness_v1.0.spc"
     },
     "SIMONS_THEME_CUSTOM_v1.0": {
-        "nspc_path": "AlbertV_Apollo/SIMONS_THEME_CUSTOM_v1.0.nspc",
+        "nspc_path": "MMC_Server/SIMONS_THEME_CUSTOM_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/SIMONS_THEME_CUSTOM_v1.0.spc"
+        "spc_path": "MMC_Server/SIMONS_THEME_CUSTOM_v1.0.spc"
     },
     "SM_House_Theme_v1.0": {
-        "nspc_path": "AlbertV_Apollo/SM_House_Theme_v1.0.nspc",
+        "nspc_path": "MMC_Server/SM_House_Theme_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/SM_House_Theme_v1.0.spc"
+        "spc_path": "MMC_Server/SM_House_Theme_v1.0.spc"
     },
     "SM_Hyrule_Town_-_TLOZMC": {
-        "nspc_path": "AlbertV_Apollo/SM_Hyrule_Town_-_TLOZMC.nspc",
+        "nspc_path": "MMC_Server/SM_Hyrule_Town_-_TLOZMC.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/SM_Hyrule_Town_-_TLOZMC.spc"
+        "spc_path": "MMC_Server/SM_Hyrule_Town_-_TLOZMC.spc"
     },
     "SM_Satellite_SM": {
-        "nspc_path": "AlbertV_Apollo/SM_Satellite_SM.nspc",
+        "nspc_path": "MMC_Server/SM_Satellite_SM.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/SM_Satellite_SM.spc"
+        "spc_path": "MMC_Server/SM_Satellite_SM.spc"
     },
     "SM_The_Sinking_Old_Sanctuary_v1.1": {
-        "nspc_path": "AlbertV_Apollo/SM_The_Sinking_Old_Sanctuary_v1.1.nspc",
+        "nspc_path": "MMC_Server/SM_The_Sinking_Old_Sanctuary_v1.1.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/SM_The_Sinking_Old_Sanctuary_v1.1.spc"
+        "spc_path": "MMC_Server/SM_The_Sinking_Old_Sanctuary_v1.1.spc"
     },
     "SM_The_Trick_Manor_v1.1": {
-        "nspc_path": "AlbertV_Apollo/SM_The_Trick_Manor_v1.1.nspc",
+        "nspc_path": "MMC_Server/SM_The_Trick_Manor_v1.1.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/SM_The_Trick_Manor_v1.1.spc"
+        "spc_path": "MMC_Server/SM_The_Trick_Manor_v1.1.spc"
     },
     "Stairway_Boss_v1.0": {
-        "nspc_path": "AlbertV_Apollo/Stairway_Boss_v1.0.nspc",
+        "nspc_path": "MMC_Server/Stairway_Boss_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Stairway_Boss_v1.0.spc"
+        "spc_path": "MMC_Server/Stairway_Boss_v1.0.spc"
     },
     "Stone_Tower_v1.4": {
-        "nspc_path": "AlbertV_Apollo/Stone_Tower_v1.4.nspc",
+        "nspc_path": "MMC_Server/Stone_Tower_v1.4.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Stone_Tower_v1.4.spc"
+        "spc_path": "MMC_Server/Stone_Tower_v1.4.spc"
     },
     "Study_v1.0": {
-        "nspc_path": "AlbertV_Apollo/Study_v1.0.nspc",
+        "nspc_path": "MMC_Server/Study_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Study_v1.0.spc"
+        "spc_path": "MMC_Server/Study_v1.0.spc"
     },
     "Sunken_City_Tour_-_Shantae_and_the_Seven_Sirens": {
-        "nspc_path": "AlbertV_Apollo/Sunken_City_Tour_-_Shantae_and_the_Seven_Sirens.nspc",
+        "nspc_path": "MMC_Server/Sunken_City_Tour_-_Shantae_and_the_Seven_Sirens.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Sunken_City_Tour_-_Shantae_and_the_Seven_Sirens.spc"
+        "spc_path": "MMC_Server/Sunken_City_Tour_-_Shantae_and_the_Seven_Sirens.spc"
     },
     "Tallteria_v1.0": {
-        "nspc_path": "AlbertV_Apollo/Tallteria_v1.0.nspc",
+        "nspc_path": "MMC_Server/Tallteria_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Tallteria_v1.0.spc"
+        "spc_path": "MMC_Server/Tallteria_v1.0.spc"
     },
     "The_7th_Saga_-_Lemele_Town": {
-        "nspc_path": "AlbertV_Apollo/The_7th_Saga_-_Lemele_Town.nspc",
+        "nspc_path": "MMC_Server/The_7th_Saga_-_Lemele_Town.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/The_7th_Saga_-_Lemele_Town.spc"
+        "spc_path": "MMC_Server/The_7th_Saga_-_Lemele_Town.spc"
     },
     "The_Beginning_Mixed_SF": {
-        "nspc_path": "AlbertV_Apollo/The_Beginning_Mixed_SF.nspc",
+        "nspc_path": "MMC_Server/The_Beginning_Mixed_SF.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/The_Beginning_Mixed_SF.spc"
+        "spc_path": "MMC_Server/The_Beginning_Mixed_SF.spc"
     },
     "The_One_Who_is_Torn_apart_v1.0": {
-        "nspc_path": "AlbertV_Apollo/The_One_Who_is_Torn_apart_v1.0.nspc",
+        "nspc_path": "MMC_Server/The_One_Who_is_Torn_apart_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/The_One_Who_is_Torn_apart_v1.0.spc"
+        "spc_path": "MMC_Server/The_One_Who_is_Torn_apart_v1.0.spc"
     },
     "The_Waterfalls_CV-SF_v1.0": {
-        "nspc_path": "AlbertV_Apollo/The_Waterfalls_CV-SF_v1.0.nspc",
+        "nspc_path": "MMC_Server/The_Waterfalls_CV-SF_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/The_Waterfalls_CV-SF_v1.0.spc"
+        "spc_path": "MMC_Server/The_Waterfalls_CV-SF_v1.0.spc"
     },
     "The_Waterfalls_Maridia-SF_v1.0": {
-        "nspc_path": "AlbertV_Apollo/The_Waterfalls_Maridia-SF_v1.0.nspc",
+        "nspc_path": "MMC_Server/The_Waterfalls_Maridia-SF_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/The_Waterfalls_Maridia-SF_v1.0.spc"
+        "spc_path": "MMC_Server/The_Waterfalls_Maridia-SF_v1.0.spc"
     },
     "The_Waterfalls_SM-SF_v1.0": {
-        "nspc_path": "AlbertV_Apollo/The_Waterfalls_SM-SF_v1.0.nspc",
+        "nspc_path": "MMC_Server/The_Waterfalls_SM-SF_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/The_Waterfalls_SM-SF_v1.0.spc"
+        "spc_path": "MMC_Server/The_Waterfalls_SM-SF_v1.0.spc"
     },
     "Underground_Reservoir_v1.0": {
-        "nspc_path": "AlbertV_Apollo/Underground_Reservoir_v1.0.nspc",
+        "nspc_path": "MMC_Server/Underground_Reservoir_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Underground_Reservoir_v1.0.spc"
+        "spc_path": "MMC_Server/Underground_Reservoir_v1.0.spc"
     },
     "Underground_Reservoir_v1.1": {
-        "nspc_path": "AlbertV_Apollo/Underground_Reservoir_v1.1.nspc",
+        "nspc_path": "MMC_Server/Underground_Reservoir_v1.1.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Underground_Reservoir_v1.1.spc"
+        "spc_path": "MMC_Server/Underground_Reservoir_v1.1.spc"
     },
     "Vampire_Killer_Mixed_SF": {
-        "nspc_path": "AlbertV_Apollo/Vampire_Killer_Mixed_SF.nspc",
+        "nspc_path": "MMC_Server/Vampire_Killer_Mixed_SF.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Vampire_Killer_Mixed_SF.spc"
+        "spc_path": "MMC_Server/Vampire_Killer_Mixed_SF.spc"
     },
     "Vampire_Killer_SM_SF_v1.2": {
-        "nspc_path": "AlbertV_Apollo/Vampire_Killer_SM_SF_v1.2.nspc",
+        "nspc_path": "MMC_Server/Vampire_Killer_SM_SF_v1.2.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Vampire_Killer_SM_SF_v1.2.spc"
+        "spc_path": "MMC_Server/Vampire_Killer_SM_SF_v1.2.spc"
     },
     "Viles_Intro_v0.3": {
-        "nspc_path": "AlbertV_Apollo/Viles_Intro_v0.3.nspc",
+        "nspc_path": "MMC_Server/Viles_Intro_v0.3.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Viles_Intro_v0.3.spc"
+        "spc_path": "MMC_Server/Viles_Intro_v0.3.spc"
     },
     "Windmill_Hut_v1.0": {
-        "nspc_path": "AlbertV_Apollo/Windmill_Hut_v1.0.nspc",
+        "nspc_path": "MMC_Server/Windmill_Hut_v1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Windmill_Hut_v1.0.spc"
+        "spc_path": "MMC_Server/Windmill_Hut_v1.0.spc"
     },
     "Wind_Waker_-_Dragon_Roost_Island_v0.1": {
-        "nspc_path": "AlbertV_Apollo/Wind_Waker_-_Dragon_Roost_Island_v0.1.nspc",
+        "nspc_path": "MMC_Server/Wind_Waker_-_Dragon_Roost_Island_v0.1.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Wind_Waker_-_Dragon_Roost_Island_v0.1.spc"
+        "spc_path": "MMC_Server/Wind_Waker_-_Dragon_Roost_Island_v0.1.spc"
     },
     "World_3-1_2019": {
-        "nspc_path": "AlbertV_Apollo/World_3-1_2019.nspc",
+        "nspc_path": "MMC_Server/World_3-1_2019.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/World_3-1_2019.spc"
+        "spc_path": "MMC_Server/World_3-1_2019.spc"
     },
     "Zelda_Ocarina_of_Time_-_Shop": {
-        "nspc_path": "AlbertV_Apollo/Zelda_Ocarina_of_Time_-_Shop.nspc",
+        "nspc_path": "MMC_Server/Zelda_Ocarina_of_Time_-_Shop.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Zelda_Ocarina_of_Time_-_Shop.spc"
+        "spc_path": "MMC_Server/Zelda_Ocarina_of_Time_-_Shop.spc"
     },
     "Zelda_Ocarina_of_Time_Goron_City_v1.1": {
-        "nspc_path": "AlbertV_Apollo/Zelda_Ocarina_of_Time_Goron_City_v1.1.nspc",
+        "nspc_path": "MMC_Server/Zelda_Ocarina_of_Time_Goron_City_v1.1.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
@@ -640,11 +640,11 @@
         "spc_path": ""
     },
     "Zeros_Theme_v0.8.3": {
-        "nspc_path": "AlbertV_Apollo/Zeros_Theme_v0.8.3.nspc",
+        "nspc_path": "MMC_Server/Zeros_Theme_v0.8.3.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V or Apollo",
         "description": "TODO",
-        "spc_path": "AlbertV_Apollo/Zeros_Theme_v0.8.3.spc"
+        "spc_path": "MMC_Server/Zeros_Theme_v0.8.3.spc"
     }
 }
