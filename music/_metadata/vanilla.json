@@ -6,6 +6,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/title_menu.spc",
         "pc_addresses": [
             518253
@@ -18,6 +19,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "pc_addresses": [
             518255
         ]
@@ -29,6 +31,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/crateria_arrival.spc",
         "pc_addresses": [
             496151,
@@ -43,6 +46,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/crateria_rainstorm.spc",
         "pc_addresses": [
             496177
@@ -55,6 +59,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/crateria_underground.spc",
         "pc_addresses": [
             499381
@@ -67,6 +72,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/crateria_pirates.spc",
         "pc_addresses": [
             496355,
@@ -92,6 +98,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/tourian_entrance.spc",
         "pc_addresses": [
             501371
@@ -104,6 +111,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/samus_theme.spc",
         "pc_addresses": [
             496203,
@@ -125,6 +133,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/green_brinstar.spc",
         "pc_addresses": [
             498410,
@@ -147,6 +156,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/red_brinstar.spc",
         "pc_addresses": [
             500324,
@@ -178,6 +188,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/upper_norfair.spc",
         "pc_addresses": [
             501743,
@@ -212,6 +223,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/lower_norfair.spc",
         "pc_addresses": [
             504310,
@@ -232,6 +244,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/east_maridia.spc",
         "pc_addresses": [
             512557,
@@ -257,6 +270,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/west_maridia.spc",
         "pc_addresses": [
             511962,
@@ -274,6 +288,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/tourian.spc",
         "pc_addresses": [
             514751,
@@ -293,6 +308,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/mother_brain.spc",
         "pc_addresses": [
             518263
@@ -305,6 +321,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/boss1.spc",
         "pc_addresses": [
             514678
@@ -317,6 +334,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/bt_tension.spc"
     },
     "Escape": {
@@ -326,6 +344,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/escape.spc",
         "pc_addresses": [
             497417,
@@ -341,6 +360,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/boss2.spc",
         "pc_addresses": [
             502179
@@ -353,6 +373,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/tension.spc",
         "pc_addresses": [
             501047,
@@ -367,6 +388,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/mini_boss.spc",
         "pc_addresses": [
             499165,
@@ -380,6 +402,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack - Sound Effects",
         "spc_path": "vanilla/space_ship.spc"
     },
     "Ceres": {
@@ -389,6 +412,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/ceres.spc",
         "pc_addresses": [
             515931
@@ -401,6 +425,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack - Sound Effects",
         "spc_path": "vanilla/to_zebes.spc"
     },
     "Ceres time up": {
@@ -410,6 +435,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack - Sound Effects",
         "spc_path": "vanilla/ceres_explodes.spc"
     },
     "Wrecked Ship - Power off": {
@@ -419,6 +445,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/wrecked_ship_off.spc",
         "pc_addresses": [
             510494,
@@ -436,6 +463,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/wrecked_ship_on.spc",
         "pc_addresses": [
             510520,
@@ -453,6 +481,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack - Sound Effects",
         "spc_path": "vanilla/zebes_explodes.spc"
     },
     "Intro": {
@@ -462,6 +491,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/intro.spc"
     },
     "Death": {
@@ -471,6 +501,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack - Sound Effects",
         "spc_path": "vanilla/samus_cry.spc"
     },
     "Ending/Credits": {
@@ -480,6 +511,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/ending.spc",
         "pc_addresses": [
             518259
@@ -491,7 +523,8 @@
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack - Sound Effects"
     },
     "The galaxy is at peace": {
         "nspc_path": "vanilla/vanilla_2e7ac7_2eb103.nspc",
@@ -499,7 +532,8 @@
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack - Sound Effects"
     },
     "Baby Metroid": {
         "nspc_path": "vanilla/vanilla_2eb104_2f01c0.nspc",
@@ -508,6 +542,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/boss2.spc"
     },
     "Baby Metroid - Tension": {
@@ -517,6 +552,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/tension.spc",
         "pc_addresses": [
             515119,
@@ -529,7 +565,8 @@
         "track_index": 2,
         "original_author": "Kenji Yamamoto",
         "port_author": "",
-        "description": "Original track from vanilla Super Metroid"
+        "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack - Sound Effects"
     },
     "Mother Brain 3 (Samus Theme 2)": {
         "nspc_path": "vanilla/vanilla_2f01c1_2f51bf.nspc",
@@ -538,6 +575,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/samus_theme.spc",
         "pc_addresses": [
             518261
