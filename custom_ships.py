@@ -7,6 +7,7 @@ customShips = {
     'opposition_ship': {"name": "Opposition Ship", "desc": "From Opposition Hack", "author": "mccad00"},
     'ascent_ship': {"name": "Ascent Ship", "desc": "From Ascent Hack", "author": "Benox50"},
     'ice_metal_ship': {"name": "Ice Metal Uninstall", "desc": "From Ice Metal Uninstall Hack", "author": "Crys"},
+    'MFFusionship': {"name": "Fusion Ship", "desc": "Fusion Ship from Metconst", "author": "Crys"},
     'lost_world_ship': {"name": "Lost World", "desc": "From Lost World Hack", "author": "TROM"},
     'mario_ship': {"name": "Mario Ship", "desc": "For Mario and Luigi sprites", "author": "mccad00"}
 }
@@ -20,6 +21,7 @@ customShipsOrder = [
     'opposition_ship',
     'ascent_ship',
     'ice_metal_ship',
+    'MFFusionship',
     'lost_world_ship',
     'mario_ship'
 ]
