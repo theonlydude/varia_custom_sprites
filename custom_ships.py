@@ -9,6 +9,8 @@ customShips = {
     'ice_metal_ship': {"name": "Ice Metal Uninstall", "desc": "From Ice Metal Uninstall Hack", "author": "Crys"},
     'MFFusionship': {"name": "Fusion Ship", "desc": "Fusion Ship from Metconst", "author": "Crys"},
     'lost_world_ship': {"name": "Lost World", "desc": "From Lost World Hack", "author": "TROM"},
+    'hyperion_ship': {"name": "Hyperion", "desc": "From Hyperion Hack", "author": "silverpaw84"},
+    'phazon_ship': {"name": "Phazon", "desc": "From Phazon Hack", "author": "A_red_monk_called_Key"},
     'mario_ship': {"name": "Mario Ship", "desc": "For Mario and Luigi sprites", "author": "mccad00"}
 }
 
@@ -23,5 +25,7 @@ customShipsOrder = [
     'ice_metal_ship',
     'MFFusionship',
     'lost_world_ship',
+    'hyperion_ship',
+    'phazon_ship',
     'mario_ship'
 ]
