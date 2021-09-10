@@ -11,7 +11,7 @@
         "nspc_path": "MMC_Server/asphalt_and_ablution.nspc",
         "track_index": 0,
         "original_author": "TODO",
-        "port_author": "Albert V",
+        "port_author": "Apollo",
         "description": "TODO",
         "spc_path": ""
     },
@@ -50,7 +50,7 @@
     "Chase_Maze_Clocktober_Hack_v1.1": {
         "nspc_path": "MMC_Server/Chase_Maze_Clocktober_Hack_v1.1.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Masahiko Kimura",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Chase_Maze_Clocktober_Hack_v1.1.spc"
@@ -58,15 +58,15 @@
     "Choirs_of_the_Temple_v1.0": {
         "nspc_path": "MMC_Server/Choirs_of_the_Temple_v1.0.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "David Wise and Albert V",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Choirs_of_the_Temple_v1.0.spc"
     },
-    "Chozo_Chamber_-_Alberts": {
+    "Chozo_Chamber_-_v1.0": {
         "nspc_path": "MMC_Server/Chozo_Chamber_-_Alberts.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Kenji Yamamoto and Albert V",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Chozo_Chamber_-_Alberts.spc"
@@ -74,7 +74,7 @@
     "Clocktober_-_Castle_Corridor_v1.0": {
         "nspc_path": "MMC_Server/Clocktober_-_Castle_Corridor_v1.0.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Michiru Yamane",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Clocktober_-_Castle_Corridor_v1.0.spc"
@@ -82,7 +82,7 @@
     "Custom_Parasite_Queen_v1.0": {
         "nspc_path": "MMC_Server/Custom_Parasite_Queen_v1.0.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Kenji Yamamoto",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Custom_Parasite_Queen_v1.0.spc"
@@ -90,7 +90,7 @@
     "Custom_Remix_Kraids_Lair_-_Metroid_Zero_Mission_V1.0": {
         "nspc_path": "MMC_Server/Custom_Remix_Kraids_Lair_-_Metroid_Zero_Mission_V1.0.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Kenji Yamamoto and Albert V",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Custom_Remix_Kraids_Lair_-_Metroid_Zero_Mission_V1.0.spc"
@@ -98,7 +98,7 @@
     "Custom_Underwater_Torvus_2019": {
         "nspc_path": "MMC_Server/Custom_Underwater_Torvus_2019.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Kenji Yamamoto",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Custom_Underwater_Torvus_2019.spc"
@@ -106,7 +106,7 @@
     "Dank_Dungeons.spc_v1.0": {
         "nspc_path": "MMC_Server/Dank_Dungeons.spc_v1.0.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Koji Kondo",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Dank_Dungeons.spc_v1.0.spc"
@@ -114,7 +114,7 @@
     "Dark_Sector_6_Small_arrangement": {
         "nspc_path": "MMC_Server/Dark_Sector_6_Small_arrangement.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Kenji Yamamoto and Albert V",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Dark_Sector_6_Small_arrangement.spc"
@@ -122,7 +122,7 @@
     "Deku_Tree_v1.0": {
         "nspc_path": "MMC_Server/Deku_Tree_v1.0.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Deku_Tree_v1.0.spc"
@@ -178,7 +178,7 @@
     "Forest_Temple_v1.0": {
         "nspc_path": "MMC_Server/Forest_Temple_v1.0.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Forest_Temple_v1.0.spc"
@@ -186,7 +186,7 @@
     "Gerudo_Valley_v1.0": {
         "nspc_path": "MMC_Server/Gerudo_Valley_v1.0.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Gerudo_Valley_v1.0.spc"
@@ -194,7 +194,7 @@
     "Ghosts_n_Goblins": {
         "nspc_path": "MMC_Server/Ghosts_n_Goblins.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Ayako Mori",
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Ghosts_n_Goblins.spc"
@@ -202,7 +202,7 @@
     "Guiles_Theme_v0.5": {
         "nspc_path": "MMC_Server/Guiles_Theme_v0.5.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Yōko Shimomura",
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Guiles_Theme_v0.5_FixedbyAlbertV.spc"
@@ -218,7 +218,7 @@
     "Halo_Reach_Ashes_v0.5": {
         "nspc_path": "MMC_Server/Halo_Reach_Ashes_v0.5.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Martin O'Donnell",
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Halo_Reach_Ashes_v0.5.spc"
@@ -226,7 +226,7 @@
     "Halo_Reach_Winter_Contingency_Bait_and_Switch_v1": {
         "nspc_path": "MMC_Server/Halo_Reach_Winter_Contingency_Bait_and_Switch_v1.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Martin O'Donnell",
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Halo_Reach_Winter_Contingency_Bait_and_Switch_v1.spc"
@@ -234,7 +234,7 @@
     "Halo_Wars_Insignificantia_v1": {
         "nspc_path": "MMC_Server/Halo_Wars_Insignificantia_v1.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Martin O'Donnell",
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Halo_Wars_Insignificantia_v1.spc"
@@ -242,7 +242,7 @@
     "High_Echo_Forest_Temple_v1.1": {
         "nspc_path": "MMC_Server/High_Echo_Forest_Temple_v1.1.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
         "description": "Echo bufer feacture must set separate",
         "spc_path": "MMC_Server/High_Echo_Forest_Temple_v1.1.spc"
@@ -250,7 +250,7 @@
     "House_Theme_v1.1": {
         "nspc_path": "MMC_Server/House_Theme_v1.1.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/House_Theme_v1.1.spc"
@@ -266,7 +266,7 @@
     "Kraids_Lair_Remix_1.0": {
         "nspc_path": "MMC_Server/Kraids_Lair_Remix_1.0.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Kenji Yamamoto and Albert V",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Kraids_Lair_Remix_v1.0.spc"
@@ -274,7 +274,7 @@
     "La_Mulana_Custom_v1.0_2019": {
         "nspc_path": "MMC_Server/La_Mulana_Custom_v1.0_2019.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "La-Mulana",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/La_Mulana_Custom_v1.0_2019.spc"
@@ -282,7 +282,7 @@
     "Legend_of_Zelda_-_Ocarina_of_Time_-_Lost_Woods": {
         "nspc_path": "MMC_Server/Legend_of_Zelda_-_Ocarina_of_Time_-_Lost_Woods.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Legend_of_Zelda_-_Ocarina_of_Time_-_Lost_Woods.spc"
@@ -290,7 +290,7 @@
     "Let_The_Draygon_Fly_v1.1": {
         "nspc_path": "MMC_Server/Let_The_Draygon_Fly_v1.1.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Albert V",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": ""
@@ -298,7 +298,7 @@
     "Lonely_Halls": {
         "nspc_path": "MMC_Server/Lonely_Halls.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Yasunori Mitsuda and Albert V",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Lonely_Halls.spc"
@@ -314,7 +314,7 @@
     "Machine_Tower_v1.1": {
         "nspc_path": "MMC_Server/Machine_Tower_v1.1.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Michiru Yamane",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Machine_Tower_v1.1.spc"
@@ -322,7 +322,7 @@
     "Machine_Tower_v1.2": {
         "nspc_path": "MMC_Server/Machine_Tower_v1.2.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Michiru Yamane",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Machine_Tower_v1.2.spc"
@@ -330,7 +330,7 @@
     "Magmoor_Caverns_Entrance_v1.0": {
         "nspc_path": "MMC_Server/Magmoor_Caverns_Entrance_v1.0.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Kenji Yamamoto",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Magmoor_Caverns_Entrance_v1.0.spc"
@@ -338,7 +338,7 @@
     "Music_Box_House_v1.0": {
         "nspc_path": "MMC_Server/Music_Box_House_v1.0.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Music_Box_House_v1.0.spc"
@@ -346,7 +346,7 @@
     "Opus_13_v1.1": {
         "nspc_path": "MMC_Server/Opus_13_v1.1.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Akihiro Minakata",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Opus_13_v1.1.spc"
@@ -354,7 +354,7 @@
     "Pillared_Corridor_SM_S": {
         "nspc_path": "MMC_Server/Pillared_Corridor_SM_S.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Akihiro Minakata",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Pillared_Corridor_SM_S.spc"
@@ -362,7 +362,7 @@
     "Prime_MainMenu": {
         "nspc_path": "MMC_Server/Prime_MainMenu.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Kenji Yamamoto",
         "port_author": "Dewhi100",
         "description": "TODO",
         "spc_path": "MMC_Server/Prime_MainMenu.spc"
@@ -370,7 +370,7 @@
     "Resident_Evil_2_Save_Room_theme_v0.2": {
         "nspc_path": "MMC_Server/Resident_Evil_2_Save_Room_theme_v0.2.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Shinji Mikami",
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Resident_Evil_2_Save_Room_theme_v0.2.spc"
@@ -386,7 +386,7 @@
     "Sector_4_AQA_Custom_Remix_v1.0": {
         "nspc_path": "MMC_Server/Sector_4_AQA_Custom_Remix_v1.0.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Kenji Yamamoto and Albert V",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Sector_4_AQA_Custom_Remix_v1.0.spc"
@@ -394,7 +394,7 @@
     "Sector_5_ARC_Low-Temperature_Area_v1.0": {
         "nspc_path": "MMC_Server/Sector_5_ARC_Low-Temperature_Area_v1.0.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Kenji Yamamoto",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Sector_5_ARC_Low-Temperature_Area_v1.0.spc"
@@ -434,7 +434,7 @@
     "SM_House_Theme_v1.0": {
         "nspc_path": "MMC_Server/SM_House_Theme_v1.0.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/SM_House_Theme_v1.0.spc"
@@ -442,7 +442,7 @@
     "SM_Hyrule_Town_-_TLOZMC": {
         "nspc_path": "MMC_Server/SM_Hyrule_Town_-_TLOZMC.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/SM_Hyrule_Town_-_TLOZMC.spc"
@@ -490,7 +490,7 @@
     "Study_v1.0": {
         "nspc_path": "MMC_Server/Study_v1.0.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Taro Kudo",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Study_v1.0.spc"
@@ -506,7 +506,7 @@
     "Tallteria_v1.0": {
         "nspc_path": "MMC_Server/Tallteria_v1.0.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Albert V",
         "port_author": "Albert V",
         "description": "For endings",
         "spc_path": "MMC_Server/Tallteria_v1.0.spc"
@@ -522,7 +522,7 @@
     "The_Beginning_Mixed_SF": {
         "nspc_path": "MMC_Server/The_Beginning_Mixed_SF.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Akihiro Minakata",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/The_Beginning_Mixed_SF.spc"
@@ -538,7 +538,7 @@
     "The_Waterfalls_CV-SF_v1.0": {
         "nspc_path": "MMC_Server/The_Waterfalls_CV-SF_v1.0.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Akihiro Minakata",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/The_Waterfalls_CV-SF_v1.0.spc"
@@ -546,7 +546,7 @@
     "The_Waterfalls_Maridia-SF_v1.0": {
         "nspc_path": "MMC_Server/The_Waterfalls_Maridia-SF_v1.0.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Akihiro Minakata",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/The_Waterfalls_Maridia-SF_v1.0.spc"
@@ -554,7 +554,7 @@
     "The_Waterfalls_SM-SF_v1.0": {
         "nspc_path": "MMC_Server/The_Waterfalls_SM-SF_v1.0.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Akihiro Minakata",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/The_Waterfalls_SM-SF_v1.0.spc"
@@ -578,7 +578,7 @@
     "Vampire_Killer_Mixed_SF": {
         "nspc_path": "MMC_Server/Vampire_Killer_Mixed_SF.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Akihiro Minakata",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Vampire_Killer_Mixed_SF.spc"
@@ -586,7 +586,7 @@
     "Vampire_Killer_SM_SF_v1.2": {
         "nspc_path": "MMC_Server/Vampire_Killer_SM_SF_v1.2.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Akihiro Minakata",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Vampire_Killer_SM_SF_v1.2.spc"
@@ -602,7 +602,7 @@
     "Windmill_Hut_v1.0": {
         "nspc_path": "MMC_Server/Windmill_Hut_v1.0.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "TODOKoji Kondo Toru Minegishi",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Windmill_Hut_v1.0.spc"
@@ -610,7 +610,7 @@
     "Wind_Waker_-_Dragon_Roost_Island_v0.1": {
         "nspc_path": "MMC_Server/Wind_Waker_-_Dragon_Roost_Island_v0.1.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Wind_Waker_-_Dragon_Roost_Island_v0.1.spc"
@@ -626,7 +626,7 @@
     "Zelda_Ocarina_of_Time_-_Shop": {
         "nspc_path": "MMC_Server/Zelda_Ocarina_of_Time_-_Shop.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Zelda_Ocarina_of_Time_-_Shop.spc"
@@ -634,7 +634,7 @@
     "Zelda_Ocarina_of_Time_Goron_City_v1.1": {
         "nspc_path": "MMC_Server/Zelda_Ocarina_of_Time_Goron_City_v1.1.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "TODOKoji Kondo Toru Minegishi",
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": ""
