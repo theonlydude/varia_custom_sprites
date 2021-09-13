@@ -11,7 +11,8 @@ customShips = {
     'lost_world_ship': {"name": "Lost World", "desc": "From Lost World Hack", "author": "TROM"},
     'hyperion_ship': {"name": "Hyperion", "desc": "From Hyperion Hack", "author": "silverpaw84"},
     'phazon_ship': {"name": "Phazon", "desc": "From Phazon Hack", "author": "A_red_monk_called_Key"},
-    'mario_ship': {"name": "Mario Ship", "desc": "For Mario and Luigi sprites", "author": "mccad00"}
+    'mario_ship': {"name": "Mario Ship", "desc": "For Mario and Luigi sprites", "author": "mccad00"},
+    'top_hunter_ship': {"name": "Top Hunter", "desc": "From Top Hunter: Roddy & Cathy", "author": "theonlydude"}
 }
 
 customShipsOrder = [
@@ -27,5 +28,6 @@ customShipsOrder = [
     'lost_world_ship',
     'hyperion_ship',
     'phazon_ship',
-    'mario_ship'
+    'mario_ship',
+    'top_hunter_ship'
 ]
