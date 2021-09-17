@@ -12,7 +12,8 @@ customShips = {
     'hyperion_ship': {"name": "Hyperion", "desc": "From Hyperion Hack", "author": "silverpaw84"},
     'phazon_ship': {"name": "Phazon", "desc": "From Phazon Hack", "author": "Red-M0nk3y"},
     'mario_ship': {"name": "Mario Ship", "desc": "For Mario and Luigi sprites", "author": "mccad00"},
-    'top_hunter_ship': {"name": "Top Hunter", "desc": "From Top Hunter: Roddy & Cathy", "author": "theonlydude"}
+    'top_hunter_ship': {"name": "Top Hunter", "desc": "From Top Hunter: Roddy & Cathy", "author": "theonlydude"},
+    'am2r_ship': {"name": "AM2R", "desc": "From AM2R", "author": "AM2R & theonlydude"}
 }
 
 customShipsOrder = [
@@ -20,6 +21,7 @@ customShipsOrder = [
     'MFFusionship',
     'opposition_ship',
     'ascent_ship',
+    'am2r_ship',
     'mario_ship',
     'top_hunter_ship',
     'hyperion_ship',
