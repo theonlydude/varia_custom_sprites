@@ -14,7 +14,8 @@ customShips = {
     'mario_ship': {"name": "Mario Ship", "desc": "For Mario and Luigi sprites", "author": "mccad00"},
     'top_hunter_ship': {"name": "Top Hunter", "desc": "From Top Hunter: Roddy & Cathy", "author": "theonlydude"},
     'am2r_ship': {"name": "AM2R", "desc": "From AM2R", "author": "AM2R & theonlydude"},
-    'lastresort_ship': {"name": "Last Resort", "desc": "From Last Resort", "author": "theonlydude", "hideSamus": True}
+    'lastresort_ship': {"name": "Last Resort", "desc": "From Last Resort", "author": "theonlydude", "hideSamus": True},
+    'metalslug_ship': {"name": "Metal Slug", "desc": "From Metal Slug", "author": "theonlydude", "showSamusAtTakeoff": True}
 }
 
 customShipsOrder = [
@@ -26,6 +27,7 @@ customShipsOrder = [
     'mario_ship',
     'top_hunter_ship',
     'lastresort_ship',
+    'metalslug_ship',
     'hyperion_ship',
     'phazon_ship',
     'lost_world_ship',
