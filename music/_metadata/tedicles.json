@@ -6,7 +6,7 @@
         "port_author": "Tedicles",
         "description": "Music found on metconst, by Tedicles",
         "spc_path": "tedicles/Chozo_Ruins_MZM.spc",
-        "md5sum": "854026f9575169fb3cf7e314853356ac"
+        "nspc_md5sum": "854026f9575169fb3cf7e314853356ac"
     },
     "never_forget": {
         "nspc_path": "tedicles/never_forget.nspc",
@@ -15,6 +15,6 @@
         "port_author": "Tedicles",
         "description": "Music found on metconst, by Tedicles",
         "spc_path": "tedicles/never_forget.spc",
-        "md5sum": "89942df2f93eaba374cc723452f210b7"
+        "nspc_md5sum": "89942df2f93eaba374cc723452f210b7"
     }
 }

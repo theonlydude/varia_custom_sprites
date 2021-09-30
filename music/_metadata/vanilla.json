@@ -11,7 +11,7 @@
         "pc_addresses": [
             518253
         ],
-        "md5sum": "e05f8ea0dd6c090dfef0f079a22058cc"
+        "nspc_md5sum": "e05f8ea0dd6c090dfef0f079a22058cc"
     },
     "Menu theme": {
         "nspc_path": "vanilla/vanilla_28620d_28b629.nspc",
@@ -24,7 +24,7 @@
         "pc_addresses": [
             518255
         ],
-        "md5sum": "e05f8ea0dd6c090dfef0f079a22058cc"
+        "nspc_md5sum": "e05f8ea0dd6c090dfef0f079a22058cc"
     },
     "Crateria Landing - Thunder, Zebes asleep": {
         "nspc_path": "vanilla/vanilla_28b62a_2908c9.nspc",
@@ -40,7 +40,7 @@
             497610,
             497521
         ],
-        "md5sum": "8ada7af6f04c850d58fd6de54cd56941"
+        "nspc_md5sum": "8ada7af6f04c850d58fd6de54cd56941"
     },
     "Crateria Landing - Thunder, Zebes awake": {
         "nspc_path": "vanilla/vanilla_28b62a_2908c9.nspc",
@@ -54,7 +54,7 @@
         "pc_addresses": [
             496177
         ],
-        "md5sum": "8ada7af6f04c850d58fd6de54cd56941"
+        "nspc_md5sum": "8ada7af6f04c850d58fd6de54cd56941"
     },
     "Crateria Landing - No Thunder": {
         "nspc_path": "vanilla/vanilla_28b62a_2908c9.nspc",
@@ -68,7 +68,7 @@
         "pc_addresses": [
             499381
         ],
-        "md5sum": "8ada7af6f04c850d58fd6de54cd56941"
+        "nspc_md5sum": "8ada7af6f04c850d58fd6de54cd56941"
     },
     "Crateria Pirates": {
         "nspc_path": "vanilla/vanilla_2908ca_2959b5.nspc",
@@ -95,7 +95,7 @@
             498042,
             498126
         ],
-        "md5sum": "3c85c6a0bdd09d062d91b8d24cc110eb"
+        "nspc_md5sum": "3c85c6a0bdd09d062d91b8d24cc110eb"
     },
     "Tourian Entrance": {
         "nspc_path": "vanilla/vanilla_2908ca_2959b5.nspc",
@@ -109,7 +109,7 @@
         "pc_addresses": [
             501371
         ],
-        "md5sum": "3c85c6a0bdd09d062d91b8d24cc110eb"
+        "nspc_md5sum": "3c85c6a0bdd09d062d91b8d24cc110eb"
     },
     "Samus Theme": {
         "nspc_path": "vanilla/vanilla_2959b6_29933b.nspc",
@@ -132,7 +132,7 @@
             496797,
             497038
         ],
-        "md5sum": "9cc6cf99dd73e39b8c222438542af1f0"
+        "nspc_md5sum": "9cc6cf99dd73e39b8c222438542af1f0"
     },
     "Green Brinstar": {
         "nspc_path": "vanilla/vanilla_29933c_29e811.nspc",
@@ -156,7 +156,7 @@
             499810,
             498649
         ],
-        "md5sum": "39aa667610fa2d7d1818aa0b7c0bd068"
+        "nspc_md5sum": "39aa667610fa2d7d1818aa0b7c0bd068"
     },
     "Red Brinstar": {
         "nspc_path": "vanilla/vanilla_29e812_2a386b.nspc",
@@ -189,7 +189,7 @@
             501047,
             501073
         ],
-        "md5sum": "c4ffdf7848980cd1854675a351779150"
+        "nspc_md5sum": "c4ffdf7848980cd1854675a351779150"
     },
     "Upper Norfair": {
         "nspc_path": "vanilla/vanilla_2a386c_2a741f.nspc",
@@ -225,7 +225,7 @@
             503429,
             502205
         ],
-        "md5sum": "e48d7834309a84003f04a4f93c8f810a"
+        "nspc_md5sum": "e48d7834309a84003f04a4f93c8f810a"
     },
     "Lower Norfair": {
         "nspc_path": "vanilla/vanilla_2a7420_2ac843.nspc",
@@ -247,7 +247,7 @@
             505195,
             505121
         ],
-        "md5sum": "7da27f52ebb5cf44354222d498ce802c"
+        "nspc_md5sum": "7da27f52ebb5cf44354222d498ce802c"
     },
     "East Maridia": {
         "nspc_path": "vanilla/vanilla_2ac844_2b18b6.nspc",
@@ -274,7 +274,7 @@
         "pc_addresses_boss": [
             513957
         ],
-        "md5sum": "30cf0fef5ee9a37be7dba3b50751e2ea"
+        "nspc_md5sum": "30cf0fef5ee9a37be7dba3b50751e2ea"
     },
     "West Maridia": {
         "nspc_path": "vanilla/vanilla_2ac844_2b18b6.nspc",
@@ -293,7 +293,7 @@
             512332,
             512102
         ],
-        "md5sum": "30cf0fef5ee9a37be7dba3b50751e2ea"
+        "nspc_md5sum": "30cf0fef5ee9a37be7dba3b50751e2ea"
     },
     "Tourian": {
         "nspc_path": "vanilla/vanilla_2b18b7_2b6f9c.nspc",
@@ -314,7 +314,7 @@
             515636,
             515884
         ],
-        "md5sum": "10255b9b59e4757107a178d9693b7c8b"
+        "nspc_md5sum": "10255b9b59e4757107a178d9693b7c8b"
     },
     "Mother Brain": {
         "nspc_path": "vanilla/vanilla_2b6f9d_2bbf72.nspc",
@@ -328,7 +328,7 @@
         "pc_addresses": [
             518263
         ],
-        "md5sum": "f056a7a95a6d4c83c473b44ec5224051"
+        "nspc_md5sum": "f056a7a95a6d4c83c473b44ec5224051"
     },
     "Boss fight - BT/Ridley/Draygon": {
         "nspc_path": "vanilla/vanilla_2bbf73_2c19b1.nspc",
@@ -342,7 +342,7 @@
         "pc_addresses": [
             514678
         ],
-        "md5sum": "3f5c89882645afc2ecfffe4dd8f798b7"
+        "nspc_md5sum": "3f5c89882645afc2ecfffe4dd8f798b7"
     },
     "Boss fight - BT tension": {
         "nspc_path": "vanilla/vanilla_2bbf73_2c19b1.nspc",
@@ -353,7 +353,7 @@
         "description": "Original track from vanilla Super Metroid",
         "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/bt_tension.spc",
-        "md5sum": "3f5c89882645afc2ecfffe4dd8f798b7"
+        "nspc_md5sum": "3f5c89882645afc2ecfffe4dd8f798b7"
     },
     "Escape": {
         "nspc_path": "vanilla/vanilla_2bbf73_2c19b1.nspc",
@@ -370,7 +370,7 @@
             515678,
             518257
         ],
-        "md5sum": "3f5c89882645afc2ecfffe4dd8f798b7"
+        "nspc_md5sum": "3f5c89882645afc2ecfffe4dd8f798b7"
     },
     "Boss fight - Kraid/Phantoon/Croc": {
         "nspc_path": "vanilla/vanilla_2c19b2_2c6a8a.nspc",
@@ -384,7 +384,7 @@
         "pc_addresses": [
             502179
         ],
-        "md5sum": "694e6b0362282ea75a751b41aa3f2916"
+        "nspc_md5sum": "694e6b0362282ea75a751b41aa3f2916"
     },
     "Boss fight - Kraid/Phantoon/Croc tension": {
         "nspc_path": "vanilla/vanilla_2c19b2_2c6a8a.nspc",
@@ -400,7 +400,7 @@
             501173,
             511273
         ],
-        "md5sum": "694e6b0362282ea75a751b41aa3f2916"
+        "nspc_md5sum": "694e6b0362282ea75a751b41aa3f2916"
     },
     "Boss fight - Spore Spawn/Botwoon": {
         "nspc_path": "vanilla/vanilla_2c6a8b_2cb67a.nspc",
@@ -415,7 +415,7 @@
             499165,
             514420
         ],
-        "md5sum": "85c7bea162d0d9caa0e7c9fa435acf82"
+        "nspc_md5sum": "85c7bea162d0d9caa0e7c9fa435acf82"
     },
     "Flying to Ceres": {
         "nspc_path": "vanilla/vanilla_2cb67b_2cf5dc.nspc",
@@ -426,7 +426,7 @@
         "description": "Original track from vanilla Super Metroid",
         "group": "Vanilla Soundtrack - Sound Effects",
         "spc_path": "vanilla/space_ship.spc",
-        "md5sum": "d7769f61022b28ef144c1563cee77b25"
+        "nspc_md5sum": "d7769f61022b28ef144c1563cee77b25"
     },
     "Ceres": {
         "nspc_path": "vanilla/vanilla_2cb67b_2cf5dc.nspc",
@@ -440,7 +440,7 @@
         "pc_addresses": [
             515931
         ],
-        "md5sum": "d7769f61022b28ef144c1563cee77b25"
+        "nspc_md5sum": "d7769f61022b28ef144c1563cee77b25"
     },
     "Flying to Zebes": {
         "nspc_path": "vanilla/vanilla_2cb67b_2cf5dc.nspc",
@@ -451,7 +451,7 @@
         "description": "Original track from vanilla Super Metroid",
         "group": "Vanilla Soundtrack - Sound Effects",
         "spc_path": "vanilla/to_zebes.spc",
-        "md5sum": "d7769f61022b28ef144c1563cee77b25"
+        "nspc_md5sum": "d7769f61022b28ef144c1563cee77b25"
     },
     "Ceres time up": {
         "nspc_path": "vanilla/vanilla_2cb67b_2cf5dc.nspc",
@@ -462,7 +462,7 @@
         "description": "Original track from vanilla Super Metroid",
         "group": "Vanilla Soundtrack - Sound Effects",
         "spc_path": "vanilla/ceres_explodes.spc",
-        "md5sum": "d7769f61022b28ef144c1563cee77b25"
+        "nspc_md5sum": "d7769f61022b28ef144c1563cee77b25"
     },
     "Wrecked Ship - Power off": {
         "nspc_path": "vanilla/vanilla_2cf5dd_2d364f.nspc",
@@ -481,7 +481,7 @@
             511109,
             511648
         ],
-        "md5sum": "552821b753dd3041e46814b1c00909ec"
+        "nspc_md5sum": "552821b753dd3041e46814b1c00909ec"
     },
     "Wrecked Ship - Power on": {
         "nspc_path": "vanilla/vanilla_2cf5dd_2d364f.nspc",
@@ -500,7 +500,7 @@
             511135,
             511674
         ],
-        "md5sum": "552821b753dd3041e46814b1c00909ec"
+        "nspc_md5sum": "552821b753dd3041e46814b1c00909ec"
     },
     "Zebes boom": {
         "nspc_path": "vanilla/vanilla_2d3650_2d563a.nspc",
@@ -511,7 +511,7 @@
         "description": "Original track from vanilla Super Metroid",
         "group": "Vanilla Soundtrack - Sound Effects",
         "spc_path": "vanilla/zebes_explodes.spc",
-        "md5sum": "1438cb2417ac3b28c79e32801c3ae5a8"
+        "nspc_md5sum": "1438cb2417ac3b28c79e32801c3ae5a8"
     },
     "Intro": {
         "nspc_path": "vanilla/vanilla_2d563b_2da40e.nspc",
@@ -522,7 +522,7 @@
         "description": "Original track from vanilla Super Metroid",
         "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/intro.spc",
-        "md5sum": "ae16e62a1ac4120a11becc850a62a4c2"
+        "nspc_md5sum": "ae16e62a1ac4120a11becc850a62a4c2"
     },
     "Death": {
         "nspc_path": "vanilla/vanilla_2da40f_2ddf4e.nspc",
@@ -533,7 +533,7 @@
         "description": "Original track from vanilla Super Metroid",
         "group": "Vanilla Soundtrack - Sound Effects",
         "spc_path": "vanilla/samus_cry.spc",
-        "md5sum": "b05516ba21d25973afe5268037be7c13"
+        "nspc_md5sum": "b05516ba21d25973afe5268037be7c13"
     },
     "Ending/Credits": {
         "nspc_path": "vanilla/vanilla_2ddf4f_2e2f6b.nspc",
@@ -547,7 +547,7 @@
         "pc_addresses": [
             518259
         ],
-        "md5sum": "f1643f9f81b59f46655c2ad67827030e"
+        "nspc_md5sum": "f1643f9f81b59f46655c2ad67827030e"
     },
     "The last Metroid is in captivity": {
         "nspc_path": "vanilla/vanilla_2e2f6c_2e7ac6.nspc",
@@ -557,7 +557,7 @@
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
         "group": "Vanilla Soundtrack - Sound Effects",
-        "md5sum": "a47aeb39d1c04e0bded802350a4f7a19"
+        "nspc_md5sum": "a47aeb39d1c04e0bded802350a4f7a19"
     },
     "The galaxy is at peace": {
         "nspc_path": "vanilla/vanilla_2e7ac7_2eb103.nspc",
@@ -567,7 +567,7 @@
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
         "group": "Vanilla Soundtrack - Sound Effects",
-        "md5sum": "c981518999b6491554941b9065811907"
+        "nspc_md5sum": "c981518999b6491554941b9065811907"
     },
     "Baby Metroid": {
         "nspc_path": "vanilla/vanilla_2eb104_2f01c0.nspc",
@@ -578,7 +578,7 @@
         "description": "Original track from vanilla Super Metroid",
         "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/boss2.spc",
-        "md5sum": "cd1beb529feddff8fd0aa433c032119b"
+        "nspc_md5sum": "cd1beb529feddff8fd0aa433c032119b"
     },
     "Baby Metroid - Tension": {
         "nspc_path": "vanilla/vanilla_2eb104_2f01c0.nspc",
@@ -593,7 +593,7 @@
             515119,
             515195
         ],
-        "md5sum": "cd1beb529feddff8fd0aa433c032119b"
+        "nspc_md5sum": "cd1beb529feddff8fd0aa433c032119b"
     },
     "Baby Metroid - No music": {
         "nspc_path": "vanilla/vanilla_2eb104_2f01c0.nspc",
@@ -603,7 +603,7 @@
         "port_author": "",
         "description": "Original track from vanilla Super Metroid",
         "group": "Vanilla Soundtrack - Sound Effects",
-        "md5sum": "cd1beb529feddff8fd0aa433c032119b"
+        "nspc_md5sum": "cd1beb529feddff8fd0aa433c032119b"
     },
     "Mother Brain 3 (Samus Theme 2)": {
         "nspc_path": "vanilla/vanilla_2f01c1_2f51bf.nspc",
@@ -617,6 +617,6 @@
         "pc_addresses": [
             518261
         ],
-        "md5sum": "2d2b6109173e64e016f0fe592695e5b6"
+        "nspc_md5sum": "2d2b6109173e64e016f0fe592695e5b6"
     }
 }

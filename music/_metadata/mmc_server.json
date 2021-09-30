@@ -6,7 +6,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Animals_Dance.spc",
-        "md5sum": "e2b43770a278a3ce2447c08096d00a7e"
+        "nspc_md5sum": "e2b43770a278a3ce2447c08096d00a7e"
     },
     "asphalt_and_ablution": {
         "nspc_path": "MMC_Server/asphalt_and_ablution.nspc",
@@ -15,7 +15,7 @@
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "",
-        "md5sum": "a1082d654c57d9d86ff1fad50f484faa"
+        "nspc_md5sum": "a1082d654c57d9d86ff1fad50f484faa"
     },
     "A_Vision_of_Dark_Secrets_v1.0": {
         "nspc_path": "MMC_Server/A_Vision_of_Dark_Secrets_v1.0.nspc",
@@ -24,7 +24,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/A_Vision_of_Dark_Secrets_v1.0.spc",
-        "md5sum": "631395e0daeb95421827923e7740cdb8"
+        "nspc_md5sum": "631395e0daeb95421827923e7740cdb8"
     },
     "Beginning_of_the_Journey_v1.0": {
         "nspc_path": "MMC_Server/Beginning_of_the_Journey_v1.0.nspc",
@@ -33,7 +33,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Beginning_of_the_Journey_v1.0.spc",
-        "md5sum": "bb88ab6c695ddf2495e517c58d882e8b"
+        "nspc_md5sum": "bb88ab6c695ddf2495e517c58d882e8b"
     },
     "Bryyo_2019": {
         "nspc_path": "MMC_Server/Bryyo_2019.nspc",
@@ -42,7 +42,7 @@
         "port_author": "Albert V",
         "description": "Old song from 2019",
         "spc_path": "MMC_Server/Bryyo_2019.spc",
-        "md5sum": "da08c7c404bd3a3aa9afa5a4b6184cb0"
+        "nspc_md5sum": "da08c7c404bd3a3aa9afa5a4b6184cb0"
     },
     "Cellar_Custom_v1.0": {
         "nspc_path": "MMC_Server/Cellar_Custom_v1.0.nspc",
@@ -51,7 +51,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Cellar_Custom_v1.0.spc",
-        "md5sum": "94416e41499598729b35679b0c6a5a41"
+        "nspc_md5sum": "94416e41499598729b35679b0c6a5a41"
     },
     "Chase_Maze_Clocktober_Hack_v1.1": {
         "nspc_path": "MMC_Server/Chase_Maze_Clocktober_Hack_v1.1.nspc",
@@ -60,7 +60,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Chase_Maze_Clocktober_Hack_v1.1.spc",
-        "md5sum": "17c169e8430e9eda05b6c13b9ac484a8"
+        "nspc_md5sum": "17c169e8430e9eda05b6c13b9ac484a8"
     },
     "Choirs_of_the_Temple_v1.0": {
         "nspc_path": "MMC_Server/Choirs_of_the_Temple_v1.0.nspc",
@@ -69,7 +69,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Choirs_of_the_Temple_v1.0.spc",
-        "md5sum": "0a08defee8318f43c5677de8f73058b8"
+        "nspc_md5sum": "0a08defee8318f43c5677de8f73058b8"
     },
     "Chozo_Chamber_-_v1.0": {
         "nspc_path": "MMC_Server/Chozo_Chamber_-_Alberts.nspc",
@@ -78,7 +78,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Chozo_Chamber_-_Alberts.spc",
-        "md5sum": "e84885366b181f3588af32912b30302f"
+        "nspc_md5sum": "e84885366b181f3588af32912b30302f"
     },
     "Clocktober_-_Castle_Corridor_v1.0": {
         "nspc_path": "MMC_Server/Clocktober_-_Castle_Corridor_v1.0.nspc",
@@ -87,7 +87,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Clocktober_-_Castle_Corridor_v1.0.spc",
-        "md5sum": "6fad215714d5d19bb3aa723fabf5df32"
+        "nspc_md5sum": "6fad215714d5d19bb3aa723fabf5df32"
     },
     "Custom_Parasite_Queen_v1.0": {
         "nspc_path": "MMC_Server/Custom_Parasite_Queen_v1.0.nspc",
@@ -96,7 +96,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Custom_Parasite_Queen_v1.0.spc",
-        "md5sum": "1ae4df3fc425c0dad0f533718e5426b3"
+        "nspc_md5sum": "1ae4df3fc425c0dad0f533718e5426b3"
     },
     "Custom_Remix_Kraids_Lair_-_Metroid_Zero_Mission_V1.0": {
         "nspc_path": "MMC_Server/Custom_Remix_Kraids_Lair_-_Metroid_Zero_Mission_V1.0.nspc",
@@ -105,7 +105,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Custom_Remix_Kraids_Lair_-_Metroid_Zero_Mission_V1.0.spc",
-        "md5sum": "3ca58d103be380a62c6d8386c7354d8f"
+        "nspc_md5sum": "3ca58d103be380a62c6d8386c7354d8f"
     },
     "Custom_Underwater_Torvus_2019": {
         "nspc_path": "MMC_Server/Custom_Underwater_Torvus_2019.nspc",
@@ -114,7 +114,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Custom_Underwater_Torvus_2019.spc",
-        "md5sum": "77f6aa0dae3f6a47f9cc8390cfda9a05"
+        "nspc_md5sum": "77f6aa0dae3f6a47f9cc8390cfda9a05"
     },
     "Dank_Dungeons.spc_v1.0": {
         "nspc_path": "MMC_Server/Dank_Dungeons.spc_v1.0.nspc",
@@ -123,7 +123,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Dank_Dungeons.spc_v1.0.spc",
-        "md5sum": "302bf6d120bf492897563633b4cf4f68"
+        "nspc_md5sum": "302bf6d120bf492897563633b4cf4f68"
     },
     "Dark_Sector_6_Small_arrangement": {
         "nspc_path": "MMC_Server/Dark_Sector_6_Small_arrangement.nspc",
@@ -132,7 +132,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Dark_Sector_6_Small_arrangement.spc",
-        "md5sum": "e4f421a2dec76e3e9c9df12fba4d53b4"
+        "nspc_md5sum": "e4f421a2dec76e3e9c9df12fba4d53b4"
     },
     "Deku_Tree_v1.0": {
         "nspc_path": "MMC_Server/Deku_Tree_v1.0.nspc",
@@ -141,7 +141,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Deku_Tree_v1.0.spc",
-        "md5sum": "8183f91e507610279b02fc7b19f4420f"
+        "nspc_md5sum": "8183f91e507610279b02fc7b19f4420f"
     },
     "Dragon_View_-_Cave_of_Fire_v0.1": {
         "nspc_path": "MMC_Server/Dragon_View_-_Cave_of_Fire_v0.1.nspc",
@@ -150,7 +150,7 @@
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Dragon_View_-_Cave_of_Fire_v0.1.spc",
-        "md5sum": "7a813fb5a45e916ef9248394652c9f38"
+        "nspc_md5sum": "7a813fb5a45e916ef9248394652c9f38"
     },
     "Dragon_View_Desert_Field_v0.5": {
         "nspc_path": "MMC_Server/Dragon_View_Desert_Field_v0.5.nspc",
@@ -159,7 +159,7 @@
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Dragon_View_Desert_Field_v0.5.spc",
-        "md5sum": "0c761d4a34f0dfe65a32fb18294e0ec8"
+        "nspc_md5sum": "0c761d4a34f0dfe65a32fb18294e0ec8"
     },
     "Dragon_View_Game_Over_v0.1": {
         "nspc_path": "MMC_Server/Dragon_View_Game_Over_v0.1.nspc",
@@ -168,7 +168,7 @@
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Dragon_View_Game_Over_v0.1.spc",
-        "md5sum": "8831636cd05394c44eee659c3b796b88"
+        "nspc_md5sum": "8831636cd05394c44eee659c3b796b88"
     },
     "FederationShip": {
         "nspc_path": "MMC_Server/FederationShip.nspc",
@@ -177,7 +177,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/FederationShip.spc",
-        "md5sum": "1141b0dac79c9be27302079ca98938c9"
+        "nspc_md5sum": "1141b0dac79c9be27302079ca98938c9"
     },
     "Flooded-ruins_v1.1": {
         "nspc_path": "MMC_Server/Flooded-ruins_v1.1.nspc",
@@ -186,7 +186,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Flooded-ruins_v1.1.spc",
-        "md5sum": "ce04b7e61fda8c1e629b2a310b4b359f"
+        "nspc_md5sum": "ce04b7e61fda8c1e629b2a310b4b359f"
     },
     "Forest_of_Monsters_v1.0": {
         "nspc_path": "MMC_Server/Forest_of_Monsters_v1.0.nspc",
@@ -195,7 +195,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Forest_of_Monsters_v1.0.spc",
-        "md5sum": "c700ebb6b923f3aff12ca0ab883daf73"
+        "nspc_md5sum": "c700ebb6b923f3aff12ca0ab883daf73"
     },
     "Forest_Temple_v1.0": {
         "nspc_path": "MMC_Server/Forest_Temple_v1.0.nspc",
@@ -204,7 +204,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Forest_Temple_v1.0.spc",
-        "md5sum": "0a3a10ad7cae8338406a5755de4f154e"
+        "nspc_md5sum": "0a3a10ad7cae8338406a5755de4f154e"
     },
     "Gerudo_Valley_v1.0": {
         "nspc_path": "MMC_Server/Gerudo_Valley_v1.0.nspc",
@@ -213,7 +213,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Gerudo_Valley_v1.0.spc",
-        "md5sum": "7977a36bb9103c1ffd99bc4aa97bc0f3"
+        "nspc_md5sum": "7977a36bb9103c1ffd99bc4aa97bc0f3"
     },
     "Ghosts_n_Goblins": {
         "nspc_path": "MMC_Server/Ghosts_n_Goblins.nspc",
@@ -222,7 +222,7 @@
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Ghosts_n_Goblins.spc",
-        "md5sum": "ad014e2ec586194a845c0f4ef5b89a4c"
+        "nspc_md5sum": "ad014e2ec586194a845c0f4ef5b89a4c"
     },
     "Guiles_Theme_v0.5": {
         "nspc_path": "MMC_Server/Guiles_Theme_v0.5.nspc",
@@ -231,7 +231,7 @@
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Guiles_Theme_v0.5_FixedbyAlbertV.spc",
-        "md5sum": "dbc89e4ef2acfbd7013c20e55cc82c8d"
+        "nspc_md5sum": "dbc89e4ef2acfbd7013c20e55cc82c8d"
     },
     "Halo3ODST_Skyline_Were_The_Desperate_Measures_v0.7": {
         "nspc_path": "MMC_Server/Halo3ODST_Skyline_Were_The_Desperate_Measures_v0.7.nspc",
@@ -240,7 +240,7 @@
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Halo3ODST_Skyline_Were_The_Desperate_Measures_v0.7.spc",
-        "md5sum": "12c36d818a2fe08ff6311ae478197446"
+        "nspc_md5sum": "12c36d818a2fe08ff6311ae478197446"
     },
     "Halo_Reach_Ashes_v0.5": {
         "nspc_path": "MMC_Server/Halo_Reach_Ashes_v0.5.nspc",
@@ -249,7 +249,7 @@
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Halo_Reach_Ashes_v0.5.spc",
-        "md5sum": "0095a5dc9ea9728536445dd2451dd6b9"
+        "nspc_md5sum": "0095a5dc9ea9728536445dd2451dd6b9"
     },
     "Halo_Reach_Winter_Contingency_Bait_and_Switch_v1": {
         "nspc_path": "MMC_Server/Halo_Reach_Winter_Contingency_Bait_and_Switch_v1.nspc",
@@ -258,7 +258,7 @@
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Halo_Reach_Winter_Contingency_Bait_and_Switch_v1.spc",
-        "md5sum": "e48db4fbc175378f6db57672aa2ddbb7"
+        "nspc_md5sum": "e48db4fbc175378f6db57672aa2ddbb7"
     },
     "Halo_Wars_Insignificantia_v1": {
         "nspc_path": "MMC_Server/Halo_Wars_Insignificantia_v1.nspc",
@@ -267,7 +267,7 @@
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Halo_Wars_Insignificantia_v1.spc",
-        "md5sum": "0d54a35826a74b2c0b97b225ed9bc7d0"
+        "nspc_md5sum": "0d54a35826a74b2c0b97b225ed9bc7d0"
     },
     "High_Echo_Forest_Temple_v1.1": {
         "nspc_path": "MMC_Server/High_Echo_Forest_Temple_v1.1.nspc",
@@ -276,7 +276,7 @@
         "port_author": "Albert V",
         "description": "Echo bufer feacture must set separate",
         "spc_path": "MMC_Server/High_Echo_Forest_Temple_v1.1.spc",
-        "md5sum": "82a543ef9464b9b889505e1475042a04"
+        "nspc_md5sum": "82a543ef9464b9b889505e1475042a04"
     },
     "House_Theme_v1.1": {
         "nspc_path": "MMC_Server/House_Theme_v1.1.nspc",
@@ -285,7 +285,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/House_Theme_v1.1.spc",
-        "md5sum": "dc67e408504f75d5f1d9bd40c55b8d0f"
+        "nspc_md5sum": "dc67e408504f75d5f1d9bd40c55b8d0f"
     },
     "Killer_Instinct_Main_Theme": {
         "nspc_path": "MMC_Server/Killer_Instinct_Main_Theme.nspc",
@@ -294,7 +294,7 @@
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Killer_Instinct_Main_Theme.spc",
-        "md5sum": "abf97a6f2371d0f74a77e31f72966caa"
+        "nspc_md5sum": "abf97a6f2371d0f74a77e31f72966caa"
     },
     "Kraids_Lair_Remix_1.0": {
         "nspc_path": "MMC_Server/Kraids_Lair_Remix_1.0.nspc",
@@ -303,7 +303,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Kraids_Lair_Remix_v1.0.spc",
-        "md5sum": "34594e2f17a4f6ef93d93433b71b59ea"
+        "nspc_md5sum": "34594e2f17a4f6ef93d93433b71b59ea"
     },
     "La_Mulana_Custom_v1.0_2019": {
         "nspc_path": "MMC_Server/La_Mulana_Custom_v1.0_2019.nspc",
@@ -312,7 +312,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/La_Mulana_Custom_v1.0_2019.spc",
-        "md5sum": "3dfcc89e9c57763facf348cd881a3deb"
+        "nspc_md5sum": "3dfcc89e9c57763facf348cd881a3deb"
     },
     "Legend_of_Zelda_-_Ocarina_of_Time_-_Lost_Woods": {
         "nspc_path": "MMC_Server/Legend_of_Zelda_-_Ocarina_of_Time_-_Lost_Woods.nspc",
@@ -321,7 +321,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Legend_of_Zelda_-_Ocarina_of_Time_-_Lost_Woods.spc",
-        "md5sum": "fc2226e42c3ad6add1bf83b5f8c36527"
+        "nspc_md5sum": "fc2226e42c3ad6add1bf83b5f8c36527"
     },
     "Let_The_Draygon_Fly_v1.1": {
         "nspc_path": "MMC_Server/Let_The_Draygon_Fly_v1.1.nspc",
@@ -330,7 +330,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "",
-        "md5sum": "3dbff2353e32385c959e59337f0f9fd1"
+        "nspc_md5sum": "3dbff2353e32385c959e59337f0f9fd1"
     },
     "Lonely_Halls": {
         "nspc_path": "MMC_Server/Lonely_Halls.nspc",
@@ -339,7 +339,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Lonely_Halls.spc",
-        "md5sum": "8d6f95136d348ff6254f2b4980bc4b60"
+        "nspc_md5sum": "8d6f95136d348ff6254f2b4980bc4b60"
     },
     "LoZ_Wind_Waker_-_Cursed_Sea_v0.2": {
         "nspc_path": "MMC_Server/LoZ_Wind_Waker_-_Cursed_Sea_v0.2.nspc",
@@ -348,7 +348,7 @@
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/LoZ_Wind_Waker_-_Cursed_Sea_v0.2.spc",
-        "md5sum": "bafd28c29fdb177041dbdc2288e272c4"
+        "nspc_md5sum": "bafd28c29fdb177041dbdc2288e272c4"
     },
     "Machine_Tower_v1.1": {
         "nspc_path": "MMC_Server/Machine_Tower_v1.1.nspc",
@@ -357,7 +357,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Machine_Tower_v1.1.spc",
-        "md5sum": "6c8a89223a77a1c73377df8254e42fbd"
+        "nspc_md5sum": "6c8a89223a77a1c73377df8254e42fbd"
     },
     "Machine_Tower_v1.2": {
         "nspc_path": "MMC_Server/Machine_Tower_v1.2.nspc",
@@ -366,7 +366,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Machine_Tower_v1.2.spc",
-        "md5sum": "f2b9a55e814adf59a6532f16ba0ea58b"
+        "nspc_md5sum": "f2b9a55e814adf59a6532f16ba0ea58b"
     },
     "Magmoor_Caverns_Entrance_v1.0": {
         "nspc_path": "MMC_Server/Magmoor_Caverns_Entrance_v1.0.nspc",
@@ -375,7 +375,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Magmoor_Caverns_Entrance_v1.0.spc",
-        "md5sum": "3c2139d99ca43c1ae7764e2137ffb5f6"
+        "nspc_md5sum": "3c2139d99ca43c1ae7764e2137ffb5f6"
     },
     "Music_Box_House_v1.0": {
         "nspc_path": "MMC_Server/Music_Box_House_v1.0.nspc",
@@ -384,7 +384,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Music_Box_House_v1.0.spc",
-        "md5sum": "5a72e30fefe5480337df4d32d9546993"
+        "nspc_md5sum": "5a72e30fefe5480337df4d32d9546993"
     },
     "Opus_13_v1.1": {
         "nspc_path": "MMC_Server/Opus_13_v1.1.nspc",
@@ -393,7 +393,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Opus_13_v1.1.spc",
-        "md5sum": "c682d7c2a02a85052f5a9d61be91ae74"
+        "nspc_md5sum": "c682d7c2a02a85052f5a9d61be91ae74"
     },
     "Pillared_Corridor_SM_S": {
         "nspc_path": "MMC_Server/Pillared_Corridor_SM_S.nspc",
@@ -402,7 +402,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Pillared_Corridor_SM_S.spc",
-        "md5sum": "027a1e55f13bd2d24e17be83fa9f351d"
+        "nspc_md5sum": "027a1e55f13bd2d24e17be83fa9f351d"
     },
     "Prime_MainMenu": {
         "nspc_path": "MMC_Server/Prime_MainMenu.nspc",
@@ -411,7 +411,7 @@
         "port_author": "Dewhi100",
         "description": "TODO",
         "spc_path": "MMC_Server/Prime_MainMenu.spc",
-        "md5sum": "e538135040bb8e223bf343f4f328bd69"
+        "nspc_md5sum": "e538135040bb8e223bf343f4f328bd69"
     },
     "Resident_Evil_2_Save_Room_theme_v0.2": {
         "nspc_path": "MMC_Server/Resident_Evil_2_Save_Room_theme_v0.2.nspc",
@@ -420,7 +420,7 @@
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Resident_Evil_2_Save_Room_theme_v0.2.spc",
-        "md5sum": "987636b3cab9b025758a4b94f8ec3eea"
+        "nspc_md5sum": "987636b3cab9b025758a4b94f8ec3eea"
     },
     "Samus_Escape_remix_v1.2": {
         "nspc_path": "MMC_Server/Samus_Escape_remix_v1.2.nspc",
@@ -429,7 +429,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Samus_Escape_remix_v1.2.spc",
-        "md5sum": "47a7738feab7278c268a06d4f1d57b1d"
+        "nspc_md5sum": "47a7738feab7278c268a06d4f1d57b1d"
     },
     "Sector_4_AQA_Custom_Remix_v1.0": {
         "nspc_path": "MMC_Server/Sector_4_AQA_Custom_Remix_v1.0.nspc",
@@ -438,7 +438,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Sector_4_AQA_Custom_Remix_v1.0.spc",
-        "md5sum": "d85fed85447ede7cca57ed951281c309"
+        "nspc_md5sum": "d85fed85447ede7cca57ed951281c309"
     },
     "Sector_5_ARC_Low-Temperature_Area_v1.0": {
         "nspc_path": "MMC_Server/Sector_5_ARC_Low-Temperature_Area_v1.0.nspc",
@@ -447,7 +447,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Sector_5_ARC_Low-Temperature_Area_v1.0.spc",
-        "md5sum": "75ba4243d5f2e8344d91b9aea60bf68e"
+        "nspc_md5sum": "75ba4243d5f2e8344d91b9aea60bf68e"
     },
     "Sheiks_Harp_v1.0": {
         "nspc_path": "MMC_Server/Sheiks_Harp_v1.0.nspc",
@@ -456,7 +456,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Sheiks_Harp_v1.0.spc",
-        "md5sum": "c914bbb9f7644003f2b11cdc92fcdfcf"
+        "nspc_md5sum": "c914bbb9f7644003f2b11cdc92fcdfcf"
     },
     "Siege_of_Madrigal": {
         "nspc_path": "MMC_Server/Siege_of_Madrigal.nspc",
@@ -465,7 +465,7 @@
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Siege_of_Madrigal.spc",
-        "md5sum": "92efc9646a3df9ba5d1bc2be518f06a5"
+        "nspc_md5sum": "92efc9646a3df9ba5d1bc2be518f06a5"
     },
     "Silent_Madness_v1.0": {
         "nspc_path": "MMC_Server/Silent_Madness_v1.0.nspc",
@@ -474,7 +474,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Silent_Madness_v1.0.spc",
-        "md5sum": "deac113c7ab8bffbb051cff890ed3136"
+        "nspc_md5sum": "deac113c7ab8bffbb051cff890ed3136"
     },
     "SIMONS_THEME_CUSTOM_v1.0": {
         "nspc_path": "MMC_Server/SIMONS_THEME_CUSTOM_v1.0.nspc",
@@ -483,7 +483,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/SIMONS_THEME_CUSTOM_v1.0.spc",
-        "md5sum": "53dc0e1d6fe9002be96c073ebaa6a7ec"
+        "nspc_md5sum": "53dc0e1d6fe9002be96c073ebaa6a7ec"
     },
     "SM_House_Theme_v1.0": {
         "nspc_path": "MMC_Server/SM_House_Theme_v1.0.nspc",
@@ -492,7 +492,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/SM_House_Theme_v1.0.spc",
-        "md5sum": "b7ca796718fcd676c9b403fe7b2cb625"
+        "nspc_md5sum": "b7ca796718fcd676c9b403fe7b2cb625"
     },
     "SM_Hyrule_Town_-_TLOZMC": {
         "nspc_path": "MMC_Server/SM_Hyrule_Town_-_TLOZMC.nspc",
@@ -501,7 +501,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/SM_Hyrule_Town_-_TLOZMC.spc",
-        "md5sum": "e01ab110e0a053e41f9ee5663bde82ec"
+        "nspc_md5sum": "e01ab110e0a053e41f9ee5663bde82ec"
     },
     "SM_Satellite_SM": {
         "nspc_path": "MMC_Server/SM_Satellite_SM.nspc",
@@ -510,7 +510,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/SM_Satellite_SM.spc",
-        "md5sum": "bbffa8de675a1ca828960475642494bc"
+        "nspc_md5sum": "bbffa8de675a1ca828960475642494bc"
     },
     "SM_The_Sinking_Old_Sanctuary_v1.1": {
         "nspc_path": "MMC_Server/SM_The_Sinking_Old_Sanctuary_v1.1.nspc",
@@ -519,7 +519,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/SM_The_Sinking_Old_Sanctuary_v1.1.spc",
-        "md5sum": "1fdbca9e24f94bb86b03dccf65061392"
+        "nspc_md5sum": "1fdbca9e24f94bb86b03dccf65061392"
     },
     "SM_The_Trick_Manor_v1.1": {
         "nspc_path": "MMC_Server/SM_The_Trick_Manor_v1.1.nspc",
@@ -528,7 +528,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/SM_The_Trick_Manor_v1.1.spc",
-        "md5sum": "726e601fe8bd5f3c67f7928df28c5a03"
+        "nspc_md5sum": "726e601fe8bd5f3c67f7928df28c5a03"
     },
     "Stairway_Boss_v1.0": {
         "nspc_path": "MMC_Server/Stairway_Boss_v1.0.nspc",
@@ -537,7 +537,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Stairway_Boss_v1.0.spc",
-        "md5sum": "510292351aa02518d19e689324dd46a8"
+        "nspc_md5sum": "510292351aa02518d19e689324dd46a8"
     },
     "Stone_Tower_v1.4": {
         "nspc_path": "MMC_Server/Stone_Tower_v1.4.nspc",
@@ -546,7 +546,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Stone_Tower_v1.4.spc",
-        "md5sum": "82efce569a35fcf7d01f843d88c2492a"
+        "nspc_md5sum": "82efce569a35fcf7d01f843d88c2492a"
     },
     "Study_v1.0": {
         "nspc_path": "MMC_Server/Study_v1.0.nspc",
@@ -555,7 +555,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Study_v1.0.spc",
-        "md5sum": "85e2fd24b9258777f59ff9e31a733033"
+        "nspc_md5sum": "85e2fd24b9258777f59ff9e31a733033"
     },
     "Sunken_City_Tour_-_Shantae_and_the_Seven_Sirens": {
         "nspc_path": "MMC_Server/Sunken_City_Tour_-_Shantae_and_the_Seven_Sirens.nspc",
@@ -564,7 +564,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Sunken_City_Tour_-_Shantae_and_the_Seven_Sirens.spc",
-        "md5sum": "02ab96125a87a15c40c188433ea2ba19"
+        "nspc_md5sum": "02ab96125a87a15c40c188433ea2ba19"
     },
     "Tallteria_v1.0": {
         "nspc_path": "MMC_Server/Tallteria_v1.0.nspc",
@@ -573,7 +573,7 @@
         "port_author": "Albert V",
         "description": "For endings",
         "spc_path": "MMC_Server/Tallteria_v1.0.spc",
-        "md5sum": "bba80849899e510d1431add7b1b39517"
+        "nspc_md5sum": "bba80849899e510d1431add7b1b39517"
     },
     "The_7th_Saga_-_Lemele_Town": {
         "nspc_path": "MMC_Server/The_7th_Saga_-_Lemele_Town.nspc",
@@ -582,7 +582,7 @@
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/The_7th_Saga_-_Lemele_Town.spc",
-        "md5sum": "31eeacbdf90e3b329fdcd70f83f0e3bd"
+        "nspc_md5sum": "31eeacbdf90e3b329fdcd70f83f0e3bd"
     },
     "The_Beginning_Mixed_SF": {
         "nspc_path": "MMC_Server/The_Beginning_Mixed_SF.nspc",
@@ -591,7 +591,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/The_Beginning_Mixed_SF.spc",
-        "md5sum": "335f4c5ae7b3c8b768b2b8d8baec3a52"
+        "nspc_md5sum": "335f4c5ae7b3c8b768b2b8d8baec3a52"
     },
     "The_One_Who_is_Torn_apart_v1.0": {
         "nspc_path": "MMC_Server/The_One_Who_is_Torn_apart_v1.0.nspc",
@@ -600,7 +600,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/The_One_Who_is_Torn_apart_v1.0.spc",
-        "md5sum": "6a2a30e9e1451f1bafcf178f3dd19bd4"
+        "nspc_md5sum": "6a2a30e9e1451f1bafcf178f3dd19bd4"
     },
     "The_Waterfalls_CV-SF_v1.0": {
         "nspc_path": "MMC_Server/The_Waterfalls_CV-SF_v1.0.nspc",
@@ -609,7 +609,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/The_Waterfalls_CV-SF_v1.0.spc",
-        "md5sum": "4d51f22bf670c2eea6b678957f3974b7"
+        "nspc_md5sum": "4d51f22bf670c2eea6b678957f3974b7"
     },
     "The_Waterfalls_Maridia-SF_v1.0": {
         "nspc_path": "MMC_Server/The_Waterfalls_Maridia-SF_v1.0.nspc",
@@ -618,7 +618,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/The_Waterfalls_Maridia-SF_v1.0.spc",
-        "md5sum": "f9f9abf163531a0d55fba2cf642136c7"
+        "nspc_md5sum": "f9f9abf163531a0d55fba2cf642136c7"
     },
     "The_Waterfalls_SM-SF_v1.0": {
         "nspc_path": "MMC_Server/The_Waterfalls_SM-SF_v1.0.nspc",
@@ -627,7 +627,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/The_Waterfalls_SM-SF_v1.0.spc",
-        "md5sum": "48afb151a533ce0b2d9dfc205bb769b8"
+        "nspc_md5sum": "48afb151a533ce0b2d9dfc205bb769b8"
     },
     "Underground_Reservoir_v1.0": {
         "nspc_path": "MMC_Server/Underground_Reservoir_v1.0.nspc",
@@ -636,7 +636,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Underground_Reservoir_v1.0.spc",
-        "md5sum": "5b84e6b14072d6a296b4b7d7118c06f2"
+        "nspc_md5sum": "5b84e6b14072d6a296b4b7d7118c06f2"
     },
     "Underground_Reservoir_v1.1": {
         "nspc_path": "MMC_Server/Underground_Reservoir_v1.1.nspc",
@@ -645,7 +645,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Underground_Reservoir_v1.1.spc",
-        "md5sum": "6d329987afc767ece1bb3aaadd4789a2"
+        "nspc_md5sum": "6d329987afc767ece1bb3aaadd4789a2"
     },
     "Vampire_Killer_Mixed_SF": {
         "nspc_path": "MMC_Server/Vampire_Killer_Mixed_SF.nspc",
@@ -654,7 +654,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Vampire_Killer_Mixed_SF.spc",
-        "md5sum": "0f814afce69a8e455792af84e406fb8b"
+        "nspc_md5sum": "0f814afce69a8e455792af84e406fb8b"
     },
     "Vampire_Killer_SM_SF_v1.2": {
         "nspc_path": "MMC_Server/Vampire_Killer_SM_SF_v1.2.nspc",
@@ -663,7 +663,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Vampire_Killer_SM_SF_v1.2.spc",
-        "md5sum": "2c96bf7120082827051e91c20425b216"
+        "nspc_md5sum": "2c96bf7120082827051e91c20425b216"
     },
     "Viles_Intro_v0.3": {
         "nspc_path": "MMC_Server/Viles_Intro_v0.3.nspc",
@@ -672,7 +672,7 @@
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Viles_Intro_v0.3.spc",
-        "md5sum": "83f1f1820b227c8d5d63303caaf4463a"
+        "nspc_md5sum": "83f1f1820b227c8d5d63303caaf4463a"
     },
     "Windmill_Hut_v1.0": {
         "nspc_path": "MMC_Server/Windmill_Hut_v1.0.nspc",
@@ -681,7 +681,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/Windmill_Hut_v1.0.spc",
-        "md5sum": "18901e47f3ca25e5d8bfa8732b683517"
+        "nspc_md5sum": "18901e47f3ca25e5d8bfa8732b683517"
     },
     "Wind_Waker_-_Dragon_Roost_Island_v0.1": {
         "nspc_path": "MMC_Server/Wind_Waker_-_Dragon_Roost_Island_v0.1.nspc",
@@ -690,7 +690,7 @@
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Wind_Waker_-_Dragon_Roost_Island_v0.1.spc",
-        "md5sum": "44208ba28b85fca8701672fb0bb21d84"
+        "nspc_md5sum": "44208ba28b85fca8701672fb0bb21d84"
     },
     "World_3-1_2019": {
         "nspc_path": "MMC_Server/World_3-1_2019.nspc",
@@ -699,7 +699,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "MMC_Server/World_3-1_2019.spc",
-        "md5sum": "277e355166f6cad2f787c436658aacfb"
+        "nspc_md5sum": "277e355166f6cad2f787c436658aacfb"
     },
     "Zelda_Ocarina_of_Time_-_Shop": {
         "nspc_path": "MMC_Server/Zelda_Ocarina_of_Time_-_Shop.nspc",
@@ -708,7 +708,7 @@
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Zelda_Ocarina_of_Time_-_Shop.spc",
-        "md5sum": "b4fe1f50e840dd5eb8ed98297fe94636"
+        "nspc_md5sum": "b4fe1f50e840dd5eb8ed98297fe94636"
     },
     "Zelda_Ocarina_of_Time_Goron_City_v1.1": {
         "nspc_path": "MMC_Server/Zelda_Ocarina_of_Time_Goron_City_v1.1.nspc",
@@ -717,7 +717,7 @@
         "port_author": "Albert V",
         "description": "TODO",
         "spc_path": "",
-        "md5sum": "3866c82a64d03dd7d3a7e721c85ee7e5"
+        "nspc_md5sum": "3866c82a64d03dd7d3a7e721c85ee7e5"
     },
     "Zeros_Theme_v0.8.3": {
         "nspc_path": "MMC_Server/Zeros_Theme_v0.8.3.nspc",
@@ -726,6 +726,6 @@
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Zeros_Theme_v0.8.3.spc",
-        "md5sum": "856e3c441d0d7846a0deed60e828bd18"
+        "nspc_md5sum": "856e3c441d0d7846a0deed60e828bd18"
     }
 }
