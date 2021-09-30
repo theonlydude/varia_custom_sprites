@@ -5,7 +5,8 @@
         "original_author": "TODO",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
-        "spc_path": "SMFTP/GBA_MZM_Kraids_Lair.spc"
+        "spc_path": "SMFTP/GBA_MZM_Kraids_Lair.spc",
+        "md5sum": "0b754359559813d7fae1d99ffdd0c162"
     },
     "GB_Metroid2_-_Tunnel_theme": {
         "nspc_path": "SMFTP/GB_Metroid2_-_Tunnel_theme.nspc",
@@ -13,7 +14,8 @@
         "original_author": "TODO",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
-        "spc_path": "SMFTP/GB_Metroid2_-_Tunnel_theme.spc"
+        "spc_path": "SMFTP/GB_Metroid2_-_Tunnel_theme.spc",
+        "md5sum": "17b477a2738bd57029f6b9be49ff3410"
     },
     "Green_Brinstar_-_LOTW_Melody_Mixing": {
         "nspc_path": "SMFTP/Green_Brinstar_-_LOTW_Melody_Mixing.nspc",
@@ -21,7 +23,8 @@
         "original_author": "TODO",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
-        "spc_path": "SMFTP/Green_Brinstar_-_LOTW_Melody_Mixing.spc"
+        "spc_path": "SMFTP/Green_Brinstar_-_LOTW_Melody_Mixing.spc",
+        "md5sum": "bb94a6dbea54f3e36f1646665ae9082b"
     },
     "Into_the_jungle_project_Ver4.2": {
         "nspc_path": "SMFTP/Into_the_jungle_project_Ver4.2.nspc",
@@ -29,7 +32,8 @@
         "original_author": "TODO",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
-        "spc_path": ""
+        "spc_path": "",
+        "md5sum": "2bbdaa8cf0e6b0a04a22a5596fd784dd"
     },
     "Let_it_snow-Xmas_song": {
         "nspc_path": "SMFTP/Let_it_snow-Xmas_song.nspc",
@@ -37,7 +41,8 @@
         "original_author": "TODO",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
-        "spc_path": "SMFTP/Let_it_snow-Xmas_song.spc"
+        "spc_path": "SMFTP/Let_it_snow-Xmas_song.spc",
+        "md5sum": "7fafcde0544046066cae0b7511fa8e8d"
     },
     "Lost_Woods_-_Ocarina_OOT_v1.0": {
         "nspc_path": "SMFTP/Lost_Woods_-_Ocarina_OOT_v1.0.nspc",
@@ -45,7 +50,8 @@
         "original_author": "TODO",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
-        "spc_path": "SMFTP/Lost_Woods_-_Ocarina_OOT_v1.0.spc"
+        "spc_path": "SMFTP/Lost_Woods_-_Ocarina_OOT_v1.0.spc",
+        "md5sum": "8ce52b6b2f9b77b863b88df13796f666"
     },
     "Metroid_Prime2_Echoes_-_Hydro_Dynamo": {
         "nspc_path": "SMFTP/Metroid_Prime2_Echoes_-_Hydro_Dynamo.nspc",
@@ -53,7 +59,8 @@
         "original_author": "TODO",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
-        "spc_path": "SMFTP/Metroid_Prime2_Echoes_-_Hydro_Dynamo.spc"
+        "spc_path": "SMFTP/Metroid_Prime2_Echoes_-_Hydro_Dynamo.spc",
+        "md5sum": "b9a008ca037235a718e7feed717efeaf"
     },
     "Phantoons_Curse_II_v4": {
         "nspc_path": "SMFTP/Phantoons_Curse_II_v4.nspc",
@@ -61,7 +68,8 @@
         "original_author": "TODO",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
-        "spc_path": ""
+        "spc_path": "",
+        "md5sum": "ffa8a46dad6c31582c2e72dd179f5c0b"
     },
     "Research_Facility": {
         "nspc_path": "SMFTP/Research_Facility.nspc",
@@ -69,7 +77,8 @@
         "original_author": "TODO",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
-        "spc_path": "SMFTP/Research_Facility.spc"
+        "spc_path": "SMFTP/Research_Facility.spc",
+        "md5sum": "cac5b30159a8fd056461237a5a8bcff4"
     },
     "Research_FacilityAV_arrangement": {
         "nspc_path": "SMFTP/Research_FacilityAV_arrangement.nspc",
@@ -77,7 +86,8 @@
         "original_author": "TODO",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
-        "spc_path": ""
+        "spc_path": "",
+        "md5sum": "adb472fe4241ffb3c77c88ee2272ce26"
     },
     "Slayer_-_Raining_Blood": {
         "nspc_path": "SMFTP/Slayer_-_Raining_Blood.nspc",
@@ -85,7 +95,8 @@
         "original_author": "TODO",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
-        "spc_path": "SMFTP/Slayer_-_Raining_Blood.spc"
+        "spc_path": "SMFTP/Slayer_-_Raining_Blood.spc",
+        "md5sum": "afc51107ca25c501f7eb1e634a24e130"
     },
     "SM-tone_Mario-Bros_v03": {
         "nspc_path": "SMFTP/SM-tone_Mario-Bros_v03.nspc",
@@ -93,7 +104,8 @@
         "original_author": "TODO",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
-        "spc_path": "SMFTP/SM-tone_Mario-Bros_v03.spc"
+        "spc_path": "SMFTP/SM-tone_Mario-Bros_v03.spc",
+        "md5sum": "e058e7029902ee96ddbceb65c11190b5"
     },
     "Super_Mario_Bros_v03": {
         "nspc_path": "SMFTP/Super_Mario_Bros_v03.nspc",
@@ -101,7 +113,8 @@
         "original_author": "TODO",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
-        "spc_path": "SMFTP/Super_Mario_Bros_v03.spc"
+        "spc_path": "SMFTP/Super_Mario_Bros_v03.spc",
+        "md5sum": "c600c7f8109e5fe8a9974377acb068b8"
     },
     "Undertale_Nyeh_Heh_Heh": {
         "nspc_path": "SMFTP/Undertale_Nyeh_Heh_Heh.nspc",
@@ -109,6 +122,7 @@
         "original_author": "TODO",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
-        "spc_path": "SMFTP/Undertale_Nyeh_Heh_Heh.spc"
+        "spc_path": "SMFTP/Undertale_Nyeh_Heh_Heh.spc",
+        "md5sum": "525fe2202c5de24d12b5ac2b2219138c"
     }
 }
