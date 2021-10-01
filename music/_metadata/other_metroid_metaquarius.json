@@ -23,6 +23,7 @@
         "original_author": "Nintendo",
         "port_author": "metaquarius",
         "description": "Ports from various Metroid games",
+        "group": "Memory Violation",
         "spc_path": "other_metroid_metaquarius/m4_ridleyx.spc",
         "nspc_md5sum": "64281b46e3ed9f8c71698dad0360f5c9"
     },

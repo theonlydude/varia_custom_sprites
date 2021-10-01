@@ -149,6 +149,7 @@
         "original_author": "TODO",
         "port_author": "Apollo",
         "description": "TODO",
+        "group": "Memory Violation",
         "spc_path": "MMC_Server/Dragon_View_-_Cave_of_Fire_v0.1.spc",
         "nspc_md5sum": "7a813fb5a45e916ef9248394652c9f38"
     },
@@ -158,6 +159,7 @@
         "original_author": "TODO",
         "port_author": "Apollo",
         "description": "TODO",
+        "group": "Memory Violation",
         "spc_path": "MMC_Server/Dragon_View_Desert_Field_v0.5.spc",
         "nspc_md5sum": "0c761d4a34f0dfe65a32fb18294e0ec8"
     },
@@ -167,6 +169,7 @@
         "original_author": "TODO",
         "port_author": "Apollo",
         "description": "TODO",
+        "group": "Memory Violation",
         "spc_path": "MMC_Server/Dragon_View_Game_Over_v0.1.spc",
         "nspc_md5sum": "8831636cd05394c44eee659c3b796b88"
     },
@@ -293,6 +296,7 @@
         "original_author": "TODO",
         "port_author": "Apollo",
         "description": "TODO",
+        "group": "Memory Violation",
         "spc_path": "MMC_Server/Killer_Instinct_Main_Theme.spc",
         "nspc_md5sum": "abf97a6f2371d0f74a77e31f72966caa"
     },
@@ -410,6 +414,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Dewhi100",
         "description": "TODO",
+        "group": "Memory Violation",
         "spc_path": "MMC_Server/Prime_MainMenu.spc",
         "nspc_md5sum": "e538135040bb8e223bf343f4f328bd69"
     },
@@ -419,6 +424,7 @@
         "original_author": "Shinji Mikami",
         "port_author": "Apollo",
         "description": "TODO",
+        "group": "Memory Violation",
         "spc_path": "MMC_Server/Resident_Evil_2_Save_Room_theme_v0.2.spc",
         "nspc_md5sum": "987636b3cab9b025758a4b94f8ec3eea"
     },
@@ -464,6 +470,7 @@
         "original_author": "TODO",
         "port_author": "Apollo",
         "description": "TODO",
+        "group": "Memory Violation",
         "spc_path": "MMC_Server/Siege_of_Madrigal.spc",
         "nspc_md5sum": "92efc9646a3df9ba5d1bc2be518f06a5"
     },
@@ -581,6 +588,7 @@
         "original_author": "TODO",
         "port_author": "Apollo",
         "description": "TODO",
+        "group": "Memory Violation",
         "spc_path": "MMC_Server/The_7th_Saga_-_Lemele_Town.spc",
         "nspc_md5sum": "31eeacbdf90e3b329fdcd70f83f0e3bd"
     },
@@ -689,6 +697,7 @@
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Apollo",
         "description": "TODO",
+        "group": "Memory Violation",
         "spc_path": "MMC_Server/Wind_Waker_-_Dragon_Roost_Island_v0.1.spc",
         "nspc_md5sum": "44208ba28b85fca8701672fb0bb21d84"
     },
@@ -707,6 +716,7 @@
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Apollo",
         "description": "TODO",
+        "group": "Memory Violation",
         "spc_path": "MMC_Server/Zelda_Ocarina_of_Time_-_Shop.spc",
         "nspc_md5sum": "b4fe1f50e840dd5eb8ed98297fe94636"
     },

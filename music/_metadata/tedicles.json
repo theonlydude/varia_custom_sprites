@@ -14,6 +14,7 @@
         "original_author": "?",
         "port_author": "Tedicles",
         "description": "Music found on metconst, by Tedicles",
+        "group": "Memory Violation",
         "spc_path": "tedicles/never_forget.spc",
         "nspc_md5sum": "89942df2f93eaba374cc723452f210b7"
     }

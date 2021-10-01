@@ -41,6 +41,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "metaquarius",
         "description": "Metroid Prime soundtrack port",
+        "group": "Memory Violation",
         "spc_path": "prime_metaquarius/prime_multiplayer.spc",
         "nspc_md5sum": "f3c5278c84e0e44c7c55ce80591c9c9b"
     },
