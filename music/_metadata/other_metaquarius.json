@@ -5,8 +5,7 @@
         "original_author": "?",
         "port_author": "metaquarius ??",
         "description": "Ports from various games",
-        "spc_path": "other_metaquarius/cv_vampireKiller.spc",
-        "nspc_md5sum": "bf322d76728d799008058ef576a8dff4"
+        "spc_path": "other_metaquarius/cv_vampireKiller.spc"
     },
     "mad_etecoondansen": {
         "nspc_path": "other_metaquarius/mad_etecoondansen.bin",
@@ -14,8 +13,7 @@
         "original_author": "?",
         "port_author": "metaquarius ??",
         "description": "Ports from various games",
-        "spc_path": "other_metaquarius/mad_etecoondansen.spc",
-        "nspc_md5sum": "dc6329166c9407f56a1229b16013acf7"
+        "spc_path": "other_metaquarius/mad_etecoondansen.spc"
     },
     "mad_inYourPrettyFace": {
         "nspc_path": "other_metaquarius/mad_inYourPrettyFace.bin",
@@ -23,8 +21,7 @@
         "original_author": "?",
         "port_author": "metaquarius ??",
         "description": "Ports from various games",
-        "spc_path": "other_metaquarius/mad_inYourPrettyFace.spc",
-        "nspc_md5sum": "1e7cfa0da7916367e12837ed79276bf4"
+        "spc_path": "other_metaquarius/mad_inYourPrettyFace.spc"
     },
     "mad_motherTetris": {
         "nspc_path": "other_metaquarius/mad_motherTetris.bin",
@@ -32,8 +29,7 @@
         "original_author": "?",
         "port_author": "metaquarius ??",
         "description": "Ports from various games",
-        "spc_path": "other_metaquarius/mad_motherTetris.spc",
-        "nspc_md5sum": "24670f2a7b7700945b86ffeb289214a0"
+        "spc_path": "other_metaquarius/mad_motherTetris.spc"
     },
     "mad_nyanCat_1": {
         "nspc_path": "other_metaquarius/mad_nyanCat_1.bin",
@@ -41,8 +37,7 @@
         "original_author": "?",
         "port_author": "metaquarius ??",
         "description": "Ports from various games",
-        "spc_path": "other_metaquarius/mad_nyanCat_1.spc",
-        "nspc_md5sum": "029b8a57b11ac9be10063ae1e693c76a"
+        "spc_path": "other_metaquarius/mad_nyanCat_1.spc"
     },
     "mad_nyanCat_2": {
         "nspc_path": "other_metaquarius/mad_nyanCat_2.bin",
@@ -50,8 +45,7 @@
         "original_author": "?",
         "port_author": "metaquarius ??",
         "description": "Ports from various games",
-        "spc_path": "other_metaquarius/mad_nyanCat_2.spc",
-        "nspc_md5sum": "7c22f1685afffffedcdf23e6f7862540"
+        "spc_path": "other_metaquarius/mad_nyanCat_2.spc"
     },
     "mad_phantoonbusters": {
         "nspc_path": "other_metaquarius/mad_phantoonbusters.bin",
@@ -59,8 +53,7 @@
         "original_author": "?",
         "port_author": "metaquarius ??",
         "description": "Ports from various games",
-        "spc_path": "other_metaquarius/mad_phantoonbusters.spc",
-        "nspc_md5sum": "a30ca523091807c51aea01b74a5aa640"
+        "spc_path": "other_metaquarius/mad_phantoonbusters.spc"
     },
     "mad_spartaRemix1": {
         "nspc_path": "other_metaquarius/mad_spartaRemix1.bin",
@@ -68,8 +61,7 @@
         "original_author": "?",
         "port_author": "metaquarius ??",
         "description": "Ports from various games",
-        "spc_path": "other_metaquarius/mad_spartaRemix1.spc",
-        "nspc_md5sum": "2ed81df4dfe1df4e354758531abf2b55"
+        "spc_path": "other_metaquarius/mad_spartaRemix1.spc"
     },
     "mad_spartaRemix2": {
         "nspc_path": "other_metaquarius/mad_spartaRemix2.bin",
@@ -78,8 +70,7 @@
         "port_author": "metaquarius ??",
         "description": "Ports from various games",
         "group": "Memory Violation",
-        "spc_path": "other_metaquarius/mad_spartaRemix2.spc",
-        "nspc_md5sum": "73a58ae41271f816ac8e2b98ef58b2cb"
+        "spc_path": "other_metaquarius/mad_spartaRemix2.spc"
     },
     "mario_diredireDocks": {
         "nspc_path": "other_metaquarius/mario_diredireDocks.bin",
@@ -87,8 +78,7 @@
         "original_author": "?",
         "port_author": "metaquarius ??",
         "description": "Ports from various games",
-        "spc_path": "other_metaquarius/mario_diredireDocks.spc",
-        "nspc_md5sum": "204927551cc04cd2bf1c6171a8a9cf07"
+        "spc_path": "other_metaquarius/mario_diredireDocks.spc"
     },
     "mario_teeheeValley": {
         "nspc_path": "other_metaquarius/mario_teeheeValley.bin",
@@ -96,8 +86,7 @@
         "original_author": "?",
         "port_author": "metaquarius ??",
         "description": "Ports from various games",
-        "spc_path": "other_metaquarius/mario_teeheeValley.spc",
-        "nspc_md5sum": "237e235de1b3da66f0ece496ec3a9ee3"
+        "spc_path": "other_metaquarius/mario_teeheeValley.spc"
     },
     "sf_guileTheme": {
         "nspc_path": "other_metaquarius/sf_guileTheme.bin",
@@ -105,8 +94,7 @@
         "original_author": "?",
         "port_author": "metaquarius ??",
         "description": "Ports from various games",
-        "spc_path": "other_metaquarius/sf_guileTheme.spc",
-        "nspc_md5sum": "f41c47d4f079a278dac36842069f4119"
+        "spc_path": "other_metaquarius/sf_guileTheme.spc"
     },
     "sf_ryutheme": {
         "nspc_path": "other_metaquarius/sf_ryutheme.bin",
@@ -114,8 +102,7 @@
         "original_author": "?",
         "port_author": "metaquarius ??",
         "description": "Ports from various games",
-        "spc_path": "other_metaquarius/sf_ryutheme.spc",
-        "nspc_md5sum": "a4f52d9762ffb65238ebff2d49e840cd"
+        "spc_path": "other_metaquarius/sf_ryutheme.spc"
     },
     "ssb64_planetZebes": {
         "nspc_path": "other_metaquarius/ssb64_planetZebes.bin",
@@ -123,7 +110,6 @@
         "original_author": "?",
         "port_author": "metaquarius ??",
         "description": "Ports from various games",
-        "spc_path": "other_metaquarius/ssb64_planetZebes.spc",
-        "nspc_md5sum": "30d78900bd979b2fdc5db876ec0b75c0"
+        "spc_path": "other_metaquarius/ssb64_planetZebes.spc"
     }
 }

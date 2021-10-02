@@ -5,8 +5,7 @@
         "original_author": "Nintendo",
         "port_author": "metaquarius",
         "description": "Ports from various Metroid games",
-        "spc_path": "other_metroid_metaquarius/m2_sr388.spc",
-        "nspc_md5sum": "a7b7f61f832e41c03a04f980555ac819"
+        "spc_path": "other_metroid_metaquarius/m2_sr388.spc"
     },
     "m4_prologue": {
         "nspc_path": "other_metroid_metaquarius/m4_prologue.bin",
@@ -14,8 +13,7 @@
         "original_author": "Nintendo",
         "port_author": "metaquarius",
         "description": "Ports from various Metroid games",
-        "spc_path": "other_metroid_metaquarius/m4_prologue.spc",
-        "nspc_md5sum": "86d29952a113c6c4cb867dd3e2faf998"
+        "spc_path": "other_metroid_metaquarius/m4_prologue.spc"
     },
     "m4_ridleyx": {
         "nspc_path": "other_metroid_metaquarius/m4_ridleyx.bin",
@@ -24,8 +22,7 @@
         "port_author": "metaquarius",
         "description": "Ports from various Metroid games",
         "group": "Memory Violation",
-        "spc_path": "other_metroid_metaquarius/m4_ridleyx.spc",
-        "nspc_md5sum": "64281b46e3ed9f8c71698dad0360f5c9"
+        "spc_path": "other_metroid_metaquarius/m4_ridleyx.spc"
     },
     "m4_serris": {
         "nspc_path": "other_metroid_metaquarius/m4_serris.bin",
@@ -33,8 +30,7 @@
         "original_author": "Nintendo",
         "port_author": "metaquarius",
         "description": "Ports from various Metroid games",
-        "spc_path": "other_metroid_metaquarius/m4_serris.spc",
-        "nspc_md5sum": "29db7d46fb329d74969c06e9ded90c58"
+        "spc_path": "other_metroid_metaquarius/m4_serris.spc"
     },
     "mzm_kraid": {
         "nspc_path": "other_metroid_metaquarius/mzm_kraid.bin",
@@ -42,7 +38,6 @@
         "original_author": "Nintendo",
         "port_author": "metaquarius",
         "description": "Ports from various Metroid games",
-        "spc_path": "other_metroid_metaquarius/mzm_kraid.spc",
-        "nspc_md5sum": "0c2abb50c86d8804f2b50bae6286fca0"
+        "spc_path": "other_metroid_metaquarius/mzm_kraid.spc"
     }
 }

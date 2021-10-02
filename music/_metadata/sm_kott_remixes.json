@@ -5,8 +5,7 @@
         "original_author": "Kenji Yamamoto/kottpower",
         "port_author": "kottpower",
         "description": "Super Metroid Remix/Alternate track",
-        "spc_path": "SM_kott_remixes/kottpower_futurebase.spc",
-        "nspc_md5sum": "10cc36ff941fff8ee50d1e24e5617637"
+        "spc_path": "SM_kott_remixes/kottpower_futurebase.spc"
     },
     "kottpower_greenbrinstaralternate": {
         "nspc_path": "SM_kott_remixes/kottpower_greenbrinstaralternate.bin",
@@ -14,8 +13,7 @@
         "original_author": "Kenji Yamamoto/kottpower",
         "port_author": "kottpower",
         "description": "Super Metroid Remix/Alternate track",
-        "spc_path": "SM_kott_remixes/kottpower_greenbrinstaralternate.spc",
-        "nspc_md5sum": "704b726d7eb511aa0ade9cd4aab888e9"
+        "spc_path": "SM_kott_remixes/kottpower_greenbrinstaralternate.spc"
     },
     "kottpower_landingsitealternate": {
         "nspc_path": "SM_kott_remixes/kottpower_landingsitealternate.bin",
@@ -23,8 +21,7 @@
         "original_author": "Kenji Yamamoto/kottpower",
         "port_author": "kottpower",
         "description": "Super Metroid Remix/Alternate track",
-        "spc_path": "SM_kott_remixes/kottpower_landingsitealternate.spc",
-        "nspc_md5sum": "30159cc59060f760463003afc92b66a9"
+        "spc_path": "SM_kott_remixes/kottpower_landingsitealternate.spc"
     },
     "kottpower_redbrinstaralternate": {
         "nspc_path": "SM_kott_remixes/kottpower_redbrinstaralternate.bin",
@@ -32,8 +29,7 @@
         "original_author": "Kenji Yamamoto/kottpower",
         "port_author": "kottpower",
         "description": "Super Metroid Remix/Alternate track",
-        "spc_path": "SM_kott_remixes/kottpower_redbrinstaralternate.spc",
-        "nspc_md5sum": "28ad9e6c2b99b86a743eca7421fabdfa"
+        "spc_path": "SM_kott_remixes/kottpower_redbrinstaralternate.spc"
     },
     "kottpower_uppernorfairambience": {
         "nspc_path": "SM_kott_remixes/kottpower_uppernorfairambience.bin",
@@ -41,7 +37,6 @@
         "original_author": "Kenji Yamamoto/kottpower",
         "port_author": "kottpower",
         "description": "Super Metroid Remix/Alternate track",
-        "spc_path": "SM_kott_remixes/kottpower_uppernorfairambience.spc",
-        "nspc_md5sum": "0d5f5caae6d6d08a1c83df6c24f8fdda"
+        "spc_path": "SM_kott_remixes/kottpower_uppernorfairambience.spc"
     }
 }

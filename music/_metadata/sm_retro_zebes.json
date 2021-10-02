@@ -5,8 +5,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Super Metroid soudtrack with retro sounding samples",
-        "spc_path": "SM_Retro_Zebes/RetroZebes_BossFight1.spc",
-        "nspc_md5sum": "f51b52892486abc5da9f3eee1ecd349f"
+        "spc_path": "SM_Retro_Zebes/RetroZebes_BossFight1.spc"
     },
     "RetroZebes_GreenBrinstar": {
         "nspc_path": "SM_Retro_Zebes/RetroZebes_GreenBrinstar.bin",
@@ -14,8 +13,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Super Metroid soudtrack with retro sounding samples",
-        "spc_path": "SM_Retro_Zebes/RetroZebes_GreenBrinstar.spc",
-        "nspc_md5sum": "c4218fb94db2b9b56f7414fcd478a9df"
+        "spc_path": "SM_Retro_Zebes/RetroZebes_GreenBrinstar.spc"
     },
     "RetroZebes_LowerNorfair": {
         "nspc_path": "SM_Retro_Zebes/RetroZebes_LowerNorfair.bin",
@@ -23,8 +21,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Super Metroid soudtrack with retro sounding samples",
-        "spc_path": "SM_Retro_Zebes/RetroZebes_LowerNorfair.spc",
-        "nspc_md5sum": "5cb25c4f38524de6a20fc811ea1ac318"
+        "spc_path": "SM_Retro_Zebes/RetroZebes_LowerNorfair.spc"
     },
     "RetroZebes_Maridia": {
         "nspc_path": "SM_Retro_Zebes/RetroZebes_Maridia.bin",
@@ -32,8 +29,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Super Metroid soudtrack with retro sounding samples",
-        "spc_path": "SM_Retro_Zebes/RetroZebes_Maridia1.spc",
-        "nspc_md5sum": "c47b47fd31873c21423fef723a99f9aa"
+        "spc_path": "SM_Retro_Zebes/RetroZebes_Maridia1.spc"
     },
     "RetroZebes_Maridia_1": {
         "nspc_path": "SM_Retro_Zebes/RetroZebes_Maridia.bin",
@@ -41,8 +37,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Super Metroid soudtrack with retro sounding samples",
-        "spc_path": "SM_Retro_Zebes/RetroZebes_Maridia2.spc",
-        "nspc_md5sum": "c47b47fd31873c21423fef723a99f9aa"
+        "spc_path": "SM_Retro_Zebes/RetroZebes_Maridia2.spc"
     },
     "RetroZebes_MiniBossFight": {
         "nspc_path": "SM_Retro_Zebes/RetroZebes_MiniBossFight.bin",
@@ -50,8 +45,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Super Metroid soudtrack with retro sounding samples",
-        "spc_path": "SM_Retro_Zebes/RetroZebes_MiniBossFight.spc",
-        "nspc_md5sum": "5dafcd249b7754f5d8a3041fe2f42b23"
+        "spc_path": "SM_Retro_Zebes/RetroZebes_MiniBossFight.spc"
     },
     "RetroZebes_RedBrinstar": {
         "nspc_path": "SM_Retro_Zebes/RetroZebes_RedBrinstar.bin",
@@ -59,8 +53,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Super Metroid soudtrack with retro sounding samples",
-        "spc_path": "SM_Retro_Zebes/RetroZebes_RedBrinstar.spc",
-        "nspc_md5sum": "d47119168e98b21def9e26b168f44b1f"
+        "spc_path": "SM_Retro_Zebes/RetroZebes_RedBrinstar.spc"
     },
     "RetroZebes_SamusTheme": {
         "nspc_path": "SM_Retro_Zebes/RetroZebes_SamusTheme.bin",
@@ -68,8 +61,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Super Metroid soudtrack with retro sounding samples",
-        "spc_path": "SM_Retro_Zebes/RetroZebes_SamusTheme.spc",
-        "nspc_md5sum": "5dd481c7d10ac6acca099abdc8fd7b7a"
+        "spc_path": "SM_Retro_Zebes/RetroZebes_SamusTheme.spc"
     },
     "RetroZebes_UpperNorfair": {
         "nspc_path": "SM_Retro_Zebes/RetroZebes_UpperNorfair.bin",
@@ -77,7 +69,6 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Super Metroid soudtrack with retro sounding samples",
-        "spc_path": "SM_Retro_Zebes/RetroZebes_UpperNorfair.spc",
-        "nspc_md5sum": "6b266e9daf319c72e79a678ce571f71b"
+        "spc_path": "SM_Retro_Zebes/RetroZebes_UpperNorfair.spc"
     }
 }

@@ -5,8 +5,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "metaquarius",
         "description": "Metroid Prime soundtrack port",
-        "spc_path": "prime_metaquarius/prime_chozoTemple.spc",
-        "nspc_md5sum": "53ffff8c6514ff0ffeab6f04a00545fe"
+        "spc_path": "prime_metaquarius/prime_chozoTemple.spc"
     },
     "prime_crashedFrigate": {
         "nspc_path": "prime_metaquarius/prime_crashedFrigate.bin",
@@ -14,8 +13,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "metaquarius",
         "description": "Metroid Prime soundtrack port",
-        "spc_path": "prime_metaquarius/prime_crashedFrigate.spc",
-        "nspc_md5sum": "5c562890cd6448ca27d2b888fbb59083"
+        "spc_path": "prime_metaquarius/prime_crashedFrigate.spc"
     },
     "prime_darksamus": {
         "nspc_path": "prime_metaquarius/prime_darksamus.bin",
@@ -23,8 +21,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "metaquarius",
         "description": "Metroid Prime soundtrack port",
-        "spc_path": "prime_metaquarius/prime_darksamus.spc",
-        "nspc_md5sum": "87f9cd81924911eae2c4cc3d4ca8629c"
+        "spc_path": "prime_metaquarius/prime_darksamus.spc"
     },
     "prime_magmoor": {
         "nspc_path": "prime_metaquarius/prime_magmoor.bin",
@@ -32,8 +29,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "metaquarius",
         "description": "Metroid Prime soundtrack port",
-        "spc_path": "prime_metaquarius/prime_magmoor.spc",
-        "nspc_md5sum": "a838659c2c7c1b8ce9fef6a4e49edbd8"
+        "spc_path": "prime_metaquarius/prime_magmoor.spc"
     },
     "prime_multiplayer": {
         "nspc_path": "prime_metaquarius/prime_multiplayer.bin",
@@ -42,8 +38,7 @@
         "port_author": "metaquarius",
         "description": "Metroid Prime soundtrack port",
         "group": "Memory Violation",
-        "spc_path": "prime_metaquarius/prime_multiplayer.spc",
-        "nspc_md5sum": "f3c5278c84e0e44c7c55ce80591c9c9b"
+        "spc_path": "prime_metaquarius/prime_multiplayer.spc"
     },
     "prime_pirates": {
         "nspc_path": "prime_metaquarius/prime_pirates.bin",
@@ -51,7 +46,6 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "metaquarius",
         "description": "Metroid Prime soundtrack port",
-        "spc_path": "prime_metaquarius/prime_pirates.spc",
-        "nspc_md5sum": "6c7bd37aae7e5cc352f7faa1b72a60f5"
+        "spc_path": "prime_metaquarius/prime_pirates.spc"
     }
 }

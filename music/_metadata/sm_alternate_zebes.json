@@ -5,8 +5,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
-        "spc_path": "SM_Alternate_Zebes/AlternateZebes_BossFight1.spc",
-        "nspc_md5sum": "3798584eb3be88aa903a76ec05ce02ec"
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_BossFight1.spc"
     },
     "AlternateZebes_Credits": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_Credits.bin",
@@ -14,8 +13,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
-        "spc_path": "SM_Alternate_Zebes/AlternateZebes_Credits.spc",
-        "nspc_md5sum": "9941ab773885528c57298c8ad76d3176"
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_Credits.spc"
     },
     "AlternateZebes_EmptyCrateria": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_EmptyCrateria.bin",
@@ -23,8 +21,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
-        "spc_path": "SM_Alternate_Zebes/AlternateZebes_EmptyCrateria.spc",
-        "nspc_md5sum": "b77906bd3e272a0d3728144c6120751a"
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_EmptyCrateria.spc"
     },
     "AlternateZebes_GreenBrinstar": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_GreenBrinstar.bin",
@@ -32,8 +29,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
-        "spc_path": "SM_Alternate_Zebes/AlternateZebes_GreenBrinstar.spc",
-        "nspc_md5sum": "c26f150c78854d2aed389feb56a1887a"
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_GreenBrinstar.spc"
     },
     "AlternateZebes_Intro": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_Intro.bin",
@@ -41,8 +37,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
-        "spc_path": "SM_Alternate_Zebes/AlternateZebes_Intro.spc",
-        "nspc_md5sum": "29aeb012cd726c405ec8d74990d4f789"
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_Intro.spc"
     },
     "AlternateZebes_LowerNorfair": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_LowerNorfair.bin",
@@ -50,8 +45,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
-        "spc_path": "SM_Alternate_Zebes/AlternateZebes_LowerNorfair.spc",
-        "nspc_md5sum": "c9b6916ca597995af26bebd1f4a0d602"
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_LowerNorfair.spc"
     },
     "AlternateZebes_Maridia": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_Maridia.bin",
@@ -59,8 +53,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
-        "spc_path": "SM_Alternate_Zebes/AlternateZebes_Maridia1.spc",
-        "nspc_md5sum": "595cb57b6e14134ae22dcae0dbb968ac"
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_Maridia1.spc"
     },
     "AlternateZebes_Maridia_1": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_Maridia.bin",
@@ -68,8 +61,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
-        "spc_path": "SM_Alternate_Zebes/AlternateZebes_Maridia2.spc",
-        "nspc_md5sum": "595cb57b6e14134ae22dcae0dbb968ac"
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_Maridia2.spc"
     },
     "AlternateZebes_MiniBossFight": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_MiniBossFight.bin",
@@ -77,8 +69,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
-        "spc_path": "SM_Alternate_Zebes/AlternateZebes_MiniBossFight.spc",
-        "nspc_md5sum": "2f8c09ca0ce71649dc16f632fb39ab7d"
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_MiniBossFight.spc"
     },
     "AlternateZebes_MotherBrain": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_MotherBrain.bin",
@@ -86,8 +77,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
-        "spc_path": "SM_Alternate_Zebes/AlternateZebes_MotherBrain.spc",
-        "nspc_md5sum": "ff653b85a6d0d58f8a44cff72e6b53b1"
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_MotherBrain.spc"
     },
     "AlternateZebes_RedBrinstar": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_RedBrinstar.bin",
@@ -95,8 +85,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
-        "spc_path": "SM_Alternate_Zebes/AlternateZebes_RedBrinstar.spc",
-        "nspc_md5sum": "0d6e9a64c81b61b0ee568e4ed38f65b5"
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_RedBrinstar.spc"
     },
     "AlternateZebes_SamusTheme": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_SamusTheme.bin",
@@ -104,8 +93,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
-        "spc_path": "SM_Alternate_Zebes/AlternateZebes_SamusTheme.spc",
-        "nspc_md5sum": "bb80b2ba7931735c2382344c211c91c5"
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_SamusTheme.spc"
     },
     "AlternateZebes_SpacePirates": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_SpacePirates.bin",
@@ -113,8 +101,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
-        "spc_path": "SM_Alternate_Zebes/AlternateZebes_SpacePirates1.spc",
-        "nspc_md5sum": "f48db5bf70fdb462d57925e631b8606c"
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_SpacePirates1.spc"
     },
     "AlternateZebes_SpacePirates_1": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_SpacePirates.bin",
@@ -122,8 +109,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
-        "spc_path": "SM_Alternate_Zebes/AlternateZebes_SpacePirates2.spc",
-        "nspc_md5sum": "f48db5bf70fdb462d57925e631b8606c"
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_SpacePirates2.spc"
     },
     "AlternateZebes_Tourian": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_Tourian.bin",
@@ -131,8 +117,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
-        "spc_path": "SM_Alternate_Zebes/AlternateZebes_Tourian.spc",
-        "nspc_md5sum": "c87a1113c74b48d03a63204d0ea88ba8"
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_Tourian.spc"
     },
     "AlternateZebes_UpperNorfair": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_UpperNorfair.bin",
@@ -140,8 +125,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
-        "spc_path": "SM_Alternate_Zebes/AlternateZebes_UpperNorfair.spc",
-        "nspc_md5sum": "db08a94f26afc294c0b10d6cbb23898a"
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_UpperNorfair.spc"
     },
     "AlternateZebes_WreckedShip": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_WreckedShip.bin",
@@ -149,7 +133,6 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
-        "spc_path": "SM_Alternate_Zebes/AlternateZebes_WreckedShip.spc",
-        "nspc_md5sum": "ccd70c9cf473177669907daf02a3e871"
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_WreckedShip.spc"
     }
 }
