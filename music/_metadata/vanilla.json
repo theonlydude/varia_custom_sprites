@@ -405,7 +405,7 @@
         "group": "Vanilla Soundtrack - Sound Effects",
         "spc_path": "vanilla/space_ship.spc"
     },
-    "Ceres": {
+    "Ceres Station": {
         "nspc_path": "vanilla/vanilla_2cb67b_2cf5dc.nspc",
         "data_index": 14,
         "track_index": 1,
