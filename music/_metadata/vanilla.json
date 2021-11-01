@@ -281,7 +281,7 @@
             512102
         ]
     },
-    "Tourian": {
+    "Tourian Bubbles": {
         "nspc_path": "vanilla/vanilla_2b18b7_2b6f9c.nspc",
         "data_index": 9,
         "track_index": 0,
@@ -301,7 +301,7 @@
             515884
         ]
     },
-    "Mother Brain": {
+    "Mother Brain 2": {
         "nspc_path": "vanilla/vanilla_2b6f9d_2bbf72.nspc",
         "data_index": 10,
         "track_index": 0,
@@ -337,7 +337,7 @@
         "group": "Vanilla Soundtrack",
         "spc_path": "vanilla/bt_tension.spc"
     },
-    "Escape": {
+    "Escape Sequence": {
         "nspc_path": "vanilla/vanilla_2bbf73_2c19b1.nspc",
         "data_index": 11,
         "track_index": 2,
@@ -484,7 +484,7 @@
         "group": "Vanilla Soundtrack - Sound Effects",
         "spc_path": "vanilla/zebes_explodes.spc"
     },
-    "Intro": {
+    "Intro Cutscene": {
         "nspc_path": "vanilla/vanilla_2d563b_2da40e.nspc",
         "data_index": 17,
         "track_index": 0,
@@ -535,7 +535,7 @@
         "description": "Original track from vanilla Super Metroid",
         "group": "Vanilla Soundtrack - Sound Effects"
     },
-    "Baby Metroid": {
+    "Baby Metroid - Apparition": {
         "nspc_path": "vanilla/vanilla_2eb104_2f01c0.nspc",
         "data_index": 22,
         "track_index": 0,
@@ -568,7 +568,7 @@
         "description": "Original track from vanilla Super Metroid",
         "group": "Vanilla Soundtrack - Sound Effects"
     },
-    "Mother Brain 3 (Samus Theme 2)": {
+    "Mother Brain 3": {
         "nspc_path": "vanilla/vanilla_2f01c1_2f51bf.nspc",
         "data_index": 23,
         "track_index": 0,
