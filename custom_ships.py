@@ -15,7 +15,8 @@ customShips = {
     'top_hunter_ship': {"name": "Top Hunter", "desc": "From Top Hunter: Roddy & Cathy", "author": "theonlydude"},
     'am2r_ship': {"name": "AM2R", "desc": "From AM2R", "author": "AM2R & theonlydude"},
     'lastresort_ship': {"name": "Last Resort", "desc": "From Last Resort", "author": "theonlydude", "hideSamus": True},
-    'metalslug_ship': {"name": "Metal Slug", "desc": "From Metal Slug", "author": "theonlydude", "showSamusAtTakeoff": True}
+    'metalslug_ship': {"name": "Metal Slug", "desc": "From Metal Slug", "author": "theonlydude", "showSamusAtTakeoff": True},
+    'xwing': {"name": "Crossed Wing", "desc": "Generic ship which happen to have wings in the shape of an X", "author": "theonlydude", "hideSamus": True}
 }
 
 customShipsOrder = [
@@ -35,5 +36,6 @@ customShipsOrder = [
     'Red-M0nk3ySMShip1',
     'Red-M0nk3ySMShip2',
     'Red-M0nk3ySMShip3',
-    'Red-M0nk3ySMShip4'
+    'Red-M0nk3ySMShip4',
+    'xwing'
 ]
