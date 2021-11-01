@@ -23,7 +23,7 @@
         "description": "Super Metroid soudtrack with retro sounding samples",
         "spc_path": "SM_Retro_Zebes/RetroZebes_LowerNorfair.spc"
     },
-    "RetroZebes_Maridia": {
+    "RetroZebes_EastMaridia": {
         "nspc_path": "SM_Retro_Zebes/RetroZebes_Maridia.bin",
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
@@ -31,7 +31,7 @@
         "description": "Super Metroid soudtrack with retro sounding samples",
         "spc_path": "SM_Retro_Zebes/RetroZebes_Maridia1.spc"
     },
-    "RetroZebes_Maridia_1": {
+    "RetroZebes_WestMaridia": {
         "nspc_path": "SM_Retro_Zebes/RetroZebes_Maridia.bin",
         "track_index": 1,
         "original_author": "Kenji Yamamoto",

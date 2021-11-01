@@ -47,7 +47,7 @@
         "description": "Alternate take on Super Metroid soudtrack",
         "spc_path": "SM_Alternate_Zebes/AlternateZebes_LowerNorfair.spc"
     },
-    "AlternateZebes_Maridia": {
+    "AlternateZebes_EastMaridia": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_Maridia.bin",
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
@@ -55,7 +55,7 @@
         "description": "Alternate take on Super Metroid soudtrack",
         "spc_path": "SM_Alternate_Zebes/AlternateZebes_Maridia1.spc"
     },
-    "AlternateZebes_Maridia_1": {
+    "AlternateZebes_WestMaridia": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_Maridia.bin",
         "track_index": 1,
         "original_author": "Kenji Yamamoto",
@@ -103,7 +103,7 @@
         "description": "Alternate take on Super Metroid soudtrack",
         "spc_path": "SM_Alternate_Zebes/AlternateZebes_SpacePirates1.spc"
     },
-    "AlternateZebes_SpacePirates_1": {
+    "AlternateZebes_G4": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_SpacePirates.bin",
         "track_index": 1,
         "original_author": "Kenji Yamamoto",
