@@ -931,6 +931,21 @@
             17692
         ]
     },
+    "MMC_Server/Secret_Of_The_Forest_v1.0.nspc": {
+        "md5sum": "a628fd6422dc273fd4c22b5bdc57802f",
+        "block_headers_offsets": [
+            0,
+            11713,
+            11757,
+            11821,
+            11827,
+            16822,
+            23274,
+            23280,
+            23289,
+            23311
+        ]
+    },
     "MMC_Server/Sheiks_Harp_v1.0.nspc": {
         "md5sum": "c914bbb9f7644003f2b11cdc92fcdfcf",
         "block_headers_offsets": [
