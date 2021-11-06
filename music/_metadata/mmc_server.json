@@ -44,7 +44,7 @@
         "track_index": 0,
         "original_author": "Masanori Adachi Taro Kudo and Albert V",
         "port_author": "Albert V",
-        "description": "Super castlevania IV",
+        "description": "Super Castlevania IV",
         "spc_path": "MMC_Server/Cellar_Custom_v1.0.spc"
     },
     "Chase_Maze_Clocktober_Hack_v1.1": {
@@ -52,7 +52,7 @@
         "track_index": 0,
         "original_author": "Masahiko Kimura and Albert V",
         "port_author": "Albert V",
-        "description": "TODO",
+        "description": "Old (2019) Arrangement by Albert V",
         "spc_path": "MMC_Server/Chase_Maze_Clocktober_Hack_v1.1.spc"
     },
     "Choirs_of_the_Temple_v1.0": {
@@ -76,7 +76,7 @@
         "track_index": 0,
         "original_author": "Michiru Yamane",
         "port_author": "Albert V",
-        "description": "Arrangement by Albert V, old from 2019",
+        "description": "Old (2019) Arrangement by Albert V",
         "spc_path": "MMC_Server/Clocktober_-_Castle_Corridor_v1.0.spc"
     },
     "Custom_Parasite_Queen_v1.0": {
@@ -116,7 +116,7 @@
         "track_index": 0,
         "original_author": "Kenji Yamamoto and Albert V",
         "port_author": "Albert V",
-        "description": "Metroid Fusion",
+        "description": "Metroid Fusion - Albert V Arrangement",
         "spc_path": "MMC_Server/Dark_Sector_6_Small_arrangement.spc"
     },
     "Deku_Tree_v1.0": {
@@ -297,7 +297,7 @@
         "original_author": "Albert V",
         "port_author": "Albert V",
         "description": "Echo buffer must be separated! or use Zsnes",
-        "spc_path": ""
+        "spc_path": "MMC_Server/Let_The_Draygon_Fly_v1.0.spc"
     },
     "Lonely_Halls": {
         "nspc_path": "MMC_Server/Lonely_Halls.nspc",
@@ -320,7 +320,7 @@
         "track_index": 0,
         "original_author": "Michiru Yamane",
         "port_author": "Albert V",
-        "description": "Albert's Arrangement, from Circle of the moon Old song from 2019",
+        "description": "Old (2019) Arrangement by Albert V, From Circle of the moon",
         "spc_path": "MMC_Server/Machine_Tower_v1.1.spc"
     },
     "Machine_Tower_v1.2": {
@@ -328,7 +328,7 @@
         "track_index": 0,
         "original_author": "Michiru Yamane",
         "port_author": "Albert V",
-        "description": "Albert's Arrangement, from Circle of the moon Old song from 2020",
+        "description": "Old (2020) Arrangement by Albert V, From Circle of the moon",
         "spc_path": "MMC_Server/Machine_Tower_v1.2.spc"
     },
     "Magmoor_Caverns_Entrance_v1.0": {
@@ -344,7 +344,7 @@
         "track_index": 0,
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
-        "description": "The legend of Zelda Ocarina of time",
+        "description": "The legend of Zelda - Majora's Mask",
         "spc_path": "MMC_Server/Music_Box_House_v1.0.spc"
     },
     "Opus_13_v1.1": {
@@ -360,7 +360,7 @@
         "track_index": 0,
         "original_author": "Akihiro Minakata",
         "port_author": "Albert V",
-        "description": "Dracula X",
+        "description": "Super Castlevania IV",
         "spc_path": "MMC_Server/Pillared_Corridor_SM_S.spc"
     },
     "Prime_MainMenu": {
@@ -394,7 +394,7 @@
         "track_index": 0,
         "original_author": "Kenji Yamamoto and Albert V",
         "port_author": "Albert V",
-        "description": "Metroid Fusion, Custom Arrangement from Albert V",
+        "description": "Metroid Fusion, Custom Arrangement by Albert V",
         "spc_path": "MMC_Server/Sector_4_AQA_Custom_Remix_v1.0.spc"
     },
     "Sector_5_ARC_Low-Temperature_Area_v1.0": {
@@ -451,7 +451,7 @@
         "track_index": 0,
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
-        "description": "The legend of Zelda - The Minish Cup",
+        "description": "The legend of Zelda - The Minish Cap",
         "spc_path": "MMC_Server/SM_Hyrule_Town_-_TLOZMC.spc"
     },
     "SM_Satellite_SM": {
@@ -467,7 +467,7 @@
         "track_index": 0,
         "original_author": "Sotaro Tojima",
         "port_author": "Albert V",
-        "description": "Castlevania Circle of the Moon",
+        "description": "Arrangement by Albert V",
         "spc_path": "MMC_Server/SM_The_Sinking_Old_Sanctuary_v1.1.spc"
     },
     "SM_The_Trick_Manor_v1.1": {
@@ -644,10 +644,10 @@
     "Zelda_Ocarina_of_Time_Goron_City_v1.1": {
         "nspc_path": "MMC_Server/Zelda_Ocarina_of_Time_Goron_City_v1.1.nspc",
         "track_index": 0,
-        "original_author": "TODOKoji Kondo Toru Minegishi",
+        "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
         "description": "The legend of Zelda - Ocarina of time",
-        "spc_path": ""
+        "spc_path": "Zelda_Ocarina_of_Time_Goron_City_v1.spc"
     },
     "Zeros_Theme_v0.8.3": {
         "nspc_path": "MMC_Server/Zeros_Theme_v0.8.3.nspc",
@@ -656,5 +656,12 @@
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Zeros_Theme_v0.8.3.spc"
-    }
+    },
+    "Zeros_Theme_v0.8.3": {
+        "nspc_path": "MMC_Server/Secret_Of_The_Forest_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "Yasunori Mitsuda",
+        "port_author": "Albert V",
+        "description": "Chrono Trigger",
+        "spc_path": "MMC_Server/Secret_Of_The_Forest_v1.0.spc"
 }
