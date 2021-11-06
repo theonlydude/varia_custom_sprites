@@ -85,6 +85,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Albert V",
         "description": "Echo buffer must be set seperate!",
+        "group": "Memory Violation",
         "spc_path": "MMC_Server/Custom_Parasite_Queen_v1.0.spc"
     },
     "Custom_Remix_Kraids_Lair_-_Metroid_Zero_Mission_V1.0": {
@@ -248,6 +249,7 @@
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
         "description": "Echo buffer feacture must set separate, or use Zsnes",
+        "group": "Memory Violation",
         "spc_path": "MMC_Server/High_Echo_Forest_Temple_v1.1.spc"
     },
     "House_Theme_v1.1": {
