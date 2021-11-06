@@ -403,7 +403,15 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "Albert V",
         "description": "Metroid Fusion",
-        "spc_path": "MMC_Server/Sector_5_ARC_Low-Temperature_Area_v1.0.spc"
+        "spc_path": "MMC_Server/Sector_5_ARC_Low-Temperature_Area_v1.0.spc"},
+    },
+    "Secret_Of_The_Forest_v1.0": {
+        "nspc_path": "MMC_Server/Secret_Of_The_Forest_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "Yasunori Mitsuda",
+        "port_author": "Albert V",
+        "description": "Chrono Trigger",
+        "spc_path": "MMC_Server/Secret_Of_The_Forest_v1.0.spc"
     },
     "Sheiks_Harp_v1.0": {
         "nspc_path": "MMC_Server/Sheiks_Harp_v1.0.nspc",
@@ -656,12 +664,4 @@
         "port_author": "Apollo",
         "description": "TODO",
         "spc_path": "MMC_Server/Zeros_Theme_v0.8.3.spc"
-    },
-    "Zeros_Theme_v0.8.3": {
-        "nspc_path": "MMC_Server/Secret_Of_The_Forest_v1.0.nspc",
-        "track_index": 0,
-        "original_author": "Yasunori Mitsuda",
-        "port_author": "Albert V",
-        "description": "Chrono Trigger",
-        "spc_path": "MMC_Server/Secret_Of_The_Forest_v1.0.spc"
 }
