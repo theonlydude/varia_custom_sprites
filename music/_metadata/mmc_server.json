@@ -413,7 +413,6 @@
         "original_author": "Yasunori Mitsuda",
         "port_author": "Albert V",
         "description": "Chrono Trigger",
-        "group": "Memory Violation",
         "spc_path": "MMC_Server/Secret_Of_The_Forest_v1.0.spc"
     },
     "Sheiks_Harp_v1.0": {
