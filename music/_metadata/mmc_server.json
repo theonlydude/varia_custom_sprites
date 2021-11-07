@@ -658,7 +658,7 @@
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
         "description": "The legend of Zelda - Ocarina of time",
-        "spc_path": "Zelda_Ocarina_of_Time_Goron_City_v1.spc"
+        "spc_path": "MMC_Server/Zelda_Ocarina_of_Time_Goron_City_v1.spc"
     },
     "Zeros_Theme_v0.8.3": {
         "nspc_path": "MMC_Server/Zeros_Theme_v0.8.3.nspc",
