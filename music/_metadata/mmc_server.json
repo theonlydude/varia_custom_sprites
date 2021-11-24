@@ -142,15 +142,6 @@
         "group": "Albert V Arrangement",
         "spc_path": "MMC_Server/Dark_Sector_6_Small_arrangement.spc"
     },
-    "Inside the Deku Tree": {
-        "nspc_path": "MMC_Server/Deku_Tree_v1.0.nspc",
-        "track_index": 0,
-        "original_author": "Koji Kondo Toru Minegishi",
-        "port_author": "Albert V",
-        "description": "Version 1.0",
-        "group": "The legend of Zelda ocarina of time",
-        "spc_path": "MMC_Server/Deku_Tree_v1.0.spc"
-    },
     "Dire Dire Docks (Custom)": {
         "nspc_path": "MMC_Server/New_Dire_Dire_Docks_Custom_v1.0.nspc",
         "track_index": 0,
@@ -223,6 +214,15 @@
         "group": "Super Castlevania IV",
         "spc_path": "MMC_Server/Forest_of_Monsters_v1.0.spc"
     },
+    "Forest Temple H.E.": {
+        "nspc_path": "MMC_Server/High_Echo_Forest_Temple_v1.1.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo Toru Minegishi",
+        "port_author": "Albert V",
+        "description": "Version 1.1 Great port, but uses more Echo frames",
+        "group": "The legend of Zelda ocarina of time",
+        "spc_path": "MMC_Server/High_Echo_Forest_Temple_v1.1.spc"
+    },
     "Forest Temple": {
         "nspc_path": "MMC_Server/Forest_Temple_v1.0.nspc",
         "track_index": 0,
@@ -249,13 +249,22 @@
         "description": "Version 1.0",
         "spc_path": "MMC_Server/Ghosts_n_Goblins.spc"
     },
+    "Goron City": {
+        "nspc_path": "MMC_Server/Zelda_Ocarina_of_Time_Goron_City_v1.1.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo Toru Minegishi",
+        "port_author": "Albert V",
+        "description": "Version 1.1",
+        "group": "The legend of Zelda ocarina of time",
+        "spc_path": "Zelda_Ocarina_of_Time_Goron_City_v1.spc"
+    },
     "Great Bay Temple": {
         "nspc_path": "MMC_Server/Great_Bay_Temple_v1.0.nspc",
         "track_index": 0,
         "original_author": "Yusuke Nakano Takaya Imamura",
         "port_author": "Albert V",
         "description": "Version 1.0",
-        "group": "the legend of Zelda - Majora's mask",
+        "group": "The legend of Zelda - Majora's mask",
         "spc_path": "MMC_Server/Great_Bay_Temple_v1.0.spc"
     },
     "Guiles Theme": {
@@ -307,15 +316,6 @@
         "description": "Version 1.0",
         "spc_path": "MMC_Server/Halo_Wars_Insignificantia_v1.spc"
     },
-    "Forest Temple (High Echo)": {
-        "nspc_path": "MMC_Server/High_Echo_Forest_Temple_v1.1.nspc",
-        "track_index": 0,
-        "original_author": "Koji Kondo Toru Minegishi",
-        "port_author": "Albert V",
-        "description": "Version 1.1 Great port, but uses more Echo frames",
-        "group": "The legend of Zelda ocarina of time",
-        "spc_path": "MMC_Server/High_Echo_Forest_Temple_v1.1.spc"
-    },
     "House Theme": {
         "nspc_path": "MMC_Server/House_Theme_v1.1.nspc",
         "track_index": 0,
@@ -324,6 +324,24 @@
         "description": "version 1.1",
         "group": "The legend of Zelda ocarina of time",
         "spc_path": "MMC_Server/House_Theme_v1.1.spc"
+    },
+    "Inside the Deku Tree": {
+        "nspc_path": "MMC_Server/Deku_Tree_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo Toru Minegishi",
+        "port_author": "Albert V",
+        "description": "Version 1.0",
+        "group": "The legend of Zelda ocarina of time",
+        "spc_path": "MMC_Server/Deku_Tree_v1.0.spc"
+    },
+    " Inside the Deku Tree H.E.": {
+        "nspc_path": "MMC_Server/Deku_Tree v1.1.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo Toru Minegishi",
+        "port_author": "Albert V",
+        "description": "version 1.1",
+        "group": "The legend of Zelda ocarina of time",
+        "spc_path": "MMC_Server/Deku_Tree v1.1.spc"
     },
     "Killer Instinct - Main Theme": {
         "nspc_path": "MMC_Server/Killer_Instinct_Main_Theme.nspc",
@@ -748,6 +766,15 @@
         "group": "Albert V Arrangement",
         "spc_path": "MMC_Server/Vampire_Killer_SM_SF_v1.2.spc"
     },
+    "SM - World 3-1": {
+        "nspc_path": "MMC_Server/World_3-1_2019.nspc",
+        "track_index": 0,
+        "original_author": "TODO",
+        "port_author": "Albert V",
+        "description": "Version 1.0 Arrangement by Albert V from Super Mario brother Wii",
+        "group": "Albert V Arrangement",
+        "spc_path": "MMC_Server/World_3-1_2019.spc"
+    },
     "Viles Intro": {
         "nspc_path": "MMC_Server/Viles_Intro_v0.3.nspc",
         "track_index": 0,
@@ -783,15 +810,6 @@
         "group": "Memory Violation",
         "spc_path": "MMC_Server/Wind_Waker_-_Dragon_Roost_Island_v0.1.spc"
     },
-    "SM - World 3-1": {
-        "nspc_path": "MMC_Server/World_3-1_2019.nspc",
-        "track_index": 0,
-        "original_author": "TODO",
-        "port_author": "Albert V",
-        "description": "Version 1.0 Arrangement by Albert V from Super Mario brother Wii",
-        "group": "Albert V Arrangement",
-        "spc_path": "MMC_Server/World_3-1_2019.spc"
-    },
     "Shop Theme": {
         "nspc_path": "MMC_Server/Zelda_Ocarina_of_Time_-_Shop.nspc",
         "track_index": 0,
@@ -800,15 +818,6 @@
         "description": "The legend of Zelda - Majora's Mask",
         "group": "Memory Violation",
         "spc_path": "MMC_Server/Zelda_Ocarina_of_Time_-_Shop.spc"
-    },
-    "Goron City": {
-        "nspc_path": "MMC_Server/Zelda_Ocarina_of_Time_Goron_City_v1.1.nspc",
-        "track_index": 0,
-        "original_author": "Koji Kondo Toru Minegishi",
-        "port_author": "Albert V",
-        "description": "Version 1.1",
-        "group": "The legend of Zelda ocarina of time",
-        "spc_path": "Zelda_Ocarina_of_Time_Goron_City_v1.spc"
     },
     "Water World": {
         "nspc_path": "MMC_Server/Water_World_v1.0.nspc",
