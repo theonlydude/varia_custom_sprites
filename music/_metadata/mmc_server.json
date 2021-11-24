@@ -43,6 +43,15 @@
         "group": "Albert V Arrangement",
         "spc_path": "MMC_Server/Bryyo_2019.spc"
     },
+    "Catacombs (Custom)": {
+        "nspc_path": "MMC_Server/Catacombs Custom_v1.1.nspc",
+        "track_index": 0,
+        "original_author": "Sotaro Tojima",
+        "port_author": "Albert V",
+        "description": "Version 1.2",
+        "group": "Castlevania Circle of the Moon",
+        "spc_path": "MMC_Server/Catacombs Custom_v1.1.spc"
+    },
     "Cellar (Custom)": {
         "nspc_path": "MMC_Server/Cellar_Custom_v1.0.nspc",
         "track_index": 0,
@@ -142,6 +151,15 @@
         "group": "The legend of Zelda ocarina of time",
         "spc_path": "MMC_Server/Deku_Tree_v1.0.spc"
     },
+    "Dire Dire Docks (Custom)": {
+        "nspc_path": "MMC_Server/New_Dire_Dire_Docks_Custom_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "Kōji Kondō",
+        "port_author": "Albert V",
+        "description": "Version 1.0",
+        "group": "Super Mario 64",
+        "spc_path": "MMC_Server/New_Dire_Dire_Docks_Custom_v1.0.nspc"
+    },
     "Dragon View": {
         "nspc_path": "MMC_Server/Dragon_View_-_Cave_of_Fire_v0.1.nspc",
         "track_index": 0,
@@ -187,6 +205,15 @@
         "group": "Albert V Arrangement",
         "spc_path": "MMC_Server/Flooded-ruins_v1.1.spc"
     },
+    "Forbidden Area": {
+        "nspc_path": "MMC_Server/Forbidden_Area v1.1.nspc",
+        "track_index": 0,
+        "original_author": "Sotaro Tojima",
+        "port_author": "Albert V",
+        "description": "Version 1.1",
+        "group": "caslevania Circle of the Moon",
+        "spc_path": "MMC_Server/Forbidden_Area v1.1.spc"
+    },
     "Forest of Monsters (Custom)": {
         "nspc_path": "MMC_Server/Forest_of_Monsters_v1.0.nspc",
         "track_index": 0,
@@ -222,6 +249,15 @@
         "description": "Version 1.0",
         "spc_path": "MMC_Server/Ghosts_n_Goblins.spc"
     },
+    "Great Bay Temple": {
+        "nspc_path": "MMC_Server/Great_Bay_Temple_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "Yusuke Nakano Takaya Imamura",
+        "port_author": "Albert V",
+        "description": "Version 1.0",
+        "group": "the legend of Zelda - Majora's mask",
+        "spc_path": "MMC_Server/Great_Bay_Temple_v1.0.spc"
+    },
     "Guiles Theme": {
         "nspc_path": "MMC_Server/Guiles_Theme_v0.5.nspc",
         "track_index": 0,
@@ -229,6 +265,15 @@
         "port_author": "Apollo",
         "description": "Version 0.5",
         "spc_path": "MMC_Server/Guiles_Theme_v0.5_FixedbyAlbertV.spc"
+    },
+    "Orpheon AV's Remix": {
+        "nspc_path": "MMC_Server/Orpheon AV's Remix.nspc",
+        "track_index": 0,
+        "original_author": "MCCAD",
+        "port_author": "Albert V",
+        "description": "Version 1.0",
+        "group": "Albert V Arrangement",
+        "spc_path": "MMC_Server/Orpheon AV's Remix.spc"
     },
     "Halo - Skyline Were The Desperate Measures": {
         "nspc_path": "MMC_Server/Halo3ODST_Skyline_Were_The_Desperate_Measures_v0.7.nspc",
@@ -306,6 +351,15 @@
         "description": "Version 1.0 Old (2019)",
         "group": "Albert V Arrangement",
         "spc_path": "MMC_Server/La_Mulana_Custom_v1.0_2019.spc"
+    },
+    "Lethal Lava Land": {
+        "nspc_path": "MMC_Server/Lethal Lava Land.nspc",
+        "track_index": 0,
+        "original_author": "Kōji Kondō",
+        "port_author": "Albert V",
+        "description": "Version 1.0, I had to removed one intrument cuz of some limitations so does not sound the same :/",
+        "group": "Super Mario 64",
+        "spc_path": "MMC_Server/Lethal Lava Land.spc"
     },
     "SM Lost Woods": {
         "nspc_path": "MMC_Server/Legend_of_Zelda_-_Ocarina_of_Time_-_Lost_Woods.nspc",
@@ -415,6 +469,15 @@
         "group": "Memory Violation",
         "spc_path": "MMC_Server/Resident_Evil_2_Save_Room_theme_v0.2.spc"
     },
+    "Save Room (Beta).spc": {
+        "nspc_path": "MMC_Server/RE2_saveroom beta.nspc",
+        "track_index": 0,
+        "original_author": "Shinji Mikami",
+        "port_author": "Albert V",
+        "description": "Beta version, it has some bugs so, There will be more updates for it",
+        "group": "Resident Evil 2",
+        "spc_path": "MMC_Server/RE2_saveroom beta.spc"
+    },
     "Samus Escape Remix (Custom)": {
         "nspc_path": "MMC_Server/Samus_Escape_remix_v1.2.nspc",
         "track_index": 0,
@@ -485,7 +548,16 @@
         "port_author": "Albert V",
         "description": "Version 1.0",
         "group": "Super Castlevania IV",
-        "spc_path": "MMC_Server/SIMONS_THEME_CUSTOM_v1.0.spc"
+        "spc_path": "MMC_Server/SIMONS_THEME_CUSTOM_v1.0.spc"    
+    },
+    "Sinking Old Sanctuary": {
+        "nspc_path": "MMC_Server/Sinking_Old_Sanctuary_v1.1.nspc",
+        "track_index": 0,
+        "original_author": "Sotaro Tojima",
+        "port_author": "Albert V",
+        "description": "Version 1.1",
+        "group": "Castlevania Circle of the Moon",
+        "spc_path": "MMC_Server/Sinking_Old_Sanctuary_v1.1.spc"
     },
     "SM House Theme": {
         "nspc_path": "MMC_Server/SM_House_Theme_v1.0.nspc",
@@ -531,6 +603,15 @@
         "description": "version 1.1 Arrangement by Albert V",
         "group": "Castlevania Circle of the Mooon",
         "spc_path": "MMC_Server/SM_The_Trick_Manor_v1.1.spc"
+    },
+    "SM Yoshis island (Custom)": {
+        "nspc_path": "MMC_Server/Super_Mario_World_2_Yoshis_island_.nspc",
+        "track_index": 0,
+        "original_author": "Yugueta Mino be Chamo Chis",
+        "port_author": "Albert V",
+        "description": "Version 1.0",
+        "group": "Super Mario",
+        "spc_path": "MMC_Server/Super_Mario_World_2_Yoshis_island.spc"
     },
     "Stairway Boss": {
         "nspc_path": "MMC_Server/Stairway_Boss_v1.0.nspc",
@@ -682,7 +763,16 @@
         "port_author": "Albert V",
         "description": "Version 1.0",
         "group": "The legend of Zelda Ocarina of Time",
-        "spc_path": "MMC_Server/Windmill_Hut_v1.0.spc"
+        "spc_path": "MMC_Server/Windmill_Hut_v1.0.spc" 
+    },
+    "The luminom": {
+        "nspc_path": "MMC_Server/The_luminom.nspc",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Albert V",
+        "description": "Version 1.0",
+        "group": "Metroid Prime 2",
+        "spc_path": "MMC_Server/The_luminom.spc"
     },
     "TLOZ Wind Waker - Dragon Roost Island": {
         "nspc_path": "MMC_Server/Wind_Waker_-_Dragon_Roost_Island_v0.1.nspc",
@@ -719,6 +809,15 @@
         "description": "Version 1.1",
         "group": "The legend of Zelda ocarina of time",
         "spc_path": "Zelda_Ocarina_of_Time_Goron_City_v1.spc"
+    },
+    "Water World": {
+        "nspc_path": "MMC_Server/Water_World_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "David Wise",
+        "port_author": "Albert V",
+        "description": "Version 1.0 this song overwrites the sfx, so is better to use it for endings or intros",
+        "group": "Donkey Kong",
+        "spc_path": "MMC_Server/Water_World_v1.0.spc"
     },
     "Zeros Theme": {
         "nspc_path": "MMC_Server/Zeros_Theme_v0.8.3.nspc",
