@@ -307,6 +307,20 @@
             24844
         ]
     },
+    "MMC_Server/Catacombs_Custom_v1.1.nspc": {
+        "md5sum": "ebb0d99a469211863ad11fc6ef4102e6",
+        "block_headers_offsets": [
+            0,
+            14899,
+            14931,
+            14977,
+            14983,
+            17317,
+            17323,
+            17332,
+            17354
+        ]
+    },
     "MMC_Server/Cellar_Custom_v1.0.nspc": {
         "md5sum": "94416e41499598729b35679b0c6a5a41",
         "block_headers_offsets": [
@@ -446,18 +460,18 @@
             22686
         ]
     },
-    "MMC_Server/Deku_Tree_v1.0.nspc": {
-        "md5sum": "8183f91e507610279b02fc7b19f4420f",
+    "MMC_Server/New_Dire_Dire_Docks_Custom_v1.0.nspc": {
+        "md5sum": "41e16742a847e1951c1e8ed861241256",
         "block_headers_offsets": [
             0,
-            11893,
-            11901,
-            11911,
-            11917,
-            14095,
-            14101,
-            14110,
-            14132
+            19795,
+            19819,
+            19853,
+            19859,
+            24462,
+            24468,
+            24477,
+            24499
         ]
     },
     "MMC_Server/Dragon_View_-_Cave_of_Fire_v0.1.nspc": {
@@ -531,6 +545,21 @@
             22469
         ]
     },
+    "MMC_Server/Forbidden_Area_v1.1.nspc": {
+        "md5sum": "08ef151aaf5d2951cb9fe0036e000199",
+        "block_headers_offsets": [
+            0,
+            6871,
+            6903,
+            6949,
+            6955,
+            11869,
+            24435,
+            24441,
+            24450,
+            24472
+        ]
+    },
     "MMC_Server/Forest_of_Monsters_v1.0.nspc": {
         "md5sum": "c700ebb6b923f3aff12ca0ab883daf73",
         "block_headers_offsets": [
@@ -544,6 +573,21 @@
             24730,
             24739,
             24761
+        ]
+    },
+    "MMC_Server/High_Echo_Forest_Temple_v1.1.nspc": {
+        "md5sum": "82a543ef9464b9b889505e1475042a04",
+        "block_headers_offsets": [
+            0,
+            17500,
+            17524,
+            17558,
+            17564,
+            22620,
+            25002,
+            25008,
+            25017,
+            25039
         ]
     },
     "MMC_Server/Forest_Temple_v1.0.nspc": {
@@ -585,6 +629,34 @@
             24527
         ]
     },
+    "MMC_Server/Zelda_Ocarina_of_Time_Goron_City_v1.1.nspc": {
+        "md5sum": "3866c82a64d03dd7d3a7e721c85ee7e5",
+        "block_headers_offsets": [
+            0,
+            18706,
+            18734,
+            18774,
+            22932,
+            22938,
+            22947,
+            22969
+        ]
+    },
+    "MMC_Server/Great_Bay_Temple_v1.0.nspc": {
+        "md5sum": "4dee74e7d462add340ffcfc4e94bcdf5",
+        "block_headers_offsets": [
+            0,
+            17185,
+            17217,
+            17263,
+            17269,
+            22217,
+            24338,
+            24344,
+            24353,
+            24375
+        ]
+    },
     "MMC_Server/Guiles_Theme_v0.5.nspc": {
         "md5sum": "dbc89e4ef2acfbd7013c20e55cc82c8d",
         "block_headers_offsets": [
@@ -595,6 +667,20 @@
             9425,
             14497,
             16592
+        ]
+    },
+    "MMC_Server/Orpheon_AVs_Remix.nspc": {
+        "md5sum": "cb69945327ba9adf660ba990e42abb70",
+        "block_headers_offsets": [
+            0,
+            17104,
+            17144,
+            17202,
+            17208,
+            19067,
+            19073,
+            19082,
+            19104
         ]
     },
     "MMC_Server/Halo3ODST_Skyline_Were_The_Desperate_Measures_v0.7.nspc": {
@@ -653,21 +739,6 @@
             11361
         ]
     },
-    "MMC_Server/High_Echo_Forest_Temple_v1.1.nspc": {
-        "md5sum": "82a543ef9464b9b889505e1475042a04",
-        "block_headers_offsets": [
-            0,
-            17500,
-            17524,
-            17558,
-            17564,
-            22620,
-            25002,
-            25008,
-            25017,
-            25039
-        ]
-    },
     "MMC_Server/House_Theme_v1.1.nspc": {
         "md5sum": "dc67e408504f75d5f1d9bd40c55b8d0f",
         "block_headers_offsets": [
@@ -680,6 +751,34 @@
             15426,
             15435,
             15457
+        ]
+    },
+    "MMC_Server/Deku_Tree_v1.0.nspc": {
+        "md5sum": "8183f91e507610279b02fc7b19f4420f",
+        "block_headers_offsets": [
+            0,
+            11893,
+            11901,
+            11911,
+            11917,
+            14095,
+            14101,
+            14110,
+            14132
+        ]
+    },
+    "MMC_Server/Deku_Tree_v1.1.nspc": {
+        "md5sum": "eda436630a8c6391e759e9ca4561de71",
+        "block_headers_offsets": [
+            0,
+            11893,
+            11901,
+            11911,
+            11917,
+            14095,
+            14101,
+            14110,
+            14132
         ]
     },
     "MMC_Server/Killer_Instinct_Main_Theme.nspc": {
@@ -723,6 +822,20 @@
             16527,
             16536,
             16558
+        ]
+    },
+    "MMC_Server/Lethal_Lava_Land.nspc": {
+        "md5sum": "9b410f5174b27cb9006b529017c06be3",
+        "block_headers_offsets": [
+            0,
+            19849,
+            19873,
+            19907,
+            19913,
+            24645,
+            24651,
+            24660,
+            24682
         ]
     },
     "MMC_Server/Legend_of_Zelda_-_Ocarina_of_Time_-_Lost_Woods.nspc": {
@@ -888,6 +1001,20 @@
             29365
         ]
     },
+    "MMC_Server/RE2_saveroom_beta.nspc": {
+        "md5sum": "1079cc9010ed9b2454dac305607fc4f1",
+        "block_headers_offsets": [
+            0,
+            19174,
+            19194,
+            19228,
+            19234,
+            19956,
+            19962,
+            19971,
+            19993
+        ]
+    },
     "MMC_Server/Samus_Escape_remix_v1.2.nspc": {
         "md5sum": "47a7738feab7278c268a06d4f1d57b1d",
         "block_headers_offsets": [
@@ -1005,6 +1132,21 @@
             22622
         ]
     },
+    "MMC_Server/Sinking_Old_Sanctuary_v1.1.nspc": {
+        "md5sum": "e9e31217094cf4f68e9081aa34d12888",
+        "block_headers_offsets": [
+            0,
+            11389,
+            11441,
+            11517,
+            11523,
+            16493,
+            24486,
+            24492,
+            24501,
+            24523
+        ]
+    },
     "MMC_Server/SM_House_Theme_v1.0.nspc": {
         "md5sum": "b7ca796718fcd676c9b403fe7b2cb625",
         "block_headers_offsets": [
@@ -1076,6 +1218,20 @@
             23636,
             23645,
             23667
+        ]
+    },
+    "MMC_Server/Super_Mario_World_2_Yoshis_island_.nspc": {
+        "md5sum": "24efc9bb8ab36eb7d57c41946158f973",
+        "block_headers_offsets": [
+            0,
+            15835,
+            15867,
+            15913,
+            15919,
+            19937,
+            19943,
+            19952,
+            19974
         ]
     },
     "MMC_Server/Stairway_Boss_v1.0.nspc": {
@@ -1287,6 +1443,20 @@
             19067
         ]
     },
+    "MMC_Server/World_3-1_2019.nspc": {
+        "md5sum": "277e355166f6cad2f787c436658aacfb",
+        "block_headers_offsets": [
+            0,
+            8626,
+            8646,
+            8674,
+            8680,
+            13281,
+            13287,
+            13296,
+            13318
+        ]
+    },
     "MMC_Server/Viles_Intro_v0.3.nspc": {
         "md5sum": "83f1f1820b227c8d5d63303caaf4463a",
         "block_headers_offsets": [
@@ -1314,6 +1484,20 @@
             24295
         ]
     },
+    "MMC_Server/The_luminom.nspc": {
+        "md5sum": "695dafac70a7ebee12ce56afe3a93894",
+        "block_headers_offsets": [
+            0,
+            18580,
+            18588,
+            18598,
+            18604,
+            19005,
+            19011,
+            19020,
+            19042
+        ]
+    },
     "MMC_Server/Wind_Waker_-_Dragon_Roost_Island_v0.1.nspc": {
         "md5sum": "44208ba28b85fca8701672fb0bb21d84",
         "block_headers_offsets": [
@@ -1326,20 +1510,6 @@
             21823,
             21832,
             21854
-        ]
-    },
-    "MMC_Server/World_3-1_2019.nspc": {
-        "md5sum": "277e355166f6cad2f787c436658aacfb",
-        "block_headers_offsets": [
-            0,
-            8626,
-            8646,
-            8674,
-            8680,
-            13281,
-            13287,
-            13296,
-            13318
         ]
     },
     "MMC_Server/Zelda_Ocarina_of_Time_-_Shop.nspc": {
@@ -1356,17 +1526,19 @@
             42204
         ]
     },
-    "MMC_Server/Zelda_Ocarina_of_Time_Goron_City_v1.1.nspc": {
-        "md5sum": "3866c82a64d03dd7d3a7e721c85ee7e5",
+    "MMC_Server/Water_World_v1.0.nspc": {
+        "md5sum": "875ba6fca6fe8b292e2c485c17375faf",
         "block_headers_offsets": [
             0,
-            18706,
-            18734,
-            18774,
-            22932,
-            22938,
-            22947,
-            22969
+            14053,
+            14105,
+            14181,
+            14187,
+            19074,
+            23284,
+            23290,
+            23299,
+            23321
         ]
     },
     "MMC_Server/Zeros_Theme_v0.8.3.nspc": {

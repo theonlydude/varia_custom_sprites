@@ -44,13 +44,13 @@
         "spc_path": "MMC_Server/Bryyo_2019.spc"
     },
     "Catacombs (Custom)": {
-        "nspc_path": "MMC_Server/Catacombs Custom_v1.1.nspc",
+        "nspc_path": "MMC_Server/Catacombs_Custom_v1.1.nspc",
         "track_index": 0,
         "original_author": "Sotaro Tojima",
         "port_author": "Albert V",
         "description": "Version 1.2",
         "group": "Castlevania Circle of the Moon",
-        "spc_path": "MMC_Server/Catacombs Custom_v1.1.spc"
+        "spc_path": "MMC_Server/Catacombs_Custom_v1.1.spc"
     },
     "Cellar (Custom)": {
         "nspc_path": "MMC_Server/Cellar_Custom_v1.0.nspc",
@@ -197,13 +197,13 @@
         "spc_path": "MMC_Server/Flooded-ruins_v1.1.spc"
     },
     "Forbidden Area": {
-        "nspc_path": "MMC_Server/Forbidden_Area v1.1.nspc",
+        "nspc_path": "MMC_Server/Forbidden_Area_v1.1.nspc",
         "track_index": 0,
         "original_author": "Sotaro Tojima",
         "port_author": "Albert V",
         "description": "Version 1.1",
         "group": "caslevania Circle of the Moon",
-        "spc_path": "MMC_Server/Forbidden_Area v1.1.spc"
+        "spc_path": "MMC_Server/Forbidden_Area_v1.1.spc"
     },
     "Forest of Monsters (Custom)": {
         "nspc_path": "MMC_Server/Forest_of_Monsters_v1.0.nspc",
@@ -276,13 +276,13 @@
         "spc_path": "MMC_Server/Guiles_Theme_v0.5_FixedbyAlbertV.spc"
     },
     "Orpheon AV's Remix": {
-        "nspc_path": "MMC_Server/Orpheon AV's Remix.nspc",
+        "nspc_path": "MMC_Server/Orpheon_AVs_Remix.nspc",
         "track_index": 0,
         "original_author": "MCCAD",
         "port_author": "Albert V",
         "description": "Version 1.0",
         "group": "Albert V Arrangement",
-        "spc_path": "MMC_Server/Orpheon AV's Remix.spc"
+        "spc_path": "MMC_Server/Orpheon_AVs_Remix.spc"
     },
     "Halo - Skyline Were The Desperate Measures": {
         "nspc_path": "MMC_Server/Halo3ODST_Skyline_Were_The_Desperate_Measures_v0.7.nspc",
@@ -335,13 +335,13 @@
         "spc_path": "MMC_Server/Deku_Tree_v1.0.spc"
     },
     " Inside the Deku Tree H.E.": {
-        "nspc_path": "MMC_Server/Deku_Tree v1.1.nspc",
+        "nspc_path": "MMC_Server/Deku_Tree_v1.1.nspc",
         "track_index": 0,
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
         "description": "version 1.1",
         "group": "The legend of Zelda ocarina of time",
-        "spc_path": "MMC_Server/Deku_Tree v1.1.spc"
+        "spc_path": "MMC_Server/Deku_Tree_v1.1.spc"
     },
     "Killer Instinct - Main Theme": {
         "nspc_path": "MMC_Server/Killer_Instinct_Main_Theme.nspc",
@@ -371,13 +371,13 @@
         "spc_path": "MMC_Server/La_Mulana_Custom_v1.0_2019.spc"
     },
     "Lethal Lava Land": {
-        "nspc_path": "MMC_Server/Lethal Lava Land.nspc",
+        "nspc_path": "MMC_Server/Lethal_Lava_Land.nspc",
         "track_index": 0,
         "original_author": "Kōji Kondō",
         "port_author": "Albert V",
         "description": "Version 1.0, I had to removed one intrument cuz of some limitations so does not sound the same :/",
         "group": "Super Mario 64",
-        "spc_path": "MMC_Server/Lethal Lava Land.spc"
+        "spc_path": "MMC_Server/Lethal_Lava_Land.spc"
     },
     "SM Lost Woods": {
         "nspc_path": "MMC_Server/Legend_of_Zelda_-_Ocarina_of_Time_-_Lost_Woods.nspc",
@@ -488,13 +488,13 @@
         "spc_path": "MMC_Server/Resident_Evil_2_Save_Room_theme_v0.2.spc"
     },
     "Save Room (Beta).spc": {
-        "nspc_path": "MMC_Server/RE2_saveroom beta.nspc",
+        "nspc_path": "MMC_Server/RE2_saveroom_beta.nspc",
         "track_index": 0,
         "original_author": "Shinji Mikami",
         "port_author": "Albert V",
         "description": "Beta version, it has some bugs so, There will be more updates for it",
         "group": "Resident Evil 2",
-        "spc_path": "MMC_Server/RE2_saveroom beta.spc"
+        "spc_path": "MMC_Server/RE2_saveroom_beta.spc"
     },
     "Samus Escape Remix (Custom)": {
         "nspc_path": "MMC_Server/Samus_Escape_remix_v1.2.nspc",
