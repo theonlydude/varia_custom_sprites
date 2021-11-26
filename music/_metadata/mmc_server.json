@@ -321,9 +321,9 @@
         "track_index": 0,
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
-        "description": "Echo buffer feacture must set separate, or use Zsnes",
+        "description": "Echo buffer feature must set separate, or use Zsnes",
         "group": "Memory Violation",
-        "spc_path": "MMC_Server/High_Echo_Forest_Temple_v1.1.spc"
+        "spc_path": "MMC_Server/House_Theme_v1.1.spc"
     },
     "Inside the Deku Tree": {
         "nspc_path": "MMC_Server/Deku_Tree_v1.0.nspc",
