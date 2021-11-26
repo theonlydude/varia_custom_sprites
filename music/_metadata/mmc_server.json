@@ -102,8 +102,8 @@
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "Albert V",
-        "description": "Version 1.0 Scape maybe? IDK use it as you preferd :)",
-        "group": "Albert V Arrangement",
+        "description": "Echo buffer must be set seperate!",
+        "group": "Memory Violation",
         "spc_path": "MMC_Server/Custom_Parasite_Queen_v1.0.spc"
     },
     "Kraids Lair JX Remix (Custom)": {
@@ -321,9 +321,9 @@
         "track_index": 0,
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
-        "description": "version 1.1",
-        "group": "The legend of Zelda ocarina of time",
-        "spc_path": "MMC_Server/House_Theme_v1.1.spc"
+        "description": "Echo buffer feacture must set separate, or use Zsnes",
+        "group": "Memory Violation",
+        "spc_path": "MMC_Server/High_Echo_Forest_Temple_v1.1.spc"
     },
     "Inside the Deku Tree": {
         "nspc_path": "MMC_Server/Deku_Tree_v1.0.nspc",
@@ -824,8 +824,8 @@
         "track_index": 0,
         "original_author": "David Wise",
         "port_author": "Albert V",
-        "description": "Version 1.0 this song overwrites the sfx, so is better to use it for endings or intros",
-        "group": "Donkey Kong",
+        "description": "Donkey Kong - Version 1.0 this song overwrites the sfx, so is better to use it for endings or intros",
+        "group": "Memory Violation",
         "spc_path": "MMC_Server/Water_World_v1.0.spc"
     },
     "Zeros Theme": {
