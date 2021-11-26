@@ -487,7 +487,7 @@
         "group": "Memory Violation",
         "spc_path": "MMC_Server/Resident_Evil_2_Save_Room_theme_v0.2.spc"
     },
-    "Save Room (Beta).spc": {
+    "Save Room (Beta)": {
         "nspc_path": "MMC_Server/RE2_saveroom_beta.nspc",
         "track_index": 0,
         "original_author": "Shinji Mikami",
