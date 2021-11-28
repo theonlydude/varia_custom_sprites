@@ -256,7 +256,7 @@
         "port_author": "Albert V",
         "description": "Version 1.1",
         "group": "The legend of Zelda ocarina of time",
-        "spc_path": "Zelda_Ocarina_of_Time_Goron_City_v1.spc"
+        "spc_path": "MMC_Server/Zelda_Ocarina_of_Time_Goron_City_v1.spc"
     },
     "Great Bay Temple": {
         "nspc_path": "MMC_Server/Great_Bay_Temple_v1.0.nspc",
