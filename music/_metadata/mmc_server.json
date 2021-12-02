@@ -61,6 +61,15 @@
         "group": "Super Castlevania IV",
         "spc_path": "MMC_Server/Cellar_Custom_v1.0.spc"
     },
+    "Cementery": {
+        "nspc_path": "MMC_Server/Cemetery_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "Masahiko Kimura",
+        "port_author": "Albert V",
+        "description": "Version 1.0",
+        "group": "Dracula X",
+        "spc_path": "MMC_Server/Cemetery_v1.0.spc"
+    },
     "Chase Maze (Custom)": {
         "nspc_path": "MMC_Server/Chase_Maze_Clocktober_Hack_v1.1.nspc",
         "track_index": 0,
@@ -115,7 +124,7 @@
         "group": "Metroid Zero Mission",
         "spc_path": "MMC_Server/Custom_Remix_Kraids_Lair_-_Metroid_Zero_Mission_V1.0.spc"
     },
-    "Underwater Torvus": {
+    "Underwater Torvus (Custom)": {
         "nspc_path": "MMC_Server/Custom_Underwater_Torvus_2019.nspc",
         "track_index": 0,
         "original_author": "Kenji Yamamoto And Albert V",
@@ -149,7 +158,7 @@
         "port_author": "Albert V",
         "description": "Version 1.0",
         "group": "Super Mario 64",
-        "spc_path": "MMC_Server/New_Dire_Dire_Docks_Custom_v1.0.nspc"
+        "spc_path": "MMC_Server/New_Dire_Dire_Docks_Custom_v1.0.spc"
     },
     "Dragon View": {
         "nspc_path": "MMC_Server/Dragon_View_-_Cave_of_Fire_v0.1.nspc",
@@ -202,7 +211,7 @@
         "original_author": "Sotaro Tojima",
         "port_author": "Albert V",
         "description": "Version 1.1",
-        "group": "caslevania Circle of the Moon",
+        "group": "Castlevania Circle of the Moon",
         "spc_path": "MMC_Server/Forbidden_Area_v1.1.spc"
     },
     "Forest of Monsters (Custom)": {
@@ -214,22 +223,13 @@
         "group": "Super Castlevania IV",
         "spc_path": "MMC_Server/Forest_of_Monsters_v1.0.spc"
     },
-    "Forest Temple H.E.": {
-        "nspc_path": "MMC_Server/High_Echo_Forest_Temple_v1.1.nspc",
-        "track_index": 0,
-        "original_author": "Koji Kondo Toru Minegishi",
-        "port_author": "Albert V",
-        "description": "Version 1.1 Great port, but uses more Echo frames",
-        "group": "The legend of Zelda ocarina of time",
-        "spc_path": "MMC_Server/High_Echo_Forest_Temple_v1.1.spc"
-    },
-    "Forest Temple": {
+   "Forest Temple": {
         "nspc_path": "MMC_Server/Forest_Temple_v1.0.nspc",
         "track_index": 0,
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
         "description": "Version 1.0",
-        "group": "The legend of Zelda ocarina of time",
+        "group": "The legend of Zelda Ocarina of time",
         "spc_path": "MMC_Server/Forest_Temple_v1.0.spc"
     },
     "Gerudo Valley": {
@@ -238,7 +238,7 @@
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
         "description": "Version 1.0",
-        "group": "The legend of Zelda ocarina of time",
+        "group": "The legend of Zelda Ocarina of time",
         "spc_path": "MMC_Server/Gerudo_Valley_v1.0.spc"
     },
     "Ghosts n Goblins": {
@@ -255,7 +255,7 @@
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
         "description": "Version 1.1",
-        "group": "The legend of Zelda ocarina of time",
+        "group": "The legend of Zelda Ocarina of time",
         "spc_path": "Zelda_Ocarina_of_Time_Goron_City_v1.spc"
     },
     "Great Bay Temple": {
@@ -264,7 +264,7 @@
         "original_author": "Yusuke Nakano Takaya Imamura",
         "port_author": "Albert V",
         "description": "Version 1.0",
-        "group": "The legend of Zelda - Majora's mask",
+        "group": "The legend of Zelda Majora's Mask",
         "spc_path": "MMC_Server/Great_Bay_Temple_v1.0.spc"
     },
     "Guiles Theme": {
@@ -325,22 +325,13 @@
         "group": "Memory Violation",
         "spc_path": "MMC_Server/High_Echo_Forest_Temple_v1.1.spc"
     },
-    "Inside the Deku Tree": {
-        "nspc_path": "MMC_Server/Deku_Tree_v1.0.nspc",
-        "track_index": 0,
-        "original_author": "Koji Kondo Toru Minegishi",
-        "port_author": "Albert V",
-        "description": "Version 1.0",
-        "group": "The legend of Zelda ocarina of time",
-        "spc_path": "MMC_Server/Deku_Tree_v1.0.spc"
-    },
-    " Inside the Deku Tree H.E.": {
+    " Inside the Deku Tree": {
         "nspc_path": "MMC_Server/Deku_Tree_v1.1.nspc",
         "track_index": 0,
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
         "description": "version 1.1",
-        "group": "The legend of Zelda ocarina of time",
+        "group": "The legend of Zelda Ocarina of time",
         "spc_path": "MMC_Server/Deku_Tree_v1.1.spc"
     },
     "Killer Instinct - Main Theme": {
@@ -353,7 +344,7 @@
         "spc_path": "MMC_Server/Killer_Instinct_Main_Theme.spc"
     },
     "Kraid's Lair AV's Remix": {
-        "nspc_path": "MMC_Server/Kraids_Lair_Remix_1.0.nspc",
+        "nspc_path": "MMC_Server/Kraids_Lair_Remix_v1.0.nspc",
         "track_index": 0,
         "original_author": "Kenji Yamamoto and Albert V",
         "port_author": "Albert V",
@@ -385,7 +376,7 @@
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Smftp",
         "description": "Version 1.0",
-        "group": "The legend of Zelda ocarina of time",
+        "group": "The legend of Zelda Ocarina of time",
         "spc_path": "MMC_Server/Legend_of_Zelda_-_Ocarina_of_Time_-_Lost_Woods.spc"
     },
     "Let The Draygon Fly": {
@@ -420,8 +411,7 @@
         "track_index": 0,
         "original_author": "Michiru Yamane",
         "port_author": "Albert V",
-        "description": "Version 1.1 Old (2019) Arrangement by Albert V, From Circle of the moon",
-        "group": "Clocktober Hack",
+        "description": "Version 1.1 Old (2019) Arrangement by Albert V, From Castlevania Circle of the Moon
         "spc_path": "MMC_Server/Machine_Tower_v1.1.spc"
     },
     "Machine Tower 2 (custom)": {
@@ -429,7 +419,7 @@
         "track_index": 0,
         "original_author": "Michiru Yamane",
         "port_author": "Albert V",
-        "description": "Version 1.2 Old (2020) Arrangement by Albert V, From Circle of the moon",
+        "description": "Version 1.2 Old (2020) Arrangement by Albert V, From Castlevania Circle of the Moon",
         "group": "Clocktober Hack",
         "spc_path": "MMC_Server/Machine_Tower_v1.2.spc"
     },
@@ -514,6 +504,15 @@
         "group": "Albert V Arrangement",
         "spc_path": "MMC_Server/Sector_4_AQA_Custom_Remix_v1.0.spc"
     },
+    "SM Sector 4 AQA JX Remix": {
+        "nspc_path": "MMC_Server/SM_Sector_4_AQA.nspc",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto and JX",
+        "port_author": "Albert V",
+        "description": "version 1.0 Arrangement by JX From Metroid Fusion",
+        "group": "Albert V Arrangement",
+        "spc_path": "MMC_Server/SM_Sector_4_AQA.spc"
+    },
     "Sector 5 ARC Low Temperature Area": {
         "nspc_path": "MMC_Server/Sector_5_ARC_Low-Temperature_Area_v1.0.nspc",
         "track_index": 0,
@@ -538,7 +537,7 @@
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
         "description": "Version 1.0",
-        "group": "The legend of Zelda ocarina Of time",
+        "group": "The legend of Zelda Ocarina of time",
         "spc_path": "MMC_Server/Sheiks_Harp_v1.0.spc"
     },
     "Siege_of_Madrigal": {
@@ -598,7 +597,7 @@
     "SM Satellite": {
         "nspc_path": "MMC_Server/SM_Satellite_SM.nspc",
         "track_index": 0,
-        "original_author": "Albert V",
+        "original_author": "Pure motion and Albert V",
         "port_author": "Albert V",
         "description": "Version 1.0 Original Song",
         "group": "Super Metroid",
@@ -610,7 +609,7 @@
         "original_author": "Sotaro Tojima",
         "port_author": "Albert V",
         "description": "version 1.1",
-        "group": "Castlevania Circle of the Mooon",
+        "group": "Castlevania Circle of the Moon",
         "spc_path": "MMC_Server/SM_The_Sinking_Old_Sanctuary_v1.1.spc"
     },
     "SM The Trick Manor": {
@@ -619,7 +618,7 @@
         "original_author": "Sotaro Tojima",
         "port_author": "Albert V",
         "description": "version 1.1 Arrangement by Albert V",
-        "group": "Castlevania Circle of the Mooon",
+        "group": "Castlevania Circle of the Moon",
         "spc_path": "MMC_Server/SM_The_Trick_Manor_v1.1.spc"
     },
     "SM Yoshis island (Custom)": {
@@ -717,7 +716,7 @@
         "track_index": 0,
         "original_author": "Akihiro Minakata",
         "port_author": "Albert V",
-        "description": "Version 1.0",
+        "description": "Version 1.0 Arrangement from Super Castlevania IV",
         "group": "Albert V Arrangement",
         "spc_path": "MMC_Server/The_Waterfalls_Maridia-SF_v1.0.spc"
     },
@@ -726,7 +725,7 @@
         "track_index": 0,
         "original_author": "Akihiro Minakata",
         "port_author": "Albert V",
-        "description": "Version 1.0",
+        "description": "Version 1.0 Arrangement from Super Castlevania IV",
         "group": "Albert V Arrangement",
         "spc_path": "MMC_Server/The_Waterfalls_SM-SF_v1.0.spc"
     },
@@ -745,7 +744,7 @@
         "original_author": "Akihiro Minakata",
         "port_author": "Albert V",
         "description": "Version 1.1",
-        "group": "Castlevaia Circle of the Moon",
+        "group": "Castlevania Circle of the Moon",
         "spc_path": "MMC_Server/Underground_Reservoir_v1.1.spc"
     },
     "Vampire Killer (Custom)": {
@@ -769,7 +768,7 @@
     "SM - World 3-1": {
         "nspc_path": "MMC_Server/World_3-1_2019.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "koji kondo",
         "port_author": "Albert V",
         "description": "Version 1.0 Arrangement by Albert V from Super Mario brother Wii",
         "group": "Albert V Arrangement",
@@ -789,10 +788,10 @@
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
         "description": "Version 1.0",
-        "group": "The legend of Zelda Ocarina of Time",
+        "group": "The legend of Zelda Ocarina of time",
         "spc_path": "MMC_Server/Windmill_Hut_v1.0.spc" 
     },
-    "The luminom": {
+    "The luminoms": {
         "nspc_path": "MMC_Server/The_luminom.nspc",
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
@@ -815,7 +814,7 @@
         "track_index": 0,
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Apollo",
-        "description": "The legend of Zelda - Majora's Mask",
+        "description": "The legend of Zelda Ocarina of time",
         "group": "Memory Violation",
         "spc_path": "MMC_Server/Zelda_Ocarina_of_Time_-_Shop.spc"
     },
@@ -824,8 +823,8 @@
         "track_index": 0,
         "original_author": "David Wise",
         "port_author": "Albert V",
-        "description": "Donkey Kong - Version 1.0 this song overwrites the sfx, so is better to use it for endings or intros",
-        "group": "Memory Violation",
+        "description": "Donkey Kong - Version 1.0 uses channels 7-8 tho",
+        "group": "Donkey kong Country",
         "spc_path": "MMC_Server/Water_World_v1.0.spc"
     },
     "Zeros Theme": {
