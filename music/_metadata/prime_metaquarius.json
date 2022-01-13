@@ -5,7 +5,8 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "metaquarius",
         "description": "Metroid Prime soundtrack port",
-        "spc_path": "prime_metaquarius/prime_chozoTemple.spc"
+        "spc_path": "prime_metaquarius/prime_chozoTemple.spc",
+	"group": "Metroid Prime"
     },
     "prime_crashedFrigate": {
         "nspc_path": "prime_metaquarius/prime_crashedFrigate.bin",
@@ -13,7 +14,8 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "metaquarius",
         "description": "Metroid Prime soundtrack port",
-        "spc_path": "prime_metaquarius/prime_crashedFrigate.spc"
+        "spc_path": "prime_metaquarius/prime_crashedFrigate.spc",
+	"group": "Metroid Prime"
     },
     "prime_darksamus": {
         "nspc_path": "prime_metaquarius/prime_darksamus.bin",
@@ -21,7 +23,8 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "metaquarius",
         "description": "Metroid Prime soundtrack port",
-        "spc_path": "prime_metaquarius/prime_darksamus.spc"
+        "spc_path": "prime_metaquarius/prime_darksamus.spc",
+	"group": "Metroid Prime"
     },
     "prime_magmoor": {
         "nspc_path": "prime_metaquarius/prime_magmoor.bin",
@@ -29,7 +32,8 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "metaquarius",
         "description": "Metroid Prime soundtrack port",
-        "spc_path": "prime_metaquarius/prime_magmoor.spc"
+        "spc_path": "prime_metaquarius/prime_magmoor.spc",
+	"group": "Metroid Prime"
     },
     "prime_multiplayer": {
         "nspc_path": "prime_metaquarius/prime_multiplayer.bin",
@@ -46,6 +50,7 @@
         "original_author": "Kenji Yamamoto",
         "port_author": "metaquarius",
         "description": "Metroid Prime soundtrack port",
-        "spc_path": "prime_metaquarius/prime_pirates.spc"
+        "spc_path": "prime_metaquarius/prime_pirates.spc",
+	"group": "Metroid Prime"
     }
 }

@@ -5,7 +5,8 @@
         "original_author": "Nintendo",
         "port_author": "metaquarius",
         "description": "Ports from various Metroid games",
-        "spc_path": "other_metroid_metaquarius/m2_sr388.spc"
+        "spc_path": "other_metroid_metaquarius/m2_sr388.spc",
+	"group": "Metroid 2"
     },
     "m4_prologue": {
         "nspc_path": "other_metroid_metaquarius/m4_prologue.bin",
@@ -13,7 +14,8 @@
         "original_author": "Nintendo",
         "port_author": "metaquarius",
         "description": "Ports from various Metroid games",
-        "spc_path": "other_metroid_metaquarius/m4_prologue.spc"
+        "spc_path": "other_metroid_metaquarius/m4_prologue.spc",
+	"group": "Metroid Fusion"
     },
     "m4_ridleyx": {
         "nspc_path": "other_metroid_metaquarius/m4_ridleyx.bin",
@@ -22,7 +24,8 @@
         "port_author": "metaquarius",
         "description": "Ports from various Metroid games",
         "group": "Memory Violation",
-        "spc_path": "other_metroid_metaquarius/m4_ridleyx.spc"
+        "spc_path": "other_metroid_metaquarius/m4_ridleyx.spc",
+	"group": "Metroid Fusion"
     },
     "m4_serris": {
         "nspc_path": "other_metroid_metaquarius/m4_serris.bin",
@@ -30,7 +33,8 @@
         "original_author": "Nintendo",
         "port_author": "metaquarius",
         "description": "Ports from various Metroid games",
-        "spc_path": "other_metroid_metaquarius/m4_serris.spc"
+        "spc_path": "other_metroid_metaquarius/m4_serris.spc",
+	"group": "Metroid Fusion"
     },
     "mzm_kraid": {
         "nspc_path": "other_metroid_metaquarius/mzm_kraid.bin",
@@ -38,6 +42,7 @@
         "original_author": "Nintendo",
         "port_author": "metaquarius",
         "description": "Ports from various Metroid games",
-        "spc_path": "other_metroid_metaquarius/mzm_kraid.spc"
+        "spc_path": "other_metroid_metaquarius/mzm_kraid.spc",
+	"group": "Metroid Zero Mission"
     }
 }

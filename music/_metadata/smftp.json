@@ -5,7 +5,8 @@
         "original_author": "TODO",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
-        "spc_path": "SMFTP/GBA_MZM_Kraids_Lair.spc"
+        "spc_path": "SMFTP/GBA_MZM_Kraids_Lair.spc",
+	"group": "Metroid Zero Mission"
     },
     "GB_Metroid2_-_Tunnel_theme": {
         "nspc_path": "SMFTP/GB_Metroid2_-_Tunnel_theme.nspc",
@@ -13,7 +14,8 @@
         "original_author": "TODO",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
-        "spc_path": "SMFTP/GB_Metroid2_-_Tunnel_theme.spc"
+        "spc_path": "SMFTP/GB_Metroid2_-_Tunnel_theme.spc",
+	"group": "Metroid 2"
     },
     "Green_Brinstar_-_LOTW_Melody_Mixing": {
         "nspc_path": "SMFTP/Green_Brinstar_-_LOTW_Melody_Mixing.nspc",
@@ -53,7 +55,8 @@
         "original_author": "TODO",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
-        "spc_path": "SMFTP/Metroid_Prime2_Echoes_-_Hydro_Dynamo.spc"
+        "spc_path": "SMFTP/Metroid_Prime2_Echoes_-_Hydro_Dynamo.spc",
+	"group": "Metroid Prime 2"
     },
     "Phantoons_Curse_II_v4": {
         "nspc_path": "SMFTP/Phantoons_Curse_II_v4.nspc",

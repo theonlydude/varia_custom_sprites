@@ -5,7 +5,8 @@
         "original_author": "?",
         "port_author": "Tedicles",
         "description": "Music found on metconst, by Tedicles",
-        "spc_path": "tedicles/Chozo_Ruins_MZM.spc"
+        "spc_path": "tedicles/Chozo_Ruins_MZM.spc",
+	"group": "Metroid Zero Mission"
     },
     "never_forget": {
         "nspc_path": "tedicles/never_forget.nspc",

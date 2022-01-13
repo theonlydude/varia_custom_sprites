@@ -13,7 +13,8 @@
         "original_author": "?",
         "port_author": "Mentlegen",
         "description": "Music found on metconst, by Mentlegen",
-        "spc_path": "mentlegen/escape_remix.spc"
+        "spc_path": "mentlegen/escape_remix.spc",
+	"group": "Metroid Zero Mission"
     },
     "Miniboss_remix": {
         "nspc_path": "mentlegen/Miniboss_remix.nspc",

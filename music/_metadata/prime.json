@@ -4,7 +4,8 @@
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "Black Falcon",
-        "description": "Metroid Prim Phendrana Drifts SM cover",
+        "description": "Metroid Prime Phendrana Drifts SM cover",
+	"group": "Metroid Prime",
         "spc_path": "prime/NostalgiaCladInIce_PhendranaCover.spc"
     }
 }
