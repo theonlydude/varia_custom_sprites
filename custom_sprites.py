@@ -268,27 +268,27 @@ messageBoxes = {
         'ETank': 'magic mushroom',
         'Reserve': 'reserve mushroom'
     },
-    'inkling-girl.ips': {
-        'Missile': 'ink missiles',
-        'Super': 'tenta missiles',
-        'Bomb': 'splat bombs',
-        'PowerBomb': 'booyah bomb',
-        'XRayScope': 'echolocator',
-        'ETank': 'ink tank',
-        'Varia': 'orange ink',
-        'Gravity': 'blue ink',
-        'Charge': 'splat charger',
-        'Ice': 'ice ink',
-        'Wave': 'sting ray',
-        'Spazer': 'aerospray',
-        'Plasma': 'splattershot pro',
-        'Morph': 'squid morph',
-        'HiJump': 'squid jump',
-        'SpeedBooster': 'fast kraken',
-        'SpaceJump': 'inkjet',
-        'ScrewAttack': 'ink armor',
-        'SpringBall': 'bouncy squid'
-    }
+    # 'inkling-girl.ips': {
+    #     'Missile': 'ink missiles',
+    #     'Super': 'tenta missiles',
+    #     'Bomb': 'splat bombs',
+    #     'PowerBomb': 'booyah bomb',
+    #     'XRayScope': 'echolocator',
+    #     'ETank': 'ink tank',
+    #     'Varia': 'orange ink',
+    #     'Gravity': 'blue ink',
+    #     'Charge': 'splat charger',
+    #     'Ice': 'ice ink',
+    #     'Wave': 'sting ray',
+    #     'Spazer': 'aerospray',
+    #     'Plasma': 'splattershot pro',
+    #     'Morph': 'squid morph',
+    #     'HiJump': 'squid jump',
+    #     'SpeedBooster': 'fast kraken',
+    #     'SpaceJump': 'inkjet',
+    #     'ScrewAttack': 'ink armor',
+    #     'SpringBall': 'bouncy squid'
+    # }
 }
 
 messageBoxes['mario_8bit.ips'] = messageBoxes['luigi.ips']
