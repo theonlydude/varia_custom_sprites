@@ -448,7 +448,7 @@
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
         "description": "Version 1.0",
-        "group": "The legend of Zelda Majora's Mask",
+        "group": "The legend of Zelda - Majora's mask",
         "spc_path": "MMC_Server/Music_Box_House_v1.0.spc"
     },
     "Opus 13": {
@@ -646,7 +646,7 @@
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
         "description": "Version 1.4 Maybe for Endings or no enemies rooms",
-        "group": "The legend of Zelda Majora's mask",
+        "group": "The legend of Zelda - Majora's mask",
         "spc_path": "MMC_Server/Stone_Tower_v1.4.spc"
     },
     "Study": {
