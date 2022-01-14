@@ -610,7 +610,7 @@
         "original_author": "Sotaro Tojima",
         "port_author": "Albert V",
         "description": "version 1.1",
-        "group": "Castlevania Circle of the Mooon",
+        "group": "Castlevania Circle of the Moon",
         "spc_path": "MMC_Server/SM_The_Sinking_Old_Sanctuary_v1.1.spc"
     },
     "SM The Trick Manor": {
@@ -619,7 +619,7 @@
         "original_author": "Sotaro Tojima",
         "port_author": "Albert V",
         "description": "version 1.1 Arrangement by Albert V",
-        "group": "Castlevania Circle of the Mooon",
+        "group": "Castlevania Circle of the Moon",
         "spc_path": "MMC_Server/SM_The_Trick_Manor_v1.1.spc"
     },
     "SM Yoshis island (Custom)": {
@@ -745,7 +745,7 @@
         "original_author": "Akihiro Minakata",
         "port_author": "Albert V",
         "description": "Version 1.1",
-        "group": "Castlevaia Circle of the Moon",
+        "group": "Castlevania Circle of the Moon",
         "spc_path": "MMC_Server/Underground_Reservoir_v1.1.spc"
     },
     "Vampire Killer (Custom)": {
