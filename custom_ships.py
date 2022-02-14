@@ -16,7 +16,9 @@ customShips = {
     'am2r_ship': {"name": "AM2R", "desc": "From AM2R", "author": "AM2R & theonlydude"},
     'lastresort_ship': {"name": "Last Resort", "desc": "From Last Resort", "author": "theonlydude", "hideSamus": True},
     'metalslug_ship': {"name": "Metal Slug", "desc": "From Metal Slug", "author": "theonlydude", "showSamusAtTakeoff": True},
-    'xwing': {"name": "Crossed Wing", "desc": "Generic ship which happen to have wings in the shape of an X", "author": "theonlydude", "hideSamus": True}
+    'xwing': {"name": "Crossed Wing", "desc": "Generic ship which happen to have wings in the shape of an X", "author": "theonlydude", "hideSamus": True},
+    'the_baby': {"name": "The Baby", "desc": "It's the Baby !", "author": "Chrono", "hideSamus": True},
+    'pocket_rocket': {"name": "Pocket Rocket", "desc": "Groovy !", "author": "Chrono"},
 }
 
 customShipsOrder = [
@@ -26,9 +28,11 @@ customShipsOrder = [
     'ascent_ship',
     'am2r_ship',
     'mario_ship',
+    'the_baby',
     'top_hunter_ship',
     'lastresort_ship',
     'metalslug_ship',
+    'pocket_rocket',
     'hyperion_ship',
     'phazon_ship',
     'lost_world_ship',
