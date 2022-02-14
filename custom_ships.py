@@ -18,7 +18,7 @@ customShips = {
     'metalslug_ship': {"name": "Metal Slug", "desc": "From Metal Slug", "author": "theonlydude", "showSamusAtTakeoff": True},
     'xwing': {"name": "Crossed Wing", "desc": "Generic ship which happen to have wings in the shape of an X", "author": "theonlydude", "hideSamus": True},
     'the_baby': {"name": "The Baby", "desc": "It's the Baby !", "author": "Chrono", "hideSamus": True},
-    'pocket_rocket': {"name": "Pocket Rocket", "desc": "Groovy !", "author": "Chrono"},
+    'pocket_rocket': {"name": "Pocket Rocket", "desc": "Groovy !", "author": "Fredz00z"},
 }
 
 customShipsOrder = [
