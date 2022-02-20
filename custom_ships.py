@@ -19,6 +19,7 @@ customShips = {
     'xwing': {"name": "Crossed Wing", "desc": "Generic ship which happen to have wings in the shape of an X", "author": "theonlydude", "hideSamus": True},
     'the_baby': {"name": "The Baby", "desc": "It's the Baby !", "author": "Chrono", "hideSamus": True},
     'pocket_rocket': {"name": "Pocket Rocket", "desc": "Groovy !", "author": "Fredz00z"},
+    'kirbyship': {"name": "Kirby Ship", "desc": "For Kirby sprite", "author": "Fredz00z"}
 }
 
 customShipsOrder = [
@@ -33,6 +34,7 @@ customShipsOrder = [
     'lastresort_ship',
     'metalslug_ship',
     'pocket_rocket',
+    'kirbyship',
     'hyperion_ship',
     'phazon_ship',
     'lost_world_ship',
