@@ -240569,7 +240569,7 @@ sprite_palettes['invisible.ips'] = {
 0x6df66: 0x0,
 0x6df67: 0x28,
 }
-sprite_palettes['Buffed_Kirby.ips'] = {
+sprite_palettes['buffed_kirby.ips'] = {
 0x11259e: 0x0,
 0x11259f: 0x38,
 0x1125a0: 0xff,
