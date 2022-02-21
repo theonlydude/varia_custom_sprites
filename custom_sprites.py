@@ -296,6 +296,28 @@ messageBoxes = {
         'SpaceJump': 'inkjet',
         'ScrewAttack': 'ink armor',
         'SpringBall': 'bouncy squid'
+    },
+    'buffed_kirby.ips': {
+        'Grapple':      'whip',
+        'XRayScope':    'esp',
+
+        'ETank':        'maxim tomato',
+        'Reserve':      'reviving tomato',
+
+        'Charge':       'charge shot',
+        'Ice':          'ice',
+        'Spazer':       'spark',
+        'Plasma':       'plasma',
+
+        'Varia':        'fire',
+        'Gravity':      'bubble',
+
+        'Morph':        'wheel',
+        'ScrewAttack':  'invincibility candy',
+
+        'HiJump':       'hi-jump',
+        'SpaceJump':    'wing',
+        'SpeedBooster': 'jet'
     }
 }
 
