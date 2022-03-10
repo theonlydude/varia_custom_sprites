@@ -20,7 +20,8 @@ customShips = {
     'the_baby': {"name": "The Baby", "desc": "It's the Baby !", "author": "Chrono", "hideSamus": True},
     'pocket_rocket': {"name": "Pocket Rocket", "desc": "Groovy !", "author": "Fredz00z"},
     'kirbyship': {"name": "Kirby Ship", "desc": "For Kirby sprite", "author": "Fredz00z"},
-    'minitroid_ship': {"name": "Minitroid", "desc": "From Minitroid", "author": "Fredz00z & Chrono"}
+    'minitroid_ship': {"name": "Minitroid", "desc": "From Minitroid", "author": "Fredz00z & Chrono"},
+    'enterprise': {"name": "USS Enterprise", "desc": "From Star Trek", "author": "Chrono", "hideSamus": True}
 }
 
 customShipsOrder = [
@@ -45,5 +46,6 @@ customShipsOrder = [
     'Red-M0nk3ySMShip2',
     'Red-M0nk3ySMShip3',
     'Red-M0nk3ySMShip4',
-    'xwing'
+    'xwing',
+    'enterprise'
 ]
