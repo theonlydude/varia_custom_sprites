@@ -314,19 +314,6 @@
             518263
         ]
     },
-    "Boss fight - BT/Ridley/Draygon": {
-        "nspc_path": "vanilla/vanilla_2bbf73_2c19b1.nspc",
-        "data_index": 11,
-        "track_index": 0,
-        "original_author": "Kenji Yamamoto",
-        "port_author": "",
-        "description": "Original track from vanilla Super Metroid",
-        "group": "Vanilla Soundtrack",
-        "spc_path": "vanilla/boss1.spc",
-        "pc_addresses": [
-            514678
-        ]
-    },
     "Boss fight - BT tension": {
         "nspc_path": "vanilla/vanilla_2bbf73_2c19b1.nspc",
         "data_index": 11,
@@ -353,19 +340,6 @@
             518257
         ]
     },
-    "Boss fight - Kraid/Phantoon/Croc": {
-        "nspc_path": "vanilla/vanilla_2c19b2_2c6a8a.nspc",
-        "data_index": 12,
-        "track_index": 0,
-        "original_author": "Kenji Yamamoto",
-        "port_author": "",
-        "description": "Original track from vanilla Super Metroid",
-        "group": "Vanilla Soundtrack",
-        "spc_path": "vanilla/boss2.spc",
-        "pc_addresses": [
-            502179
-        ]
-    },
     "Boss fight - Kraid / Phantoon / Croc tension": {
         "nspc_path": "vanilla/vanilla_2c19b2_2c6a8a.nspc",
         "data_index": 12,
@@ -379,20 +353,6 @@
             501047,
             501173,
             511273
-        ]
-    },
-    "Boss fight - Spore Spawn/Botwoon": {
-        "nspc_path": "vanilla/vanilla_2c6a8b_2cb67a.nspc",
-        "data_index": 13,
-        "track_index": 0,
-        "original_author": "Kenji Yamamoto",
-        "port_author": "",
-        "description": "Original track from vanilla Super Metroid",
-        "group": "Vanilla Soundtrack",
-        "spc_path": "vanilla/mini_boss.spc",
-        "pc_addresses": [
-            499165,
-            514420
         ]
     },
     "Flying to Ceres": {
@@ -579,6 +539,150 @@
         "spc_path": "vanilla/samus_theme.spc",
         "pc_addresses": [
             518261
+        ]
+    },
+    "Boss fight - Bomb/Golden Torizo": {
+        "nspc_path": "vanilla/vanilla_2bbf73_2c19b1.nspc",
+        "data_index": 11,
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "",
+        "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
+        "spc_path": "vanilla/boss1.spc",
+        "static_patches": {
+            "152520": [
+                4
+            ],
+            "1388694": [
+                4
+            ]
+        },
+        "dynamic_patches": {
+            "data_id": [
+                497695,
+                504473
+            ],
+            "track_id": [
+                1388696
+            ]
+        }
+    },
+    "Boss fight - Ridley": {
+        "nspc_path": "vanilla/vanilla_2bbf73_2c19b1.nspc",
+        "data_index": 11,
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "",
+        "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
+        "spc_path": "vanilla/boss1.spc",
+        "dynamic_patches": {
+            "data_id": [
+                504644,
+                516299
+            ],
+            "track_id": [
+                1254478
+            ]
+        }
+    },
+    "Boss fight - Draygon": {
+        "nspc_path": "vanilla/vanilla_2bbf73_2c19b1.nspc",
+        "data_index": 11,
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "",
+        "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
+        "spc_path": "vanilla/boss1.spc",
+        "pc_addresses": [
+            514678
+        ]
+    },
+    "Boss fight - Kraid": {
+        "nspc_path": "vanilla/vanilla_2c19b2_2c6a8a.nspc",
+        "data_index": 12,
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "",
+        "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
+        "spc_path": "vanilla/boss2.spc",
+        "static_patches": {
+            "501174": [
+                4
+            ]
+        },
+        "dynamic_patches": {
+            "data_id": [
+                501173
+            ],
+            "track_id": [
+                1296560
+            ]
+        }
+    },
+    "Boss fight - Phantoon": {
+        "nspc_path": "vanilla/vanilla_2c19b2_2c6a8a.nspc",
+        "data_index": 12,
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "",
+        "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
+        "spc_path": "vanilla/boss2.spc",
+        "static_patches": {
+            "511274": [
+                4
+            ]
+        },
+        "dynamic_patches": {
+            "data_id": [
+                511273
+            ],
+            "track_id": [
+                1299779
+            ]
+        }
+    },
+    "Boss fight - Crocomire": {
+        "nspc_path": "vanilla/vanilla_2c19b2_2c6a8a.nspc",
+        "data_index": 12,
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "",
+        "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
+        "spc_path": "vanilla/boss2.spc",
+        "pc_addresses": [
+            502179
+        ]
+    },
+    "Boss fight - Spore Spawn": {
+        "nspc_path": "vanilla/vanilla_2c6a8b_2cb67a.nspc",
+        "data_index": 13,
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "",
+        "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
+        "spc_path": "vanilla/mini_boss.spc",
+        "pc_addresses": [
+            499165
+        ]
+    },
+    "Boss fight - Botwoon": {
+        "nspc_path": "vanilla/vanilla_2c6a8b_2cb67a.nspc",
+        "data_index": 13,
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "",
+        "description": "Original track from vanilla Super Metroid",
+        "group": "Vanilla Soundtrack",
+        "spc_path": "vanilla/mini_boss.spc",
+        "pc_addresses": [
+            514420
         ]
     }
 }
