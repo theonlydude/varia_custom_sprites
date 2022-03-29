@@ -13,7 +13,9 @@
     "discard": [
 	"Intro Cutscene",
 	"The last Metroid is in captivity",
-	"The galaxy is at peace"
+	"The galaxy is at peace",
+	"Boss fight - BT tension",
+	"Boss fight - Kraid / Phantoon / Croc tension"
     ],
     "usable_space_ranges_pc": [
 	{"start": 2646541, "end": 3101183},
