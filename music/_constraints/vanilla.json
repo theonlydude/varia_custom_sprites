@@ -11,9 +11,10 @@
 	"The galaxy is at peace",
 	"Baby Metroid - Apparition",
 	"Baby Metroid - Tension",
-	"Baby Metroid - No music"
+	"Baby Metroid - No music",
+	"Boss fight - Kraid / Phantoon / Croc tension"
     ],
-    "discard": ["Boss fight - BT tension", "Boss fight - Kraid / Phantoon / Croc tension"],
+    "discard": ["Boss fight - BT tension"],
     "usable_space_ranges_pc": [
 	{"start": 2646541, "end": 3145727},
 	{"start": 1835008, "end": 1867775},
