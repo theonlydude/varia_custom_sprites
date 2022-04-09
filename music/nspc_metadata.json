@@ -1555,6 +1555,20 @@
             16844
         ]
     },
+    "MMC_Server/Resident_Evil_Movie_-_Main_Theme.nspc": {
+        "md5sum": "94516d29e56465f1beeca24da185e28f",
+        "block_headers_offsets": [
+            0,
+            18994,
+            19030,
+            19082,
+            19088,
+            21203,
+            21209,
+            21218,
+            21240
+        ]
+    },
     "mentlegen/Blue_on_Black.nspc": {
         "md5sum": "41a1925391588889cf66e8b3bde37621",
         "block_headers_offsets": [
@@ -1990,17 +2004,6 @@
             20693
         ]
     },
-    "vanilla/vanilla_2c6a8b_2cb67a.nspc": {
-        "md5sum": "85c7bea162d0d9caa0e7c9fa435acf82",
-        "block_headers_offsets": [
-            0,
-            68,
-            18370,
-            18464,
-            18492,
-            19436
-        ]
-    },
     "vanilla/vanilla_2cb67b_2cf5dc.nspc": {
         "md5sum": "d7769f61022b28ef144c1563cee77b25",
         "block_headers_offsets": [
@@ -2109,6 +2112,17 @@
             16362,
             16390,
             20475
+        ]
+    },
+    "vanilla/vanilla_2c6a8b_2cb67a.nspc": {
+        "md5sum": "85c7bea162d0d9caa0e7c9fa435acf82",
+        "block_headers_offsets": [
+            0,
+            68,
+            18370,
+            18464,
+            18492,
+            19436
         ]
     },
     "SM_Alternate_Zebes/AlternateZebes_BossFight1.bin": {
