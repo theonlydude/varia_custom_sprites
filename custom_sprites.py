@@ -36,6 +36,7 @@ customSprites = {
     'earthworm_jim': {"name": "Earthworm Jim", "desc": "Groovy !", "author": "Fredz00z", "group": "Custom"},
     'crewmate': {"name": "Crewmate", "desc": "Definitely sus", "author": "_aitchFactor", "group": "Custom"},
     'buffed_kirby': {"name": "Buffed Kirby", "desc": "Kirby on steroids", "author": "Fredz00z", "group": "Custom"},
+    'kirby': {"name": "Kirby", "desc": "Kirby", "author": "⚔Wandering✝Spider🕷", "group": "Custom"},
     'cuphead': {"name": "Cuphead", "desc": "Don't Deal with the Devil", "author": "Fredz00z", "group": "Custom"},
     'sans': {"name": "Sans", "desc": "Sans from Undertale", "author": "Ouily644", "group": "Custom"},
     'inkling-girl': {"name": "Inkling Girl", "desc": "From Splatoon", "author": "ouily644", "group": "Custom"},
@@ -85,6 +86,7 @@ customSpritesOrder = [
     'diddy_kong',
     'crewmate',
     'buffed_kirby',
+    'kirby',
     'cuphead',
     'inkling-girl',
     'marga',
@@ -304,21 +306,16 @@ messageBoxes = {
     'buffed_kirby.ips': {
         'Grapple':      'whip',
         'XRayScope':    'esp',
-
         'ETank':        'maxim tomato',
         'Reserve':      'reviving tomato',
-
         'Charge':       'charge shot',
         'Ice':          'ice',
         'Spazer':       'spark',
         'Plasma':       'plasma',
-
         'Varia':        'fire',
         'Gravity':      'bubble',
-
         'Morph':        'wheel',
         'ScrewAttack':  'invincibility candy',
-
         'HiJump':       'hi-jump',
         'SpaceJump':    'wing',
         'SpeedBooster': 'jet'
@@ -327,3 +324,4 @@ messageBoxes = {
 
 messageBoxes['mario_8bit.ips'] = messageBoxes['luigi.ips']
 messageBoxes['mario_8bit_modern.ips'] = messageBoxes['luigi.ips']
+messageBoxes['kirby.ips'] = messageBoxes['buffed_kirby.ips']
