@@ -657,7 +657,23 @@
         "spc_path": "vanilla/boss2.spc",
         "pc_addresses": [
             502179
-        ]
+        ],
+        "static_patches": {
+            "1183915": [
+                4
+            ],
+            "1186695": [
+                3
+            ],
+            "1186719": [
+                3
+            ]
+        },
+        "dynamic_patches": {
+            "track_id": [
+                1185758
+            ]
+        }
     },
     "Boss fight - Spore Spawn": {
         "nspc_path": "vanilla/vanilla_2c6a8b_2cb67a.nspc",
