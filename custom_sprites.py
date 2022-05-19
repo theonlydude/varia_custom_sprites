@@ -49,6 +49,7 @@ customSprites = {
     'shaktool': {"name": "Shaktool", "desc": "Shaktool in all its glory", "author": "Pneumatic", "group": "Custom"},
     'shaktool-jr': {"name": "Shaktool Jr", "desc": "Shaktool Junior follows in its father's footsteps", "author": "Pneumatic", "group": "Custom"},
     'sprite_can': {"name": "Sprite", "desc": "A ... Sprite ... ", "author": "TarThoron", "group": "Custom"},
+    '140': {"name": "140", "desc": "From the game 140", "author": "Kyzentum", "group": "Custom"}
     'win95_cursor': {"name": "Win95 Cursor", "desc": "A classic Windows cursor...", "author": "PlaguedOne", "group": "Custom"}
 }
 
@@ -103,6 +104,7 @@ customSpritesOrder = [
     'shaktool-jr',
     'sprite_can',
     'chairdeep',
+    '140',
     'win95_cursor'
 ]
 
