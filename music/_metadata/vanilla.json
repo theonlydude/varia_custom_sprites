@@ -590,7 +590,11 @@
             511135,
             511674
         ],
-        "static_patches": {}
+        "static_patches": {
+            "2601004": [
+                255
+            ]
+        }
     },
     "Zebes boom": {
         "nspc_path": "vanilla/vanilla_2d3650_2d563a.nspc",
