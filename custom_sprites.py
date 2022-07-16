@@ -32,6 +32,7 @@ customSprites = {
     'fed_trooper': {"name": "GF Trooper", "desc": "A Galactic Federation trooper", "author": "Physix", "group": "Custom"},
     'super_controid': {"name": "Contra", "desc": "Badass soldier from Contra III", "author": "Nintoaster", "group": "Custom"},
     'brad-fang': {"name": "Brad Fang", "desc": "Brad Fand from Contra", "author": "Akai Azul", "group": "Custom"},
+    'bob': {"name": "B.O.B", "desc": "Space Funky B.O.B.", "author": "Spoonybard", "group": "Custom"},
     'mario_8bit': {"name": "Mario (NES)", "desc": "One of the bros", "author": "TarThoron", "group": "Custom"},
     'mario_8bit_modern': {"name": "Mario (Alt)", "desc": "One of the bros, with a more modern palette", "author": "TarThoron", "group": "Custom"},
     'luigi': {"name": "Luigi", "desc": "The other bro", "author": "RonnSama", "group": "Custom"},
@@ -94,6 +95,7 @@ customSpritesOrder = [
     'fed_trooper',
     'super_controid',
     'brad-fang',
+    'bob',
     'mario_8bit',
     'mario_8bit_modern',
     'luigi',
@@ -339,6 +341,22 @@ messageBoxes = {
         'HiJump':       'hi-jump',
         'SpaceJump':    'wing',
         'SpeedBooster': 'jet'
+    },
+    'bob.ips': {
+        'Charge': 'single shot',
+        'Ice': 'flash beam',
+        'Wave': 'wave beam',
+        'Spazer': 'triple shot',
+        'Plasma': 'flamethrower',
+        'HiJump': 'trampoline',
+        'SpaceJump': 'helicopter hat',
+        'ScrewAttack': 'shield',
+        'Missile': 'rocket',
+        'Super': 'super rocket',
+        'PowerBomb': 'floating bomb',
+        'Grapple': 'bolt',
+        'ETank': 'wrench',
+        'Reserve': '1-up'
     }
 }
 
