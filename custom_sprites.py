@@ -362,6 +362,7 @@ messageBoxes = {
     }
 }
 
+messageBoxes['mario.ips'] = messageBoxes['luigi.ips']
 messageBoxes['mario_8bit.ips'] = messageBoxes['luigi.ips']
 messageBoxes['mario_8bit_modern.ips'] = messageBoxes['luigi.ips']
 messageBoxes['kirby.ips'] = messageBoxes['buffed_kirby.ips']
