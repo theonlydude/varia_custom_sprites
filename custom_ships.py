@@ -26,6 +26,7 @@ customShips = {
     'enterprise': {"name": "USS Enterprise", "desc": "From Star Trek", "author": "Chrono", "hideSamus": True},
     'n64_ship': {"name": "N64", "desc": "64 bits retro console", "author": "Fredz00z", "hideSamus": True},
     'SNES_ship': {"name": "SNES", "desc": "16 bits retro console", "author": "Fredz00z"},
+    'GameCube_ship': {"name": "GameCube", "desc": "Cube shaped retro console", "author": "Fredz00z"},
 }
 
 customShipsOrder = [
@@ -43,8 +44,9 @@ customShipsOrder = [
     'metalslug_ship',
     'pocket_rocket',
     'kirbyship',
-    'n64_ship',
     'SNES_ship',
+    'n64_ship',
+    'GameCube_ship',
     'minitroid_ship',
     'hyperion_ship',
     'phazon_ship',
