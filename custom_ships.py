@@ -27,6 +27,7 @@ customShips = {
     'n64_ship': {"name": "N64", "desc": "64 bits retro console", "author": "Fredz00z", "hideSamus": True},
     'SNES_ship': {"name": "SNES", "desc": "16 bits retro console", "author": "Fredz00z"},
     'GameCube_ship': {"name": "GameCube", "desc": "Cube shaped retro console", "author": "Fredz00z"},
+    'Frieza_ship': {"name": "Frieza Ship", "desc": "Freiza Ship from Dragon Ball", "author": "Fredz00z"},
 }
 
 customShipsOrder = [
@@ -47,6 +48,7 @@ customShipsOrder = [
     'SNES_ship',
     'n64_ship',
     'GameCube_ship',
+    'Frieza_ship',
     'minitroid_ship',
     'hyperion_ship',
     'phazon_ship',
