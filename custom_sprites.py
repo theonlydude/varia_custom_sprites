@@ -60,6 +60,7 @@ customSprites = {
     'shaktool-jr': {"name": "Shaktool Jr", "desc": "Shaktool Junior follows in its father's footsteps", "author": "Pneumatic", "group": "Custom"},
     'sprite_can': {"name": "Sprite", "desc": "A ... Sprite ... ", "author": "TarThoron", "group": "Custom"},
     '140': {"name": "140", "desc": "From the game 140", "author": "Kyzentum", "group": "Custom"},
+    'SNES_Controller': {"name": "SNES Controller", "desc": "A SNES controller", "author": "Fredz00z", "group": "Custom"},
     'win95_cursor': {"name": "Win95 Cursor", "desc": "A classic Windows cursor...", "author": "PlaguedOne", "group": "Custom"}
 }
 
@@ -125,6 +126,7 @@ customSpritesOrder = [
     'sprite_can',
     'chairdeep',
     '140',
+    'SNES_Controller',
     'win95_cursor'
 ]
 
