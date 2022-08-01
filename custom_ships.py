@@ -24,7 +24,8 @@ customShips = {
     'kirbyship': {"name": "Kirby Ship", "desc": "For Kirby sprite", "author": "Fredz00z"},
     'minitroid_ship': {"name": "Minitroid", "desc": "From Minitroid", "author": "Fredz00z & Chrono"},
     'enterprise': {"name": "USS Enterprise", "desc": "From Star Trek", "author": "Chrono", "hideSamus": True},
-    'n64_ship': {"name": "N64", "desc": "64 bits retro console", "author": "Fredz00z", "hideSamus": True}
+    'n64_ship': {"name": "N64", "desc": "64 bits retro console", "author": "Fredz00z", "hideSamus": True},
+    'SNES_ship': {"name": "SNES", "desc": "16 bits retro console", "author": "Fredz00z"},
 }
 
 customShipsOrder = [
@@ -43,6 +44,7 @@ customShipsOrder = [
     'pocket_rocket',
     'kirbyship',
     'n64_ship',
+    'SNES_ship',
     'minitroid_ship',
     'hyperion_ship',
     'phazon_ship',
