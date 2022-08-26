@@ -1,5 +1,6 @@
 {
     "preserve": [
+        "Intro Cutscene",
 	"Flying to Ceres",
 	"Ceres Station",
 	"Flying to Zebes",
@@ -12,7 +13,6 @@
 	"Boss fight - Kraid / Phantoon / Croc tension"
     ],
     "discard": [
-	"Intro Cutscene",
 	"The last Metroid is in captivity",
 	"The galaxy is at peace",
 	"Boss fight - BT tension"
