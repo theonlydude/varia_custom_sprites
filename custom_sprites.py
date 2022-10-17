@@ -32,6 +32,7 @@ customSprites = {
     'megaman': {"name": "Megaman", "desc": "Megaman X!", "author": "Artheau", "group": "Custom"},
     'link': {"name": "Link", "desc": "Sorry Link, your game is in another randomizer!", "author": "RonnSama", "group": "Custom"},
     'link_2_the_past': {"name": "Link '2' the Past", "desc": "Stacked Links", "author": "Little Leaden Hearts ❤", "group": "Custom"},
+    'tallink': {"name": "Tallink", "desc": "Link from Zelda II", "author": "Little Leaden Hearts ❤", "group": "Custom"},
     'fed_trooper': {"name": "GF Trooper", "desc": "A Galactic Federation trooper", "author": "Physix", "group": "Custom"},
     'super_controid': {"name": "Contra", "desc": "Badass soldier from Contra III", "author": "Nintoaster", "group": "Custom"},
     'brad-fang': {"name": "Brad Fang", "desc": "Brad Fand from Contra", "author": "Akai Azul", "group": "Custom"},
@@ -103,6 +104,7 @@ customSpritesOrder = [
     'megaman',
     'link',
     'link_2_the_past',
+    'tallink',
     'fed_trooper',
     'super_controid',
     'brad-fang',
@@ -381,3 +383,4 @@ messageBoxes['mario_8bit.ips'] = messageBoxes['luigi.ips']
 messageBoxes['mario_8bit_modern.ips'] = messageBoxes['luigi.ips']
 messageBoxes['kirby.ips'] = messageBoxes['buffed_kirby.ips']
 messageBoxes['link_2_the_past.ips'] = messageBoxes['link.ips']
+messageBoxes['tallink.ips'] = messageBoxes['link.ips']
