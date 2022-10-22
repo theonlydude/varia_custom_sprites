@@ -24,8 +24,7 @@
         "port_author": "metaquarius",
         "description": "Ports from various Metroid games",
         "group": "Memory Violation",
-        "spc_path": "other_metroid_metaquarius/m4_ridleyx.spc",
-	"group": "Metroid Fusion"
+        "spc_path": "other_metroid_metaquarius/m4_ridleyx.spc"
     },
     "m4_serris": {
         "nspc_path": "other_metroid_metaquarius/m4_serris.bin",
