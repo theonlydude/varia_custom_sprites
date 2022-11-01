@@ -835,5 +835,13 @@
         "port_author": "Apollo",
         "description": "Version 0.8.3",
         "spc_path": "MMC_Server/Zeros_Theme_v0.8.3.spc"
+    },
+    "Resident Evil Movie - Main Theme": {
+        "nspc_path": "MMC_Server/Resident_Evil_Movie_-_Main_Theme.nspc",
+        "track_index": 0,
+        "original_author": "Tim Skold, Marilyn Manson",
+        "port_author": "Apollo",
+        "description": "Main Theme from the first Resident Evil movie",
+        "spc_path": "MMC_Server/Resident_Evil_Movie_-_Main_Theme.spc"
     }
 }
