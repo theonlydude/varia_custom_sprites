@@ -843,5 +843,77 @@
         "port_author": "Apollo",
         "description": "Main Theme from the first Resident Evil movie",
         "spc_path": "MMC_Server/Resident_Evil_Movie_-_Main_Theme.spc"
+    },
+    "Nightmare": {
+        "nspc_path": "MMC_Server/Circle_of_the_Moon_OST_-_Nightmare.nspc",
+        "track_index": 0,
+        "original_author": "Sotaro Tojima",
+        "port_author": "Albert V",
+        "description": "",
+        "group": "Castlevania Circle of the Moon",
+        "spc_path": "MMC_Server/Circle_of_the_Moon_OST_-_Nightmare.spc"
+    },
+    "SM - Custom Maridia": {
+        "nspc_path": "MMC_Server/Custom_Maridia_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Albert V",
+        "description": "",
+        "group": "Super Metroid",
+        "spc_path": "MMC_Server/Custom_Maridia_v1.0.spc"
+    },
+    "SM - Custom Red Brinstar": {
+        "nspc_path": "MMC_Server/Custom_red_brinstar_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Albert V",
+        "description": "",
+        "group": "Super Metroid",
+        "spc_path": "MMC_Server/Custom_red_brinstar_v1.0.spc"
+    },
+    "Cemetery": {
+        "nspc_path": "MMC_Server/Cemetery_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "TODO",
+        "port_author": "Albert V",
+        "description": "v1.0",
+        "group": "Albert V Arrangement",
+        "spc_path": "MMC_Server/Cemetery_v1.0.spc"
+    },
+    "Zelda DS Intro": {
+        "nspc_path": "MMC_Server/Intro_Zelda_DS.nspc",
+        "track_index": 0,
+        "original_author": "TODO",
+        "port_author": "Albert V",
+        "description": "",
+        "group": "Albert V Arrangement",
+        "spc_path": "MMC_Server/Intro_Zelda_DS.spc"
+    },
+    "Art Tower": {
+        "nspc_path": "MMC_Server/LE_SM_Art_Tower_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "Sotaro Tojima",
+        "port_author": "Albert V",
+        "description": "From CastleVania Legacy of Darkness",
+        "group": "Albert V Arrangement",
+        "spc_path": "MMC_Server/LE_SM_Art_Tower_v1.0.spc"
+    },
+    "Phendranas Drift Valley": {
+        "nspc_path": "MMC_Server/Phendranas_Drift_Valley_v1.1.nspc",
+        "track_index": 0,
+        "original_author": "TODO",
+        "port_author": "Albert V",
+        "description": "",
+        "group": "Metroid Prime",
+        "spc_path": "MMC_Server/Phendranas_Drift_Valley_v1.1.spc"
+    },
+    "Water Temple": {
+        "nspc_path": "MMC_Server/The_Water_Temple_v1.2.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "Albert V",
+        "description": "v1.2",
+        "group": "The Legend Of Zelda Ocarina Of Time",
+        "spc_path": "MMC_Server/The_Water_Temple_v1.2.spc"
     }
 }

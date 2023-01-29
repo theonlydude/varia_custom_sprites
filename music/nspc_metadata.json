@@ -1569,6 +1569,122 @@
             21240
         ]
     },
+    "MMC_Server/Circle_of_the_Moon_OST_-_Nightmare.nspc": {
+        "md5sum": "2665426a9871d46afbb9efebe2e2396a",
+        "block_headers_offsets": [
+            0,
+            15853,
+            15917,
+            16011,
+            16017,
+            18358,
+            18364,
+            18373,
+            18395
+        ]
+    },
+    "MMC_Server/Custom_Maridia_v1.0.nspc": {
+        "md5sum": "eae29bf9570f22c4762eec23e2dcd0d8",
+        "block_headers_offsets": [
+            0,
+            19912,
+            19936,
+            19976,
+            19982,
+            23762,
+            23768,
+            23777,
+            23799
+        ]
+    },
+    "MMC_Server/Custom_red_brinstar_v1.0.nspc": {
+        "md5sum": "80672d226a02dc9a13e65e361e67576a",
+        "block_headers_offsets": [
+            0,
+            15988,
+            16016,
+            16062,
+            16068,
+            18071,
+            18077,
+            18086,
+            18108
+        ]
+    },
+    "MMC_Server/Cemetery_v1.0.nspc": {
+        "md5sum": "50588f275409650615eff7bb89f6f70f",
+        "block_headers_offsets": [
+            0,
+            18697,
+            18765,
+            18865,
+            18871,
+            23721,
+            24803,
+            24809,
+            24818,
+            24840
+        ]
+    },
+    "MMC_Server/Intro_Zelda_DS.nspc": {
+        "md5sum": "7466ee4b0a232ae93e15783742b50b88",
+        "block_headers_offsets": [
+            0,
+            15322,
+            15342,
+            15364,
+            15370,
+            20066,
+            20072,
+            20081,
+            20103
+        ]
+    },
+    "MMC_Server/LE_SM_Art_Tower_v1.0.nspc": {
+        "md5sum": "04a987880cb065ce9aba0bccd7d64dc8",
+        "block_headers_offsets": [
+            0,
+            16231,
+            16275,
+            16363,
+            16369,
+            21432,
+            24246,
+            24252,
+            24261,
+            24283
+        ]
+    },
+    "MMC_Server/Phendranas_Drift_Valley_v1.1.nspc": {
+        "md5sum": "e3b0f94cc3752790e4de7b9a7c5b59d4",
+        "block_headers_offsets": [
+            0,
+            17788,
+            17808,
+            17848,
+            17854,
+            22879,
+            23948,
+            23954,
+            23963,
+            23985
+        ]
+    },
+    "MMC_Server/The_Water_Temple_v1.2.nspc": {
+        "md5sum": "82160ce6e6ff39c7dad55567cd1cdb87",
+        "block_headers_offsets": [
+            0,
+            11830,
+            11858,
+            11898,
+            11904,
+            16719,
+            23927,
+            23933,
+            23942,
+            23964
+        ]
+    },
     "mentlegen/Blue_on_Black.nspc": {
         "md5sum": "41a1925391588889cf66e8b3bde37621",
         "block_headers_offsets": [
