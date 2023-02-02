@@ -29,6 +29,7 @@ customShips = {
     'GameCube_ship': {"name": "GameCube", "desc": "Cube shaped retro console", "author": "Fredz00z"},
     'Frieza_ship': {"name": "Frieza Ship", "desc": "Freiza Ship from Dragon Ball", "author": "Fredz00z"},
     'stairs_ship': {"name": "Castlevania Stairs", "desc": "Alucard's ship", "author": "Fragger", "hideSamus": True},
+    'dr.wily': {"name": "Dr. Wily", "desc": "Dr. Wily ship from Mega Man 7", "author": "Fredz00z"},
 }
 
 customShipsOrder = [
@@ -47,6 +48,7 @@ customShipsOrder = [
     'pocket_rocket',
     'kirbyship',
     'stairs_ship',
+    'dr.wily',
     'SNES_ship',
     'n64_ship',
     'GameCube_ship',
