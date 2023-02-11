@@ -142,6 +142,24 @@
         "group": "Metroid Fusion",
         "spc_path": "MMC_Server/Dark_Sector_6_Small_arrangement.spc"
     },
+    "Sector 3 PYR (Custom)": {
+        "nspc_path": "MMC_Server/Custom_Sector_3_PYR_v1.1.nspc",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto and Albert V",
+        "port_author": "Albert V",
+        "description": "Version 1.1",
+        "group": "Metroid Fusion",
+        "spc_path": "MMC_Server/Custom_Sector_3_PYR_v1.1.spc"
+    },
+    "Sector 3 Crisis Mission": {
+        "nspc_path": "MMC_Server/Sector_3_Crisis_Mission_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Albert V",
+        "description": "Version 1.0",
+        "group": "Metroid Fusion",
+        "spc_path": "MMC_Server/Sector_3_Crisis_Mission_v1.0.spc"
+    },
     "Dire Dire Docks (Custom)": {
         "nspc_path": "MMC_Server/New_Dire_Dire_Docks_Custom_v1.0.nspc",
         "track_index": 0,
@@ -250,13 +268,13 @@
         "spc_path": "MMC_Server/Ghosts_n_Goblins.spc"
     },
     "Goron City": {
-        "nspc_path": "MMC_Server/Zelda_Ocarina_of_Time_Goron_City_v1.1.nspc",
+        "nspc_path": "MMC_Server/Goron_City_v1.2.nspc",
         "track_index": 0,
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
-        "description": "Version 1.1",
+        "description": "Version 1.2",
         "group": "The Legend Of Zelda Ocarina Of Time",
-        "spc_path": "MMC_Server/Zelda_Ocarina_of_Time_Goron_City_v1.spc"
+        "spc_path": "MMC_Server/Goron_City_v1.2.spc"
     },
     "Great Bay Temple": {
         "nspc_path": "MMC_Server/Great_Bay_Temple_v1.0.nspc",
@@ -858,7 +876,7 @@
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "Albert V",
-        "description": "",
+        "description": "Albert V arrangement",
         "group": "Super Metroid",
         "spc_path": "MMC_Server/Custom_Maridia_v1.0.spc"
     },
@@ -867,9 +885,27 @@
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "Albert V",
-        "description": "",
+        "description": "Albert V arrangement",
         "group": "Super Metroid",
         "spc_path": "MMC_Server/Custom_red_brinstar_v1.0.spc"
+    },
+    "SM - Custom Green Brinstar": {
+        "nspc_path": "MMC_Server/Custom_Green_Vegetation_v1.1.nspc",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Albert V",
+        "description": "Albert V arrangement",
+        "group": "Super Metroid",
+        "spc_path": "MMC_Server/Custom_Green_Vegetation_v1.1.spc"
+    },
+    "Ancient Chozo Green Brinstar": {
+        "nspc_path": "MMC_Server/A.C._Green_Brinstar_v1.1.nspc",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Albert V",
+        "description": "Albert V arrangement",
+        "group": "Super Metroid",
+        "spc_path": "MMC_Server/A.C._Green_Brinstar_v1.1.spc"
     },
     "Cemetery": {
         "nspc_path": "MMC_Server/Cemetery_v1.0.nspc",
@@ -915,5 +951,50 @@
         "description": "v1.2",
         "group": "The Legend Of Zelda Ocarina Of Time",
         "spc_path": "MMC_Server/The_Water_Temple_v1.2.spc"
+    },
+    "Torvustar": {
+        "nspc_path": "MMC_Server/Torvustar_v1.1.nspc",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto And Albert V",
+        "port_author": "Albert V",
+        "description": "Torvus theme from Metroid Prime 2 with Red Brinstar soundfont. Version 1.1",
+        "group": "Albert V Arrangement",
+        "spc_path": "MMC_Server/Torvustar_v1.1.spc"
+    },
+    "Metroid Confrontation": {
+        "nspc_path": "MMC_Server/Metroid_Confrontation_v1.1.nspc",
+        "track_index": 0,
+        "original_author": "?",
+        "port_author": "Albert V",
+        "description": "?",
+        "group": "Albert V Arrangement",
+        "spc_path": "MMC_Server/Metroid_Confrontation_v1.1.spc"
+    },
+    "Cyber Space": {
+        "nspc_path": "MMC_Server/Cyber_Space_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "?",
+        "port_author": "Albert V",
+        "description": "?",
+        "group": "Albert V Arrangement",
+        "spc_path": "MMC_Server/Cyber_Space_v1.0.spc"
+    },
+    "Dance Hall (Custom)": {
+        "nspc_path": "MMC_Server/SM_Custom_Dance_Hall_v1.1.nspc",
+        "track_index": 0,
+        "original_author": "?",
+        "port_author": "Albert V",
+        "description": "?",
+        "group": "Albert V Arrangement",
+        "spc_path": "MMC_Server/SM_Custom_Dance_Hall_v1.1.spc"
+    },
+    "Mario Underground Theme": {
+        "nspc_path": "MMC_Server/SM_Underground_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "Albert V",
+        "description": "Mario underground levels theme with SM sound font. Version 1.0",
+        "group": "Albert V Arrangement",
+        "spc_path": "MMC_Server/SM_Underground_v1.0.spc"
     }
 }

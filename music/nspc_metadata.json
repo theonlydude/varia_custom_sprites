@@ -460,6 +460,35 @@
             22686
         ]
     },
+    "MMC_Server/Custom_Sector_3_PYR_v1.1.nspc": {
+        "md5sum": "4a4a724acf62765327b0e5fdbcac72eb",
+        "block_headers_offsets": [
+            0,
+            18886,
+            18910,
+            18944,
+            18950,
+            21509,
+            21515,
+            21524,
+            21546
+        ]
+    },
+    "MMC_Server/Sector_3_Crisis_Mission_v1.0.nspc": {
+        "md5sum": "86f0a39659f43b948df69200ce931a9b",
+        "block_headers_offsets": [
+            0,
+            14899,
+            14931,
+            14977,
+            14983,
+            20051,
+            22302,
+            22308,
+            22317,
+            22339
+        ]
+    },
     "MMC_Server/New_Dire_Dire_Docks_Custom_v1.0.nspc": {
         "md5sum": "41e16742a847e1951c1e8ed861241256",
         "block_headers_offsets": [
@@ -629,17 +658,18 @@
             24527
         ]
     },
-    "MMC_Server/Zelda_Ocarina_of_Time_Goron_City_v1.1.nspc": {
-        "md5sum": "3866c82a64d03dd7d3a7e721c85ee7e5",
+    "MMC_Server/Goron_City_v1.2.nspc": {
+        "md5sum": "cb7d59f9288283cf31e38be9661d8e3e",
         "block_headers_offsets": [
             0,
             18706,
             18734,
             18774,
-            22932,
+            18780,
             22938,
-            22947,
-            22969
+            22944,
+            22953,
+            22975
         ]
     },
     "MMC_Server/Great_Bay_Temple_v1.0.nspc": {
@@ -1611,6 +1641,34 @@
             18108
         ]
     },
+    "MMC_Server/Custom_Green_Vegetation_v1.1.nspc": {
+        "md5sum": "b8ec49b53fddce26fd4a79f4458c6cdb",
+        "block_headers_offsets": [
+            0,
+            19741,
+            19789,
+            19865,
+            19871,
+            24194,
+            24200,
+            24209,
+            24231
+        ]
+    },
+    "MMC_Server/A.C._Green_Brinstar_v1.1.nspc": {
+        "md5sum": "d99fe60061609f294d670a71860eb5f5",
+        "block_headers_offsets": [
+            0,
+            19804,
+            19852,
+            19928,
+            19934,
+            24791,
+            24797,
+            24806,
+            24828
+        ]
+    },
     "MMC_Server/Cemetery_v1.0.nspc": {
         "md5sum": "50588f275409650615eff7bb89f6f70f",
         "block_headers_offsets": [
@@ -1683,6 +1741,77 @@
             23933,
             23942,
             23964
+        ]
+    },
+    "MMC_Server/Torvustar_v1.1.nspc": {
+        "md5sum": "2f1908d78d0658d50b906c95fb26c2dd",
+        "block_headers_offsets": [
+            0,
+            17716,
+            17756,
+            17814,
+            21847,
+            21853,
+            21862,
+            21884
+        ]
+    },
+    "MMC_Server/Metroid_Confrontation_v1.1.nspc": {
+        "md5sum": "055d1edba1e21c711d721fec69169998",
+        "block_headers_offsets": [
+            0,
+            12415,
+            12467,
+            12567,
+            12573,
+            17445,
+            24276,
+            24282,
+            24291,
+            24313
+        ]
+    },
+    "MMC_Server/Cyber_Space_v1.0.nspc": {
+        "md5sum": "4a75664b2ac9b57cf42dcc6bbf73dd7f",
+        "block_headers_offsets": [
+            0,
+            18292,
+            18320,
+            18360,
+            18366,
+            19762,
+            19768,
+            19777,
+            19799
+        ]
+    },
+    "MMC_Server/SM_Custom_Dance_Hall_v1.1.nspc": {
+        "md5sum": "677829127228e685ec8c402745e22169",
+        "block_headers_offsets": [
+            0,
+            8653,
+            8681,
+            8727,
+            8733,
+            13772,
+            24477,
+            24483,
+            24492,
+            24514
+        ]
+    },
+    "MMC_Server/SM_Underground_v1.0.nspc": {
+        "md5sum": "1c5daab0c2823f26581b2ca268c0f7b8",
+        "block_headers_offsets": [
+            0,
+            19525,
+            19557,
+            19603,
+            19609,
+            22816,
+            22822,
+            22831,
+            22853
         ]
     },
     "mentlegen/Blue_on_Black.nspc": {
