@@ -391,6 +391,29 @@ messageBoxes = {
         'Grapple': 'bolt',
         'ETank': 'wrench',
         'Reserve': '1-up'
+    },
+    'ronald_mcdonald.ips': {
+        'Varia': 'hotcakes',
+        'Gravity': 'grimace',
+        'Charge': 'cheeseburger',
+        'Ice': 'ice cola',
+        'Wave': 'wrap',
+        'Spazer': 'salad',
+        'Plasma': 'quarter pounder',
+        'HiJump': 'hash jump browns',
+        'SpeedBooster': 'fast food',
+        'SpaceJump': 'silly joke',
+        'Morph': 'ball pit',
+        'Bomb': 'chicken mcnuggets',
+        'SpringBall': 'juggling ball',
+        'ScrewAttack': 'sundae attack',
+        'Missile': 'bacon mcmuffin',
+        'Super': 'sausage mcmuffin',
+        'PowerBomb': 'big mac',
+        'Grapple': 'grab and go',
+        'XRayScope': 'hamburglar mask',
+        'Reserve': 'happy meal toy',
+        'ETank': 'happy meal'
     }
 }
 
