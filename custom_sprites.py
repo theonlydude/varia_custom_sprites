@@ -9,6 +9,8 @@ customSprites = {
     'dread': {"name": "Dread", "desc": "Samus resprite inspired by Metroid Dread", "author": "⚔Wandering✝Spider🕷", "group": "Samus"},
     'combat_armor_samus': {"name": "Combat Armor", "desc": "Samus, from Samus Combat Armor hack", "author": "Munchy (ripped by TarThoron)", "group": "Samus"},
     'dark_samus': {"name": "Dark Samus", "desc": "Samus recolor inspired by the Dark Samus character", "author": "TarThoron", "group": "Samus"},
+    'greyscale_samus': {"name": "Greyscale", "desc": "Samus greyscale recolor", "author": "mm2nescartridge", "group": "Samus"},
+    'blue_samus': {"name": "Blue", "desc": "Samus blue recolor", "author": "mm2nescartridge", "group": "Samus"},
     'trans': {"name": "Trans Colors", "desc": "Samus in trans pride colors", "author": "TarThoron", "group": "Samus"},
     'enby': {"name": "Enby Colors", "desc": "Samus in non binary colors", "author": "Glove", "group": "Samus"},
     'aroace': {"name": "AroAce Colors", "desc": "Samus in AroAce colors", "author": "mm2nescartridge", "group": "Samus"},
@@ -56,6 +58,7 @@ customSprites = {
     'crewmate': {"name": "Crewmate", "desc": "Definitely sus", "author": "_aitchFactor", "group": "Custom"},
     'buffed_kirby': {"name": "Buffed Kirby", "desc": "Kirby on steroids", "author": "Fredz00z", "group": "Custom"},
     'kirby': {"name": "Kirby", "desc": "Kirby", "author": "⚔Wandering✝Spider🕷", "group": "Custom"},
+    'yarn_kirby': {"name": "Yarn Kirby", "desc": "Kirby outline", "author": "Dawn", "group": "Custom"},
     'cuphead': {"name": "Cuphead", "desc": "Don't Deal with the Devil", "author": "Fredz00z", "group": "Custom"},
     'sans': {"name": "Sans", "desc": "Sans from Undertale", "author": "Ouily644", "group": "Custom"},
     'king_graham': {"name": "King Graham", "desc": "From King's Quest 5", "author": "Fragger", "group": "Custom"},
@@ -86,6 +89,8 @@ customSpritesOrder = [
     'dread',
     'combat_armor_samus',
     'dark_samus',
+    'greyscale_samus',
+    'blue_samus',
     'trans',
     'enby',
     'aroace',
@@ -134,6 +139,7 @@ customSpritesOrder = [
     'crewmate',
     'buffed_kirby',
     'kirby',
+    'yarn_kirby',
     'cuphead',
     'inkling_girl',
     'marga',
@@ -421,5 +427,6 @@ messageBoxes['mario.ips'] = messageBoxes['luigi.ips']
 messageBoxes['mario_8bit.ips'] = messageBoxes['luigi.ips']
 messageBoxes['mario_8bit_modern.ips'] = messageBoxes['luigi.ips']
 messageBoxes['kirby.ips'] = messageBoxes['buffed_kirby.ips']
+messageBoxes['yarn_kirby.ips'] = messageBoxes['buffed_kirby.ips']
 messageBoxes['link_2_the_past.ips'] = messageBoxes['link.ips']
 messageBoxes['tallink.ips'] = messageBoxes['link.ips']
