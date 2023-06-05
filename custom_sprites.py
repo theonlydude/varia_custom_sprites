@@ -72,7 +72,7 @@ customSprites = {
     'moonclif': {"name": "Moonclif", "desc": " A fox with a biconical eye and a mechanical hand which allows him to shoot beams", "author": "Lougaroc", "group": "Custom"},
     'arcana': {"name": "Arcana", "desc": "From a Christmas charity marathon", "author": "102", "group": "Custom"},
     'pyronett': {"name": "Pyronett", "desc": "Original female character", "author": "Dawilowilowes", "group": "Custom"},
-    'protogen_laso': {"name": "Protogen Laso", "desc": "Is that a furry?", "author": "Purple peak1", "group": "Custom"},
+    'protogen_laso': {"name": "Protogen Laso", "desc": "Is that a furry? Laso, created by Eric156.", "author": "Purple peak1", "group": "Custom"},
     'maria_pollo': {"name": "Maria Pollo", "desc": "Maria mascot in Samus outfit", "author": "MoeChicken", "group": "Custom"},
     'master_hand': {"name": "Master Hand", "desc": "Boss from Super Smash Bros", "author": "Fredz00z", "group": "Custom"},
     'metroid': {"name": "Metroid", "desc": "It can't crawl", "author": "Fingersmcgee", "group": "Custom"},
