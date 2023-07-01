@@ -33,6 +33,7 @@ customShips = {
     'stairs_ship': {"name": "Castlevania Stairs", "desc": "Alucard's ship", "author": "Fragger", "hideSamus": True},
     'dr.wily': {"name": "Dr. Wily", "desc": "Dr. Wily ship from Mega Man 7", "author": "Fredz00z"},
     'krang_ship': {"name": "Krang Ship", "desc": "Krang ship from TMNT", "author": "Fredz00z", "showSamusAtTakeoff": True},
+    'happy_meal': {"name": "Happy Meal", "desc": "Kids fast food lunch box", "author": "Fredz00z", "hideSamus": True},
 }
 
 customShipsOrder = [
@@ -59,6 +60,7 @@ customShipsOrder = [
     'GameCube_ship',
     'Frieza_ship',
     'capsule_ship',
+    'happy_meal',
     'minitroid_ship',
     'hyperion_ship',
     'phazon_ship',
