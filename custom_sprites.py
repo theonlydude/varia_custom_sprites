@@ -9,6 +9,8 @@ customSprites = {
     'dread': {"name": "Dread", "desc": "Samus resprite inspired by Metroid Dread", "author": "⚔Wandering✝Spider🕷", "group": "Samus"},
     'combat_armor_samus': {"name": "Combat Armor", "desc": "Samus, from Samus Combat Armor hack", "author": "Munchy (ripped by TarThoron)", "group": "Samus"},
     'dark_samus': {"name": "Dark Samus", "desc": "Samus recolor inspired by the Dark Samus character", "author": "TarThoron", "group": "Samus"},
+    'greyscale_samus': {"name": "Greyscale", "desc": "Samus greyscale recolor", "author": "mm2nescartridge", "group": "Samus"},
+    'blue_samus': {"name": "Blue", "desc": "Samus blue recolor", "author": "mm2nescartridge", "group": "Samus"},
     'trans': {"name": "Trans Colors", "desc": "Samus in trans pride colors", "author": "TarThoron", "group": "Samus"},
     'enby': {"name": "Enby Colors", "desc": "Samus in non binary colors", "author": "Glove", "group": "Samus"},
     'aroace': {"name": "AroAce Colors", "desc": "Samus in AroAce colors", "author": "mm2nescartridge", "group": "Samus"},
@@ -27,6 +29,7 @@ customSprites = {
     'outline_samus': {"name": "Outline", "desc": "Samus in neon outline", "author": "Fredz00z", "group": "Samus"},
     'hitbox_helper': {"name": "Hitbox", "desc": "Samus, with her actual hitbox on top", "author": "Artheau and Komaru", "group": "Samus"},
     'mini_samus': {"name": "Mini Samus", "desc": "1/3 scale Samus sprite", "author": "Kyzentum", "group": "Samus"},
+    'samus_left_leg': {"name": "Left Leg", "desc": "Just imagine the rest of Samus", "author": "Kyzentum", "group": "Samus"},
     'invisible': {"name": "Invisible", "desc": "Now You See Me Now You Don't", "author": "TarThoron", "group": "Samus"},
     'bailey': {"name": "Bailey", "desc": "Justin Bailey, aka Samus in an 80s swimsuit", "author": "Auximines", "group": "Custom"},
     'alucard': {"name": "Alucard", "desc": "Alucard from Castlevania Symphony Of The Night", "author": "Nintoaster", "group": "Custom"},
@@ -38,11 +41,13 @@ customSprites = {
     'tallink': {"name": "Tallink", "desc": "Link from Zelda II", "author": "Little Leaden Hearts ❤", "group": "Custom"},
     'fed_trooper': {"name": "GF Trooper", "desc": "A Galactic Federation trooper", "author": "Physix", "group": "Custom"},
     'super_controid': {"name": "Contra", "desc": "Badass soldier from Contra III", "author": "Nintoaster", "group": "Custom"},
-    'brad_fang': {"name": "Brad Fang", "desc": "Brad Fand from Contra", "author": "Akai Azul", "group": "Custom"},
+    'brad_fang': {"name": "Brad Fang", "desc": "Brad Fang from Contra", "author": "Akai Azul", "group": "Custom"},
+    'plissken': {"name": "Plissken", "desc": "Plissken from Contra Rebirth", "author": "Akai Azul", "group": "Custom"},
     'bob': {"name": "B.O.B", "desc": "Space Funky B.O.B.", "author": "Spoonybard", "group": "Custom"},
     'mario': {"name": "Mario", "desc": "One of the bros", "author": "Dawn", "group": "Custom"},
-    'mario_8bit': {"name": "Mario (NES)", "desc": "One of the bros, in 8bits", "author": "TarThoron", "group": "Custom"},
-    'mario_8bit_modern': {"name": "Mario (Alt)", "desc": "One of the bros, in 8bits, with a more modern palette", "author": "TarThoron", "group": "Custom"},
+    'mario_smw': {"name": "Mario (SMW)", "desc": "One of the bros, in 16 bits", "author": "SthianFel64", "group": "Custom"},
+    'mario_8bit': {"name": "Mario (NES)", "desc": "One of the bros, in 8 bits", "author": "TarThoron", "group": "Custom"},
+    'mario_8bit_modern': {"name": "Mario (Alt)", "desc": "One of the bros, in 8 bits, with a more modern palette", "author": "TarThoron", "group": "Custom"},
     'luigi': {"name": "Luigi", "desc": "The other bro", "author": "RonnSama", "group": "Custom"},
     'wario': {"name": "Wario", "desc": "Waaaaaa!", "author": "Fredz00z", "group": "Custom"},
     'yoshi': {"name": "Yoshi", "desc": "Yoshi & baby Mario", "author": "Dawn", "group": "Custom"},
@@ -56,6 +61,7 @@ customSprites = {
     'crewmate': {"name": "Crewmate", "desc": "Definitely sus", "author": "_aitchFactor", "group": "Custom"},
     'buffed_kirby': {"name": "Buffed Kirby", "desc": "Kirby on steroids", "author": "Fredz00z", "group": "Custom"},
     'kirby': {"name": "Kirby", "desc": "Kirby", "author": "⚔Wandering✝Spider🕷", "group": "Custom"},
+    'yarn_kirby': {"name": "Yarn Kirby", "desc": "Kirby outline", "author": "Dawn", "group": "Custom"},
     'cuphead': {"name": "Cuphead", "desc": "Don't Deal with the Devil", "author": "Fredz00z", "group": "Custom"},
     'sans': {"name": "Sans", "desc": "Sans from Undertale", "author": "Ouily644", "group": "Custom"},
     'king_graham': {"name": "King Graham", "desc": "From King's Quest 5", "author": "Fragger", "group": "Custom"},
@@ -66,11 +72,14 @@ customSprites = {
     'captain_novolin': {"name": "Captain Novolin", "desc": "Captain Novolin, from the eponymous educational SNES game on diabetes", "author": "PaddyCo", "group": "Custom"},
     'moonclif': {"name": "Moonclif", "desc": " A fox with a biconical eye and a mechanical hand which allows him to shoot beams", "author": "Lougaroc", "group": "Custom"},
     'arcana': {"name": "Arcana", "desc": "From a Christmas charity marathon", "author": "102", "group": "Custom"},
+    'pyronett': {"name": "Pyronett", "desc": "Original female character", "author": "Dawilowilowes", "group": "Custom"},
+    'protogen_laso': {"name": "Protogen Laso", "desc": "Is that a furry? Laso, created by Eric156.", "author": "Purple peak1", "group": "Custom"},
     'maria_pollo': {"name": "Maria Pollo", "desc": "Maria mascot in Samus outfit", "author": "MoeChicken", "group": "Custom"},
     'master_hand': {"name": "Master Hand", "desc": "Boss from Super Smash Bros", "author": "Fredz00z", "group": "Custom"},
     'metroid': {"name": "Metroid", "desc": "It can't crawl", "author": "Fingersmcgee", "group": "Custom"},
     'shaktool': {"name": "Shaktool", "desc": "Shaktool in all its glory", "author": "Pneumatic", "group": "Custom"},
     'shaktool_jr': {"name": "Shaktool Jr", "desc": "Shaktool Junior follows in its father's footsteps", "author": "Pneumatic", "group": "Custom"},
+    'alcoon': {"name": "Alcoon", "desc": "Unleash your inner Power Bomb", "author": "wuffie", "group": "Custom"},
     'sprite_can': {"name": "Sprite", "desc": "A ... Sprite ... ", "author": "TarThoron", "group": "Custom"},
     'tetris': {"name": "Tetris", "desc": "Tetrominos from Tetris", "author": "Kyzentum", "group": "Custom"},
     '140': {"name": "140", "desc": "From the game 140", "author": "Kyzentum", "group": "Custom"},
@@ -86,6 +95,8 @@ customSpritesOrder = [
     'dread',
     'combat_armor_samus',
     'dark_samus',
+    'greyscale_samus',
+    'blue_samus',
     'trans',
     'enby',
     'aroace',
@@ -107,6 +118,7 @@ customSpritesOrder = [
     'samus_upside_down_and_backwards',
     'hitbox_helper',
     'mini_samus',
+    'samus_left_leg',
     'invisible',
     'bailey',
     'alucard',
@@ -119,8 +131,10 @@ customSpritesOrder = [
     'fed_trooper',
     'super_controid',
     'brad_fang',
+    'plissken',
     'bob',
     'mario',
+    'mario_smw',
     'mario_8bit',
     'mario_8bit_modern',
     'luigi',
@@ -134,6 +148,7 @@ customSpritesOrder = [
     'crewmate',
     'buffed_kirby',
     'kirby',
+    'yarn_kirby',
     'cuphead',
     'inkling_girl',
     'marga',
@@ -146,10 +161,13 @@ customSpritesOrder = [
     'moonclif',
     'arcana',
     'maria_pollo',
+    'pyronett',
+    'protogen_laso',
     'master_hand',
     'metroid',
     'shaktool',
     'shaktool_jr',
+    'alcoon',
     'sprite_can',
     'chairdeep',
     'tetris',
@@ -414,6 +432,13 @@ messageBoxes = {
         'XRayScope': 'hamburglar mask',
         'Reserve': 'happy meal toy',
         'ETank': 'happy meal'
+<<<<<<< HEAD
+=======
+    },
+    "protogen_laso.ips": {
+        'Morph': 'bean',
+        'SpringBall': 'jumping bean'
+>>>>>>> main
     }
 }
 
@@ -421,5 +446,6 @@ messageBoxes['mario.ips'] = messageBoxes['luigi.ips']
 messageBoxes['mario_8bit.ips'] = messageBoxes['luigi.ips']
 messageBoxes['mario_8bit_modern.ips'] = messageBoxes['luigi.ips']
 messageBoxes['kirby.ips'] = messageBoxes['buffed_kirby.ips']
+messageBoxes['yarn_kirby.ips'] = messageBoxes['buffed_kirby.ips']
 messageBoxes['link_2_the_past.ips'] = messageBoxes['link.ips']
 messageBoxes['tallink.ips'] = messageBoxes['link.ips']
