@@ -432,13 +432,10 @@ messageBoxes = {
         'XRayScope': 'hamburglar mask',
         'Reserve': 'happy meal toy',
         'ETank': 'happy meal'
-<<<<<<< HEAD
-=======
     },
     "protogen_laso.ips": {
         'Morph': 'bean',
         'SpringBall': 'jumping bean'
->>>>>>> main
     }
 }
 
