@@ -182,6 +182,10 @@ customSpritesOrder = [
 
 # custom sprite message boxes update
 messageBoxes = {
+    'protogen_laso.ips': {
+        'Varia': 'varia fur',
+        'Gravity': 'gravity fur',
+    },
     'marga.ips': {
         'Morph': 'morphing doll',
         'SpringBall': 'spring doll',
