@@ -182,10 +182,6 @@ customSpritesOrder = [
 
 # custom sprite message boxes update
 messageBoxes = {
-    'protogen_laso.ips': {
-        'Varia': 'varia fur',
-        'Gravity': 'gravity fur',
-    },
     'marga.ips': {
         'Morph': 'morphing doll',
         'SpringBall': 'spring doll',
@@ -443,8 +439,10 @@ messageBoxes = {
     },
     "protogen_laso.ips": {
         'Morph': 'bean',
-        'SpringBall': 'jumping bean'
-    }
+        'SpringBall': 'jumping bean',
+        'Varia': 'varia fur',
+        'Gravity': 'gravity fur',
+    },
 }
 
 messageBoxes['mario.ips'] = messageBoxes['luigi.ips']
