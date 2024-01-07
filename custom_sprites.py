@@ -46,6 +46,7 @@ customSprites = {
     'brad_fang': {"name": "Brad Fang", "desc": "Brad Fang from Contra", "author": "Akai Azul", "group": "Custom"},
     'plissken': {"name": "Plissken", "desc": "Plissken from Contra Rebirth", "author": "Akai Azul", "group": "Custom"},
     'bob': {"name": "B.O.B", "desc": "Space Funky B.O.B.", "author": "Spoonybard", "group": "Custom"},
+    'fight': {"name": "FIGHT", "desc": "FIGHT from A Robot Named FIGHT", "author": "Spoony", "group": "Custom"},
     'mario': {"name": "Mario", "desc": "One of the bros", "author": "Dawn", "group": "Custom"},
     'mario_smw': {"name": "Mario (SMW)", "desc": "One of the bros, in 16 bits", "author": "SthianFel64", "group": "Custom"},
     'mario_8bit': {"name": "Mario (NES)", "desc": "One of the bros, in 8 bits", "author": "TarThoron", "group": "Custom"},
@@ -139,6 +140,7 @@ customSpritesOrder = [
     'brad_fang',
     'plissken',
     'bob',
+    'fight',
     'mario',
     'mario_smw',
     'mario_8bit',
@@ -447,6 +449,29 @@ messageBoxes = {
         'Varia': 'varia fur',
         'Gravity': 'gravity fur',
     },
+    "fight.ips": {
+        'ETank': 'mega health',
+        'Missile': 'explosive bolt',
+        'Super': 'rocket launcher',
+        'PowerBomb': 'pulse bomb',
+        'Grapple': 'lightning gun',
+        'XRayScope': 'search burst',
+        'Varia': 'heat shell',
+        'SpringBall': 'arachnomorph v2',
+        'Morph': 'arachnomorph',
+        'ScrewAttack': 'buzzsaw shell',
+        'HiJump': 'power jump',
+        'SpaceJump': 'infinijump',
+        'SpeedBooster': 'speed shell',
+        'Charge': 'electro charge',
+        'Ice': 'web bolt',
+        'Wave': 'phase shot',
+        'Spazer': 'triple shot',
+        'Plasma': 'penetrative shot',
+        'Bomb': 'wave bomb',
+        'Reserve': 'repair kit',
+        'Gravity': 'dive shell'
+    }
 }
 
 messageBoxes['mario.ips'] = messageBoxes['luigi.ips']
