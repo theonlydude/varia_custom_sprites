@@ -98,13 +98,13 @@
         "spc_path": "MMC_Server/Clocktober_-_Castle_Corridor_v1.0.spc"
     },
     "Parasite Queen (Custom)": {
-        "nspc_path": "MMC_Server/Custom_Parasite_Queen_v1.0.nspc",
+        "nspc_path": "MMC_Server/Custom_Parasite_Queen_v1.0_Fixed_By_HAM.nspc",
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
-        "port_author": "Albert V",
-        "description": "Echo buffer must be set seperate!",
-        "group": "Memory Violation",
-        "spc_path": "MMC_Server/Custom_Parasite_Queen_v1.0.spc"
+        "port_author": "Albert V, fixed by H A M",
+        "description": "TODO",
+        "group": "Metroid Prime",
+        "spc_path": "MMC_Server/Custom_Parasite_Queen_v1.0_Fixed_By_HAM.spc"
     },
     "Kraids Lair JX Remix (Custom)": {
         "nspc_path": "MMC_Server/Custom_Remix_Kraids_Lair_-_Metroid_Zero_Mission_V1.0.nspc",
