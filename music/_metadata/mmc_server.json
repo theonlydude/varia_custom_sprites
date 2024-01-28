@@ -224,13 +224,13 @@
         "spc_path": "MMC_Server/Forbidden_Area_v1.1.spc"
     },
     "Forest of Monsters (Custom)": {
-        "nspc_path": "MMC_Server/Forest_of_Monsters_v1.0.nspc",
+        "nspc_path": "MMC_Server/Forest_of_Monsters_Custom_v1.1.nspc",
         "track_index": 0,
         "original_author": "Masanori Adachi Taro Kudo And Albert V",
         "port_author": "Albert V",
-        "description": "Version 1.0",
+        "description": "Version 1.1",
         "group": "Super Castlevania IV",
-        "spc_path": "MMC_Server/Forest_of_Monsters_v1.0.spc"
+        "spc_path": "MMC_Server/Forest_of_Monsters_Custom_v1.1.spc"
     },
     "Forest Temple H.E.": {
         "nspc_path": "MMC_Server/High_Echo_Forest_Temple_v1.1.nspc",
@@ -371,13 +371,13 @@
         "spc_path": "MMC_Server/Killer_Instinct_Main_Theme.spc"
     },
     "Kraid's Lair AV's Remix": {
-        "nspc_path": "MMC_Server/Kraids_Lair_Remix_1.0.nspc",
+        "nspc_path": "MMC_Server/Kraid_lair_Remix_1.2.nspc",
         "track_index": 0,
         "original_author": "Kenji Yamamoto and Albert V",
         "port_author": "Albert V",
-        "description": "Version 1.0",
+        "description": "Version 1.2",
 	"group": "Metroid Zero Mission",
-        "spc_path": "MMC_Server/Kraids_Lair_Remix_v1.0.spc"
+        "spc_path": "MMC_Server/Kraid_lair_Remix_1.2.spc"
     },
     "La Mulana (Custom)": {
         "nspc_path": "MMC_Server/La_Mulana_Custom_v1.0_2019.nspc",
@@ -569,13 +569,13 @@
         "spc_path": "MMC_Server/Siege_of_Madrigal.spc"
     },
     "Silent Madness (Custom)": {
-        "nspc_path": "MMC_Server/Silent_Madness_v1.0.nspc",
+        "nspc_path": "MMC_Server/Annex_-_Silent_Madness_V_1.2.nspc",
         "track_index": 0,
         "original_author": "Masahiko Kimura",
         "port_author": "Albert V",
-        "description": "Version 1.0",
+        "description": "From Castlevania 64. Version 1.2",
         "group": "Albert V Arrangement",
-        "spc_path": "MMC_Server/Silent_Madness_v1.0.spc"
+        "spc_path": "MMC_Server/Annex_-_Silent_Madness_V_1.2.spc"
     },
     "Simon's Theme (Custom)": {
         "nspc_path": "MMC_Server/SIMONS_THEME_CUSTOM_v1.0.nspc",
@@ -614,13 +614,13 @@
         "spc_path": "MMC_Server/SM_Hyrule_Town_-_TLOZMC.spc"
     },
     "SM Satellite": {
-        "nspc_path": "MMC_Server/SM_Satellite_SM.nspc",
+        "nspc_path": "MMC_Server/Satellite_v_1.2.nspc",
         "track_index": 0,
         "original_author": "Albert V",
         "port_author": "Albert V",
-        "description": "Version 1.0 Original Song",
+        "description": "Version 1.2 Original Song",
         "group": "Super Metroid",
-        "spc_path": "MMC_Server/SM_Satellite_SM.spc"
+        "spc_path": "MMC_Server/Satellite_v_1.2.spc"
     },
     "SM The Sinking Old Sanctuary": {
         "nspc_path": "MMC_Server/SM_The_Sinking_Old_Sanctuary_v1.1.nspc",
@@ -993,8 +993,98 @@
         "track_index": 0,
         "original_author": "Koji Kondo",
         "port_author": "Albert V",
-        "description": "Mario underground levels theme with SM sound font. Version 1.0",
+        "description": "Mario underground levels theme with Super Metroid sound font. Version 1.0",
         "group": "Albert V Arrangement",
         "spc_path": "MMC_Server/SM_Underground_v1.0.spc"
+    },
+    "The Metroid Haching (Custom Arrangement)": {
+        "nspc_path": "MMC_Server/The_Metroid_Hatchling_Custom_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "Ryohji Yoshitomi, Albert V",
+        "port_author": "Albert V",
+        "description": "Version 1.0",
+        "group": "Metroid 2",
+        "spc_path": "MMC_Server/The_Metroid_Hatchling_Custom_v1.0.spc"
+    },
+    "AM2R - Initial descent (Custom Arrangement)": {
+        "nspc_path": "MMC_Server/AM2R_-_SR388_SM_v1.1.nspc",
+        "track_index": 0,
+        "original_author": "Ryoji Yoshitomi, Milton Guasti, Albert V",
+        "port_author": "Albert V",
+        "description": "Version 1.1",
+        "group": "Metroid 2",
+        "spc_path": "MMC_Server/AM2R_-_SR388_SM_v1.1.spc"
+    },
+    "The Cave": {
+        "nspc_path": "MMC_Server/The_Cave_1.0.nspc",
+        "track_index": 0,
+        "original_author": "Akihiro Minakata",
+        "port_author": "Albert V",
+        "description": "version 1.0",
+        "group": "Super Castlevania IV",
+        "spc_path": "MMC_Server/The_Cave_1.0.spc"
+    },
+    "The Cave (SM)": {
+        "nspc_path": "MMC_Server/SM_The_Cave_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "Akihiro Minakata",
+        "port_author": "Albert V",
+        "description": "The Cave, with Super Metroid sound font. version 1.0",
+        "group": "Super Castlevania IV",
+        "spc_path": "MMC_Server/SM_The_Cave_v1.0.spc"
+    },
+    "Jurassic Park - Dark Jungle 2": {
+        "nspc_path": "MMC_Server/Jurassic_Park_-_Dark_Jungle_v_1.0.nspc",
+        "track_index": 0,
+        "original_author": "Jon Dunn",
+        "port_author": "Albert V",
+        "description": "From Jurassic Park SNES game. Dance version. version 1.0",
+        "group": "Albert V Arrangement",
+        "spc_path": "MMC_Server/Jurassic_Park_-_Dark_Jungle_v_1.0.spc"
+    },
+    "Tallon Overworld": {
+        "nspc_path": "MMC_Server/PRIME_Tallon_Overworld_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Albert V",
+        "description": "version 1.0",
+        "group": "Metroid Prime",
+        "spc_path": "MMC_Server/PRIME_Tallon_Overworld_v1.0.spc"
+    },
+    "Tallon Overworld (SM)": {
+        "nspc_path": "MMC_Server/SM_Tallon_Overworld_v1.4.nspc",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Albert V",
+        "description": "Tallon Overworld, with Super Metroid sound font. version 1.4",
+        "group": "Metroid Prime",
+        "spc_path": "MMC_Server/SM_Tallon_Overworld_v1.4.spc"
+    },
+    "Phendrana Drifts": {
+        "nspc_path": "MMC_Server/Phendrana_Drift_Cover_By_Black_Falcon_and_Albert_V_v_1.2.nspc",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Black Falcon, Albert V",
+        "description": "Albert V arrangement of Black Falcon cover. version 1.2",
+        "group": "Metroid Prime",
+        "spc_path": "MMC_Server/Phendrana_Drift_Cover_By_Black_Falcon_and_Albert_V_v_1.2.spc"
+    },
+    "Prime Hunters - Arcterra Depths": {
+        "nspc_path": "MMC_Server/Arcterra_Depts_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "Lawrence Schwedler and James Phillipsen",
+        "port_author": "Albert V",
+        "description": "version 1.0",
+        "group": "Metroid Prime",
+        "spc_path": "MMC_Server/Arcterra_Depts_v1.0.spc"
+    },
+    "Caves of Maridia": {
+        "nspc_path": "MMC_Server/Caves_of_Maridia_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Albert V",
+        "description": "Albert V arrangement of West Maridia music. version 1.0",
+        "group": "Super Metroid",
+        "spc_path": "MMC_Server/Caves_of_Maridia_v1.0.spc"
     }
 }

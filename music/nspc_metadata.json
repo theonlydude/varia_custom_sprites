@@ -390,19 +390,6 @@
             22664
         ]
     },
-    "MMC_Server/Custom_Parasite_Queen_v1.0.nspc": {
-        "md5sum": "1ae4df3fc425c0dad0f533718e5426b3",
-        "block_headers_offsets": [
-            0,
-            13144,
-            13176,
-            13222,
-            16764,
-            16770,
-            16779,
-            16801
-        ]
-    },
     "MMC_Server/Custom_Parasite_Queen_v1.0_Fixed_By_HAM.nspc": {
         "md5sum": "2eb7f250c3f711e4af7605b999bf664c",
         "block_headers_offsets": [
@@ -602,19 +589,19 @@
             24472
         ]
     },
-    "MMC_Server/Forest_of_Monsters_v1.0.nspc": {
-        "md5sum": "c700ebb6b923f3aff12ca0ab883daf73",
+    "MMC_Server/Forest_of_Monsters_Custom_v1.1.nspc": {
+        "md5sum": "5ac911ccca5d06600b6a6f11141517c6",
         "block_headers_offsets": [
             0,
-            16384,
-            16436,
-            16512,
-            16518,
-            21522,
-            24724,
-            24730,
-            24739,
-            24761
+            17365,
+            17413,
+            17489,
+            17495,
+            22489,
+            23127,
+            23133,
+            23142,
+            23164
         ]
     },
     "MMC_Server/High_Echo_Forest_Temple_v1.1.nspc": {
@@ -838,19 +825,19 @@
             30072
         ]
     },
-    "MMC_Server/Kraids_Lair_Remix_1.0.nspc": {
-        "md5sum": "34594e2f17a4f6ef93d93433b71b59ea",
+    "MMC_Server/Kraid_lair_Remix_1.2.nspc": {
+        "md5sum": "0037629622cdc913e3cc0062f28b9a21",
         "block_headers_offsets": [
             0,
+            15916,
+            15960,
             16024,
-            16068,
-            16132,
-            16138,
-            21101,
-            24269,
-            24275,
-            24284,
-            24306
+            16030,
+            21080,
+            24398,
+            24404,
+            24413,
+            24435
         ]
     },
     "MMC_Server/La_Mulana_Custom_v1.0_2019.nspc": {
@@ -1147,17 +1134,18 @@
             21293
         ]
     },
-    "MMC_Server/Silent_Madness_v1.0.nspc": {
-        "md5sum": "deac113c7ab8bffbb051cff890ed3136",
+    "MMC_Server/Annex_-_Silent_Madness_V_1.2.nspc": {
+        "md5sum": "2725f6a6fc83d8c6015000713cd9c95d",
         "block_headers_offsets": [
             0,
-            14575,
-            14611,
-            14663,
-            17181,
-            17187,
-            17196,
-            17218
+            19606,
+            19642,
+            19694,
+            19700,
+            21789,
+            21795,
+            21804,
+            21826
         ]
     },
     "MMC_Server/SIMONS_THEME_CUSTOM_v1.0.nspc": {
@@ -1218,19 +1206,16 @@
             24407
         ]
     },
-    "MMC_Server/SM_Satellite_SM.nspc": {
-        "md5sum": "bbffa8de675a1ca828960475642494bc",
+    "MMC_Server/Satellite_v_1.2.nspc": {
+        "md5sum": "d1839235931ca514d95271a0be9391e3",
         "block_headers_offsets": [
             0,
-            9382,
-            9414,
-            9460,
-            9466,
-            14333,
-            23427,
-            23433,
-            23442,
-            23464
+            7231,
+            7267,
+            7319,
+            7325,
+            12378,
+            19203
         ]
     },
     "MMC_Server/SM_The_Sinking_Old_Sanctuary_v1.1.nspc": {
@@ -1827,6 +1812,150 @@
             22853
         ]
     },
+    "MMC_Server/The_Metroid_Hatchling_Custom_v1.0.nspc": {
+        "md5sum": "aff65deca76fd17803bc53bcc3bf7641",
+        "block_headers_offsets": [
+            0,
+            16609,
+            16629,
+            16663,
+            16669,
+            21731,
+            24831,
+            24837,
+            24846,
+            24868
+        ]
+    },
+    "MMC_Server/AM2R_-_SR388_SM_v1.1.nspc": {
+        "md5sum": "37548f499cbf1642659359de54e2b58b",
+        "block_headers_offsets": [
+            0,
+            16051,
+            16103,
+            16203,
+            16209,
+            21231,
+            24806
+        ]
+    },
+    "MMC_Server/The_Cave_1.0.nspc": {
+        "md5sum": "8e47bdda152b3f567aa8598056915ea3",
+        "block_headers_offsets": [
+            0,
+            8311,
+            8331,
+            8383,
+            8389,
+            13197,
+            13203,
+            13212,
+            13234
+        ]
+    },
+    "MMC_Server/SM_The_Cave_v1.0.nspc": {
+        "md5sum": "72790f18f91bf8dd99d9dd96f48b18a2",
+        "block_headers_offsets": [
+            0,
+            12649,
+            12673,
+            12731,
+            12737,
+            17729,
+            17735,
+            17744,
+            17766
+        ]
+    },
+    "MMC_Server/Jurassic_Park_-_Dark_Jungle_v_1.0.nspc": {
+        "md5sum": "2c77cf83fb88775a3bef8481b2359066",
+        "block_headers_offsets": [
+            0,
+            14161,
+            14205,
+            14281,
+            14287,
+            19325,
+            24628,
+            24634,
+            24643,
+            24665
+        ]
+    },
+    "MMC_Server/PRIME_Tallon_Overworld_v1.0.nspc": {
+        "md5sum": "e977bb650d95fab54515541bc304de33",
+        "block_headers_offsets": [
+            0,
+            15493,
+            15541,
+            15611,
+            15617,
+            20649,
+            24304,
+            24310,
+            24319,
+            24341
+        ]
+    },
+    "MMC_Server/SM_Tallon_Overworld_v1.4.nspc": {
+        "md5sum": "537c3587cdbf8c74ff2f3e01bf547632",
+        "block_headers_offsets": [
+            0,
+            14836,
+            14876,
+            14946,
+            14952,
+            19959,
+            24690,
+            24696,
+            24705,
+            24727
+        ]
+    },
+    "MMC_Server/Phendrana_Drift_Cover_By_Black_Falcon_and_Albert_V_v_1.2.nspc": {
+        "md5sum": "071b4cc4772433b663866ba7ec649a34",
+        "block_headers_offsets": [
+            0,
+            17401,
+            17441,
+            17517,
+            17523,
+            22544,
+            24768,
+            24774,
+            24783,
+            24805
+        ]
+    },
+    "MMC_Server/Arcterra_Depts_v1.0.nspc": {
+        "md5sum": "cdc67785439d57782a725271cc5b4e4a",
+        "block_headers_offsets": [
+            0,
+            17545,
+            17597,
+            17679,
+            17685,
+            22733,
+            24808,
+            24814,
+            24823,
+            24845
+        ]
+    },
+    "MMC_Server/Caves_of_Maridia_v1.0.nspc": {
+        "md5sum": "3c5b7b5288eae3ee57030b827d642f50",
+        "block_headers_offsets": [
+            0,
+            19813,
+            19841,
+            19881,
+            19887,
+            24090,
+            24096,
+            24105,
+            24127
+        ]
+    },
     "mentlegen/Blue_on_Black.nspc": {
         "md5sum": "41a1925391588889cf66e8b3bde37621",
         "block_headers_offsets": [
@@ -1963,6 +2092,146 @@
             18976,
             19004,
             19452
+        ]
+    },
+    "metconst/Kraids_Lair_SM_Beta.nspc": {
+        "md5sum": "faf39270d459820a3f1398b78742e34b",
+        "block_headers_offsets": [
+            0,
+            16213,
+            16241,
+            16281,
+            16287,
+            19160,
+            19166,
+            19175,
+            19197
+        ]
+    },
+    "metconst/Custom_Kraid_lair_Remix_1.2_Harps.nspc": {
+        "md5sum": "040074cb622759bcd1bd6d238c4f8aa8",
+        "block_headers_offsets": [
+            0,
+            17815,
+            17855,
+            17919,
+            17925,
+            23000,
+            24689,
+            24695,
+            24704,
+            24726
+        ]
+    },
+    "metconst/Custom_Kraid_lair_Remix_1.2_Maridia_Bass.nspc": {
+        "md5sum": "dd23411bad61e7cee534aa49b34ac796",
+        "block_headers_offsets": [
+            0,
+            14728,
+            14772,
+            14836,
+            14842,
+            19892,
+            23210,
+            23216,
+            23225,
+            23247
+        ]
+    },
+    "metconst/Custom_Kraid_lair_Remix_1.2_ZMIX.nspc": {
+        "md5sum": "892c2a15ab36c418221c07fbf1be552b",
+        "block_headers_offsets": [
+            0,
+            15583,
+            15627,
+            15697,
+            15703,
+            20527,
+            23774,
+            23780,
+            23789,
+            23811
+        ]
+    },
+    "metconst/ChozoRuins.nspc": {
+        "md5sum": "aca5713cde27689a19853e410be755fe",
+        "block_headers_offsets": [
+            0,
+            16330,
+            16382,
+            16464,
+            16470,
+            21527,
+            24254,
+            24271,
+            24277,
+            24284,
+            24290,
+            24299,
+            24346
+        ]
+    },
+    "metconst/Another_Medium.nspc": {
+        "md5sum": "6fd9398c6aca7b1f1fbe2bd30ff43a0a",
+        "block_headers_offsets": [
+            0,
+            17635,
+            17667,
+            17713,
+            17719,
+            20356
+        ]
+    },
+    "metconst/CORE_Approach.nspc": {
+        "md5sum": "3105aea765f15cab85ad8091b42fe4f1",
+        "block_headers_offsets": [
+            0,
+            7114,
+            7134,
+            7156,
+            7162,
+            7816,
+            7822,
+            7831,
+            7853
+        ]
+    },
+    "metconst/CORE.nspc": {
+        "md5sum": "13bf9b7f0f1ff343f4c7b2523c504dd4",
+        "block_headers_offsets": [
+            0,
+            11263,
+            11291,
+            11331,
+            11337,
+            14399
+        ]
+    },
+    "metconst/Pink_Shell.nspc": {
+        "md5sum": "c8acd502a1e635b8590443b96abdd48e",
+        "block_headers_offsets": [
+            0,
+            8014,
+            8034,
+            8062,
+            8068,
+            9024
+        ]
+    },
+    "metconst/PC2V2_condensed.nspc": {
+        "md5sum": "610ac4874ff35ff46fec8973d719df51",
+        "block_headers_offsets": [
+            0,
+            19552,
+            19588,
+            19640,
+            23126,
+            23143,
+            23149,
+            23156,
+            23162,
+            23169,
+            23216
         ]
     },
     "other_metroid_metaquarius/m2_sr388.bin": {
