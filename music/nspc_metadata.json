@@ -489,18 +489,18 @@
             22339
         ]
     },
-    "MMC_Server/New_Dire_Dire_Docks_Custom_v1.0.nspc": {
-        "md5sum": "41e16742a847e1951c1e8ed861241256",
+    "MMC_Server/Super_Mario_64_-_Dire_Dire_Docks_v1.4.nspc": {
+        "md5sum": "b12b34e559b8c8a9f9118383347a07d7",
         "block_headers_offsets": [
             0,
-            19795,
-            19819,
-            19853,
-            19859,
-            24462,
-            24468,
-            24477,
-            24499
+            17887,
+            17907,
+            17941,
+            17947,
+            22624,
+            22630,
+            22639,
+            22661
         ]
     },
     "MMC_Server/Dragon_View_-_Cave_of_Fire_v0.1.nspc": {
@@ -1954,6 +1954,106 @@
             24096,
             24105,
             24127
+        ]
+    },
+    "MMC_Server/Black_Mist_Storm.nspc": {
+        "md5sum": "5c0144ee58b934fee0dd0c88fff14a21",
+        "block_headers_offsets": [
+            0,
+            12676,
+            12700,
+            12734,
+            12740,
+            17467,
+            19677,
+            19683,
+            19692,
+            19714
+        ]
+    },
+    "MMC_Server/Black_Mist_SM.nspc": {
+        "md5sum": "806dbc36966a032e8c40953dddf4a312",
+        "block_headers_offsets": [
+            0,
+            12532,
+            12556,
+            12590,
+            12596,
+            17325,
+            19535,
+            19541,
+            19550,
+            19572
+        ]
+    },
+    "MMC_Server/Lost_Ancient_Ruins.nspc": {
+        "md5sum": "c4435f0d55a8bd2aa75248f95978d5bf",
+        "block_headers_offsets": [
+            0,
+            5260,
+            5272,
+            5294,
+            5300,
+            8529,
+            8535,
+            8544,
+            8566
+        ]
+    },
+    "MMC_Server/Lost_Ancient_Ruins_SM_Choir.nspc": {
+        "md5sum": "4f36f46b541481ce854ec04f6e7ca8f1",
+        "block_headers_offsets": [
+            0,
+            10777,
+            10797,
+            10825,
+            10831,
+            14070,
+            14076,
+            14085,
+            14107
+        ]
+    },
+    "MMC_Server/Lost_Ancient_Ruins_SM_Piano.nspc": {
+        "md5sum": "52192a032ddeafacd8637687f46fd26f",
+        "block_headers_offsets": [
+            0,
+            9868,
+            9888,
+            9916,
+            9922,
+            13161,
+            13167,
+            13176,
+            13198
+        ]
+    },
+    "MMC_Server/Princess_Zeldas_Rescue_ALTTP.nspc": {
+        "md5sum": "95564fe1f19aa9437a9a2a6321d0d739",
+        "block_headers_offsets": [
+            0,
+            7348,
+            7364,
+            7386,
+            7392,
+            9408,
+            9414,
+            9423,
+            9445
+        ]
+    },
+    "MMC_Server/Princess_Zeldas_Rescue_SM.nspc": {
+        "md5sum": "dcaa8da6cca5ce2a2c86af6057858085",
+        "block_headers_offsets": [
+            0,
+            11011,
+            11027,
+            11049,
+            11055,
+            13130,
+            13136,
+            13145,
+            13167
         ]
     },
     "mentlegen/Blue_on_Black.nspc": {
