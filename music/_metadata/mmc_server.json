@@ -161,13 +161,13 @@
         "spc_path": "MMC_Server/Sector_3_Crisis_Mission_v1.0.spc"
     },
     "Dire Dire Docks (Custom)": {
-        "nspc_path": "MMC_Server/New_Dire_Dire_Docks_Custom_v1.0.nspc",
+        "nspc_path": "MMC_Server/Super_Mario_64_-_Dire_Dire_Docks_v1.4.nspc",
         "track_index": 0,
         "original_author": "Kōji Kondō",
         "port_author": "Albert V",
-        "description": "Version 1.0",
+        "description": "Version 1.4",
         "group": "Super Mario 64",
-        "spc_path": "MMC_Server/New_Dire_Dire_Docks_Custom_v1.0.nspc"
+        "spc_path": "MMC_Server/Super_Mario_64_-_Dire_Dire_Docks_v1.4.nspc"
     },
     "Dragon View": {
         "nspc_path": "MMC_Server/Dragon_View_-_Cave_of_Fire_v0.1.nspc",
@@ -1086,5 +1086,68 @@
         "description": "Albert V arrangement of West Maridia music. version 1.0",
         "group": "Super Metroid",
         "spc_path": "MMC_Server/Caves_of_Maridia_v1.0.spc"
+    },
+    "Black Mist (normal)": {
+        "nspc_path": "MMC_Server/Black_Mist_Storm.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "Albert V",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past",
+        "spc_path": "MMC_Server/Black_Mist_Storm.spc"
+    },
+    "Black Mist (SM)": {
+        "nspc_path": "MMC_Server/Black_Mist_SM.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "Albert V",
+        "description": "Super Metroid soundfont",
+        "group": "The Legend Of Zelda A Link To The Past",
+        "spc_path": "MMC_Server/Black_Mist_SM.spc"
+    },
+    "Ancient Ruins (normal)": {
+        "nspc_path": "MMC_Server/Lost_Ancient_Ruins.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "Albert V",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past",
+        "spc_path": "MMC_Server/Lost_Ancient_Ruins.spc"
+    },
+    "Ancient Ruins (SM)": {
+        "nspc_path": "MMC_Server/Lost_Ancient_Ruins_SM_Choir.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "Albert V",
+        "description": "Super Metroid soundfont (choir)",
+        "group": "The Legend Of Zelda A Link To The Past",
+        "spc_path": "MMC_Server/Lost_Ancient_Ruins_SM_Choir.spc"
+    },
+    "Ancient Ruins (SM mixed)": {
+        "nspc_path": "MMC_Server/Lost_Ancient_Ruins_SM_Piano.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "Albert V",
+        "description": "Super Metroid soundfont (piano)",
+        "group": "The Legend Of Zelda A Link To The Past",
+        "spc_path": "MMC_Server/Lost_Ancient_Ruins_SM_Piano.spc"
+    },
+    "Princess Zelda's Rescue": {
+        "nspc_path": "MMC_Server/Princess_Zeldas_Rescue_ALTTP.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "Albert V",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past",
+        "spc_path": "MMC_Server/Princess_Zeldas_Rescue_ALTTP.spc"
+    },
+    "Princess Zelda's Rescue (SM)": {
+        "nspc_path": "MMC_Server/Princess_Zeldas_Rescue_SM.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "Albert V",
+        "description": "Super Metroid soundfont",
+        "group": "The Legend Of Zelda A Link To The Past",
+        "spc_path": "MMC_Server/Princess_Zeldas_Rescue_SM.spc"
     }
 }
