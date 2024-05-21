@@ -1133,6 +1133,15 @@
         "spc_path": "MMC_Server/Lost_Ancient_Ruins_SM_Piano.spc"
     },
     "Princess Zelda's Rescue (normal)": {
+        "nspc_path": "MMC_Server/Princess Zelda's Rescue.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past",
+        "spc_path": "MMC_Server/Princess Zelda's Rescue.spc"
+    },
+    "Princess Zelda's Rescue (normal)(obsolete)": {
         "nspc_path": "MMC_Server/Princess_Zeldas_Rescue_ALTTP.nspc",
         "track_index": 0,
         "original_author": "Koji Kondo",
