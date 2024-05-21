@@ -1177,6 +1177,15 @@
         "description": "1-to-1 port",
         "group": "Super Mario All-Stars"
     }
+    "Seal of Seven Maidens": {
+        "nspc_path": "MMC_Server/Seal of Seven Maidens.nspc",
+        "spc_path": "MMC_Server/Seal of Seven Maidens.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
     "Majestic Castle": {
         "nspc_path": "MMC_Server/Majestic Castle 1.0.nspc",
         "spc_path": "MMC_Server/Majestic Castle 1.0.spc",
