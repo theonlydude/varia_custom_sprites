@@ -358,7 +358,7 @@
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
         "description": "version 1.1",
-	"group": "Memory Violation",
+        "group": "Memory Violation",
         "spc_path": "MMC_Server/Deku_Tree_v1.1.spc"
     },
     "Killer Instinct - Main Theme": {
@@ -376,7 +376,7 @@
         "original_author": "Kenji Yamamoto and Albert V",
         "port_author": "Albert V",
         "description": "Version 1.2",
-	"group": "Metroid Zero Mission",
+        "group": "Metroid Zero Mission",
         "spc_path": "MMC_Server/Kraid_lair_Remix_1.2.spc"
     },
     "La Mulana (Custom)": {
@@ -1149,5 +1149,32 @@
         "description": "Super Metroid soundfont",
         "group": "The Legend Of Zelda A Link To The Past",
         "spc_path": "MMC_Server/Princess_Zeldas_Rescue_SM.spc"
+    }
+    "SMB2 Birdo": {
+        "nspc_path": "MMC_Server/SMB2 Birdo.nspc",
+        "spc_path": "MMC_Server/SMB2 Birdo.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo and Soyo Oka",
+        "port_author": "H A M",
+        "description": "1-to-1 port",
+        "group": "Super Mario All-Stars"
+    }
+    "SMB3 Ice Land": {
+        "nspc_path": "MMC_Server/SMB3 Ice Land 1.1.nspc",
+        "spc_path": "MMC_Server/SMB3 Ice Land 1.1.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo and Soyo Oka",
+        "port_author": "H A M",
+        "description": "1-to-1 port",
+        "group": "Super Mario All-Stars"
+    }
+    "Majestic Castle": {
+        "nspc_path": "MMC_Server/Majestic Castle 1.0.nspc",
+        "spc_path": "MMC_Server/Majestic Castle 1.0.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
     }
 }
