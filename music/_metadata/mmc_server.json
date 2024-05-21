@@ -1105,16 +1105,16 @@
         "group": "The Legend Of Zelda A Link To The Past",
         "spc_path": "MMC_Server/Black_Mist_SM.spc"
     },
-    "Ancient Ruins (normal)": {
-        "nspc_path": "MMC_Server/Lost_Ancient_Ruins.nspc",
+    "Lost Ancient Ruins (normal)": {
+        "nspc_path": "MMC_Server/Lost Ancient Ruins.nspc",
         "track_index": 0,
         "original_author": "Koji Kondo",
-        "port_author": "Albert V",
+        "port_author": "H A M",
         "description": "Zelda soundfont",
         "group": "The Legend Of Zelda A Link To The Past",
-        "spc_path": "MMC_Server/Lost_Ancient_Ruins.spc"
+        "spc_path": "MMC_Server/Lost Ancient Ruins.spc"
     },
-    "Ancient Ruins (SM)": {
+    "Lost Ancient Ruins (SM)": {
         "nspc_path": "MMC_Server/Lost_Ancient_Ruins_SM_Choir.nspc",
         "track_index": 0,
         "original_author": "Koji Kondo",
@@ -1123,7 +1123,7 @@
         "group": "The Legend Of Zelda A Link To The Past",
         "spc_path": "MMC_Server/Lost_Ancient_Ruins_SM_Choir.spc"
     },
-    "Ancient Ruins (SM mixed)": {
+    "Lost Ancient Ruins (SM mixed)": {
         "nspc_path": "MMC_Server/Lost_Ancient_Ruins_SM_Piano.nspc",
         "track_index": 0,
         "original_author": "Koji Kondo",
