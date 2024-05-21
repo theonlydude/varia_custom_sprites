@@ -1177,4 +1177,13 @@
         "description": "Zelda soundfont",
         "group": "The Legend Of Zelda A Link To The Past"
     }
+    "Safety in the Sanctuary": {
+        "nspc_path": "MMC_Server/Safety in the Sanctuary.nspc",
+        "spc_path": "MMC_Server/Safety in the Sanctuary.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
 }
