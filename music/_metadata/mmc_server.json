@@ -1204,6 +1204,15 @@
         "description": "Zelda soundfont",
         "group": "The Legend Of Zelda A Link To The Past"
     }
+    "Hyrule Field Main Theme": {
+        "nspc_path": "MMC_Server/Hyrule Field Main Theme.nspc",
+        "spc_path": "MMC_Server/Hyrule Field Main Theme.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
     "Anger of the Guardians": {
         "nspc_path": "MMC_Server/z3boss + victory.nspc",
         "spc_path": "MMC_Server/Anger of the Guardians.spc",
