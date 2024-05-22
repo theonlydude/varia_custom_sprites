@@ -1258,6 +1258,15 @@
         "description": "Zelda soundfont",
         "group": "The Legend Of Zelda A Link To The Past"
     }
+    "The Silly Pink Rabbit!": {
+        "nspc_path": "MMC_Server/The Silly Pink Rabbit!.nspc",
+        "spc_path": "MMC_Server/The Silly Pink Rabbit!.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
     "Dark Golden Land": {
         "nspc_path": "MMC_Server/Dark Golden Land.nspc",
         "spc_path": "MMC_Server/Dark Golden Land.spc",
