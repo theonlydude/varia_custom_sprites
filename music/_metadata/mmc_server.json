@@ -1285,4 +1285,13 @@
         "description": "Zelda soundfont",
         "group": "The Legend Of Zelda A Link To The Past"
     }
+    "Corneria": {
+        "nspc_path": "MMC_Server/Corneria.nspc",
+        "spc_path": "MMC_Server/Corneria.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
 }
