@@ -160,6 +160,15 @@
         "group": "Metroid Fusion",
         "spc_path": "MMC_Server/Sector_3_Crisis_Mission_v1.0.spc"
     },
+    "Demon Salesman (Renon's theme)": {
+        "nspc_path": "MMC_Server/Castlevania - Demon Salesman (Renon's theme) SM.nspc",
+        "track_index": 0,
+        "original_author": "Masahiko Kimura",
+        "port_author": "Albert V",
+        "description": "TODO",
+        "group": "Castlevania 64",
+        "spc_path": "MMC_Server/Castlevania - Demon Salesman (Renon's theme) SM.spc"
+    },
     "Dire Dire Docks (Custom)": {
         "nspc_path": "MMC_Server/Super_Mario_64_-_Dire_Dire_Docks_v1.4.nspc",
         "track_index": 0,
