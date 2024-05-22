@@ -1222,6 +1222,15 @@
         "description": "Zelda soundfont",
         "group": "The Legend Of Zelda A Link To The Past"
     }
+    "Kakariko Village": {
+        "nspc_path": "MMC_Server/Kakariko Village.nspc",
+        "spc_path": "MMC_Server/Kakariko Village.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
     "Soldiers of Kakariko Village": {
         "nspc_path": "MMC_Server/Soldiers of Kakariko Village.nspc",
         "spc_path": "MMC_Server/Soldiers of Kakariko Village.spc",
