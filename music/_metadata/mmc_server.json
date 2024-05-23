@@ -1195,6 +1195,24 @@
         "description": "Zelda soundfont",
         "group": "The Legend Of Zelda A Link To The Past"
     }
+    "Time of the Falling Rain": {
+        "nspc_path": "MMC_Server/Time of the Falling Rain.nspc",
+        "spc_path": "MMC_Server/Time of the Falling Rain.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
+    "Time of the Falling Rain (Extended)": {
+        "nspc_path": "MMC_Server/Time of the Falling Rain.nspc",
+        "spc_path": "MMC_Server/Time of the Falling Rain (Extended).spc",
+        "track_index": 1,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont, included all unused sections",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
     "Majestic Castle": {
         "nspc_path": "MMC_Server/Majestic Castle 1.0.nspc",
         "spc_path": "MMC_Server/Majestic Castle 1.0.spc",
