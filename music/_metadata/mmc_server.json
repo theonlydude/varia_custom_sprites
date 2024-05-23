@@ -1267,6 +1267,24 @@
         "description": "Zelda soundfont",
         "group": "The Legend Of Zelda A Link To The Past"
     }
+    "Forest of Mystery": {
+        "nspc_path": "MMC_Server/Forest of Mystery.nspc",
+        "spc_path": "MMC_Server/Forest of Mystery.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
+    "Forest of Mystery (Extended)": {
+        "nspc_path": "MMC_Server/Forest of Mystery.nspc",
+        "spc_path": "MMC_Server/Forest of Mystery Extended.spc",
+        "track_index": 1,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont, included an unused section",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
     "Dark Golden Land": {
         "nspc_path": "MMC_Server/Dark Golden Land.nspc",
         "spc_path": "MMC_Server/Dark Golden Land.spc",
