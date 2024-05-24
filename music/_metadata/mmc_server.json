@@ -1393,6 +1393,15 @@
         "description": "Port",
         "group": "Star Fox"
     }
+    "Boss (Fortuna)": {
+        "nspc_path": "MMC_Server/Boss (Fortuna).nspc",
+        "spc_path": "MMC_Server/Boss (Fortuna).spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
     "Boss (Titania)": {
         "nspc_path": "MMC_Server/Boss (Titania).nspc",
         "spc_path": "MMC_Server/Boss (Titania).spc",
