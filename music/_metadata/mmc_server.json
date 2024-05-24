@@ -1411,4 +1411,13 @@
         "description": "Port",
         "group": "Star Fox"
     }
+    "Battle Against Belch": {
+        "nspc_path": "MMC_Server/Battle Against Belch.nspc",
+        "spc_path": "MMC_Server/Battle Against Belch.spc",
+        "track_index": 0,
+        "original_author": "Akio Ohmori, Ritsuo Kamimura, Keiichi Suzuki, Hirokazu Tanaka",
+        "port_author": "H A M",
+        "description": "Inexact port due to a technical limitation about echo delay",
+        "group": "EarthBound / Mother 2"
+    }
 }
