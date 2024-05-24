@@ -1348,6 +1348,15 @@
         "description": "Port",
         "group": "Star Fox"
     }
+    "Fortuna": {
+        "nspc_path": "MMC_Server/Fortuna.nspc",
+        "spc_path": "MMC_Server/Fortuna.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
     "Space Armanda": {
         "nspc_path": "MMC_Server/Space Armanda.nspc",
         "spc_path": "MMC_Server/Space Armanda.spc",
