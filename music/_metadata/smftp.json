@@ -77,10 +77,10 @@
     "Research_FacilityAV_arrangement": {
         "nspc_path": "SMFTP/Research_FacilityAV_arrangement.nspc",
         "track_index": 0,
-        "original_author": "TODO",
-        "port_author": "SUPERMETROIDFTP",
+        "original_author": "kottpower",
+        "port_author": "SUPERMETROIDFTP and Albert V",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
-        "spc_path": ""
+        "spc_path": "SMFTP/Research_FacilityAV_arrangement.spc"
     },
     "Slayer_-_Raining_Blood": {
         "nspc_path": "SMFTP/Slayer_-_Raining_Blood.nspc",
