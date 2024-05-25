@@ -1384,9 +1384,9 @@
         "description": "Port",
         "group": "Star Fox"
     }
-    "Space Armanda": {
-        "nspc_path": "MMC_Server/Space Armanda.nspc",
-        "spc_path": "MMC_Server/Space Armanda.spc",
+    "Space Armada": {
+        "nspc_path": "MMC_Server/Space Armada.nspc",
+        "spc_path": "MMC_Server/Space Armada.spc",
         "track_index": 0,
         "original_author": "Hajime Hirasawa",
         "port_author": "H A M",
