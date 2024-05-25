@@ -1366,6 +1366,15 @@
         "description": "Port",
         "group": "Star Fox"
     }
+    "Macbeth": {
+        "nspc_path": "MMC_Server/Macbeth.nspc",
+        "spc_path": "MMC_Server/Macbeth.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
     "Asteroid & Venom Orbital": {
         "nspc_path": "MMC_Server/Asteroid & Venom Orbital.nspc",
         "spc_path": "MMC_Server/Asteroid & Venom Orbital.spc",
