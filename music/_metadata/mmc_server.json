@@ -1438,6 +1438,15 @@
         "description": "Port",
         "group": "Star Fox"
     }
+    "Boss (Asteroid)": {
+        "nspc_path": "MMC_Server/Boss (Asteroid).nspc",
+        "spc_path": "MMC_Server/Boss (Asteroid).spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
     "Boss (Venom Base 1)": {
         "nspc_path": "MMC_Server/Boss (Venom Base 1).nspc",
         "spc_path": "MMC_Server/Boss (Venom Base 1).spc",
