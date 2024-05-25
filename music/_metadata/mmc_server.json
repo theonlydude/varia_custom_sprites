@@ -1402,6 +1402,15 @@
         "description": "Port",
         "group": "Star Fox"
     }
+    "Sector X & Sector Z": {
+        "nspc_path": "MMC_Server/Sector X & Sector Z.nspc",
+        "spc_path": "MMC_Server/Sector X & Sector Z.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
     "Venom Base (Level 1 & 3)": {
         "nspc_path": "MMC_Server/Venom Base (Level 1 & 3).nspc",
         "spc_path": "MMC_Server/Venom Base (Level 1 & 3).spc",
