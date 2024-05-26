@@ -1456,6 +1456,15 @@
         "description": "Port",
         "group": "Star Fox"
     }
+    "Boss (Macbeth)": {
+        "nspc_path": "MMC_Server/Boss (Macbeth).nspc",
+        "spc_path": "MMC_Server/Boss (Macbeth).spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
     "Boss (Titania)": {
         "nspc_path": "MMC_Server/Boss (Titania).nspc",
         "spc_path": "MMC_Server/Boss (Titania).spc",
@@ -1514,6 +1523,15 @@
         "nspc_path": "MMC_Server/Entering Dangerous Territory + Boss (Space Armada).nspc",
         "spc_path": "MMC_Server/Entering Dangerous Territory.spc",
         "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Unknown Track 1 (Star Fox)": {
+        "nspc_path": "MMC_Server/Boss (Macbeth).nspc",
+        "spc_path": "MMC_Server/Unknown Track 1 (Star Fox).spc",
+        "track_index": 1,
         "original_author": "Hajime Hirasawa",
         "port_author": "H A M",
         "description": "Port",
