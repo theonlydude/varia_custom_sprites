@@ -55,7 +55,7 @@
     },
     "CORE Approach": {
         "nspc_path": "metconst/CORE_Approach.nspc",
-        "spc_path": "metconst/CORE Approach.spc",
+        "spc_path": "metconst/CORE_Approach.spc",
         "track_index": 0,
         "original_author": "Toby Fox",
         "port_author": "MetroidNerd#9001",
