@@ -1555,6 +1555,15 @@
         "description": "Port",
         "group": "Star Fox"
     }
+    "Player Down (Band)": {
+        "nspc_path": "MMC_Server/Player Down (Band).nspc",
+        "spc_path": "MMC_Server/Player Down (Band).spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
     "Game Clear Demonstration": {
         "nspc_path": "MMC_Server/Game Clear Demonstration + Ending.nspc",
         "spc_path": "MMC_Server/Game Clear Demonstration.spc",
