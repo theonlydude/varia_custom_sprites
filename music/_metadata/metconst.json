@@ -46,7 +46,7 @@
     },
     "Another Medium": {
         "nspc_path": "metconst/Another_Medium.nspc",
-        "spc_path": "metconst/Another Medium.spc",
+        "spc_path": "metconst/Another_Medium.spc",
         "track_index": 0,
         "original_author": "Toby Fox",
         "port_author": "MetroidNerd#9001",
@@ -73,7 +73,7 @@
     },
     "Pink Shell": {
         "nspc_path": "metconst/Pink_Shell.nspc",
-        "spc_path": "metconst/Pink Shell.spc",
+        "spc_path": "metconst/Pink_Shell.spc",
         "track_index": 0,
         "original_author": "Shogo Sakai",
         "port_author": "MetroidNerd#9001",
