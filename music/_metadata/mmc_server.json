@@ -1546,6 +1546,24 @@
         "description": "Port",
         "group": "Star Fox"
     }
+    "Game Clear Demonstration": {
+        "nspc_path": "MMC_Server/Game Clear Demonstration + Ending.nspc",
+        "spc_path": "MMC_Server/Game Clear Demonstration.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Ending (Star Fox)": {
+        "nspc_path": "MMC_Server/Game Clear Demonstration + Ending.nspc",
+        "spc_path": "MMC_Server/Ending (Star Fox).spc",
+        "track_index": 1,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
     "Entering Dangerous Territory": {
         "nspc_path": "MMC_Server/Entering Dangerous Territory + Boss (Space Armada).nspc",
         "spc_path": "MMC_Server/Entering Dangerous Territory.spc",
