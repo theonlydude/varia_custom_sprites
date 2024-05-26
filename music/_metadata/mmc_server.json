@@ -1591,6 +1591,15 @@
         "description": "Port",
         "group": "Star Fox"
     }
+    "Battle Against a Weak Opponent": {
+        "nspc_path": "MMC_Server/Battle Against a Weak Opponent.nspc",
+        "spc_path": "MMC_Server/Battle Against a Weak Opponent.spc",
+        "track_index": 0,
+        "original_author": "Akio Ohmori, Ritsuo Kamimura, Keiichi Suzuki, Hirokazu Tanaka",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "EarthBound / Mother 2"
+    }
     "Battle Against Belch": {
         "nspc_path": "MMC_Server/Battle Against Belch.nspc",
         "spc_path": "MMC_Server/Battle Against Belch.spc",
