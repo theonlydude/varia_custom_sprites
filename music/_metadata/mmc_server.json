@@ -1501,6 +1501,15 @@
         "description": "Port",
         "group": "Star Fox"
     }
+    "Boss (Venom Base 2)": {
+        "nspc_path": "MMC_Server/Boss (Venom Base 2).nspc",
+        "spc_path": "MMC_Server/Boss (Venom Base 2).spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
     "Boss (Venom Base Extended 1)": {
         "nspc_path": "MMC_Server/Boss (Venom Base 1).nspc",
         "spc_path": "MMC_Server/Boss (Venom Base Extended 1).spc",
