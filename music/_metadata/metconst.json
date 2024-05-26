@@ -46,30 +46,34 @@
     },
     "Another Medium": {
         "nspc_path": "metconst/Another_Medium.nspc",
+        "spc_path": "metconst/Another Medium.spc",
         "track_index": 0,
         "original_author": "Toby Fox",
         "port_author": "MetroidNerd#9001",
-        "description": "from the Super Metroid: Hotlands Soundtrack",
+        "description": "from UNDERTALE Soundtrack / Super Metroid: Hotlands Soundtrack",
         "group": "Hotlands Hack"
     },
     "CORE Approach": {
         "nspc_path": "metconst/CORE_Approach.nspc",
+        "spc_path": "metconst/CORE Approach.spc",
         "track_index": 0,
         "original_author": "Toby Fox",
         "port_author": "MetroidNerd#9001",
-        "description": "from the Super Metroid: Hotlands Soundtrack",
+        "description": "from UNDERTALE Soundtrack / Super Metroid: Hotlands Soundtrack",
         "group": "Hotlands Hack"
     },
     "CORE": {
         "nspc_path": "metconst/CORE.nspc",
+        "spc_path": "metconst/CORE.spc",
         "track_index": 0,
         "original_author": "Toby Fox",
         "port_author": "MetroidNerd#9001",
-        "description": "from the Super Metroid: Hotlands Soundtrack",
+        "description": "from UNDERTALE Soundtrack / Super Metroid: Hotlands Soundtrack",
         "group": "Hotlands Hack"
     },
     "Pink Shell": {
         "nspc_path": "metconst/Pink_Shell.nspc",
+        "spc_path": "metconst/Pink Shell.spc",
         "track_index": 0,
         "original_author": "Shogo Sakai",
         "port_author": "MetroidNerd#9001",

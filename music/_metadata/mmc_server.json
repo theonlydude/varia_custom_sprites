@@ -125,13 +125,13 @@
         "spc_path": "MMC_Server/Custom_Underwater_Torvus_2019.spc"
     },
     "Dank Dungeons": {
-        "nspc_path": "MMC_Server/Dank_Dungeons.spc_v1.0.nspc",
+        "nspc_path": "MMC_Server/Dank Dungeons.nspc",
         "track_index": 0,
         "original_author": "Koji Kondo",
-        "port_author": "Albert V",
-        "description": "version 1.0",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
         "group": "The Legend Of Zelda A Link To The Past",
-        "spc_path": "MMC_Server/Dank_Dungeons.spc_v1.0.spc"
+        "spc_path": "MMC_Server/Dank Dungeons.spc"
     },
     "Dark Sector 6 (Custom)": {
         "nspc_path": "MMC_Server/Dark_Sector_6_Small_arrangement.nspc",
@@ -159,6 +159,15 @@
         "description": "Version 1.0",
         "group": "Metroid Fusion",
         "spc_path": "MMC_Server/Sector_3_Crisis_Mission_v1.0.spc"
+    },
+    "Demon Salesman (Renon's theme)": {
+        "nspc_path": "MMC_Server/Castlevania - Demon Salesman (Renon's theme) SM.nspc",
+        "track_index": 0,
+        "original_author": "Masahiko Kimura",
+        "port_author": "Albert V",
+        "description": "TODO",
+        "group": "Castlevania 64",
+        "spc_path": "MMC_Server/Castlevania - Demon Salesman (Renon's theme) SM.spc"
     },
     "Dire Dire Docks (Custom)": {
         "nspc_path": "MMC_Server/Super_Mario_64_-_Dire_Dire_Docks_v1.4.nspc",
@@ -358,7 +367,7 @@
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
         "description": "version 1.1",
-	"group": "Memory Violation",
+        "group": "Memory Violation",
         "spc_path": "MMC_Server/Deku_Tree_v1.1.spc"
     },
     "Killer Instinct - Main Theme": {
@@ -376,7 +385,7 @@
         "original_author": "Kenji Yamamoto and Albert V",
         "port_author": "Albert V",
         "description": "Version 1.2",
-	"group": "Metroid Zero Mission",
+        "group": "Metroid Zero Mission",
         "spc_path": "MMC_Server/Kraid_lair_Remix_1.2.spc"
     },
     "La Mulana (Custom)": {
@@ -418,7 +427,7 @@
     "Lonely Halls (Custom)": {
         "nspc_path": "MMC_Server/Lonely_Halls.nspc",
         "track_index": 0,
-        "original_author": "Yasunori Mitsuda and Albert V",
+        "original_author": "Jeremy Soule and Albert V",
         "port_author": "Albert V",
         "description": "Version 1.0",
         "group": "Albert V Arrangement",
@@ -1105,16 +1114,16 @@
         "group": "The Legend Of Zelda A Link To The Past",
         "spc_path": "MMC_Server/Black_Mist_SM.spc"
     },
-    "Ancient Ruins (normal)": {
-        "nspc_path": "MMC_Server/Lost_Ancient_Ruins.nspc",
+    "Lost Ancient Ruins (normal)": {
+        "nspc_path": "MMC_Server/Lost Ancient Ruins.nspc",
         "track_index": 0,
         "original_author": "Koji Kondo",
-        "port_author": "Albert V",
+        "port_author": "H A M",
         "description": "Zelda soundfont",
         "group": "The Legend Of Zelda A Link To The Past",
-        "spc_path": "MMC_Server/Lost_Ancient_Ruins.spc"
+        "spc_path": "MMC_Server/Lost Ancient Ruins.spc"
     },
-    "Ancient Ruins (SM)": {
+    "Lost Ancient Ruins (SM)": {
         "nspc_path": "MMC_Server/Lost_Ancient_Ruins_SM_Choir.nspc",
         "track_index": 0,
         "original_author": "Koji Kondo",
@@ -1123,7 +1132,7 @@
         "group": "The Legend Of Zelda A Link To The Past",
         "spc_path": "MMC_Server/Lost_Ancient_Ruins_SM_Choir.spc"
     },
-    "Ancient Ruins (SM mixed)": {
+    "Lost Ancient Ruins (SM mixed)": {
         "nspc_path": "MMC_Server/Lost_Ancient_Ruins_SM_Piano.nspc",
         "track_index": 0,
         "original_author": "Koji Kondo",
@@ -1133,6 +1142,15 @@
         "spc_path": "MMC_Server/Lost_Ancient_Ruins_SM_Piano.spc"
     },
     "Princess Zelda's Rescue (normal)": {
+        "nspc_path": "MMC_Server/Princess Zelda's Rescue.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past",
+        "spc_path": "MMC_Server/Princess Zelda's Rescue.spc"
+    },
+    "Princess Zelda's Rescue (normal)(obsolete)": {
         "nspc_path": "MMC_Server/Princess_Zeldas_Rescue_ALTTP.nspc",
         "track_index": 0,
         "original_author": "Koji Kondo",
@@ -1149,5 +1167,437 @@
         "description": "Super Metroid soundfont",
         "group": "The Legend Of Zelda A Link To The Past",
         "spc_path": "MMC_Server/Princess_Zeldas_Rescue_SM.spc"
+    }
+    "SMB2 Birdo": {
+        "nspc_path": "MMC_Server/SMB2 Birdo.nspc",
+        "spc_path": "MMC_Server/SMB2 Birdo.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo and Soyo Oka",
+        "port_author": "H A M",
+        "description": "1-to-1 port",
+        "group": "Super Mario All-Stars"
+    }
+    "SMB3 Ice Land": {
+        "nspc_path": "MMC_Server/SMB3 Ice Land 1.1.nspc",
+        "spc_path": "MMC_Server/SMB3 Ice Land 1.1.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo and Soyo Oka",
+        "port_author": "H A M",
+        "description": "1-to-1 port",
+        "group": "Super Mario All-Stars"
+    }
+    "Seal of Seven Maidens": {
+        "nspc_path": "MMC_Server/Seal of Seven Maidens.nspc",
+        "spc_path": "MMC_Server/Seal of Seven Maidens.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
+    "Time of the Falling Rain": {
+        "nspc_path": "MMC_Server/Time of the Falling Rain.nspc",
+        "spc_path": "MMC_Server/Time of the Falling Rain.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
+    "Time of the Falling Rain (Extended)": {
+        "nspc_path": "MMC_Server/Time of the Falling Rain.nspc",
+        "spc_path": "MMC_Server/Time of the Falling Rain (Extended).spc",
+        "track_index": 1,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont, included all unused sections",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
+    "Majestic Castle": {
+        "nspc_path": "MMC_Server/Majestic Castle 1.0.nspc",
+        "spc_path": "MMC_Server/Majestic Castle 1.0.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
+    "Safety in the Sanctuary": {
+        "nspc_path": "MMC_Server/Safety in the Sanctuary.nspc",
+        "spc_path": "MMC_Server/Safety in the Sanctuary.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
+    "Hyrule Field Main Theme": {
+        "nspc_path": "MMC_Server/Hyrule Field Main Theme.nspc",
+        "spc_path": "MMC_Server/Hyrule Field Main Theme.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
+    "Kakariko Village": {
+        "nspc_path": "MMC_Server/Kakariko Village.nspc",
+        "spc_path": "MMC_Server/Kakariko Village.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
+    "Soldiers of Kakariko Village": {
+        "nspc_path": "MMC_Server/Soldiers of Kakariko Village.nspc",
+        "spc_path": "MMC_Server/Soldiers of Kakariko Village.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
+    "Anger of the Guardians": {
+        "nspc_path": "MMC_Server/z3boss + victory.nspc",
+        "spc_path": "MMC_Server/Anger of the Guardians.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
+    "Great Victory!": {
+        "nspc_path": "MMC_Server/z3boss + victory.nspc",
+        "spc_path": "MMC_Server/Great Victory!.spc",
+        "track_index": 1,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
+    "The Silly Pink Rabbit!": {
+        "nspc_path": "MMC_Server/The Silly Pink Rabbit!.nspc",
+        "spc_path": "MMC_Server/The Silly Pink Rabbit!.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
+    "Forest of Mystery": {
+        "nspc_path": "MMC_Server/Forest of Mystery.nspc",
+        "spc_path": "MMC_Server/Forest of Mystery.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
+    "Forest of Mystery (Extended)": {
+        "nspc_path": "MMC_Server/Forest of Mystery.nspc",
+        "spc_path": "MMC_Server/Forest of Mystery Extended.spc",
+        "track_index": 1,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont, included an unused section",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
+    "Dark Golden Land": {
+        "nspc_path": "MMC_Server/Dark Golden Land.nspc",
+        "spc_path": "MMC_Server/Dark Golden Land.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
+    "Dungeon of Shadows": {
+        "nspc_path": "MMC_Server/Dungeon of Shadows.nspc",
+        "spc_path": "MMC_Server/Dungeon of Shadows.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
+    "Title Screen (Star Fox) (Overwrites Common Samples)": {
+        "nspc_path": "MMC_Server/Title Screen (Star Fox) (Overwrites Common Samples).nspc",
+        "spc_path": "MMC_Server/Title Screen (Star Fox) (Overwrites Common Samples).spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port, one sample is too big so it overwrites common samples",
+        "group": "Memory Violation"
+    }
+    "Emergency Call (Overwrites Common Samples)": {
+        "nspc_path": "MMC_Server/Emergency Call (Overwrites Common Samples).nspc",
+        "spc_path": "MMC_Server/Emergency Call (Overwrites Common Samples).spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port, samples are too big so it overwrites common samples",
+        "group": "Memory Violation"
+    }
+    "Corneria": {
+        "nspc_path": "MMC_Server/Corneria.nspc",
+        "spc_path": "MMC_Server/Corneria.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Meteor": {
+        "nspc_path": "MMC_Server/Meteor.nspc",
+        "spc_path": "MMC_Server/Meteor.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Titania": {
+        "nspc_path": "MMC_Server/Titania.nspc",
+        "spc_path": "MMC_Server/Titania.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Fortuna": {
+        "nspc_path": "MMC_Server/Fortuna.nspc",
+        "spc_path": "MMC_Server/Fortuna.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Macbeth": {
+        "nspc_path": "MMC_Server/Macbeth.nspc",
+        "spc_path": "MMC_Server/Macbeth.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Asteroid & Venom Orbital": {
+        "nspc_path": "MMC_Server/Asteroid & Venom Orbital.nspc",
+        "spc_path": "MMC_Server/Asteroid & Venom Orbital.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Space Armada": {
+        "nspc_path": "MMC_Server/Space Armada.nspc",
+        "spc_path": "MMC_Server/Space Armada.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Venom Base (Level 2)": {
+        "nspc_path": "MMC_Server/Venom Base (Level 2).nspc",
+        "spc_path": "MMC_Server/Venom Base (Level 2).spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Sector X & Sector Z": {
+        "nspc_path": "MMC_Server/Sector X & Sector Z.nspc",
+        "spc_path": "MMC_Server/Sector X & Sector Z.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Sector Y": {
+        "nspc_path": "MMC_Server/Sector Y.nspc",
+        "spc_path": "MMC_Server/Sector Y.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Venom Base (Level 1 & 3)": {
+        "nspc_path": "MMC_Server/Venom Base (Level 1 & 3).nspc",
+        "spc_path": "MMC_Server/Venom Base (Level 1 & 3).spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Boss (Corneria)": {
+        "nspc_path": "MMC_Server/Boss (Corneria).nspc",
+        "spc_path": "MMC_Server/Boss (Corneria).spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Boss (Meteor)": {
+        "nspc_path": "MMC_Server/Boss (Meteor).nspc",
+        "spc_path": "MMC_Server/Boss (Meteor).spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Boss (Fortuna)": {
+        "nspc_path": "MMC_Server/Boss (Fortuna).nspc",
+        "spc_path": "MMC_Server/Boss (Fortuna).spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Boss (Macbeth)": {
+        "nspc_path": "MMC_Server/Boss (Macbeth).nspc",
+        "spc_path": "MMC_Server/Boss (Macbeth).spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Boss (Titania)": {
+        "nspc_path": "MMC_Server/Boss (Titania).nspc",
+        "spc_path": "MMC_Server/Boss (Titania).spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Boss (Asteroid)": {
+        "nspc_path": "MMC_Server/Boss (Asteroid).nspc",
+        "spc_path": "MMC_Server/Boss (Asteroid).spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Boss (Space Armada)": {
+        "nspc_path": "MMC_Server/Entering Dangerous Territory + Boss (Space Armada).nspc",
+        "spc_path": "MMC_Server/Boss (Space Armada).spc",
+        "track_index": 1,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Boss (Venom Base 1)": {
+        "nspc_path": "MMC_Server/Boss (Venom Base 1).nspc",
+        "spc_path": "MMC_Server/Boss (Venom Base 1).spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Boss (Venom Base 2)": {
+        "nspc_path": "MMC_Server/Boss (Venom Base 2).nspc",
+        "spc_path": "MMC_Server/Boss (Venom Base 2).spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Boss (Venom Base Extended 1)": {
+        "nspc_path": "MMC_Server/Boss (Venom Base 1).nspc",
+        "spc_path": "MMC_Server/Boss (Venom Base Extended 1).spc",
+        "track_index": 1,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Boss (Venom Base Extended 2)": {
+        "nspc_path": "MMC_Server/Boss (Venom Base 1).nspc",
+        "spc_path": "MMC_Server/Boss (Venom Base Extended 2).spc",
+        "track_index": 2,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Boss (Last Boss Andross)": {
+        "nspc_path": "MMC_Server/Boss (Last Boss Andross).nspc",
+        "spc_path": "MMC_Server/Boss (Last Boss Andross).spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Game Clear Demonstration": {
+        "nspc_path": "MMC_Server/Game Clear Demonstration + Ending.nspc",
+        "spc_path": "MMC_Server/Game Clear Demonstration.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Ending (Star Fox)": {
+        "nspc_path": "MMC_Server/Game Clear Demonstration + Ending.nspc",
+        "spc_path": "MMC_Server/Ending (Star Fox).spc",
+        "track_index": 1,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Entering Dangerous Territory": {
+        "nspc_path": "MMC_Server/Entering Dangerous Territory + Boss (Space Armada).nspc",
+        "spc_path": "MMC_Server/Entering Dangerous Territory.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Entering Dangerous Territory (Duplicate)": {
+        "nspc_path": "MMC_Server/Boss (Last Boss Andross).nspc",
+        "spc_path": "MMC_Server/Entering Dangerous Territory (Duplicate).spc",
+        "track_index": 1,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Unknown Track 1 (Star Fox)": {
+        "nspc_path": "MMC_Server/Boss (Macbeth).nspc",
+        "spc_path": "MMC_Server/Unknown Track 1 (Star Fox).spc",
+        "track_index": 1,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Battle Against Belch": {
+        "nspc_path": "MMC_Server/Battle Against Belch.nspc",
+        "spc_path": "MMC_Server/Battle Against Belch.spc",
+        "track_index": 0,
+        "original_author": "Akio Ohmori, Ritsuo Kamimura, Keiichi Suzuki, Hirokazu Tanaka",
+        "port_author": "H A M",
+        "description": "Inexact port due to a technical limitation about echo delay",
+        "group": "EarthBound / Mother 2"
     }
 }

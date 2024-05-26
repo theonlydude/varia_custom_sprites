@@ -2,7 +2,7 @@
     "GBA_MZM_Kraids_Lair": {
         "nspc_path": "SMFTP/GBA_MZM_Kraids_Lair.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Kenji Yamamoto",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
         "spc_path": "SMFTP/GBA_MZM_Kraids_Lair.spc",
@@ -44,7 +44,7 @@
     "Lost_Woods_-_Ocarina_OOT_v1.0": {
         "nspc_path": "SMFTP/Lost_Woods_-_Ocarina_OOT_v1.0.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Koji Kondo",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
         "spc_path": "SMFTP/Lost_Woods_-_Ocarina_OOT_v1.0.spc"
@@ -52,7 +52,7 @@
     "Metroid_Prime2_Echoes_-_Hydro_Dynamo": {
         "nspc_path": "SMFTP/Metroid_Prime2_Echoes_-_Hydro_Dynamo.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Kenji Yamamoto",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
         "spc_path": "SMFTP/Metroid_Prime2_Echoes_-_Hydro_Dynamo.spc",
@@ -69,7 +69,7 @@
     "Research Facility": {
         "nspc_path": "SMFTP/Research_Facility.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "kottpower",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
         "spc_path": "SMFTP/Research_Facility.spc"
@@ -77,10 +77,10 @@
     "Research_FacilityAV_arrangement": {
         "nspc_path": "SMFTP/Research_FacilityAV_arrangement.nspc",
         "track_index": 0,
-        "original_author": "TODO",
-        "port_author": "SUPERMETROIDFTP",
+        "original_author": "kottpower",
+        "port_author": "SUPERMETROIDFTP and Albert V",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
-        "spc_path": ""
+        "spc_path": "SMFTP/Research_FacilityAV_arrangement.spc"
     },
     "Slayer_-_Raining_Blood": {
         "nspc_path": "SMFTP/Slayer_-_Raining_Blood.nspc",
@@ -93,7 +93,7 @@
     "SM-tone_Mario-Bros_v03": {
         "nspc_path": "SMFTP/SM-tone_Mario-Bros_v03.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Koji Kondo",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
         "spc_path": "SMFTP/SM-tone_Mario-Bros_v03.spc"
@@ -101,7 +101,7 @@
     "Super_Mario_Bros_v03": {
         "nspc_path": "SMFTP/Super_Mario_Bros_v03.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Koji Kondo",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
         "spc_path": "SMFTP/Super_Mario_Bros_v03.spc"
@@ -109,7 +109,7 @@
     "Undertale_Nyeh_Heh_Heh": {
         "nspc_path": "SMFTP/Undertale_Nyeh_Heh_Heh.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Toby Fox",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
         "spc_path": "SMFTP/Undertale_Nyeh_Heh_Heh.spc"
