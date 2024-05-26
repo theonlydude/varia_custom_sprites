@@ -1258,7 +1258,7 @@
         "description": "Zelda soundfont",
         "group": "The Legend Of Zelda A Link To The Past"
     },
-    "Great Victory!": {
+    "Great Victory": {
         "nspc_path": "MMC_Server/z3boss_victory.nspc",
         "spc_path": "MMC_Server/Great_Victory.spc",
         "track_index": 1,
@@ -1267,7 +1267,7 @@
         "description": "Zelda soundfont",
         "group": "The Legend Of Zelda A Link To The Past"
     },
-    "The Silly Pink Rabbit!": {
+    "The Silly Pink Rabbit": {
         "nspc_path": "MMC_Server/The_Silly_Pink_Rabbit.nspc",
         "spc_path": "MMC_Server/The_Silly_Pink_Rabbit.spc",
         "track_index": 0,
@@ -1375,7 +1375,7 @@
         "description": "Port",
         "group": "Star Fox"
     },
-    "Asteroid & Venom Orbital": {
+    "Asteroid and Venom Orbital": {
         "nspc_path": "MMC_Server/Asteroid_Venom_Orbital.nspc",
         "spc_path": "MMC_Server/Asteroid_Venom_Orbital.spc",
         "track_index": 0,
@@ -1402,7 +1402,7 @@
         "description": "Port",
         "group": "Star Fox"
     },
-    "Sector X & Sector Z": {
+    "Sector X and Sector Z": {
         "nspc_path": "MMC_Server/Sector_X_Sector_Z.nspc",
         "spc_path": "MMC_Server/Sector_X_Sector_Z.spc",
         "track_index": 0,
@@ -1420,7 +1420,7 @@
         "description": "Port",
         "group": "Star Fox"
     },
-    "Venom Base (Level 1 & 3)": {
+    "Venom Base (Level 1 and 3)": {
         "nspc_path": "MMC_Server/Venom_Base_Level_1_3.nspc",
         "spc_path": "MMC_Server/Venom_Base_Level_1_3.spc",
         "track_index": 0,
