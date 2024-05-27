@@ -1339,6 +1339,15 @@
         "description": "Port, one sample is too big so it overwrites common samples",
         "group": "Memory Violation"
     }
+    "Course Map Select": {
+        "nspc_path": "MMC_Server/star fox 6 in 1.nspc",
+        "spc_path": "MMC_Server/Course Map Select.spc",
+        "track_index": 1,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
     "Emergency Call (Overwrites Common Samples)": {
         "nspc_path": "MMC_Server/Emergency Call (Overwrites Common Samples).nspc",
         "spc_path": "MMC_Server/Emergency Call (Overwrites Common Samples).spc",
@@ -1573,6 +1582,15 @@
         "description": "Port",
         "group": "Star Fox"
     }
+    "Course Clear (Orchestra)": {
+        "nspc_path": "MMC_Server/star fox 6 in 1.nspc",
+        "spc_path": "MMC_Server/Course Clear (Orchestra).spc",
+        "track_index": 4,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
     "Game Clear Demonstration": {
         "nspc_path": "MMC_Server/Game Clear Demonstration + Ending.nspc",
         "spc_path": "MMC_Server/Game Clear Demonstration.spc",
@@ -1591,6 +1609,15 @@
         "description": "Port",
         "group": "Star Fox"
     }
+    "Black Hole (Map Select)": {
+        "nspc_path": "MMC_Server/star fox 6 in 1.nspc",
+        "spc_path": "MMC_Server/Black Hole (Map Select).spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
     "Entering Dangerous Territory": {
         "nspc_path": "MMC_Server/Entering Dangerous Territory + Boss (Space Armada).nspc",
         "spc_path": "MMC_Server/Entering Dangerous Territory.spc",
@@ -1604,6 +1631,24 @@
         "nspc_path": "MMC_Server/Boss (Last Boss Andross).nspc",
         "spc_path": "MMC_Server/Entering Dangerous Territory (Duplicate).spc",
         "track_index": 1,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Briefing": {
+        "nspc_path": "MMC_Server/star fox 6 in 1.nspc",
+        "spc_path": "MMC_Server/Briefing.spc",
+        "track_index": 2,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    }
+    "Briefing (Fast Opening)": {
+        "nspc_path": "MMC_Server/star fox 6 in 1.nspc",
+        "spc_path": "MMC_Server/Briefing (Fast Opening).spc",
+        "track_index": 3,
         "original_author": "Hajime Hirasawa",
         "port_author": "H A M",
         "description": "Port",
