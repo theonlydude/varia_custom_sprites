@@ -1321,6 +1321,24 @@
         "description": "Zelda soundfont",
         "group": "The Legend Of Zelda A Link To The Past"
     }
+    "Meeting the Maidens": {
+        "nspc_path": "MMC_Server/Meeting the Maidens.nspc",
+        "spc_path": "MMC_Server/Meeting the Maidens.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
+    "The Goddess Appears": {
+        "nspc_path": "MMC_Server/The Goddess Appears.nspc",
+        "spc_path": "MMC_Server/The Goddess Appears.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    }
     "Title Demonstration": {
         "nspc_path": "MMC_Server/Title Demonstration.nspc",
         "spc_path": "MMC_Server/Title Demonstration.spc",
