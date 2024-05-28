@@ -1762,4 +1762,13 @@
         "description": "Inexact port",
         "group": "Ys III: Wanderers from Ys"
     }
+    "Behold!!": {
+        "nspc_path": "MMC_Server/Behold!!.nspc",
+        "spc_path": "MMC_Server/Behold!!.spc",
+        "track_index": 0,
+        "original_author": "Michiharu Hasuya, Masaaki Harada, Osamu Kasai",
+        "port_author": "H A M",
+        "description": "Inexact port",
+        "group": "Ys III: Wanderers from Ys"
+    }
 }
