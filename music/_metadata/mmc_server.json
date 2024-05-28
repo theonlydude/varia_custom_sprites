@@ -1465,6 +1465,15 @@
         "description": "Port",
         "group": "Star Fox"
     }
+    "Boss (Corneria) (Short Intro)": {
+        "nspc_path": "MMC_Server/Boss (Corneria) (Short Intro).nspc",
+        "spc_path": "MMC_Server/Boss (Corneria) (Short Intro).spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port with shortened intro",
+        "group": "Star Fox"
+    }
     "Boss (Meteor)": {
         "nspc_path": "MMC_Server/Boss (Meteor).nspc",
         "spc_path": "MMC_Server/Boss (Meteor).spc",
