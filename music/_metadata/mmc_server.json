@@ -1744,4 +1744,22 @@
         "description": "Inexact port due to a technical limitation about echo delay",
         "group": "EarthBound / Mother 2"
     }
+    "Beasts as Black as Night": {
+        "nspc_path": "MMC_Server/Beasts as Black as Night.nspc",
+        "spc_path": "MMC_Server/Beasts as Black as Night.spc",
+        "track_index": 0,
+        "original_author": "Michiharu Hasuya, Masaaki Harada, Osamu Kasai",
+        "port_author": "H A M",
+        "description": "Inexact port",
+        "group": "Ys III: Wanderers from Ys"
+    }
+    "Shock of the Death God": {
+        "nspc_path": "MMC_Server/Shock of the Death God.nspc",
+        "spc_path": "MMC_Server/Shock of the Death God.spc",
+        "track_index": 0,
+        "original_author": "Michiharu Hasuya, Masaaki Harada, Osamu Kasai",
+        "port_author": "H A M",
+        "description": "Inexact port",
+        "group": "Ys III: Wanderers from Ys"
+    }
 }
