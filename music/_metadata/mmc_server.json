@@ -109,8 +109,8 @@
     "Underwater Torvus": {
         "nspc_path": "MMC_Server/Custom_Underwater_Torvus_2019.nspc",
         "track_index": 0,
-        "original_author": "Kenji Yamamoto And Albert V",
-        "port_author": "Albert V",
+        "original_author": "Kenji Yamamoto",
+        "port_author": "SUPERMETROIDFTP and Albert V",
         "description": "Version 1.0 old (2019)",
         "group": "Metroid Prime 2",
         "spc_path": "MMC_Server/Custom_Underwater_Torvus_2019.spc"
