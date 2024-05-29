@@ -1304,13 +1304,13 @@
         "group": "The Legend Of Zelda A Link To The Past"
     },
     "Black Mist (normal)": {
-        "nspc_path": "MMC_Server/Black_Mist_Storm.nspc",
+        "nspc_path": "MMC_Server/Black Mist.nspc",
         "track_index": 0,
         "original_author": "Koji Kondo",
-        "port_author": "Albert V",
+        "port_author": "H A M",
         "description": "Zelda soundfont",
         "group": "The Legend Of Zelda A Link To The Past",
-        "spc_path": "MMC_Server/Black_Mist_Storm.spc"
+        "spc_path": "MMC_Server/Black Mist.spc"
     },
     "Black Mist (SM)": {
         "nspc_path": "MMC_Server/Black_Mist_SM.nspc",
