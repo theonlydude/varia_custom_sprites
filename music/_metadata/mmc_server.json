@@ -1788,5 +1788,14 @@
         "port_author": "H A M",
         "description": "Inexact port, one sample is too big so it overwrites common samples",
         "group": "Memory Violation"
+    },
+    "Flower Garden": {
+        "nspc_path": "MMC_Server/Flower Garden.nspc",
+        "spc_path": "MMC_Server/Flower Garden.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Port from Yoshi's Island",
+        "group": "Super Mario"
     }
 }
