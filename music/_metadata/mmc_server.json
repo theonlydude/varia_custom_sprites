@@ -115,15 +115,6 @@
         "group": "Metroid Prime 2",
         "spc_path": "MMC_Server/Custom_Underwater_Torvus_2019.spc"
     },
-    "Dank Dungeons": {
-        "nspc_path": "MMC_Server/Dank Dungeons.nspc",
-        "track_index": 0,
-        "original_author": "Koji Kondo",
-        "port_author": "H A M",
-        "description": "Zelda soundfont",
-        "group": "The Legend Of Zelda A Link To The Past",
-        "spc_path": "MMC_Server/Dank Dungeons.spc"
-    },
     "Dark Sector 6 (Custom)": {
         "nspc_path": "MMC_Server/Dark_Sector_6_Small_arrangement.nspc",
         "track_index": 0,
@@ -1221,6 +1212,15 @@
         "port_author": "H A M",
         "description": "Zelda soundfont",
         "group": "The Legend Of Zelda A Link To The Past"
+    },
+    "Dank Dungeons": {
+        "nspc_path": "MMC_Server/Dank Dungeons.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past",
+        "spc_path": "MMC_Server/Dank Dungeons.spc"
     },
     "Lost Ancient Ruins (normal)": {
         "nspc_path": "MMC_Server/Lost Ancient Ruins.nspc",
