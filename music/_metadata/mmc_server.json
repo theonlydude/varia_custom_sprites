@@ -1797,5 +1797,14 @@
         "port_author": "H A M",
         "description": "Port from Yoshi's Island",
         "group": "Super Mario"
+    },
+    "Castle & Fortress": {
+        "nspc_path": "MMC_Server/Castle & Fortress.nspc",
+        "spc_path": "MMC_Server/Castle & Fortress.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Port from Yoshi's Island",
+        "group": "Super Mario"
     }
 }
