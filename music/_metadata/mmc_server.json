@@ -1842,5 +1842,14 @@
         "port_author": "H A M",
         "description": "Port from Yoshi's Island",
         "group": "Super Mario"
+    },
+    "Athletic (Yoshi's Island)": {
+        "nspc_path": "MMC_Server/Athletic (Yoshi's Island).nspc",
+        "spc_path": "MMC_Server/Athletic (Yoshi's Island).spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Port from Yoshi's Island",
+        "group": "Super Mario"
     }
 }
