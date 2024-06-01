@@ -1798,6 +1798,15 @@
         "description": "Port from Yoshi's Island",
         "group": "Super Mario"
     },
+    "Goal (Yoshi's Island)": {
+        "nspc_path": "MMC_Server/Mini-Boss (Yoshi's Island).nspc",
+        "spc_path": "MMC_Server/Goal (Yoshi's Island).spc",
+        "track_index": 2,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Port from Yoshi's Island",
+        "group": "Super Mario"
+    },
     "Underground (Yoshi's Island)": {
         "nspc_path": "MMC_Server/Underground (Yoshi's Island).nspc",
         "spc_path": "MMC_Server/Underground (Yoshi's Island).spc",
@@ -1810,6 +1819,24 @@
     "Castle & Fortress": {
         "nspc_path": "MMC_Server/Castle & Fortress.nspc",
         "spc_path": "MMC_Server/Castle & Fortress.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Port from Yoshi's Island",
+        "group": "Super Mario"
+    },
+    "Kamek's Theme": {
+        "nspc_path": "MMC_Server/Mini-Boss (Yoshi's Island).nspc",
+        "spc_path": "MMC_Server/Kamek's Theme.spc",
+        "track_index": 1,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Port from Yoshi's Island",
+        "group": "Super Mario"
+    },
+    "Mini-Boss (Yoshi's Island)": {
+        "nspc_path": "MMC_Server/Mini-Boss (Yoshi's Island).nspc",
+        "spc_path": "MMC_Server/Mini-Boss (Yoshi's Island).spc",
         "track_index": 0,
         "original_author": "Koji Kondo",
         "port_author": "H A M",
