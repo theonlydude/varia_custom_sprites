@@ -1690,6 +1690,15 @@
         "description": "Port",
         "group": "Star Fox"
     },
+    "Main Theme (Star Fox)": {
+        "nspc_path": "MMC_Server/Main Theme (Star Fox).nspc",
+        "spc_path": "MMC_Server/Main Theme (Star Fox).spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port, samples are too big so it overwrites most common samples except those used in plasma beam sound, so that it fits in the credits",
+        "group": "Memory Violation"
+    },
     "Black Hole (Map Select)": {
         "nspc_path": "MMC_Server/star fox 6 in 1.nspc",
         "spc_path": "MMC_Server/Black Hole (Map Select).spc",
