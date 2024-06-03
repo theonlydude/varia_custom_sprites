@@ -1654,6 +1654,15 @@
         "description": "Port",
         "group": "Star Fox"
     },
+    "Course Clear (Band)": {
+        "nspc_path": "MMC_Server/Course Clear (Band).nspc",
+        "spc_path": "MMC_Server/Course Clear (Band).spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
     "Last Boss Clear": {
         "nspc_path": "MMC_Server/Boss (Last Boss Andross) + Last Boss Clear.nspc",
         "spc_path": "MMC_Server/Last Boss Clear.spc",
