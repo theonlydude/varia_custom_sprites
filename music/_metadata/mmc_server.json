@@ -631,15 +631,6 @@
         "group": "Castlevania Circle of the Moon",
         "spc_path": "MMC_Server/SM_The_Trick_Manor_v1.1.spc"
     },
-    "SM Yoshis island (Custom)": {
-        "nspc_path": "MMC_Server/Super_Mario_World_2_Yoshis_island_.nspc",
-        "track_index": 0,
-        "original_author": "Yugueta Mino be Chamo Chis",
-        "port_author": "Albert V",
-        "description": "Version 1.0",
-        "group": "Super Mario",
-        "spc_path": "MMC_Server/Super_Mario_World_2_Yoshis_island.spc"
-    },
     "Stairway Boss": {
         "nspc_path": "MMC_Server/Stairway_Boss_v1.0.nspc",
         "track_index": 0,
@@ -1806,6 +1797,24 @@
         "port_author": "H A M",
         "description": "Inexact port, one sample is too big so it overwrites common samples",
         "group": "Memory Violation"
+    },
+    "Yoshi's Island": {
+        "nspc_path": "MMC_Server/Yoshi's Island.nspc",
+        "spc_path": "MMC_Server/Yoshi's Island.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Port from Yoshi's Island, samples are too big so it overwrites common samples",
+        "group": "Memory Violation"
+    },
+    "SM Yoshi's island (Custom)": {
+        "nspc_path": "MMC_Server/Super_Mario_World_2_Yoshis_island_.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "Albert V",
+        "description": "Version 1.0",
+        "group": "Super Mario",
+        "spc_path": "MMC_Server/Super_Mario_World_2_Yoshis_island.spc"
     },
     "Flower Garden": {
         "nspc_path": "MMC_Server/Flower Garden.nspc",
