@@ -1726,6 +1726,15 @@
         "description": "Port",
         "group": "Star Fox"
     },
+    "Training Mode": {
+        "nspc_path": "MMC_Server/Training Mode.nspc",
+        "spc_path": "MMC_Server/Training Mode.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
     "Entering Dangerous Territory": {
         "nspc_path": "MMC_Server/Entering Dangerous Territory + Boss (Space Armada).nspc",
         "spc_path": "MMC_Server/Entering Dangerous Territory.spc",
