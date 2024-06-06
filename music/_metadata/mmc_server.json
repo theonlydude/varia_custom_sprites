@@ -1708,6 +1708,15 @@
         "description": "Port",
         "group": "Star Fox"
     },
+    "Black Hole (BGM)": {
+        "nspc_path": "MMC_Server/Black Hole (BGM).nspc",
+        "spc_path": "MMC_Server/Black Hole (BGM).spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
     "Black Hole (Map Select)": {
         "nspc_path": "MMC_Server/star fox 6 in 1.nspc",
         "spc_path": "MMC_Server/Black Hole (Map Select).spc",
