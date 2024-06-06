@@ -1933,6 +1933,24 @@
         "description": "Port from Yoshi's Island",
         "group": "Super Mario"
     },
+    "Venom": {
+        "nspc_path": "MMC_Server/Venom.nspc",
+        "spc_path": "MMC_Server/Venom.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Venom Inside": {
+        "nspc_path": "MMC_Server/Venom.nspc",
+        "spc_path": "MMC_Server/Venom Inside.spc",
+        "track_index": 1,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
     "Taitania": {
         "nspc_path": "MMC_Server/Taitania.nspc",
         "spc_path": "MMC_Server/Taitania.spc",
