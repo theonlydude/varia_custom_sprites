@@ -1969,6 +1969,24 @@
         "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
         "group": "Star Fox 2"
     },
+    "Macbeth": {
+        "nspc_path": "MMC_Server/Macbeth (Star Fox 2).nspc",
+        "spc_path": "MMC_Server/Macbeth (Star Fox 2).spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Macbeth Inside": {
+        "nspc_path": "MMC_Server/Macbeth (Star Fox 2).nspc",
+        "spc_path": "MMC_Server/Macbeth Inside (Star Fox 2).spc",
+        "track_index": 1,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
     "Battle against Mirage Dragon": {
         "nspc_path": "MMC_Server/Battle against Mirage Dragon.nspc",
         "spc_path": "MMC_Server/Battle against Mirage Dragon.spc",
