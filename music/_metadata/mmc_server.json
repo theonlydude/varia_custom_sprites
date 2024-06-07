@@ -824,8 +824,8 @@
         "track_index": 0,
         "original_author": "David Wise",
         "port_author": "Albert V",
-        "description": "Donkey Kong - Version 1.0 this song overwrites the sfx, so is better to use it for endings or intros",
-        "group": "Memory Violation",
+        "description": "Donkey Kong - Version 1.0",
+        "group": "Albert V Arrangement",
         "spc_path": "MMC_Server/Water_World_v1.0.spc"
     },
     "Zeros Theme": {
