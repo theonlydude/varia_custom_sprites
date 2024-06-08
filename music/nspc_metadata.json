@@ -2504,17 +2504,14 @@
             8228
         ]
     },
-    "MMC_Server/Macbeth (Star Fox 2).nspc": {
-        "md5sum": "3380341f57011cafa09de10be309eb59",
+    "MMC_Server/Macbeth.nspc": {
+        "md5sum": "010883f9d60a3e752c2d556a0fecd3ce",
         "block_headers_offsets": [
             0,
-            48,
-            8611,
-            8681,
-            11721,
-            11749,
-            11758,
-            11803
+            52,
+            7562,
+            7638,
+            10831
         ]
     },
     "MMC_Server/Asteroid & Venom Orbital.nspc": {
@@ -2939,6 +2936,19 @@
             10775,
             10784,
             10829
+        ]
+    },
+    "MMC_Server/Macbeth (Star Fox 2).nspc": {
+        "md5sum": "3380341f57011cafa09de10be309eb59",
+        "block_headers_offsets": [
+            0,
+            48,
+            8611,
+            8681,
+            11721,
+            11749,
+            11758,
+            11803
         ]
     },
     "MMC_Server/Eladard.nspc": {
