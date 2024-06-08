@@ -154,7 +154,7 @@
     "Dire Dire Docks (Custom)": {
         "nspc_path": "MMC_Server/Super_Mario_64_-_Dire_Dire_Docks_v1.4.nspc",
         "track_index": 0,
-        "original_author": "Kōji Kondō",
+        "original_author": "Koji Kondo",
         "port_author": "Albert V",
         "description": "Version 1.4",
         "group": "Super Mario 64",
@@ -382,7 +382,7 @@
     "Lethal Lava Land": {
         "nspc_path": "MMC_Server/Lethal_Lava_Land.nspc",
         "track_index": 0,
-        "original_author": "Kōji Kondō",
+        "original_author": "Koji Kondo",
         "port_author": "Albert V",
         "description": "Version 1.0, I had to removed one intrument cuz of some limitations so does not sound the same :/",
         "group": "Super Mario 64",
