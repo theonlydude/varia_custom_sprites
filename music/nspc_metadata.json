@@ -2941,6 +2941,19 @@
             10829
         ]
     },
+    "MMC_Server/Eladard.nspc": {
+        "md5sum": "e6b3feedeb8141076db2722c0bdf3c52",
+        "block_headers_offsets": [
+            0,
+            60,
+            10324,
+            10412,
+            14854,
+            14882,
+            14891,
+            14936
+        ]
+    },
     "MMC_Server/Battle against Mirage Dragon.nspc": {
         "md5sum": "aba6449fbd890835a1b774dda3a3277d",
         "block_headers_offsets": [

@@ -1987,6 +1987,24 @@
         "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
         "group": "Star Fox 2"
     },
+    "Eladard": {
+        "nspc_path": "MMC_Server/Eladard.nspc",
+        "spc_path": "MMC_Server/Eladard.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Eladard Inside": {
+        "nspc_path": "MMC_Server/Eladard.nspc",
+        "spc_path": "MMC_Server/Eladard Inside.spc",
+        "track_index": 1,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
     "Battle against Mirage Dragon": {
         "nspc_path": "MMC_Server/Battle against Mirage Dragon.nspc",
         "spc_path": "MMC_Server/Battle against Mirage Dragon.spc",
