@@ -1978,7 +1978,7 @@
         "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
         "group": "Star Fox 2"
     },
-    "Macbeth Inside": {
+    "Macbeth Inside (Star Fox 2)": {
         "nspc_path": "MMC_Server/Macbeth (Star Fox 2).nspc",
         "spc_path": "MMC_Server/Macbeth Inside (Star Fox 2).spc",
         "track_index": 1,
@@ -2014,7 +2014,7 @@
         "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
         "group": "Star Fox 2"
     },
-    "Andross": {
+    "Andross (Star Fox 2)": {
         "nspc_path": "MMC_Server/Andross (Star Fox 2).nspc",
         "spc_path": "MMC_Server/Andross (Star Fox 2).spc",
         "track_index": 0,
