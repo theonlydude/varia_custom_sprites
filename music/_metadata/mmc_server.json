@@ -57,7 +57,7 @@
         "track_index": 0,
         "original_author": "Masahiko Kimura and Albert V",
         "port_author": "Albert V",
-        "description": "Version 1.1 (2019) Arrangement by Albert V",
+        "description": "Version 1.1 (2019) Arrangement by Albert V (from Castlevania 64)",
         "group": "Clocktober Hack",
         "spc_path": "MMC_Server/Chase_Maze_Clocktober_Hack_v1.1.spc"
     },
@@ -745,7 +745,7 @@
         "original_author": "Akihiro Minakata",
         "port_author": "Albert V",
         "description": "Version 1.1",
-        "group": "Castlevania Circle of the Moon",
+        "group": "Castlevania Aria of Sorrow",
         "spc_path": "MMC_Server/Underground_Reservoir_v1.1.spc"
     },
     "Vampire Killer (Custom)": {
@@ -966,7 +966,7 @@
         "track_index": 0,
         "original_author": "?",
         "port_author": "Albert V",
-        "description": "?",
+        "description": "From Castlevania Aria of Sorrow",
         "group": "Albert V Arrangement",
         "spc_path": "MMC_Server/SM_Custom_Dance_Hall_v1.1.spc"
     },
@@ -1933,18 +1933,18 @@
         "description": "Port from Yoshi's Island",
         "group": "Super Mario"
     },
-    "Venom": {
-        "nspc_path": "MMC_Server/Venom.nspc",
-        "spc_path": "MMC_Server/Venom.spc",
+    "Venom (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Venom (Star Fox 2).nspc",
+        "spc_path": "MMC_Server/Venom (Star Fox 2).spc",
         "track_index": 0,
         "original_author": "Kozue Ishikawa, Yumiko Kanki",
         "port_author": "H A M",
         "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
         "group": "Star Fox 2"
     },
-    "Venom Inside": {
-        "nspc_path": "MMC_Server/Venom.nspc",
-        "spc_path": "MMC_Server/Venom Inside.spc",
+    "Venom Inside (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Venom (Star Fox 2).nspc",
+        "spc_path": "MMC_Server/Venom Inside (Star Fox 2).spc",
         "track_index": 1,
         "original_author": "Kozue Ishikawa, Yumiko Kanki",
         "port_author": "H A M",
