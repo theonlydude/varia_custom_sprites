@@ -57,7 +57,7 @@
         "track_index": 0,
         "original_author": "Masahiko Kimura and Albert V",
         "port_author": "Albert V",
-        "description": "Version 1.1 (2019) Arrangement by Albert V (from Castlevania 64)",
+        "description": "Version 1.1 (2019) Arrangement by Albert V, from Castlevania 64",
         "group": "Clocktober Hack",
         "spc_path": "MMC_Server/Chase_Maze_Clocktober_Hack_v1.1.spc"
     },
@@ -84,7 +84,7 @@
         "track_index": 0,
         "original_author": "Michiru Yamane",
         "port_author": "Albert V",
-        "description": "Version 1.0 Old (2019) Arrangement by Albert V",
+        "description": "Version 1.0 Old (2019) Arrangement by Albert V, from Castlevania Aria of Sorrow",
         "group": "Clocktober Hack",
         "spc_path": "MMC_Server/Clocktober_-_Castle_Corridor_v1.0.spc"
     },
