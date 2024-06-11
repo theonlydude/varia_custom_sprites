@@ -2964,6 +2964,19 @@
             14936
         ]
     },
+    "MMC_Server/Meteor (Star Fox 2).nspc": {
+        "md5sum": "e758c90c42c0051e0542b8d06a8f301d",
+        "block_headers_offsets": [
+            0,
+            56,
+            11562,
+            11644,
+            15081,
+            15109,
+            15118,
+            15163
+        ]
+    },
     "MMC_Server/Battle against Mirage Dragon.nspc": {
         "md5sum": "aba6449fbd890835a1b774dda3a3277d",
         "block_headers_offsets": [
