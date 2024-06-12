@@ -714,6 +714,16 @@
             32135
         ]
     },
+    "MMC_Server/Barren Land.nspc": {
+        "md5sum": "06b920526301c59dcb06273f0ed6ba74",
+        "block_headers_offsets": [
+            0,
+            32,
+            3609,
+            3655,
+            4762
+        ]
+    },
     "MMC_Server/FederationShip.nspc": {
         "md5sum": "1141b0dac79c9be27302079ca98938c9",
         "block_headers_offsets": [
@@ -2975,6 +2985,19 @@
             15109,
             15118,
             15163
+        ]
+    },
+    "MMC_Server/Battleship.nspc": {
+        "md5sum": "2c97d0429239bc9fb735584f9a969443",
+        "block_headers_offsets": [
+            0,
+            36,
+            12163,
+            12215,
+            16542,
+            16570,
+            16579,
+            16624
         ]
     },
     "MMC_Server/Battle against Mirage Dragon.nspc": {
