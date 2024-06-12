@@ -3013,6 +3013,19 @@
             13876
         ]
     },
+    "MMC_Server/Space Station.nspc": {
+        "md5sum": "a5270cf52a66a62069d85fac7c987e5e",
+        "block_headers_offsets": [
+            0,
+            28,
+            10994,
+            11034,
+            13948,
+            13976,
+            13985,
+            14030
+        ]
+    },
     "MMC_Server/Andross (Star Fox 2).nspc": {
         "md5sum": "d1e0d2017eb177ad803243979df05bf6",
         "block_headers_offsets": [
