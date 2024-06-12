@@ -2987,6 +2987,19 @@
             15163
         ]
     },
+    "MMC_Server/Fortuna (Star Fox 2).nspc": {
+        "md5sum": "f3c316f7c9517aaa8235abe9dba35923",
+        "block_headers_offsets": [
+            0,
+            32,
+            9153,
+            9199,
+            12034,
+            12062,
+            12071,
+            12116
+        ]
+    },
     "MMC_Server/Battleship.nspc": {
         "md5sum": "2c97d0429239bc9fb735584f9a969443",
         "block_headers_offsets": [
