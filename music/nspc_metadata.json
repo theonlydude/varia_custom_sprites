@@ -3013,6 +3013,19 @@
             15446
         ]
     },
+    "MMC_Server/Surprise Attack.nspc": {
+        "md5sum": "cb4715ba6e93d86dfe74e17d0046ce78",
+        "block_headers_offsets": [
+            0,
+            20,
+            8610,
+            8638,
+            10423,
+            10451,
+            10460,
+            10505
+        ]
+    },
     "MMC_Server/Flotilla Battle Extended a little.nspc": {
         "md5sum": "d0983150100ae6ac76b3c990b6583826",
         "block_headers_offsets": [
@@ -3024,6 +3037,19 @@
             15394,
             15403,
             15448
+        ]
+    },
+    "MMC_Server/Missiles.nspc": {
+        "md5sum": "b95bf7b21a7264c54f1ff47611884cfa",
+        "block_headers_offsets": [
+            0,
+            36,
+            11326,
+            11378,
+            14181,
+            14209,
+            14218,
+            14263
         ]
     },
     "MMC_Server/Battleship.nspc": {

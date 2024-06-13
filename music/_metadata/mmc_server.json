@@ -2068,6 +2068,15 @@
         "description": "Port including an unused section, but uses a different note length table, hence why common songs are different while this song is loaded",
         "group": "Star Fox 2"
     },
+    "Surprise Attack": {
+        "nspc_path": "MMC_Server/Surprise Attack.nspc",
+        "spc_path": "MMC_Server/Surprise Attack.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
     "Enemy out of Range": {
         "nspc_path": "MMC_Server/Flotilla Battle.nspc",
         "spc_path": "MMC_Server/Enemy out of Range.spc",
