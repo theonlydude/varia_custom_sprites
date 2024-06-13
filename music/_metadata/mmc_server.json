@@ -2050,6 +2050,42 @@
         "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
         "group": "Star Fox 2"
     },
+    "Flotilla Battle": {
+        "nspc_path": "MMC_Server/Flotilla Battle.nspc",
+        "spc_path": "MMC_Server/Flotilla Battle.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Flotilla Battle (Extended)": {
+        "nspc_path": "MMC_Server/Flotilla Battle Extended a little.nspc",
+        "spc_path": "MMC_Server/Flotilla Battle Extended a little.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port including an unused section, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Enemy out of Range": {
+        "nspc_path": "MMC_Server/Flotilla Battle.nspc",
+        "spc_path": "MMC_Server/Enemy out of Range.spc",
+        "track_index": 2,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Flotilla Destroyed": {
+        "nspc_path": "MMC_Server/Flotilla Battle.nspc",
+        "spc_path": "MMC_Server/Flotilla Destroyed.spc",
+        "track_index": 1,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
     "Battleship": {
         "nspc_path": "MMC_Server/Battleship.nspc",
         "spc_path": "MMC_Server/Battleship.spc",

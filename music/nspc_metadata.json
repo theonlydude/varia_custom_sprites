@@ -3000,6 +3000,32 @@
             12116
         ]
     },
+    "MMC_Server/Flotilla Battle.nspc": {
+        "md5sum": "f928b22ef854b3b36b9460ef9f96d896",
+        "block_headers_offsets": [
+            0,
+            36,
+            11137,
+            11189,
+            15364,
+            15392,
+            15401,
+            15446
+        ]
+    },
+    "MMC_Server/Flotilla Battle Extended a little.nspc": {
+        "md5sum": "d0983150100ae6ac76b3c990b6583826",
+        "block_headers_offsets": [
+            0,
+            36,
+            11137,
+            11189,
+            15366,
+            15394,
+            15403,
+            15448
+        ]
+    },
     "MMC_Server/Battleship.nspc": {
         "md5sum": "2c97d0429239bc9fb735584f9a969443",
         "block_headers_offsets": [
