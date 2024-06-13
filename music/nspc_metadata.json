@@ -2922,6 +2922,19 @@
             9083
         ]
     },
+    "MMC_Server/Opening (Star Fox 2).nspc": {
+        "md5sum": "6d090cf0a395c09f208b6eb9d9496bf4",
+        "block_headers_offsets": [
+            0,
+            36,
+            12190,
+            12242,
+            15933,
+            15961,
+            15970,
+            16015
+        ]
+    },
     "MMC_Server/Venom (Star Fox 2).nspc": {
         "md5sum": "4840697234121a476970b408d1083c6a",
         "block_headers_offsets": [
@@ -3013,19 +3026,6 @@
             15446
         ]
     },
-    "MMC_Server/Surprise Attack.nspc": {
-        "md5sum": "cb4715ba6e93d86dfe74e17d0046ce78",
-        "block_headers_offsets": [
-            0,
-            20,
-            8610,
-            8638,
-            10423,
-            10451,
-            10460,
-            10505
-        ]
-    },
     "MMC_Server/Flotilla Battle Extended a little.nspc": {
         "md5sum": "d0983150100ae6ac76b3c990b6583826",
         "block_headers_offsets": [
@@ -3037,6 +3037,19 @@
             15394,
             15403,
             15448
+        ]
+    },
+    "MMC_Server/Surprise Attack.nspc": {
+        "md5sum": "cb4715ba6e93d86dfe74e17d0046ce78",
+        "block_headers_offsets": [
+            0,
+            20,
+            8610,
+            8638,
+            10423,
+            10451,
+            10460,
+            10505
         ]
     },
     "MMC_Server/Missiles.nspc": {

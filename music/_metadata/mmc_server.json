@@ -1942,6 +1942,51 @@
         "description": "Port from Yoshi's Island",
         "group": "Super Mario"
     },
+    "Opening (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Opening (Star Fox 2).nspc",
+        "spc_path": "MMC_Server/Opening (Star Fox 2).spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Cutscene (Back to Base)": {
+        "nspc_path": "MMC_Server/Opening (Star Fox 2).nspc",
+        "spc_path": "MMC_Server/Cutscene (Back to Base).spc",
+        "track_index": 4,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Title (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Opening (Star Fox 2).nspc",
+        "spc_path": "MMC_Server/Title (Star Fox 2).spc",
+        "track_index": 1,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Cutscene (Danger)": {
+        "nspc_path": "MMC_Server/Opening (Star Fox 2).nspc",
+        "spc_path": "MMC_Server/Cutscene (Danger).spc",
+        "track_index": 2,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Unknown Opening Song (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Opening (Star Fox 2).nspc",
+        "spc_path": "MMC_Server/Unknown Opening Song (Star Fox 2).spc",
+        "track_index": 3,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
     "Venom (Star Fox 2)": {
         "nspc_path": "MMC_Server/Venom (Star Fox 2).nspc",
         "spc_path": "MMC_Server/Venom (Star Fox 2).spc",
