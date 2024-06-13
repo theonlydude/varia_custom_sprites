@@ -2935,6 +2935,19 @@
             16015
         ]
     },
+    "MMC_Server/Target Description.nspc": {
+        "md5sum": "322c4918c7c4ec4ee90d205d2d37e29a",
+        "block_headers_offsets": [
+            0,
+            16,
+            2315,
+            2337,
+            2773,
+            2801,
+            2810,
+            2855
+        ]
+    },
     "MMC_Server/Venom (Star Fox 2).nspc": {
         "md5sum": "4840697234121a476970b408d1083c6a",
         "block_headers_offsets": [
@@ -3078,6 +3091,19 @@
             16624
         ]
     },
+    "MMC_Server/Battleship Boss Battle.nspc": {
+        "md5sum": "67fb00d969ea122b63746a3d2ccca555",
+        "block_headers_offsets": [
+            0,
+            32,
+            12690,
+            12736,
+            13968,
+            13996,
+            14005,
+            14050
+        ]
+    },
     "MMC_Server/Battle against Mirage Dragon.nspc": {
         "md5sum": "aba6449fbd890835a1b774dda3a3277d",
         "block_headers_offsets": [
@@ -3102,6 +3128,19 @@
             13976,
             13985,
             14030
+        ]
+    },
+    "MMC_Server/Boss (Space Armada) Remix.nspc": {
+        "md5sum": "92dde8d65714d343a300a27eed029756",
+        "block_headers_offsets": [
+            0,
+            40,
+            12194,
+            12252,
+            13646,
+            13674,
+            13683,
+            13728
         ]
     },
     "MMC_Server/Andross (Star Fox 2).nspc": {

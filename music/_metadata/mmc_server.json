@@ -2221,6 +2221,24 @@
         "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
         "group": "Star Fox 2"
     },
+    "Boss (Space Armada) Remix": {
+        "nspc_path": "MMC_Server/Boss (Space Armada) Remix.nspc",
+        "spc_path": "MMC_Server/Boss (Space Armada) Remix.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa, Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Entering Dangerous Territory Remix": {
+        "nspc_path": "MMC_Server/Boss (Space Armada) Remix.nspc",
+        "spc_path": "MMC_Server/Entering Dangerous Territory Remix.spc",
+        "track_index": 1,
+        "original_author": "Hajime Hirasawa, Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
     "Andross (Star Fox 2)": {
         "nspc_path": "MMC_Server/Andross (Star Fox 2).nspc",
         "spc_path": "MMC_Server/Andross (Star Fox 2).spc",
