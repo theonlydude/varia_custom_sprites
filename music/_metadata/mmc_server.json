@@ -1969,10 +1969,37 @@
         "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
         "group": "Star Fox 2"
     },
+    "Records (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Select Menu (Star Fox 2).nspc",
+        "spc_path": "MMC_Server/Records (Star Fox 2).spc",
+        "track_index": 2,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
     "Cutscene (Danger)": {
         "nspc_path": "MMC_Server/Opening (Star Fox 2).nspc",
         "spc_path": "MMC_Server/Cutscene (Danger).spc",
         "track_index": 2,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Select Menu (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Select Menu (Star Fox 2).nspc",
+        "spc_path": "MMC_Server/Select Menu (Star Fox 2).spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Arwings' Takeoff": {
+        "nspc_path": "MMC_Server/Select Menu (Star Fox 2).nspc",
+        "spc_path": "MMC_Server/Arwings' Takeoff.spc",
+        "track_index": 1,
         "original_author": "Kozue Ishikawa, Yumiko Kanki",
         "port_author": "H A M",
         "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
