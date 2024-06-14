@@ -1978,9 +1978,9 @@
         "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
         "group": "Star Fox 2"
     },
-    "Unknown Opening Song (Star Fox 2)": {
+    "Cutscene (Release)": {
         "nspc_path": "MMC_Server/Opening (Star Fox 2).nspc",
-        "spc_path": "MMC_Server/Unknown Opening Song (Star Fox 2).spc",
+        "spc_path": "MMC_Server/Cutscene (Release).spc",
         "track_index": 3,
         "original_author": "Kozue Ishikawa, Yumiko Kanki",
         "port_author": "H A M",
