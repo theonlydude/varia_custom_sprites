@@ -1375,6 +1375,33 @@
         "description": "Zelda soundfont",
         "group": "The Legend Of Zelda A Link To The Past"
     },
+    "Power of the Gods": {
+        "nspc_path": "MMC_Server/Power of the Gods + Staff Roll.nspc",
+        "spc_path": "MMC_Server/Power of the Gods.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    },
+    "Epilogue ~ Beautiful Hyrule": {
+        "nspc_path": "MMC_Server/Epilogue ~ Beautiful Hyrule.nspc",
+        "spc_path": "MMC_Server/Epilogue ~ Beautiful Hyrule.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    },
+    "Staff Roll (A Link to the Past)": {
+        "nspc_path": "MMC_Server/Power of the Gods + Staff Roll.nspc",
+        "spc_path": "MMC_Server/Staff Roll (A Link to the Past).spc",
+        "track_index": 1,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    },
     "Title Demonstration": {
         "nspc_path": "MMC_Server/Title Demonstration.nspc",
         "spc_path": "MMC_Server/Title Demonstration.spc",

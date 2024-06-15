@@ -2424,6 +2424,26 @@
             16233
         ]
     },
+    "MMC_Server/Power of the Gods + Staff Roll.nspc": {
+        "md5sum": "1b72f10cb4c6569d578add4526d92467",
+        "block_headers_offsets": [
+            0,
+            36,
+            14008,
+            14060,
+            18188
+        ]
+    },
+    "MMC_Server/Epilogue ~ Beautiful Hyrule.nspc": {
+        "md5sum": "9f47fa3eeff84c44cc568668c9c6b6f9",
+        "block_headers_offsets": [
+            0,
+            40,
+            17009,
+            17067,
+            21225
+        ]
+    },
     "MMC_Server/Title Demonstration.nspc": {
         "md5sum": "d057062505e0f35473ccde0bc19d54f8",
         "block_headers_offsets": [
