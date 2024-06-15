@@ -1,5 +1,5 @@
 {
-    "Course Map Select": {
+    "Star Glider - Course Map Select": {
         "nspc_path": "Star Glider OST/map.nspc",
         "spc_path": "Star Glider OST/map.spc",
         "track_index": 0,
@@ -8,7 +8,7 @@
         "description": "Port from a prototype of Star Fox",
         "group": "Star Glider Prototype"
     },
-    "Stage Type 1": {
+    "Star Glider - Stage Type 1": {
         "nspc_path": "Star Glider OST/stage type 1.nspc",
         "spc_path": "Star Glider OST/stage type 1.spc",
         "track_index": 0,
@@ -17,7 +17,7 @@
         "description": "Port from a prototype of Star Fox",
         "group": "Star Glider Prototype"
     },
-    "Stage Type 2": {
+    "Star Glider - Stage Type 2": {
         "nspc_path": "Star Glider OST/stage type 2.nspc",
         "spc_path": "Star Glider OST/stage type 2.spc",
         "track_index": 0,
@@ -26,7 +26,7 @@
         "description": "Port from a prototype of Star Fox",
         "group": "Star Glider Prototype"
     },
-    "Stage Type 3": {
+    "Star Glider - Stage Type 3": {
         "nspc_path": "Star Glider OST/stage type 3.nspc",
         "spc_path": "Star Glider OST/stage type 3.spc",
         "track_index": 0,
@@ -35,7 +35,7 @@
         "description": "Port from a prototype of Star Fox",
         "group": "Star Glider Prototype"
     },
-    "Boss": {
+    "Star Glider - Boss": {
         "nspc_path": "Star Glider OST/boss.nspc",
         "spc_path": "Star Glider OST/boss.spc",
         "track_index": 0,
@@ -44,7 +44,7 @@
         "description": "Port from a prototype of Star Fox",
         "group": "Star Glider Prototype"
     },
-    "Course Clear": {
+    "Star Glider - Course Clear": {
         "nspc_path": "Star Glider OST/victory.nspc",
         "spc_path": "Star Glider OST/victory.spc",
         "track_index": 0,
