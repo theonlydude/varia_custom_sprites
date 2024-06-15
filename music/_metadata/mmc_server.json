@@ -1987,6 +1987,15 @@
         "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
         "group": "Star Fox 2"
     },
+    "Star Map Introduction": {
+        "nspc_path": "MMC_Server/Star Map Select.nspc",
+        "spc_path": "MMC_Server/Star Map Introduction.spc",
+        "track_index": 4,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
     "Select Menu (Star Fox 2)": {
         "nspc_path": "MMC_Server/Select Menu (Star Fox 2).nspc",
         "spc_path": "MMC_Server/Select Menu (Star Fox 2).spc",
@@ -2009,6 +2018,15 @@
         "nspc_path": "MMC_Server/Opening (Star Fox 2).nspc",
         "spc_path": "MMC_Server/Cutscene (Release).spc",
         "track_index": 3,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Star Map Select": {
+        "nspc_path": "MMC_Server/Star Map Select.nspc",
+        "spc_path": "MMC_Server/Star Map Select.spc",
+        "track_index": 0,
         "original_author": "Kozue Ishikawa, Yumiko Kanki",
         "port_author": "H A M",
         "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
@@ -2230,6 +2248,15 @@
         "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
         "group": "Star Fox 2"
     },
+    "Cutscene (Mirage Dragon Intro)": {
+        "nspc_path": "MMC_Server/Star Map Select.nspc",
+        "spc_path": "MMC_Server/Cutscene (Mirage Dragon Intro).spc",
+        "track_index": 3,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
     "Battle against Mirage Dragon": {
         "nspc_path": "MMC_Server/Battle against Mirage Dragon.nspc",
         "spc_path": "MMC_Server/Battle against Mirage Dragon.spc",
@@ -2270,6 +2297,33 @@
         "nspc_path": "MMC_Server/Andross (Star Fox 2).nspc",
         "spc_path": "MMC_Server/Andross (Star Fox 2).spc",
         "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Unused Battle (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Star Map Select.nspc",
+        "spc_path": "MMC_Server/Unused Battle (Star Fox 2).spc",
+        "track_index": 1,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Unused Battle (Star Fox 2) (faster)": {
+        "nspc_path": "MMC_Server/Star Map Select.nspc",
+        "spc_path": "MMC_Server/Unused Battle (Star Fox 2) (faster).spc",
+        "track_index": 2,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Unused Battle 2 (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Star Map Select.nspc",
+        "spc_path": "MMC_Server/Unused Battle 2 (Star Fox 2).spc",
+        "track_index": 5,
         "original_author": "Kozue Ishikawa, Yumiko Kanki",
         "port_author": "H A M",
         "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",

@@ -2935,6 +2935,32 @@
             16015
         ]
     },
+    "MMC_Server/Select Menu (Star Fox 2).nspc": {
+        "md5sum": "3c736b8a193927d6531baa302633348a",
+        "block_headers_offsets": [
+            0,
+            40,
+            5444,
+            5502,
+            7370,
+            7398,
+            7407,
+            7452
+        ]
+    },
+    "MMC_Server/Star Map Select.nspc": {
+        "md5sum": "01a758103d88b69811cf42232208d8cb",
+        "block_headers_offsets": [
+            0,
+            32,
+            11079,
+            11125,
+            14682,
+            14710,
+            14719,
+            14764
+        ]
+    },
     "MMC_Server/Target Description.nspc": {
         "md5sum": "322c4918c7c4ec4ee90d205d2d37e29a",
         "block_headers_offsets": [
