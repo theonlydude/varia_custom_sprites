@@ -1204,6 +1204,24 @@
         "description": "Zelda soundfont",
         "group": "The Legend Of Zelda A Link To The Past"
     },
+    "Guessing-Game House": {
+        "nspc_path": "MMC_Server/Guessing-Game House.nspc",
+        "spc_path": "MMC_Server/Guessing-Game House.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    },
+    "Fortune Teller": {
+        "nspc_path": "MMC_Server/Fortune Teller.nspc",
+        "spc_path": "MMC_Server/Fortune Teller.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    },
     "Soldiers of Kakariko Village": {
         "nspc_path": "MMC_Server/Soldiers of Kakariko Village.nspc",
         "spc_path": "MMC_Server/Soldiers of Kakariko Village.spc",
@@ -1292,6 +1310,15 @@
         "original_author": "Koji Kondo",
         "port_author": "H A M",
         "description": "Zelda soundfont, included an unused section",
+        "group": "The Legend Of Zelda A Link To The Past"
+    },
+    "Unsealing the Master Sword": {
+        "nspc_path": "MMC_Server/Unsealing the Master Sword.nspc",
+        "spc_path": "MMC_Server/Unsealing the Master Sword.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
         "group": "The Legend Of Zelda A Link To The Past"
     },
     "Dark Golden Land": {
