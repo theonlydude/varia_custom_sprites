@@ -1285,6 +1285,15 @@
         "description": "Zelda soundfont",
         "group": "The Legend Of Zelda A Link To The Past"
     },
+    "Dimensional Shift": {
+        "nspc_path": "MMC_Server/Dimensional Shift.nspc",
+        "spc_path": "MMC_Server/Dimensional Shift.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    },
     "The Silly Pink Rabbit!": {
         "nspc_path": "MMC_Server/The Silly Pink Rabbit!.nspc",
         "spc_path": "MMC_Server/The Silly Pink Rabbit!.spc",
