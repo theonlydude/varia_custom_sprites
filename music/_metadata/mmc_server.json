@@ -1681,6 +1681,15 @@
         "description": "Port",
         "group": "Star Fox"
     },
+    "Boss (Venom Base Short)": {
+        "nspc_path": "MMC_Server/Boss (Venom Base 2).nspc",
+        "spc_path": "MMC_Server/Boss (Venom Base Short).spc",
+        "track_index": 1,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
     "Boss (Last Boss Andross)": {
         "nspc_path": "MMC_Server/Boss (Last Boss Andross) + Last Boss Clear.nspc",
         "spc_path": "MMC_Server/Boss (Last Boss Andross).spc",

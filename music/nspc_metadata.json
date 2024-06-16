@@ -2261,6 +2261,26 @@
             5628
         ]
     },
+    "MMC_Server/Guessing-Game House.nspc": {
+        "md5sum": "7bad6354b84353f45a00ebfaa883be0f",
+        "block_headers_offsets": [
+            0,
+            20,
+            7755,
+            7783,
+            8269
+        ]
+    },
+    "MMC_Server/Fortune Teller.nspc": {
+        "md5sum": "3f3b8ba936c0899576fc8979beafeb40",
+        "block_headers_offsets": [
+            0,
+            12,
+            718,
+            734,
+            1045
+        ]
+    },
     "MMC_Server/Soldiers of Kakariko Village.nspc": {
         "md5sum": "5835ab78a4438667a04768d6daf8c2b6",
         "block_headers_offsets": [
@@ -2347,6 +2367,16 @@
             4043,
             4065,
             5240
+        ]
+    },
+    "MMC_Server/Unsealing the Master Sword.nspc": {
+        "md5sum": "554e9c037352a4d87c262e141636d254",
+        "block_headers_offsets": [
+            0,
+            12,
+            3958,
+            3974,
+            4207
         ]
     },
     "MMC_Server/Dark Golden Land.nspc": {
@@ -2474,14 +2504,14 @@
             1821
         ]
     },
-    "Star Glider OST/map.nspc": {
-        "md5sum": "aae819d8cf94fad4275e50cb00e25ab7",
+    "MMC_Server/star fox 6 in 1.nspc": {
+        "md5sum": "9be73b90c1a948080dc9a1f6f3e34fc8",
         "block_headers_offsets": [
             0,
-            28,
-            4316,
-            4356,
-            6283
+            60,
+            14122,
+            14210,
+            16906
         ]
     },
     "MMC_Server/Emergency Call (Overwrites Common Samples).nspc": {
@@ -2695,13 +2725,13 @@
         ]
     },
     "MMC_Server/Boss (Venom Base 2).nspc": {
-        "md5sum": "e7e3c666e9b1c0b3c71077b116845c37",
+        "md5sum": "8c20fc037d6d2ee062166f15fbffc969",
         "block_headers_offsets": [
             0,
             28,
             9095,
             9135,
-            10141
+            10143
         ]
     },
     "MMC_Server/Boss (Last Boss Andross) + Last Boss Clear.nspc": {
@@ -2732,16 +2762,6 @@
             3260,
             3282,
             3530
-        ]
-    },
-    "MMC_Server/star fox 6 in 1.nspc": {
-        "md5sum": "9be73b90c1a948080dc9a1f6f3e34fc8",
-        "block_headers_offsets": [
-            0,
-            60,
-            14122,
-            14210,
-            16906
         ]
     },
     "MMC_Server/Course Clear (Band).nspc": {
@@ -3958,6 +3978,16 @@
             5720,
             5748,
             6424
+        ]
+    },
+    "Star Glider OST/map.nspc": {
+        "md5sum": "aae819d8cf94fad4275e50cb00e25ab7",
+        "block_headers_offsets": [
+            0,
+            28,
+            4316,
+            4356,
+            6283
         ]
     },
     "Star Glider OST/stage type 1.nspc": {
