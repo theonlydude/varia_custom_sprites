@@ -1726,6 +1726,24 @@
         "description": "Port",
         "group": "Star Fox"
     },
+    "Game Over (Star Fox)": {
+        "nspc_path": "MMC_Server/Game Over (Star Fox).nspc",
+        "spc_path": "MMC_Server/Game Over (Star Fox).spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
+    "Continue (Star Fox)": {
+        "nspc_path": "MMC_Server/Continue (Star Fox).nspc",
+        "spc_path": "MMC_Server/Continue (Star Fox).spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
     "Course Clear (Orchestra)": {
         "nspc_path": "MMC_Server/star fox 6 in 1.nspc",
         "spc_path": "MMC_Server/Course Clear (Orchestra).spc",

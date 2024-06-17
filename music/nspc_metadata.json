@@ -2349,6 +2349,16 @@
             11231
         ]
     },
+    "MMC_Server/Dimensional Shift.nspc": {
+        "md5sum": "4b36444d0027c44d3119df976e0adc6f",
+        "block_headers_offsets": [
+            0,
+            24,
+            6085,
+            6119,
+            6473
+        ]
+    },
     "MMC_Server/The Silly Pink Rabbit!.nspc": {
         "md5sum": "0da26edb52e277b7d60f80bc2264c178",
         "block_headers_offsets": [
@@ -2762,6 +2772,26 @@
             3260,
             3282,
             3530
+        ]
+    },
+    "MMC_Server/Game Over (Star Fox).nspc": {
+        "md5sum": "e67f3a63ad910df2b5aa8997a7e6f848",
+        "block_headers_offsets": [
+            0,
+            20,
+            2382,
+            2410,
+            2689
+        ]
+    },
+    "MMC_Server/Continue (Star Fox).nspc": {
+        "md5sum": "148620905c0e52b05b0aa6c0edd11937",
+        "block_headers_offsets": [
+            0,
+            8,
+            885,
+            895,
+            1133
         ]
     },
     "MMC_Server/Course Clear (Band).nspc": {
@@ -3181,6 +3211,19 @@
             13822,
             13831,
             13876
+        ]
+    },
+    "MMC_Server/Mysterious Space Station.nspc": {
+        "md5sum": "04c4bfd2d465064a7c946da5a5195b4f",
+        "block_headers_offsets": [
+            0,
+            32,
+            11160,
+            11206,
+            12241,
+            12269,
+            12278,
+            12323
         ]
     },
     "MMC_Server/Space Station.nspc": {
