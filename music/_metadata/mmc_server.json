@@ -2427,5 +2427,14 @@
         "port_author": "H A M",
         "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
         "group": "Star Fox 2"
+    },
+    "Unused Beta": {
+        "nspc_path": "MMC_Server/Unused Beta.nspc",
+        "spc_path": "MMC_Server/Unused Beta.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Inexact port from the April 15, 1994 build because the echo buffer of the original is too big, and it uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
     }
 }
