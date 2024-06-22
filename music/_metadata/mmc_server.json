@@ -1087,6 +1087,15 @@
         "description": "1-to-1 port",
         "group": "Super Mario All-Stars"
     },
+    "SMB3 Athletic": {
+        "nspc_path": "MMC_Server/SMB3 Athletic.nspc",
+        "spc_path": "MMC_Server/SMB3 Athletic.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo and Soyo Oka",
+        "port_author": "H A M",
+        "description": "1-to-1 port",
+        "group": "Super Mario All-Stars"
+    },
     "SMB3 Ice Land": {
         "nspc_path": "MMC_Server/SMB3 Ice Land 1.1.nspc",
         "spc_path": "MMC_Server/SMB3 Ice Land 1.1.spc",
