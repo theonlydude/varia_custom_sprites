@@ -2129,6 +2129,16 @@
             6615
         ]
     },
+    "MMC_Server/SMB3 Athletic.nspc": {
+        "md5sum": "eed81c76b3bd4d2cd7a24d303f20785a",
+        "block_headers_offsets": [
+            0,
+            48,
+            7963,
+            8033,
+            9214
+        ]
+    },
     "MMC_Server/SMB3 Ice Land 1.1.nspc": {
         "md5sum": "93f4c819086637f25a739094637c7a19",
         "block_headers_offsets": [
@@ -3200,7 +3210,7 @@
             14050
         ]
     },
-    "MMC_Server/Battle against Mirage Dragon.nspc": {
+    "MMC_Server/Battle against a Space Boss.nspc": {
         "md5sum": "aba6449fbd890835a1b774dda3a3277d",
         "block_headers_offsets": [
             0,
@@ -3213,7 +3223,7 @@
             13876
         ]
     },
-    "MMC_Server/Mysterious Space Station.nspc": {
+    "MMC_Server/Save the Infected Satellite.nspc": {
         "md5sum": "04c4bfd2d465064a7c946da5a5195b4f",
         "block_headers_offsets": [
             0,
@@ -3263,6 +3273,19 @@
             11276,
             11285,
             11330
+        ]
+    },
+    "MMC_Server/Unused Beta.nspc": {
+        "md5sum": "9c2feebdf27947048df4fe4f6ab38b14",
+        "block_headers_offsets": [
+            0,
+            40,
+            8090,
+            8148,
+            10653,
+            10681,
+            10690,
+            10735
         ]
     },
     "other_metaquarius/cv_vampireKiller.bin": {

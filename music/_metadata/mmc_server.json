@@ -2347,27 +2347,27 @@
         "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
         "group": "Star Fox 2"
     },
-    "Cutscene (Mirage Dragon Intro)": {
+    "Cutscene (Andross Summons a Boss)": {
         "nspc_path": "MMC_Server/Star Map Select.nspc",
-        "spc_path": "MMC_Server/Cutscene (Mirage Dragon Intro).spc",
+        "spc_path": "MMC_Server/Cutscene (Andross Summons a Boss).spc",
         "track_index": 3,
         "original_author": "Kozue Ishikawa, Yumiko Kanki",
         "port_author": "H A M",
         "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
         "group": "Star Fox 2"
     },
-    "Battle against Mirage Dragon": {
-        "nspc_path": "MMC_Server/Battle against Mirage Dragon.nspc",
-        "spc_path": "MMC_Server/Battle against Mirage Dragon.spc",
+    "Battle against a Space Boss": {
+        "nspc_path": "MMC_Server/Battle against a Space Boss.nspc",
+        "spc_path": "MMC_Server/Battle against a Space Boss.spc",
         "track_index": 0,
         "original_author": "Kozue Ishikawa, Yumiko Kanki",
         "port_author": "H A M",
         "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
         "group": "Star Fox 2"
     },
-    "Mysterious Space Station": {
-        "nspc_path": "MMC_Server/Mysterious Space Station.nspc",
-        "spc_path": "MMC_Server/Mysterious Space Station.spc",
+    "Save the Infected Satellite": {
+        "nspc_path": "MMC_Server/Save the Infected Satellite.nspc",
+        "spc_path": "MMC_Server/Save the Infected Satellite.spc",
         "track_index": 0,
         "original_author": "Kozue Ishikawa, Yumiko Kanki",
         "port_author": "H A M",
