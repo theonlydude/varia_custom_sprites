@@ -2410,6 +2410,15 @@
         "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
         "group": "Star Fox 2"
     },
+    "Staff Roll (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Staff Roll (Star Fox 2).nspc",
+        "spc_path": "MMC_Server/Staff Roll (Star Fox 2).spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
     "Unused Battle (Star Fox 2)": {
         "nspc_path": "MMC_Server/Star Map Select.nspc",
         "spc_path": "MMC_Server/Unused Battle (Star Fox 2).spc",
