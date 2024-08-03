@@ -477,6 +477,29 @@ messageBoxes = {
         'Bomb': 'wave bomb',
         'Reserve': 'repair kit',
         'Gravity': 'dive shell'
+    },
+    'arcana.ips': {
+        'ETank': 'spam',
+        'Missile': 'boom tubes',
+        'Super': 'soup',
+        'PowerBomb': 'three sir',
+        'Grapple': 'grabby hands',
+        'XRayScope': 'dumbscope',
+        'Varia': 'air conditioning',
+        'SpringBall': 'boing boing',
+        'Morph': 'doggo mode',
+        'ScrewAttack': 'death dreidel',
+        'HiJump': 'yeet shoes',
+        'SpaceJump': 'yahooooo',
+        'SpeedBooster': 'nyoom shoes',
+        'Charge': 'big beam',
+        'Ice': 'worst beam',
+        'Wave': 'miss beam',
+        'Spazer': 'thicc beam',
+        'Plasma': 'bestest beam',
+        'Bomb': 'babablooey',
+        'Reserve': 'trash can',
+        'Gravity': 'blub blub'
     }
 }
 
