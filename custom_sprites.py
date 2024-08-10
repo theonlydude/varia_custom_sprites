@@ -7,6 +7,7 @@ customSprites = {
     'fusion_orange_varia': {"name": "Fusion", "desc": "Samus resprite inspired by Metroid Fusion (orange Varia Suit)", "author": "Gala", "group": "Samus"},
     'zero_mission': {"name": "Zero Mission", "desc": "Samus in Zero Mission Power Suit", "author": "Starry Melody", "group": "Samus"},
     'dread': {"name": "Dread", "desc": "Samus resprite inspired by Metroid Dread", "author": "⚔Wandering✝Spider🕷", "group": "Samus"},
+    'samus_classic': {"name": "Classic", "desc": "Classic Samus", "author": "Plan", "group": "Samus"},
     'nestroid': {"name": "NEStroid", "desc": "Retro Samus", "author": "Dawn", "group": "Samus"},
     'combat_armor_samus': {"name": "Combat Armor", "desc": "Samus, from Samus Combat Armor hack", "author": "Munchy (ripped by TarThoron)", "group": "Samus"},
     'dark_samus': {"name": "Dark Samus", "desc": "Samus recolor inspired by the Dark Samus character", "author": "TarThoron", "group": "Samus"},
@@ -15,6 +16,7 @@ customSprites = {
     'trans': {"name": "Trans Colors", "desc": "Samus in trans pride colors", "author": "TarThoron", "group": "Samus"},
     'enby': {"name": "Enby Colors", "desc": "Samus in non binary colors", "author": "Glove", "group": "Samus"},
     'aroace': {"name": "AroAce Colors", "desc": "Samus in AroAce colors", "author": "mm2nescartridge", "group": "Samus"},
+    'aroace_alt': {"name": "AroAce Colors (alt)", "desc": "Samus in AroAce colors, new version", "author": "mm2nescartridge", "group": "Samus"},
     'agender_samus': {"name": "Agender Colors", "desc": "Samus in Agender colors", "author": "Abyss", "group": "Samus"},
     'hack_ancient_chozo': {"name": "Chozo", "desc": "Samus, from Ancient Chozo hack", "author": "Albert V and Physix", "group": "Samus"},
     'hack_ascent': {"name": "Ascent", "desc": "Samus, from Ascent hack", "author": "Benox50", "group": "Samus"},
@@ -27,6 +29,7 @@ customSprites = {
     'hack_redesign': {"name": "Redesign", "desc": "Samus, from Redesign hack", "author": "Drewseph", "group": "Samus"},
     'hack_szm': {"name": "SZM", "desc": "Samus, from Super Zero Mission hack", "author": "SBniconico", "group": "Samus"},
     'hack_kaizo': {"name": "Kaizo", "desc": "Samus, from Kaizo hack", "author": "Green Samus", "group": "Samus"},
+    'hack_clocktoberfest': {"name": "Clocktoberfest", "desc": "Samus, from Clocktoberfest hack", "author": "Aran;Jaeger", "group": "Samus"},
     'super_duper': {"name": "Super Duper", "desc": "Samus, from Super Duper hack", "author": "Metaquarius and Daltone (ripped by TarThoron)", "group": "Samus"},
     'outline_samus': {"name": "Outline", "desc": "Samus in neon outline", "author": "Fredz00z", "group": "Samus"},
     'samus_maid': {"name": "Samus Maid", "desc": "Super Maidtroid", "author": "Ouily644", "group": "Samus"},
@@ -66,6 +69,8 @@ customSprites = {
     'buffed_kirby': {"name": "Buffed Kirby", "desc": "Kirby on steroids", "author": "Fredz00z", "group": "Custom"},
     'kirby': {"name": "Kirby", "desc": "Kirby", "author": "⚔Wandering✝Spider🕷", "group": "Custom"},
     'yarn_kirby': {"name": "Yarn Kirby", "desc": "Kirby outline", "author": "Dawn", "group": "Custom"},
+    'buffed_pug': {"name": "Buffed Pug", "desc": "More buffed things", "author": "Fredz00z", "group": "Custom"},
+    'buffed_eggplant': {"name": "Buffed Eggplant", "desc": "More buffed things", "author": "Fredz00z", "group": "Custom"},
     'cuphead': {"name": "Cuphead", "desc": "Don't Deal with the Devil", "author": "Fredz00z", "group": "Custom"},
     'madeline': {"name": "Madeline", "desc": "Madeline from Celest", "author": "Dawn", "group": "Custom"},
     'junkoid': {"name": "Junkoid", "desc": "From Super Junkoid hack", "author": "P. Yoshi", "group": "Custom"},
@@ -92,7 +97,8 @@ customSprites = {
     'tetris': {"name": "Tetris", "desc": "Tetrominos from Tetris", "author": "Kyzentum", "group": "Custom"},
     '140': {"name": "140", "desc": "From the game 140", "author": "Kyzentum", "group": "Custom"},
     'SNES_Controller': {"name": "SNES Controller", "desc": "A SNES controller", "author": "Fredz00z", "group": "Custom"},
-    'win95_cursor': {"name": "Win95 Cursor", "desc": "A classic Windows cursor...", "author": "PlaguedOne", "group": "Custom"}
+    'win95_cursor': {"name": "Win95 Cursor", "desc": "A classic Windows cursor...", "author": "PlaguedOne", "group": "Custom"},
+    'missingno': {"name": "Missing No", "desc": "Your favorite Pokemon", "author": "Little Leaden Hearts ❤", "group": "Custom"}
 }
 
 customSpritesOrder = [
@@ -101,6 +107,7 @@ customSpritesOrder = [
     'fusion_orange_varia',
     'zero_mission',
     'dread',
+    'samus_classic',
     'nestroid',
     'combat_armor_samus',
     'dark_samus',
@@ -109,6 +116,7 @@ customSpritesOrder = [
     'trans',
     'enby',
     'aroace',
+    'aroace_alt',
     'agender_samus',
     'hack_ancient_chozo',
     'hack_ascent',
@@ -122,6 +130,7 @@ customSpritesOrder = [
     'hack_szm',
     'hack_kaizo',
     'super_duper',
+    'hack_clocktoberfest',
     'outline_samus',
     'samus_maid',
     'samus_backwards',
@@ -161,6 +170,8 @@ customSpritesOrder = [
     'buffed_kirby',
     'kirby',
     'yarn_kirby',
+    'buffed_pug',
+    'buffed_eggplant',
     'cuphead',
     'madeline',
     'junkoid',
@@ -189,7 +200,8 @@ customSpritesOrder = [
     'tetris',
     '140',
     'SNES_Controller',
-    'win95_cursor'
+    'win95_cursor',
+    'missingno'
 ]
 
 # custom sprite message boxes update
