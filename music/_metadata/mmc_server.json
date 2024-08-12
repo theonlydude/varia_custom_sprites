@@ -25,7 +25,7 @@
         "group": "Castlevania Circle of the Moon",
         "spc_path": "MMC_Server/A_Vision_of_Dark_Secrets_v1.0.spc"
     },
-    "Beginning of the Journey": {
+    "Beginning of the Journey (Albert V)": {
         "nspc_path": "MMC_Server/Beginning_of_the_Journey_v1.0.nspc",
         "track_index": 0,
         "original_author": "Koji Kondo",
@@ -161,13 +161,13 @@
         "spc_path": "MMC_Server/Sector_3_Crisis_Mission_v1.0.spc"
     },
     "Demon Salesman (Renon's theme)": {
-        "nspc_path": "MMC_Server/Castlevania_Demon_Salesman_Renons_theme_SM.nspc",
+        "nspc_path": "MMC_Server/Castlevania_-_Demon_Salesman__Renon_s_theme__SM.nspc",
         "track_index": 0,
         "original_author": "Masahiko Kimura",
         "port_author": "Albert V",
-        "description": "TODO",
-        "group": "Castlevania 64",
-        "spc_path": "MMC_Server/Castlevania_Demon_Salesman_Renons_theme_SM.spc"
+        "description": "Version 1.0",
+        "group": "Albert V Arrangement",
+        "spc_path": "MMC_Server/Castlevania_-_Demon_Salesman__Renon_s_theme__SM.spc"
     },
     "Dire Dire Docks (Custom)": {
         "nspc_path": "MMC_Server/Super_Mario_64_-_Dire_Dire_Docks_v1.4.nspc",
@@ -1590,5 +1590,869 @@
         "port_author": "H A M",
         "description": "Inexact port due to a technical limitation about echo delay",
         "group": "EarthBound / Mother 2"
+    },
+    "Barren Land": {
+        "nspc_path": "MMC_Server/Barren_Land.nspc",
+        "track_index": 0,
+        "original_author": "TODO",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Dragon View/Super Drakkhen",
+        "spc_path": "MMC_Server/Barren_Land.spc"
+    },
+    "SMB3 Athletic": {
+        "nspc_path": "MMC_Server/SMB3_Athletic.nspc",
+        "spc_path": "MMC_Server/SMB3_Athletic.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo and Soyo Oka",
+        "port_author": "H A M",
+        "description": "1-to-1 port",
+        "group": "Super Mario All-Stars"
+    },
+    "Beginning of the Journey (H A M)": {
+        "nspc_path": "MMC_Server/Beginning_of_the_Journey.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past",
+        "spc_path": "MMC_Server/Beginning_of_the_Journey.spc"
+    },
+    "Princess Zelda's Rescue (normal)(obsolete)": {
+        "nspc_path": "MMC_Server/Princess_Zeldas_Rescue_ALTTP.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "Albert V",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past",
+        "spc_path": "MMC_Server/Princess_Zeldas_Rescue_ALTTP.spc"
+    },
+    "Guessing-Game House": {
+        "nspc_path": "MMC_Server/Guessing-Game_House.nspc",
+        "spc_path": "MMC_Server/Guessing-Game_House.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    },
+    "Fortune Teller": {
+        "nspc_path": "MMC_Server/Fortune_Teller.nspc",
+        "spc_path": "MMC_Server/Fortune_Teller.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    },
+    "Dimensional Shift": {
+        "nspc_path": "MMC_Server/Dimensional_Shift.nspc",
+        "spc_path": "MMC_Server/Dimensional_Shift.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    },
+    "Unsealing the Master Sword": {
+        "nspc_path": "MMC_Server/Unsealing_the_Master_Sword.nspc",
+        "spc_path": "MMC_Server/Unsealing_the_Master_Sword.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    },
+    "Meeting the Maidens": {
+        "nspc_path": "MMC_Server/Meeting_the_Maidens.nspc",
+        "spc_path": "MMC_Server/Meeting_the_Maidens.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    },
+    "The Goddess Appears": {
+        "nspc_path": "MMC_Server/The_Goddess_Appears.nspc",
+        "spc_path": "MMC_Server/The_Goddess_Appears.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    },
+    "Release of Ganon": {
+        "nspc_path": "MMC_Server/The_Prince_of_Darkness.nspc",
+        "spc_path": "MMC_Server/Release_of_Ganon.spc",
+        "track_index": 2,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    },
+    "Ganon's Message": {
+        "nspc_path": "MMC_Server/The_Prince_of_Darkness.nspc",
+        "spc_path": "MMC_Server/Ganon_s_Message.spc",
+        "track_index": 1,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    },
+    "The Prince of Darkness": {
+        "nspc_path": "MMC_Server/The_Prince_of_Darkness.nspc",
+        "spc_path": "MMC_Server/The_Prince_of_Darkness.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    },
+    "Power of the Gods": {
+        "nspc_path": "MMC_Server/Power_of_the_Gods___Staff_Roll.nspc",
+        "spc_path": "MMC_Server/Power_of_the_Gods.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    },
+    "Epilogue ~ Beautiful Hyrule": {
+        "nspc_path": "MMC_Server/Epilogue___Beautiful_Hyrule.nspc",
+        "spc_path": "MMC_Server/Epilogue___Beautiful_Hyrule.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    },
+    "Staff Roll (A Link to the Past)": {
+        "nspc_path": "MMC_Server/Power_of_the_Gods___Staff_Roll.nspc",
+        "spc_path": "MMC_Server/Staff_Roll__A_Link_to_the_Past_.spc",
+        "track_index": 1,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Zelda soundfont",
+        "group": "The Legend Of Zelda A Link To The Past"
+    },
+    "Title Demonstration": {
+        "nspc_path": "MMC_Server/Title_Demonstration.nspc",
+        "spc_path": "MMC_Server/Title_Demonstration.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
+    "Controls": {
+        "nspc_path": "MMC_Server/Controls.nspc",
+        "spc_path": "MMC_Server/Controls.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
+    "Course Map Select": {
+        "nspc_path": "MMC_Server/star_fox_6_in_1.nspc",
+        "spc_path": "MMC_Server/Course_Map_Select.spc",
+        "track_index": 1,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
+    "Boss (Corneria) (Short Intro)": {
+        "nspc_path": "MMC_Server/Boss__Corneria___Short_Intro_.nspc",
+        "spc_path": "MMC_Server/Boss__Corneria___Short_Intro_.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port with shortened intro",
+        "group": "Star Fox"
+    },
+    "Boss (Venom Base Short)": {
+        "nspc_path": "MMC_Server/Boss__Venom_Base_2_.nspc",
+        "spc_path": "MMC_Server/Boss__Venom_Base_Short_.spc",
+        "track_index": 1,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
+    "Player Down (Orchestra)": {
+        "nspc_path": "MMC_Server/Player_Down__Orchestra_.nspc",
+        "spc_path": "MMC_Server/Player_Down__Orchestra_.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
+    "Player Down (Band)": {
+        "nspc_path": "MMC_Server/Player_Down__Band_.nspc",
+        "spc_path": "MMC_Server/Player_Down__Band_.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
+    "Game Over (Star Fox)": {
+        "nspc_path": "MMC_Server/Game_Over__Star_Fox_.nspc",
+        "spc_path": "MMC_Server/Game_Over__Star_Fox_.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
+    "Continue (Star Fox)": {
+        "nspc_path": "MMC_Server/Continue__Star_Fox_.nspc",
+        "spc_path": "MMC_Server/Continue__Star_Fox_.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
+    "Course Clear (Orchestra)": {
+        "nspc_path": "MMC_Server/star_fox_6_in_1.nspc",
+        "spc_path": "MMC_Server/Course_Clear__Orchestra_.spc",
+        "track_index": 4,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
+    "Course Clear (Band)": {
+        "nspc_path": "MMC_Server/Course_Clear__Band_.nspc",
+        "spc_path": "MMC_Server/Course_Clear__Band_.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
+    "Last Boss Clear": {
+        "nspc_path": "MMC_Server/Boss__Last_Boss_Andross____Last_Boss_Clear.nspc",
+        "spc_path": "MMC_Server/Last_Boss_Clear.spc",
+        "track_index": 1,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
+    "Main Theme (Star Fox)": {
+        "nspc_path": "MMC_Server/Main_Theme__Star_Fox_.nspc",
+        "spc_path": "MMC_Server/Main_Theme__Star_Fox_.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port, samples are too big so it overwrites most common samples except those used in plasma beam sound, so that it fits in the credits",
+        "group": "Memory Violation"
+    },
+    "Out of this Dimension": {
+        "nspc_path": "MMC_Server/Out_of_this_Dimension___Slot_Machine.nspc",
+        "spc_path": "MMC_Server/Out_of_this_Dimension.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
+    "Slot Machine": {
+        "nspc_path": "MMC_Server/Out_of_this_Dimension___Slot_Machine.nspc",
+        "spc_path": "MMC_Server/Slot_Machine.spc",
+        "track_index": 1,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
+    "Black Hole (BGM)": {
+        "nspc_path": "MMC_Server/Black_Hole__BGM_.nspc",
+        "spc_path": "MMC_Server/Black_Hole__BGM_.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
+    "Black Hole (Map Select)": {
+        "nspc_path": "MMC_Server/star_fox_6_in_1.nspc",
+        "spc_path": "MMC_Server/Black_Hole__Map_Select_.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
+    "Training Mode": {
+        "nspc_path": "MMC_Server/Training_Mode.nspc",
+        "spc_path": "MMC_Server/Training_Mode.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
+    "Course Clear (Out of This Dimension)": {
+        "nspc_path": "MMC_Server/Out_of_this_Dimension___Slot_Machine.nspc",
+        "spc_path": "MMC_Server/Course_Clear__Out_of_This_Dimension_.spc",
+        "track_index": 2,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
+    "Briefing": {
+        "nspc_path": "MMC_Server/star_fox_6_in_1.nspc",
+        "spc_path": "MMC_Server/Briefing.spc",
+        "track_index": 2,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
+    "Briefing (Fast Opening)": {
+        "nspc_path": "MMC_Server/star_fox_6_in_1.nspc",
+        "spc_path": "MMC_Server/Briefing__Fast_Opening_.spc",
+        "track_index": 3,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
+    "Battle Against a Weak Opponent": {
+        "nspc_path": "MMC_Server/Battle_Against_a_Weak_Opponent.nspc",
+        "spc_path": "MMC_Server/Battle_Against_a_Weak_Opponent.spc",
+        "track_index": 0,
+        "original_author": "Akio Ohmori, Ritsuo Kamimura, Keiichi Suzuki, Hirokazu Tanaka",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "EarthBound / Mother 2"
+    },
+    "Beasts as Black as Night": {
+        "nspc_path": "MMC_Server/Beasts_as_Black_as_Night.nspc",
+        "spc_path": "MMC_Server/Beasts_as_Black_as_Night.spc",
+        "track_index": 0,
+        "original_author": "Michiharu Hasuya, Masaaki Harada, Osamu Kasai",
+        "port_author": "H A M",
+        "description": "Inexact port",
+        "group": "Ys III: Wanderers from Ys"
+    },
+    "Shock of the Death God": {
+        "nspc_path": "MMC_Server/Shock_of_the_Death_God.nspc",
+        "spc_path": "MMC_Server/Shock_of_the_Death_God.spc",
+        "track_index": 0,
+        "original_author": "Michiharu Hasuya, Masaaki Harada, Osamu Kasai",
+        "port_author": "H A M",
+        "description": "Inexact port",
+        "group": "Ys III: Wanderers from Ys"
+    },
+    "Behold!!": {
+        "nspc_path": "MMC_Server/Behold__.nspc",
+        "spc_path": "MMC_Server/Behold__.spc",
+        "track_index": 0,
+        "original_author": "Michiharu Hasuya, Masaaki Harada, Osamu Kasai",
+        "port_author": "H A M",
+        "description": "Inexact port",
+        "group": "Ys III: Wanderers from Ys"
+    },
+    "The Strongest Foe (Overwrites Common Samples)": {
+        "nspc_path": "MMC_Server/The_Strongest_Foe__Overwrites_Common_Samples_.nspc",
+        "spc_path": "MMC_Server/The_Strongest_Foe__Overwrites_Common_Samples_.spc",
+        "track_index": 0,
+        "original_author": "Michiharu Hasuya, Masaaki Harada, Osamu Kasai",
+        "port_author": "H A M",
+        "description": "Inexact port, one sample is too big so it overwrites common samples",
+        "group": "Memory Violation"
+    },
+    "Yoshi's Island": {
+        "nspc_path": "MMC_Server/Yoshi_s_Island.nspc",
+        "spc_path": "MMC_Server/Yoshi_s_Island.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Port from Yoshi's Island, samples are too big so it overwrites common samples",
+        "group": "Memory Violation"
+    },
+    "Flower Garden": {
+        "nspc_path": "MMC_Server/Flower_Garden.nspc",
+        "spc_path": "MMC_Server/Flower_Garden.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Port from Yoshi's Island",
+        "group": "Super Mario"
+    },
+    "Goal (Yoshi's Island)": {
+        "nspc_path": "MMC_Server/Mini-Boss__Yoshi_s_Island_.nspc",
+        "spc_path": "MMC_Server/Goal__Yoshi_s_Island_.spc",
+        "track_index": 2,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Port from Yoshi's Island",
+        "group": "Super Mario"
+    },
+    "Underground (Yoshi's Island)": {
+        "nspc_path": "MMC_Server/Underground__Yoshi_s_Island_.nspc",
+        "spc_path": "MMC_Server/Underground__Yoshi_s_Island_.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Port from Yoshi's Island",
+        "group": "Super Mario"
+    },
+    "Castle & Fortress": {
+        "nspc_path": "MMC_Server/Castle___Fortress.nspc",
+        "spc_path": "MMC_Server/Castle___Fortress.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Port from Yoshi's Island",
+        "group": "Super Mario"
+    },
+    "Kamek's Theme": {
+        "nspc_path": "MMC_Server/Mini-Boss__Yoshi_s_Island_.nspc",
+        "spc_path": "MMC_Server/Kamek_s_Theme.spc",
+        "track_index": 1,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Port from Yoshi's Island",
+        "group": "Super Mario"
+    },
+    "Mini-Boss (Yoshi's Island)": {
+        "nspc_path": "MMC_Server/Mini-Boss__Yoshi_s_Island_.nspc",
+        "spc_path": "MMC_Server/Mini-Boss__Yoshi_s_Island_.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Port from Yoshi's Island",
+        "group": "Super Mario"
+    },
+    "Athletic (Yoshi's Island)": {
+        "nspc_path": "MMC_Server/Athletic__Yoshi_s_Island_.nspc",
+        "spc_path": "MMC_Server/Athletic__Yoshi_s_Island_.spc",
+        "track_index": 0,
+        "original_author": "Koji Kondo",
+        "port_author": "H A M",
+        "description": "Port from Yoshi's Island",
+        "group": "Super Mario"
+    },
+    "Opening (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Opening__Star_Fox_2_.nspc",
+        "spc_path": "MMC_Server/Opening__Star_Fox_2_.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Cutscene (Back to Base)": {
+        "nspc_path": "MMC_Server/Opening__Star_Fox_2_.nspc",
+        "spc_path": "MMC_Server/Cutscene__Back_to_Base_.spc",
+        "track_index": 4,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Title (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Opening__Star_Fox_2_.nspc",
+        "spc_path": "MMC_Server/Title__Star_Fox_2_.spc",
+        "track_index": 1,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Records (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Select_Menu__Star_Fox_2_.nspc",
+        "spc_path": "MMC_Server/Records__Star_Fox_2_.spc",
+        "track_index": 2,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Cutscene (Danger)": {
+        "nspc_path": "MMC_Server/Opening__Star_Fox_2_.nspc",
+        "spc_path": "MMC_Server/Cutscene__Danger_.spc",
+        "track_index": 2,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Star Map Introduction": {
+        "nspc_path": "MMC_Server/Star_Map_Select.nspc",
+        "spc_path": "MMC_Server/Star_Map_Introduction.spc",
+        "track_index": 4,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Select Menu (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Select_Menu__Star_Fox_2_.nspc",
+        "spc_path": "MMC_Server/Select_Menu__Star_Fox_2_.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Arwings' Takeoff": {
+        "nspc_path": "MMC_Server/Select_Menu__Star_Fox_2_.nspc",
+        "spc_path": "MMC_Server/Arwings__Takeoff.spc",
+        "track_index": 1,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Cutscene (Release)": {
+        "nspc_path": "MMC_Server/Opening__Star_Fox_2_.nspc",
+        "spc_path": "MMC_Server/Cutscene__Release_.spc",
+        "track_index": 3,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Star Map Select": {
+        "nspc_path": "MMC_Server/Star_Map_Select.nspc",
+        "spc_path": "MMC_Server/Star_Map_Select.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Target Description": {
+        "nspc_path": "MMC_Server/Target_Description.nspc",
+        "spc_path": "MMC_Server/Target_Description.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Venom (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Venom__Star_Fox_2_.nspc",
+        "spc_path": "MMC_Server/Venom__Star_Fox_2_.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Venom Inside (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Venom__Star_Fox_2_.nspc",
+        "spc_path": "MMC_Server/Venom_Inside__Star_Fox_2_.spc",
+        "track_index": 1,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Taitania": {
+        "nspc_path": "MMC_Server/Taitania.nspc",
+        "spc_path": "MMC_Server/Taitania.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Taitania Inside": {
+        "nspc_path": "MMC_Server/Taitania.nspc",
+        "spc_path": "MMC_Server/Taitania_Inside.spc",
+        "track_index": 1,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Macbeth (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Macbeth__Star_Fox_2_.nspc",
+        "spc_path": "MMC_Server/Macbeth__Star_Fox_2_.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Macbeth Inside (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Macbeth__Star_Fox_2_.nspc",
+        "spc_path": "MMC_Server/Macbeth_Inside__Star_Fox_2_.spc",
+        "track_index": 1,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Eladard": {
+        "nspc_path": "MMC_Server/Eladard.nspc",
+        "spc_path": "MMC_Server/Eladard.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Eladard Inside": {
+        "nspc_path": "MMC_Server/Eladard.nspc",
+        "spc_path": "MMC_Server/Eladard_Inside.spc",
+        "track_index": 1,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Meteor (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Meteor__Star_Fox_2_.nspc",
+        "spc_path": "MMC_Server/Meteor__Star_Fox_2_.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Meteor Inside (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Meteor__Star_Fox_2_.nspc",
+        "spc_path": "MMC_Server/Meteor_Inside__Star_Fox_2_.spc",
+        "track_index": 1,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Fortuna (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Fortuna__Star_Fox_2_.nspc",
+        "spc_path": "MMC_Server/Fortuna__Star_Fox_2_.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Fortuna Inside (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Fortuna__Star_Fox_2_.nspc",
+        "spc_path": "MMC_Server/Fortuna_Inside__Star_Fox_2_.spc",
+        "track_index": 1,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Flotilla Battle": {
+        "nspc_path": "MMC_Server/Flotilla_Battle.nspc",
+        "spc_path": "MMC_Server/Flotilla_Battle.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Flotilla Battle (Extended)": {
+        "nspc_path": "MMC_Server/Flotilla_Battle_Extended_a_little.nspc",
+        "spc_path": "MMC_Server/Flotilla_Battle_Extended_a_little.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port including an unused section, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Surprise Attack": {
+        "nspc_path": "MMC_Server/Surprise_Attack.nspc",
+        "spc_path": "MMC_Server/Surprise_Attack.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Enemy out of Range": {
+        "nspc_path": "MMC_Server/Flotilla_Battle.nspc",
+        "spc_path": "MMC_Server/Enemy_out_of_Range.spc",
+        "track_index": 2,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Flotilla Destroyed": {
+        "nspc_path": "MMC_Server/Flotilla_Battle.nspc",
+        "spc_path": "MMC_Server/Flotilla_Destroyed.spc",
+        "track_index": 1,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Missiles": {
+        "nspc_path": "MMC_Server/Missiles.nspc",
+        "spc_path": "MMC_Server/Missiles.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Missiles Destroyed": {
+        "nspc_path": "MMC_Server/Missiles.nspc",
+        "spc_path": "MMC_Server/Missiles_Destroyed.spc",
+        "track_index": 1,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Battleship": {
+        "nspc_path": "MMC_Server/Battleship.nspc",
+        "spc_path": "MMC_Server/Battleship.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Inside of the Battleship": {
+        "nspc_path": "MMC_Server/Battleship.nspc",
+        "spc_path": "MMC_Server/Inside_of_the_Battleship.spc",
+        "track_index": 1,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Battleship Boss Battle": {
+        "nspc_path": "MMC_Server/Battleship_Boss_Battle.nspc",
+        "spc_path": "MMC_Server/Battleship_Boss_Battle.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Battleship Destroyed": {
+        "nspc_path": "MMC_Server/Battleship_Boss_Battle.nspc",
+        "spc_path": "MMC_Server/Battleship_Destroyed.spc",
+        "track_index": 1,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Cutscene (Andross Summons a Boss)": {
+        "nspc_path": "MMC_Server/Star_Map_Select.nspc",
+        "spc_path": "MMC_Server/Cutscene__Andross_Summons_a_Boss_.spc",
+        "track_index": 3,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Battle against a Space Boss": {
+        "nspc_path": "MMC_Server/Battle_against_a_Space_Boss.nspc",
+        "spc_path": "MMC_Server/Battle_against_a_Space_Boss.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Save the Infected Satellite": {
+        "nspc_path": "MMC_Server/Save_the_Infected_Satellite.nspc",
+        "spc_path": "MMC_Server/Save_the_Infected_Satellite.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Space Station": {
+        "nspc_path": "MMC_Server/Space_Station.nspc",
+        "spc_path": "MMC_Server/Space_Station.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Boss (Space Armada) Remix": {
+        "nspc_path": "MMC_Server/Boss__Space_Armada__Remix.nspc",
+        "spc_path": "MMC_Server/Boss__Space_Armada__Remix.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa, Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Entering Dangerous Territory Remix": {
+        "nspc_path": "MMC_Server/Boss__Space_Armada__Remix.nspc",
+        "spc_path": "MMC_Server/Entering_Dangerous_Territory_Remix.spc",
+        "track_index": 1,
+        "original_author": "Hajime Hirasawa, Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Andross (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Andross__Star_Fox_2_.nspc",
+        "spc_path": "MMC_Server/Andross__Star_Fox_2_.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Staff Roll (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Staff_Roll__Star_Fox_2_.nspc",
+        "spc_path": "MMC_Server/Staff_Roll__Star_Fox_2_.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Unused Battle (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Star_Map_Select.nspc",
+        "spc_path": "MMC_Server/Unused_Battle__Star_Fox_2_.spc",
+        "track_index": 1,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Unused Battle (Star Fox 2) (faster)": {
+        "nspc_path": "MMC_Server/Star_Map_Select.nspc",
+        "spc_path": "MMC_Server/Unused_Battle__Star_Fox_2___faster_.spc",
+        "track_index": 2,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Unused Battle 2 (Star Fox 2)": {
+        "nspc_path": "MMC_Server/Star_Map_Select.nspc",
+        "spc_path": "MMC_Server/Unused_Battle_2__Star_Fox_2_.spc",
+        "track_index": 5,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Port, but uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
+    },
+    "Unused Beta": {
+        "nspc_path": "MMC_Server/Unused_Beta.nspc",
+        "spc_path": "MMC_Server/Unused_Beta.spc",
+        "track_index": 0,
+        "original_author": "Kozue Ishikawa, Yumiko Kanki",
+        "port_author": "H A M",
+        "description": "Inexact port from the April 15, 1994 build because the echo buffer of the original is too big, and it uses a different note length table, hence why common songs are different while this song is loaded",
+        "group": "Star Fox 2"
     }
 }

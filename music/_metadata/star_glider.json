@@ -1,0 +1,56 @@
+{
+    "Star Glider - Course Map Select": {
+        "nspc_path": "Star_Glider_OST/map.nspc",
+        "spc_path": "Star_Glider_OST/map.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port from a prototype of Star Fox",
+        "group": "Star Glider Prototype"
+    },
+    "Star Glider - Stage Type 1": {
+        "nspc_path": "Star_Glider_OST/stage_type_1.nspc",
+        "spc_path": "Star_Glider_OST/stage_type_1.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port from a prototype of Star Fox",
+        "group": "Star Glider Prototype"
+    },
+    "Star Glider - Stage Type 2": {
+        "nspc_path": "Star_Glider_OST/stage_type_2.nspc",
+        "spc_path": "Star_Glider_OST/stage_type_2.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port from a prototype of Star Fox",
+        "group": "Star Glider Prototype"
+    },
+    "Star Glider - Stage Type 3": {
+        "nspc_path": "Star_Glider_OST/stage_type_3.nspc",
+        "spc_path": "Star_Glider_OST/stage_type_3.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port from a prototype of Star Fox",
+        "group": "Star Glider Prototype"
+    },
+    "Star Glider - Boss": {
+        "nspc_path": "Star_Glider_OST/boss.nspc",
+        "spc_path": "Star_Glider_OST/boss.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port from a prototype of Star Fox",
+        "group": "Star Glider Prototype"
+    },
+    "Star Glider - Course Clear": {
+        "nspc_path": "Star_Glider_OST/victory.nspc",
+        "spc_path": "Star_Glider_OST/victory.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port from a prototype of Star Fox",
+        "group": "Star Glider Prototype"
+    }
+}

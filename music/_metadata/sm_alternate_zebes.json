@@ -7,6 +7,14 @@
         "description": "Alternate take on Super Metroid soudtrack",
         "spc_path": "SM_Alternate_Zebes/AlternateZebes_BossFight1.spc"
     },
+    "AlternateZebes_TorizoTension": {
+        "nspc_path": "SM_Alternate_Zebes/AlternateZebes_BossFight1.bin",
+        "track_index": 1,
+        "original_author": "Minako Hamano",
+        "port_author": "Metaquarius",
+        "description": "Alternate take on Super Metroid soudtrack",
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_TorizoTension.spc"
+    },
     "AlternateZebes_Credits": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_Credits.bin",
         "track_index": 0,
@@ -22,6 +30,14 @@
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
         "spc_path": "SM_Alternate_Zebes/AlternateZebes_EmptyCrateria.spc"
+    },
+    "AlternateZebes_Escape": {
+        "nspc_path": "SM_Alternate_Zebes/AlternateZebes_BossFight1.bin",
+        "track_index": 2,
+        "original_author": "Minako Hamano",
+        "port_author": "Metaquarius",
+        "description": "Alternate take on Super Metroid soudtrack",
+        "spc_path": "SM_Alternate_Zebes/AlternateZebes_Escape.spc"
     },
     "AlternateZebes_GreenBrinstar": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_GreenBrinstar.bin",
@@ -127,10 +143,17 @@
         "description": "Alternate take on Super Metroid soudtrack",
         "spc_path": "SM_Alternate_Zebes/AlternateZebes_UpperNorfair.spc"
     },
-    "AlternateZebes_WreckedShip": {
+    "AlternateZebes_WreckedShip - Power off": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_WreckedShip.bin",
         "track_index": 0,
-        "original_author": "Kenji Yamamoto",
+        "original_author": "Minako Hamano",
+        "port_author": "Metaquarius",
+        "description": "Alternate take on Super Metroid soudtrack"
+    },
+    "AlternateZebes_WreckedShip - Power on": {
+        "nspc_path": "SM_Alternate_Zebes/AlternateZebes_WreckedShip.bin",
+        "track_index": 1,
+        "original_author": "Minako Hamano",
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
         "spc_path": "SM_Alternate_Zebes/AlternateZebes_WreckedShip.spc"
