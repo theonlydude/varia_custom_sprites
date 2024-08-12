@@ -2,7 +2,7 @@
     "AlternateZebes_BossFight1": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_BossFight1.bin",
         "track_index": 0,
-        "original_author": "Kenji Yamamoto",
+        "original_author": "Minako Hamano",
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
         "spc_path": "SM_Alternate_Zebes/AlternateZebes_BossFight1.spc"
@@ -18,7 +18,7 @@
     "AlternateZebes_Credits": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_Credits.bin",
         "track_index": 0,
-        "original_author": "Kenji Yamamoto",
+        "original_author": "Minako Hamano",
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
         "spc_path": "SM_Alternate_Zebes/AlternateZebes_Credits.spc"
@@ -66,7 +66,7 @@
     "AlternateZebes_EastMaridia": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_Maridia.bin",
         "track_index": 0,
-        "original_author": "Kenji Yamamoto",
+        "original_author": "Minako Hamano",
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
         "spc_path": "SM_Alternate_Zebes/AlternateZebes_Maridia1.spc"
@@ -74,7 +74,7 @@
     "AlternateZebes_WestMaridia": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_Maridia.bin",
         "track_index": 1,
-        "original_author": "Kenji Yamamoto",
+        "original_author": "Minako Hamano",
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
         "spc_path": "SM_Alternate_Zebes/AlternateZebes_Maridia2.spc"
@@ -82,7 +82,7 @@
     "AlternateZebes_MiniBossFight": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_MiniBossFight.bin",
         "track_index": 0,
-        "original_author": "Kenji Yamamoto",
+        "original_author": "Minako Hamano",
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
         "spc_path": "SM_Alternate_Zebes/AlternateZebes_MiniBossFight.spc"
@@ -90,7 +90,7 @@
     "AlternateZebes_MotherBrain": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_MotherBrain.bin",
         "track_index": 0,
-        "original_author": "Kenji Yamamoto",
+        "original_author": "Minako Hamano",
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
         "spc_path": "SM_Alternate_Zebes/AlternateZebes_MotherBrain.spc"
@@ -130,7 +130,7 @@
     "AlternateZebes_Tourian": {
         "nspc_path": "SM_Alternate_Zebes/AlternateZebes_Tourian.bin",
         "track_index": 0,
-        "original_author": "Kenji Yamamoto",
+        "original_author": "Minako Hamano",
         "port_author": "Metaquarius",
         "description": "Alternate take on Super Metroid soudtrack",
         "spc_path": "SM_Alternate_Zebes/AlternateZebes_Tourian.spc"

@@ -28,10 +28,10 @@
     "Into_the_jungle_project_Ver4.2": {
         "nspc_path": "SMFTP/Into_the_jungle_project_Ver4.2.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "kottpower",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
-        "spc_path": ""
+        "spc_path": "SMFTP/Into_the_jungle_project_Ver4.2.spc"
     },
     "Let_it_snow-Xmas_song": {
         "nspc_path": "SMFTP/Let_it_snow-Xmas_song.nspc",
@@ -61,10 +61,10 @@
     "Phantoons_Curse_II_v4": {
         "nspc_path": "SMFTP/Phantoons_Curse_II_v4.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "kottpower",
         "port_author": "SUPERMETROIDFTP",
         "description": "Music found on metconst, by SUPERMETROIDFTP",
-        "spc_path": ""
+        "spc_path": "SMFTP/Phantoon_s_Curse_II_v4.spc"
     },
     "Research Facility": {
         "nspc_path": "SMFTP/Research_Facility.nspc",

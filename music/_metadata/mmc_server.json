@@ -66,7 +66,7 @@
         "track_index": 0,
         "original_author": "Masahiko Kimura and Albert V",
         "port_author": "Albert V",
-        "description": "Version 1.1 (2019) Arrangement by Albert V",
+        "description": "Version 1.1 (2019) Arrangement by Albert V, from Castlevania 64",
         "group": "Clocktober Hack",
         "spc_path": "MMC_Server/Chase_Maze_Clocktober_Hack_v1.1.spc"
     },
@@ -75,7 +75,7 @@
         "track_index": 0,
         "original_author": "David Wise and Albert V",
         "port_author": "Albert V",
-        "description": "Version 1.0",
+        "description": "Version 1.0 from Donkey Kong Country",
         "group": "Albert V Arrangement",
         "spc_path": "MMC_Server/Choirs_of_the_Temple_v1.0.spc"
     },
@@ -93,7 +93,7 @@
         "track_index": 0,
         "original_author": "Michiru Yamane",
         "port_author": "Albert V",
-        "description": "Version 1.0 Old (2019) Arrangement by Albert V",
+        "description": "Version 1.0 Old (2019) Arrangement by Albert V, from Castlevania Aria of Sorrow",
         "group": "Clocktober Hack",
         "spc_path": "MMC_Server/Clocktober_-_Castle_Corridor_v1.0.spc"
     },
@@ -118,8 +118,8 @@
     "Underwater Torvus": {
         "nspc_path": "MMC_Server/Custom_Underwater_Torvus_2019.nspc",
         "track_index": 0,
-        "original_author": "Kenji Yamamoto And Albert V",
-        "port_author": "Albert V",
+        "original_author": "Kenji Yamamoto",
+        "port_author": "SUPERMETROIDFTP and Albert V",
         "description": "Version 1.0 old (2019)",
         "group": "Metroid Prime 2",
         "spc_path": "MMC_Server/Custom_Underwater_Torvus_2019.spc"
@@ -172,7 +172,7 @@
     "Dire Dire Docks (Custom)": {
         "nspc_path": "MMC_Server/Super_Mario_64_-_Dire_Dire_Docks_v1.4.nspc",
         "track_index": 0,
-        "original_author": "Kōji Kondō",
+        "original_author": "Koji Kondo",
         "port_author": "Albert V",
         "description": "Version 1.4",
         "group": "Super Mario 64",
@@ -400,7 +400,7 @@
     "Lethal Lava Land": {
         "nspc_path": "MMC_Server/Lethal_Lava_Land.nspc",
         "track_index": 0,
-        "original_author": "Kōji Kondō",
+        "original_author": "Koji Kondo",
         "port_author": "Albert V",
         "description": "Version 1.0, I had to removed one intrument cuz of some limitations so does not sound the same :/",
         "group": "Super Mario 64",
@@ -772,7 +772,7 @@
         "original_author": "Akihiro Minakata",
         "port_author": "Albert V",
         "description": "Version 1.1",
-        "group": "Castlevania Circle of the Moon",
+        "group": "Castlevania Aria of Sorrow",
         "spc_path": "MMC_Server/Underground_Reservoir_v1.1.spc"
     },
     "Vampire Killer (Custom)": {
@@ -851,8 +851,8 @@
         "track_index": 0,
         "original_author": "David Wise",
         "port_author": "Albert V",
-        "description": "Donkey Kong - Version 1.0 this song overwrites the sfx, so is better to use it for endings or intros",
-        "group": "Memory Violation",
+        "description": "Donkey Kong - Version 1.0",
+        "group": "Albert V Arrangement",
         "spc_path": "MMC_Server/Water_World_v1.0.spc"
     },
     "Zeros Theme": {
@@ -993,7 +993,7 @@
         "track_index": 0,
         "original_author": "?",
         "port_author": "Albert V",
-        "description": "?",
+        "description": "From Castlevania Aria of Sorrow",
         "group": "Albert V Arrangement",
         "spc_path": "MMC_Server/SM_Custom_Dance_Hall_v1.1.spc"
     },
@@ -1097,13 +1097,13 @@
         "spc_path": "MMC_Server/Caves_of_Maridia_v1.0.spc"
     },
     "Black Mist (normal)": {
-        "nspc_path": "MMC_Server/Black_Mist_Storm.nspc",
+        "nspc_path": "MMC_Server/Black_Mist.nspc",
         "track_index": 0,
         "original_author": "Koji Kondo",
-        "port_author": "Albert V",
+        "port_author": "H A M",
         "description": "Zelda soundfont",
         "group": "The Legend Of Zelda A Link To The Past",
-        "spc_path": "MMC_Server/Black_Mist_Storm.spc"
+        "spc_path": "MMC_Server/Black_Mist.spc"
     },
     "Black Mist (SM)": {
         "nspc_path": "MMC_Server/Black_Mist_SM.nspc",
@@ -1565,9 +1565,9 @@
         "group": "Star Fox"
     },
     "Entering Dangerous Territory (Duplicate)": {
-        "nspc_path": "MMC_Server/Boss_Last_Boss_Andross.nspc",
-        "spc_path": "MMC_Server/Entering_Dangerous_Territory_Duplicate.spc",
-        "track_index": 1,
+        "nspc_path": "MMC_Server/Boss__Last_Boss_Andross____Last_Boss_Clear.nspc",
+        "spc_path": "MMC_Server/Entering_Dangerous_Territory__Duplicate_.spc",
+        "track_index": 2,
         "original_author": "Hajime Hirasawa",
         "port_author": "H A M",
         "description": "Port",
