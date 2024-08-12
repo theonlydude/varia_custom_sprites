@@ -485,7 +485,7 @@
             22339
         ]
     },
-    "MMC_Server/Castlevania_Demon_Salesman_Renons_theme_SM.nspc": {
+    "MMC_Server/Castlevania_-_Demon_Salesman__Renon_s_theme__SM.nspc": {
         "md5sum": "df3f42f5fdb02caaa83bdcedeab06b99",
         "block_headers_offsets": [
             0,
@@ -2448,6 +2448,703 @@
             3831
         ]
     },
+    "MMC_Server/Barren_Land.nspc": {
+        "md5sum": "06b920526301c59dcb06273f0ed6ba74",
+        "block_headers_offsets": [
+            0,
+            32,
+            3609,
+            3655,
+            4762
+        ]
+    },
+    "MMC_Server/SMB3_Athletic.nspc": {
+        "md5sum": "eed81c76b3bd4d2cd7a24d303f20785a",
+        "block_headers_offsets": [
+            0,
+            48,
+            7963,
+            8033,
+            9214
+        ]
+    },
+    "MMC_Server/Beginning_of_the_Journey.nspc": {
+        "md5sum": "fddb87439eb9df149c10c67d55f437f4",
+        "block_headers_offsets": [
+            0,
+            8,
+            498,
+            508,
+            1035
+        ]
+    },
+    "MMC_Server/Princess_Zeldas_Rescue_ALTTP.nspc": {
+        "md5sum": "95564fe1f19aa9437a9a2a6321d0d739",
+        "block_headers_offsets": [
+            0,
+            7348,
+            7364,
+            7386,
+            7392,
+            9408,
+            9414,
+            9423,
+            9445
+        ]
+    },
+    "MMC_Server/Guessing-Game_House.nspc": {
+        "md5sum": "7bad6354b84353f45a00ebfaa883be0f",
+        "block_headers_offsets": [
+            0,
+            20,
+            7755,
+            7783,
+            8269
+        ]
+    },
+    "MMC_Server/Fortune_Teller.nspc": {
+        "md5sum": "3f3b8ba936c0899576fc8979beafeb40",
+        "block_headers_offsets": [
+            0,
+            12,
+            718,
+            734,
+            1045
+        ]
+    },
+    "MMC_Server/Dimensional_Shift.nspc": {
+        "md5sum": "4b36444d0027c44d3119df976e0adc6f",
+        "block_headers_offsets": [
+            0,
+            24,
+            6085,
+            6119,
+            6473
+        ]
+    },
+    "MMC_Server/Unsealing_the_Master_Sword.nspc": {
+        "md5sum": "554e9c037352a4d87c262e141636d254",
+        "block_headers_offsets": [
+            0,
+            12,
+            3958,
+            3974,
+            4207
+        ]
+    },
+    "MMC_Server/Meeting_the_Maidens.nspc": {
+        "md5sum": "0678d5c86ecf58e7119311c6b51dba23",
+        "block_headers_offsets": [
+            0,
+            12,
+            3688,
+            3704,
+            4613
+        ]
+    },
+    "MMC_Server/The_Goddess_Appears.nspc": {
+        "md5sum": "a2e0bda8e7224ca5ef40e4bfc8e130e5",
+        "block_headers_offsets": [
+            0,
+            8,
+            498,
+            508,
+            1121
+        ]
+    },
+    "MMC_Server/The_Prince_of_Darkness.nspc": {
+        "md5sum": "105fb99127f1ad028abb4e8e8be0e84a",
+        "block_headers_offsets": [
+            0,
+            28,
+            14612,
+            14652,
+            16233
+        ]
+    },
+    "MMC_Server/Power_of_the_Gods___Staff_Roll.nspc": {
+        "md5sum": "1b72f10cb4c6569d578add4526d92467",
+        "block_headers_offsets": [
+            0,
+            36,
+            14008,
+            14060,
+            18188
+        ]
+    },
+    "MMC_Server/Epilogue___Beautiful_Hyrule.nspc": {
+        "md5sum": "9f47fa3eeff84c44cc568668c9c6b6f9",
+        "block_headers_offsets": [
+            0,
+            40,
+            17009,
+            17067,
+            21225
+        ]
+    },
+    "MMC_Server/Title_Demonstration.nspc": {
+        "md5sum": "d057062505e0f35473ccde0bc19d54f8",
+        "block_headers_offsets": [
+            0,
+            28,
+            11471,
+            11511,
+            12627
+        ]
+    },
+    "MMC_Server/Controls.nspc": {
+        "md5sum": "151ccffbef607305afc2419c2e6595a7",
+        "block_headers_offsets": [
+            0,
+            16,
+            1001,
+            1023,
+            1821
+        ]
+    },
+    "MMC_Server/star_fox_6_in_1.nspc": {
+        "md5sum": "9be73b90c1a948080dc9a1f6f3e34fc8",
+        "block_headers_offsets": [
+            0,
+            60,
+            14122,
+            14210,
+            16906
+        ]
+    },
+    "MMC_Server/Boss__Corneria___Short_Intro_.nspc": {
+        "md5sum": "09a37fe727a9c1c974c5491f0ea710c6",
+        "block_headers_offsets": [
+            0,
+            40,
+            6524,
+            6582,
+            8024
+        ]
+    },
+    "MMC_Server/Boss__Venom_Base_2_.nspc": {
+        "md5sum": "8c20fc037d6d2ee062166f15fbffc969",
+        "block_headers_offsets": [
+            0,
+            28,
+            9095,
+            9135,
+            10143
+        ]
+    },
+    "MMC_Server/Player_Down__Orchestra_.nspc": {
+        "md5sum": "cbc3fbd458255a8f19582d37398b090a",
+        "block_headers_offsets": [
+            0,
+            16,
+            8237,
+            8259,
+            8471
+        ]
+    },
+    "MMC_Server/Player_Down__Band_.nspc": {
+        "md5sum": "761997fa8b1ba5275080ed7894d232a8",
+        "block_headers_offsets": [
+            0,
+            16,
+            3260,
+            3282,
+            3530
+        ]
+    },
+    "MMC_Server/Game_Over__Star_Fox_.nspc": {
+        "md5sum": "e67f3a63ad910df2b5aa8997a7e6f848",
+        "block_headers_offsets": [
+            0,
+            20,
+            2382,
+            2410,
+            2689
+        ]
+    },
+    "MMC_Server/Continue__Star_Fox_.nspc": {
+        "md5sum": "148620905c0e52b05b0aa6c0edd11937",
+        "block_headers_offsets": [
+            0,
+            8,
+            885,
+            895,
+            1133
+        ]
+    },
+    "MMC_Server/Course_Clear__Band_.nspc": {
+        "md5sum": "ea6304f4d84770a82b93e856c6db2abd",
+        "block_headers_offsets": [
+            0,
+            40,
+            5750,
+            5808,
+            6788
+        ]
+    },
+    "MMC_Server/Boss__Last_Boss_Andross____Last_Boss_Clear.nspc": {
+        "md5sum": "a211fc43dc49bd4dfce052f4114d90ad",
+        "block_headers_offsets": [
+            0,
+            36,
+            10777,
+            10829,
+            12913
+        ]
+    },
+    "MMC_Server/Main_Theme__Star_Fox_.nspc": {
+        "md5sum": "47d4aa57eb62efcff327793f84f1bfce",
+        "block_headers_offsets": [
+            0,
+            68,
+            31200,
+            31300,
+            36373
+        ]
+    },
+    "MMC_Server/Out_of_this_Dimension___Slot_Machine.nspc": {
+        "md5sum": "f1cea9e54a13b3edae378e2530f7a7b0",
+        "block_headers_offsets": [
+            0,
+            8,
+            16,
+            96,
+            15142,
+            15152,
+            15162,
+            15280,
+            20342
+        ]
+    },
+    "MMC_Server/Black_Hole__BGM_.nspc": {
+        "md5sum": "b4a22c7514c30b9c0af5c26830840b8d",
+        "block_headers_offsets": [
+            0,
+            20,
+            4461,
+            4489,
+            4871
+        ]
+    },
+    "MMC_Server/Training_Mode.nspc": {
+        "md5sum": "2c00ede067cdab60af5444cb27052dd9",
+        "block_headers_offsets": [
+            0,
+            36,
+            6934,
+            6986,
+            8979
+        ]
+    },
+    "MMC_Server/Battle_Against_a_Weak_Opponent.nspc": {
+        "md5sum": "011fa9637038295299ca68c049125548",
+        "block_headers_offsets": [
+            0,
+            40,
+            16640,
+            16698,
+            18631
+        ]
+    },
+    "MMC_Server/Beasts_as_Black_as_Night.nspc": {
+        "md5sum": "8b9bfc4c0b3bb36210bf2b9d2c9e82ff",
+        "block_headers_offsets": [
+            0,
+            28,
+            15269,
+            15309,
+            16192
+        ]
+    },
+    "MMC_Server/Shock_of_the_Death_God.nspc": {
+        "md5sum": "0d400714d68e6c5ce9ee415b9ec4d8d4",
+        "block_headers_offsets": [
+            0,
+            36,
+            19030,
+            19082,
+            19900
+        ]
+    },
+    "MMC_Server/Behold__.nspc": {
+        "md5sum": "bf710f076ff02243a649f704dcc657e0",
+        "block_headers_offsets": [
+            0,
+            44,
+            18642,
+            18706,
+            19937
+        ]
+    },
+    "MMC_Server/The_Strongest_Foe__Overwrites_Common_Samples_.nspc": {
+        "md5sum": "59e1be718878c1f15c21c331a9886418",
+        "block_headers_offsets": [
+            0,
+            48,
+            22795,
+            22865,
+            26830
+        ]
+    },
+    "MMC_Server/Yoshi_s_Island.nspc": {
+        "md5sum": "4e70ce3755486a5b5e1cc199d05b354a",
+        "block_headers_offsets": [
+            0,
+            36,
+            30847,
+            30899,
+            33099
+        ]
+    },
+    "MMC_Server/Flower_Garden.nspc": {
+        "md5sum": "17f132776657c5f977953a947be4b0b3",
+        "block_headers_offsets": [
+            0,
+            36,
+            9715,
+            9767,
+            12798
+        ]
+    },
+    "MMC_Server/Mini-Boss__Yoshi_s_Island_.nspc": {
+        "md5sum": "3edfdb775bb47b804f5c161c24de0585",
+        "block_headers_offsets": [
+            0,
+            32,
+            7353,
+            7399,
+            10284
+        ]
+    },
+    "MMC_Server/Underground__Yoshi_s_Island_.nspc": {
+        "md5sum": "d6bb22ce7fe94996de82c6a63055893c",
+        "block_headers_offsets": [
+            0,
+            36,
+            9760,
+            9812,
+            11072
+        ]
+    },
+    "MMC_Server/Castle___Fortress.nspc": {
+        "md5sum": "5cbfcccd4316a612b5a49a98f8a0ec21",
+        "block_headers_offsets": [
+            0,
+            24,
+            7453,
+            7487,
+            8957
+        ]
+    },
+    "MMC_Server/Athletic__Yoshi_s_Island_.nspc": {
+        "md5sum": "9fc8f7ee0d139b4f929c6dde88950db3",
+        "block_headers_offsets": [
+            0,
+            24,
+            5896,
+            5930,
+            9083
+        ]
+    },
+    "MMC_Server/Opening__Star_Fox_2_.nspc": {
+        "md5sum": "6d090cf0a395c09f208b6eb9d9496bf4",
+        "block_headers_offsets": [
+            0,
+            36,
+            12190,
+            12242,
+            15933,
+            15961,
+            15970,
+            16015
+        ]
+    },
+    "MMC_Server/Select_Menu__Star_Fox_2_.nspc": {
+        "md5sum": "3c736b8a193927d6531baa302633348a",
+        "block_headers_offsets": [
+            0,
+            40,
+            5444,
+            5502,
+            7370,
+            7398,
+            7407,
+            7452
+        ]
+    },
+    "MMC_Server/Star_Map_Select.nspc": {
+        "md5sum": "01a758103d88b69811cf42232208d8cb",
+        "block_headers_offsets": [
+            0,
+            32,
+            11079,
+            11125,
+            14682,
+            14710,
+            14719,
+            14764
+        ]
+    },
+    "MMC_Server/Target_Description.nspc": {
+        "md5sum": "322c4918c7c4ec4ee90d205d2d37e29a",
+        "block_headers_offsets": [
+            0,
+            16,
+            2315,
+            2337,
+            2773,
+            2801,
+            2810,
+            2855
+        ]
+    },
+    "MMC_Server/Venom__Star_Fox_2_.nspc": {
+        "md5sum": "4840697234121a476970b408d1083c6a",
+        "block_headers_offsets": [
+            0,
+            56,
+            8304,
+            8386,
+            12742,
+            12770,
+            12779,
+            12824
+        ]
+    },
+    "MMC_Server/Taitania.nspc": {
+        "md5sum": "d6070e298e9d012ee72ac374dc9322a2",
+        "block_headers_offsets": [
+            0,
+            48,
+            7414,
+            7484,
+            10747,
+            10775,
+            10784,
+            10829
+        ]
+    },
+    "MMC_Server/Macbeth__Star_Fox_2_.nspc": {
+        "md5sum": "3380341f57011cafa09de10be309eb59",
+        "block_headers_offsets": [
+            0,
+            48,
+            8611,
+            8681,
+            11721,
+            11749,
+            11758,
+            11803
+        ]
+    },
+    "MMC_Server/Eladard.nspc": {
+        "md5sum": "e6b3feedeb8141076db2722c0bdf3c52",
+        "block_headers_offsets": [
+            0,
+            60,
+            10324,
+            10412,
+            14854,
+            14882,
+            14891,
+            14936
+        ]
+    },
+    "MMC_Server/Meteor__Star_Fox_2_.nspc": {
+        "md5sum": "e758c90c42c0051e0542b8d06a8f301d",
+        "block_headers_offsets": [
+            0,
+            56,
+            11562,
+            11644,
+            15081,
+            15109,
+            15118,
+            15163
+        ]
+    },
+    "MMC_Server/Fortuna__Star_Fox_2_.nspc": {
+        "md5sum": "f3c316f7c9517aaa8235abe9dba35923",
+        "block_headers_offsets": [
+            0,
+            32,
+            9153,
+            9199,
+            12034,
+            12062,
+            12071,
+            12116
+        ]
+    },
+    "MMC_Server/Flotilla_Battle.nspc": {
+        "md5sum": "f928b22ef854b3b36b9460ef9f96d896",
+        "block_headers_offsets": [
+            0,
+            36,
+            11137,
+            11189,
+            15364,
+            15392,
+            15401,
+            15446
+        ]
+    },
+    "MMC_Server/Flotilla_Battle_Extended_a_little.nspc": {
+        "md5sum": "d0983150100ae6ac76b3c990b6583826",
+        "block_headers_offsets": [
+            0,
+            36,
+            11137,
+            11189,
+            15366,
+            15394,
+            15403,
+            15448
+        ]
+    },
+    "MMC_Server/Surprise_Attack.nspc": {
+        "md5sum": "cb4715ba6e93d86dfe74e17d0046ce78",
+        "block_headers_offsets": [
+            0,
+            20,
+            8610,
+            8638,
+            10423,
+            10451,
+            10460,
+            10505
+        ]
+    },
+    "MMC_Server/Missiles.nspc": {
+        "md5sum": "b95bf7b21a7264c54f1ff47611884cfa",
+        "block_headers_offsets": [
+            0,
+            36,
+            11326,
+            11378,
+            14181,
+            14209,
+            14218,
+            14263
+        ]
+    },
+    "MMC_Server/Battleship.nspc": {
+        "md5sum": "2c97d0429239bc9fb735584f9a969443",
+        "block_headers_offsets": [
+            0,
+            36,
+            12163,
+            12215,
+            16542,
+            16570,
+            16579,
+            16624
+        ]
+    },
+    "MMC_Server/Battleship_Boss_Battle.nspc": {
+        "md5sum": "67fb00d969ea122b63746a3d2ccca555",
+        "block_headers_offsets": [
+            0,
+            32,
+            12690,
+            12736,
+            13968,
+            13996,
+            14005,
+            14050
+        ]
+    },
+    "MMC_Server/Battle_against_a_Space_Boss.nspc": {
+        "md5sum": "aba6449fbd890835a1b774dda3a3277d",
+        "block_headers_offsets": [
+            0,
+            40,
+            11276,
+            11334,
+            13794,
+            13822,
+            13831,
+            13876
+        ]
+    },
+    "MMC_Server/Save_the_Infected_Satellite.nspc": {
+        "md5sum": "04c4bfd2d465064a7c946da5a5195b4f",
+        "block_headers_offsets": [
+            0,
+            32,
+            11160,
+            11206,
+            12241,
+            12269,
+            12278,
+            12323
+        ]
+    },
+    "MMC_Server/Space_Station.nspc": {
+        "md5sum": "a5270cf52a66a62069d85fac7c987e5e",
+        "block_headers_offsets": [
+            0,
+            28,
+            10994,
+            11034,
+            13948,
+            13976,
+            13985,
+            14030
+        ]
+    },
+    "MMC_Server/Boss__Space_Armada__Remix.nspc": {
+        "md5sum": "92dde8d65714d343a300a27eed029756",
+        "block_headers_offsets": [
+            0,
+            40,
+            12194,
+            12252,
+            13646,
+            13674,
+            13683,
+            13728
+        ]
+    },
+    "MMC_Server/Andross__Star_Fox_2_.nspc": {
+        "md5sum": "d1e0d2017eb177ad803243979df05bf6",
+        "block_headers_offsets": [
+            0,
+            32,
+            9900,
+            9946,
+            11248,
+            11276,
+            11285,
+            11330
+        ]
+    },
+    "MMC_Server/Staff_Roll__Star_Fox_2_.nspc": {
+        "md5sum": "cd27b43721f59a36ecb62638eeb2392f",
+        "block_headers_offsets": [
+            0,
+            44,
+            16639,
+            16703,
+            21783,
+            21811,
+            21820,
+            21865
+        ]
+    },
+    "MMC_Server/Unused_Beta.nspc": {
+        "md5sum": "9c2feebdf27947048df4fe4f6ab38b14",
+        "block_headers_offsets": [
+            0,
+            40,
+            8090,
+            8148,
+            10653,
+            10681,
+            10690,
+            10735
+        ]
+    },
     "mentlegen/Blue_on_Black.nspc": {
         "md5sum": "41a1925391588889cf66e8b3bde37621",
         "block_headers_offsets": [
@@ -2496,6 +3193,151 @@
             17033,
             17073,
             17680
+        ]
+    },
+    "mentlegen/Compound_Title": {
+        "md5sum": "b9f35bc0281d9c676476ebde974466ec",
+        "block_headers_offsets": [
+            0,
+            17590,
+            17626,
+            17678,
+            19691,
+            19708,
+            19714,
+            19721,
+            19727,
+            19734,
+            19781
+        ]
+    },
+    "mentlegen/The_Living_Machine_Vol_Adjustment.nspc": {
+        "md5sum": "0b85fbb1551e9c443905983a74def5db",
+        "block_headers_offsets": [
+            0,
+            16222,
+            16254,
+            16300,
+            21318,
+            22627,
+            22644,
+            22650,
+            22657,
+            22663,
+            22670,
+            22717
+        ]
+    },
+    "mentlegen/Corrupted_Brinstar.nspc": {
+        "md5sum": "0793e048b1fa3127161c91253eb1492c",
+        "block_headers_offsets": [
+            0,
+            11749,
+            11773,
+            11807,
+            13118,
+            13135,
+            13141,
+            13148,
+            13154,
+            13161,
+            13208
+        ]
+    },
+    "mentlegen/Spospo_new_remix.nspc": {
+        "md5sum": "a0768525f4656630eea6453374557a8b",
+        "block_headers_offsets": [
+            0,
+            11065,
+            11089,
+            11123,
+            11868,
+            11885,
+            11891,
+            11898,
+            11904,
+            11911,
+            11958
+        ]
+    },
+    "mentlegen/BSL_level_1_vol_adujustment.nspc": {
+        "md5sum": "121033026f9b4ffaab81d5348205fcf7",
+        "block_headers_offsets": [
+            0,
+            13585,
+            13613,
+            13653,
+            14669,
+            14686,
+            14692,
+            14699,
+            14705,
+            14712,
+            14759
+        ]
+    },
+    "mentlegen/Chant_of_Pyrax.nspc": {
+        "md5sum": "867a6f00b8ed102cdfbb1bd824617ae5",
+        "block_headers_offsets": [
+            0,
+            19318,
+            19350,
+            19396,
+            20904,
+            20921,
+            20927,
+            20934,
+            20940,
+            20947,
+            20994
+        ]
+    },
+    "mentlegen/Depths_of_Hydracon.nspc": {
+        "md5sum": "a02d3de46124813035df206ebe974c0c",
+        "block_headers_offsets": [
+            0,
+            14773,
+            14797,
+            14831,
+            17825,
+            17842,
+            17848,
+            17855,
+            17861,
+            17868,
+            17915
+        ]
+    },
+    "mentlegen/Chant_of_Lower_Pyrax.nspc": {
+        "md5sum": "940cbefba5cacff7eeb29c582fd2b53c",
+        "block_headers_offsets": [
+            0,
+            19318,
+            19350,
+            19396,
+            21223,
+            21240,
+            21246,
+            21253,
+            21259,
+            21266,
+            21313
+        ]
+    },
+    "mentlegen/VS_ridley_EX.nspc": {
+        "md5sum": "42e23ffdf617b5592bb3a734576fe579",
+        "block_headers_offsets": [
+            0,
+            17518,
+            17550,
+            17596,
+            22646,
+            22663,
+            22669,
+            22676,
+            22682,
+            22689,
+            22736
         ]
     },
     "M1_Classic_Zebes/ClassicZebes_Brinstar.bin": {
@@ -2724,6 +3566,66 @@
             23162,
             23169,
             23216
+        ]
+    },
+    "Star_Glider_OST/map.nspc": {
+        "md5sum": "aae819d8cf94fad4275e50cb00e25ab7",
+        "block_headers_offsets": [
+            0,
+            28,
+            4316,
+            4356,
+            6283
+        ]
+    },
+    "Star_Glider_OST/stage_type_1.nspc": {
+        "md5sum": "5a66fbdd72b0874233b65f83c272fce8",
+        "block_headers_offsets": [
+            0,
+            44,
+            6825,
+            6889,
+            9128
+        ]
+    },
+    "Star_Glider_OST/stage_type_2.nspc": {
+        "md5sum": "f60a98875d65ea2476da2f4deb4d78b9",
+        "block_headers_offsets": [
+            0,
+            40,
+            9476,
+            9534,
+            12011
+        ]
+    },
+    "Star_Glider_OST/stage_type_3.nspc": {
+        "md5sum": "adab396462c42c462babcfd5971d04e5",
+        "block_headers_offsets": [
+            0,
+            32,
+            8244,
+            8290,
+            11691
+        ]
+    },
+    "Star_Glider_OST/boss.nspc": {
+        "md5sum": "37086d70ff2abdab4d50d5c2ff16703d",
+        "block_headers_offsets": [
+            0,
+            32,
+            8262,
+            8308,
+            9754
+        ]
+    },
+    "Star_Glider_OST/victory.nspc": {
+        "md5sum": "b9ae5697dece9a4d21ab0fab31422abd",
+        "block_headers_offsets": [
+            0,
+            32,
+            9873,
+            9919,
+            11266
         ]
     },
     "other_metroid_metaquarius/m2_sr388.bin": {
