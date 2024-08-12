@@ -1951,7 +1951,7 @@
         "description": "Inexact port",
         "group": "Ys III: Wanderers from Ys"
     },
-    "Behold!!": {
+    "Behold": {
         "nspc_path": "MMC_Server/Behold__.nspc",
         "spc_path": "MMC_Server/Behold__.spc",
         "track_index": 0,
