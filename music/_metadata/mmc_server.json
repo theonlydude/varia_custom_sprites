@@ -1717,7 +1717,7 @@
         "description": "Zelda soundfont",
         "group": "The Legend Of Zelda A Link To The Past"
     },
-    "Epilogue ~ Beautiful Hyrule": {
+    "Epilogue - Beautiful Hyrule": {
         "nspc_path": "MMC_Server/Epilogue___Beautiful_Hyrule.nspc",
         "spc_path": "MMC_Server/Epilogue___Beautiful_Hyrule.spc",
         "track_index": 0,
