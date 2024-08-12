@@ -2005,7 +2005,7 @@
         "description": "Port from Yoshi's Island",
         "group": "Super Mario"
     },
-    "Castle & Fortress": {
+    "Castle and Fortress": {
         "nspc_path": "MMC_Server/Castle___Fortress.nspc",
         "spc_path": "MMC_Server/Castle___Fortress.spc",
         "track_index": 0,
