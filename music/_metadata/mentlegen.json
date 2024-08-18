@@ -19,7 +19,7 @@
     "Miniboss_remix": {
         "nspc_path": "mentlegen/Miniboss_remix.nspc",
         "track_index": 0,
-        "original_author": "?",
+        "original_author": "Mentlegen, Minako Hamano",
         "port_author": "Mentlegen",
         "description": "Music found on metconst, by Mentlegen",
         "spc_path": "mentlegen/Miniboss_remix.spc"
@@ -35,9 +35,81 @@
     "VS_Boss_remix": {
         "nspc_path": "mentlegen/VS_Boss_remix.nspc",
         "track_index": 0,
-        "original_author": "?",
+        "original_author": "Mentlegen, Minako Hamano",
         "port_author": "Mentlegen",
         "description": "Music found on metconst, by Mentlegen",
         "spc_path": "mentlegen/VS_Boss_remix.spc"
+    },
+    "Grim Prognosis": {
+        "nspc_path": "mentlegen/Compound_Title",
+        "track_index": 0,
+        "original_author": "Mentlegen",
+        "description": "From Super Metroid Biohazard OST",
+        "spc_path": "mentlegen/Grim_Prognosis.spc",
+        "group": "Super Metroid Biohazard"
+    },
+    "The Living Machine": {
+        "nspc_path": "mentlegen/The_Living_Machine_Vol_Adjustment.nspc",
+        "track_index": 0,
+        "original_author": "Mentlegen",
+        "description": "From Super Metroid Biohazard OST",
+        "spc_path": "mentlegen/The_Living_Machine.spc",
+        "group": "Super Metroid Biohazard"
+    },
+    "Phytor Ruins": {
+        "nspc_path": "mentlegen/Corrupted_Brinstar.nspc",
+        "track_index": 0,
+        "original_author": "Mentlegen",
+        "description": "From Super Metroid Biohazard OST",
+        "spc_path": "mentlegen/Phytor_Ruins.spc",
+        "group": "Super Metroid Biohazard"
+    },
+    "What Lurks Below": {
+        "nspc_path": "mentlegen/Spospo_new_remix.nspc",
+        "track_index": 0,
+        "original_author": "Mentlegen, Minako Hamano",
+        "description": "From Super Metroid Biohazard OST",
+        "spc_path": "mentlegen/What_lurks_below_VS_minboss_.spc",
+        "group": "Super Metroid Biohazard"
+    },
+    "Ghost of the Creator": {
+        "nspc_path": "mentlegen/BSL_level_1_vol_adujustment.nspc",
+        "track_index": 0,
+        "original_author": "Mentlegen",
+        "description": "From Super Metroid Biohazard OST",
+        "spc_path": "mentlegen/Ghost_of_the_Creator.spc",
+        "group": "Super Metroid Biohazard"
+    },
+    "Chant of Pyrax": {
+        "nspc_path": "mentlegen/Chant_of_Pyrax.nspc",
+        "track_index": 0,
+        "original_author": "Mentlegen",
+        "description": "From Super Metroid Biohazard OST",
+        "spc_path": "mentlegen/Chant_of_Pyrax.spc",
+        "group": "Super Metroid Biohazard"
+    },
+    "Depths of Hydracon": {
+        "nspc_path": "mentlegen/Depths_of_Hydracon.nspc",
+        "track_index": 0,
+        "original_author": "Mentlegen",
+        "description": "From Super Metroid Biohazard OST",
+        "spc_path": "mentlegen/Depths_of_Hydracon.spc",
+        "group": "Super Metroid Biohazard"
+    },
+    "Chant of Lower Pyrax": {
+        "nspc_path": "mentlegen/Chant_of_Lower_Pyrax.nspc",
+        "track_index": 0,
+        "original_author": "Mentlegen",
+        "description": "From Super Metroid Biohazard OST",
+        "spc_path": "mentlegen/Chant_of_Lower_Pyrax.spc",
+        "group": "Super Metroid Biohazard"
+    },
+    "An Old Nemesis": {
+        "nspc_path": "mentlegen/VS_ridley_EX.nspc",
+        "track_index": 0,
+        "original_author": "Mentlegen, Minako Hamano",
+        "description": "From Super Metroid Biohazard OST",
+        "spc_path": "mentlegen/An_Old_Nemesis__VS_ridley_.spc",
+        "group": "Super Metroid Biohazard"
     }
 }

@@ -1,0 +1,92 @@
+{
+    "Kraid's Lair (SM)": {
+        "nspc_path": "metconst/Kraids_Lair_SM_Beta.nspc",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Albert V",
+        "description": "MZM Kraid's lair with Super Metroid soundfound. Beta version",
+        "group": "Metroid Zero Mission",
+        "spc_path": "metconst/Kraids_Lair_SM_Beta.spc"
+    },
+    "Kraid's Lair (Custom AV Remix, Harps)": {
+        "nspc_path": "metconst/Custom_Kraid_lair_Remix_1.2_Harps.nspc",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Albert V",
+        "description": "version 1.2",
+        "group": "Metroid Zero Mission",
+        "spc_path": "metconst/Custom_Kraid_lair_Remix_1.2_Harps.spc"
+    },
+    "Kraid's Lair (Custom AV Remix, Maridia Bass)": {
+        "nspc_path": "metconst/Custom_Kraid_lair_Remix_1.2_Maridia_Bass.nspc",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Albert V",
+        "description": "version 1.2",
+        "group": "Metroid Zero Mission",
+        "spc_path": "metconst/Custom_Kraid_lair_Remix_1.2_Maridia_Bass.spc"
+    },
+    "Kraid's Lair (Custom AV Remix, ZMIX)": {
+        "nspc_path": "metconst/Custom_Kraid_lair_Remix_1.2_ZMIX.nspc",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Albert V",
+        "description": "version 1.2",
+        "group": "Metroid Zero Mission",
+        "spc_path": "metconst/Custom_Kraid_lair_Remix_1.2_ZMIX.spc"
+    },
+    "Chozo Ruins": {
+        "nspc_path": "metconst/ChozoRuins.nspc",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Black Falcon",
+        "description": "Found on metroid construction. Made with the help of Albert V",
+        "group": "Metroid Prime",
+        "spc_path": "metconst/ChozoRuins.spc"
+    },
+    "Another Medium": {
+        "nspc_path": "metconst/Another_Medium.nspc",
+        "spc_path": "metconst/Another_Medium.spc",
+        "track_index": 0,
+        "original_author": "Toby Fox",
+        "port_author": "MetroidNerd#9001",
+        "description": "from UNDERTALE Soundtrack / Super Metroid: Hotlands Soundtrack",
+        "group": "Hotlands Hack"
+    },
+    "CORE Approach": {
+        "nspc_path": "metconst/CORE_Approach.nspc",
+        "spc_path": "metconst/CORE_Approach.spc",
+        "track_index": 0,
+        "original_author": "Toby Fox",
+        "port_author": "MetroidNerd#9001",
+        "description": "from UNDERTALE Soundtrack / Super Metroid: Hotlands Soundtrack",
+        "group": "Hotlands Hack"
+    },
+    "CORE": {
+        "nspc_path": "metconst/CORE.nspc",
+        "spc_path": "metconst/CORE.spc",
+        "track_index": 0,
+        "original_author": "Toby Fox",
+        "port_author": "MetroidNerd#9001",
+        "description": "from UNDERTALE Soundtrack / Super Metroid: Hotlands Soundtrack",
+        "group": "Hotlands Hack"
+    },
+    "Pink Shell": {
+        "nspc_path": "metconst/Pink_Shell.nspc",
+        "spc_path": "metconst/Pink_Shell.spc",
+        "track_index": 0,
+        "original_author": "Shogo Sakai",
+        "port_author": "MetroidNerd#9001",
+        "description": "from the Super Metroid: Hotlands Soundtrack",
+        "group": "Hotlands Hack"
+    },
+    "Phantoon's Curse": {
+        "nspc_path": "metconst/PC2V2_condensed.nspc",
+        "track_index": 0,
+        "original_author": "kottpower",
+        "port_author": "Mentlegen",
+        "description": "Mentlegen adaptation of Phantoon's Curse. Version 2",
+        "group": "mentlegen",
+        "spc_path": "metconst/PC2V2_condensed.spc"
+    }
+}
