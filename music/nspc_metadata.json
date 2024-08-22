@@ -1966,19 +1966,14 @@
             24127
         ]
     },
-    "MMC_Server/Black_Mist_Storm.nspc": {
-        "md5sum": "5c0144ee58b934fee0dd0c88fff14a21",
+    "MMC_Server/Black_Mist.nspc": {
+        "md5sum": "1fbeb784df796757d6e83250a21d3f2a",
         "block_headers_offsets": [
             0,
-            12676,
+            24,
             12700,
             12734,
-            12740,
-            17467,
-            19677,
-            19683,
-            19692,
-            19714
+            13928
         ]
     },
     "MMC_Server/Black_Mist_SM.nspc": {
@@ -2438,6 +2433,16 @@
             15014
         ]
     },
+    "MMC_Server/Boss__Last_Boss_Andross____Last_Boss_Clear.nspc": {
+        "md5sum": "a211fc43dc49bd4dfce052f4114d90ad",
+        "block_headers_offsets": [
+            0,
+            36,
+            10777,
+            10829,
+            12913
+        ]
+    },
     "MMC_Server/Battle_Against_Belch.nspc": {
         "md5sum": "9da35e2651a585b5b58400865b877414",
         "block_headers_offsets": [
@@ -2680,16 +2685,6 @@
             5750,
             5808,
             6788
-        ]
-    },
-    "MMC_Server/Boss__Last_Boss_Andross____Last_Boss_Clear.nspc": {
-        "md5sum": "a211fc43dc49bd4dfce052f4114d90ad",
-        "block_headers_offsets": [
-            0,
-            36,
-            10777,
-            10829,
-            12913
         ]
     },
     "MMC_Server/Main_Theme__Star_Fox_.nspc": {
