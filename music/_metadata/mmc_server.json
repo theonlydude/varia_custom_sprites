@@ -1484,8 +1484,8 @@
         "group": "Star Fox"
     },
     "Boss (Space Armada)": {
-        "nspc_path": "MMC_Server/Entering_Dangerous_Territory+Boss_Space_Armada.nspc",
-        "spc_path": "MMC_Server/Boss_Space_Armada.spc",
+        "nspc_path": "MMC_Server/Entering_Dangerous_Territory___Boss__Space_Armada_.nspc",
+        "spc_path": "MMC_Server/Boss__Space_Armada_.spc",
         "track_index": 1,
         "original_author": "Hajime Hirasawa",
         "port_author": "H A M",
@@ -1556,7 +1556,7 @@
         "group": "Star Fox"
     },
     "Entering Dangerous Territory": {
-        "nspc_path": "MMC_Server/Entering_Dangerous_Territory+Boss_Space_Armada.nspc",
+        "nspc_path": "MMC_Server/Entering_Dangerous_Territory___Boss__Space_Armada_.nspc",
         "spc_path": "MMC_Server/Entering_Dangerous_Territory.spc",
         "track_index": 0,
         "original_author": "Hajime Hirasawa",
@@ -1919,6 +1919,15 @@
         "nspc_path": "MMC_Server/star_fox_6_in_1.nspc",
         "spc_path": "MMC_Server/Briefing__Fast_Opening_.spc",
         "track_index": 3,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
+    "Secret Activated": {
+        "nspc_path": "MMC_Server/Secret_Activated_.nspc",
+        "spc_path": "MMC_Server/Secret_Activated_.spc",
+        "track_index": 0,
         "original_author": "Hajime Hirasawa",
         "port_author": "H A M",
         "description": "Port",
