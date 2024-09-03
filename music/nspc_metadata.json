@@ -2383,14 +2383,14 @@
             10900
         ]
     },
-    "MMC_Server/Entering_Dangerous_Territory+Boss_Space_Armada.nspc": {
-        "md5sum": "df0bc817a9573afd73a9ac7a18c4b3f6",
+    "MMC_Server/Entering_Dangerous_Territory___Boss__Space_Armada_.nspc": {
+        "md5sum": "992b5036f5fb4ae985f0a02a770be655",
         "block_headers_offsets": [
             0,
             24,
             8983,
             9017,
-            10093
+            10099
         ]
     },
     "MMC_Server/Boss_Venom_Base_1.nspc": {
@@ -2729,6 +2729,16 @@
             6934,
             6986,
             8979
+        ]
+    },
+    "MMC_Server/Secret_Activated_.nspc": {
+        "md5sum": "79fb9e395c3c19220e8f4c4200850fe2",
+        "block_headers_offsets": [
+            0,
+            16,
+            1451,
+            1473,
+            1695
         ]
     },
     "MMC_Server/Battle_Against_a_Weak_Opponent.nspc": {
