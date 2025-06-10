@@ -2487,15 +2487,17 @@
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V",
-        "description": "v1.0, from a Pokemon game?",
+        "description": "v1.0",
+        "group": "Metroid Prime 2",
         "spc_path": "MMC_Server/Submerged_Temple_v1.0.spc"
     },
-    "Submerged Temple (Mario Sound Font)": {
+    "Submerged Temple (alternate soundfont)": {
         "nspc_path": "MMC_Server/S_Mario_SF_Submerged_Temple_1.0.nspc",
         "track_index": 0,
         "original_author": "TODO",
         "port_author": "Albert V",
-        "description": "v1.0, from a Pokemon game?",
+        "description": "v1.0",
+        "group": "Metroid Prime 2",
         "spc_path": "MMC_Server/Submerged_Temple_v1.0.spc"
     },
     "Torvus Bog": {
@@ -2651,7 +2653,7 @@
         "group": "Final Fantasy 7",
         "spc_path": "MMC_Server/Final_Fantasy_7_-_You_Can_Hear_the_Cry_of_the_Planet.spc"
     },
-    "Heart_of_the_Grove": {
+    "Heart of the Grove": {
         "nspc_path": "MMC_Server/Heart_of_the_Grove.nspc",
         "track_index": 0,
         "original_author": "Dewey Newt",
