@@ -629,33 +629,34 @@
             25039
         ]
     },
-    "MMC_Server/Forest_Temple_v1.0.nspc": {
-        "md5sum": "0a3a10ad7cae8338406a5755de4f154e",
+    "MMC_Server/Forest_Temple_-_The_Legend_of_Zelda_OOT_v1.4.nspc": {
+        "md5sum": "581bdbb202220a8f87fa254a4cfc7bfb",
         "block_headers_offsets": [
             0,
-            18058,
-            18074,
-            18096,
-            18102,
-            23177,
-            24920,
-            24926,
-            24935,
-            24957
+            17500,
+            17524,
+            17558,
+            17564,
+            22572,
+            24059,
+            24065,
+            24074,
+            24096
         ]
     },
-    "MMC_Server/Gerudo_Valley_v1.0.nspc": {
-        "md5sum": "7977a36bb9103c1ffd99bc4aa97bc0f3",
+    "MMC_Server/Gerudo_Valley_v1.2.nspc": {
+        "md5sum": "28d49db4370ce5edfd00b704f14bf15d",
         "block_headers_offsets": [
             0,
-            17941,
-            17957,
-            17979,
-            22580,
-            23978,
-            23984,
-            23993,
-            24015
+            19327,
+            19347,
+            19375,
+            19381,
+            24363,
+            24523,
+            24529,
+            24538,
+            24560
         ]
     },
     "MMC_Server/Ghosts_n_Goblins.nspc": {
@@ -669,17 +670,17 @@
         ]
     },
     "MMC_Server/Goron_City_v1.2.nspc": {
-        "md5sum": "cb7d59f9288283cf31e38be9661d8e3e",
+        "md5sum": "13a167c064ad580351d944978baad98c",
         "block_headers_offsets": [
             0,
             18706,
             18734,
             18774,
             18780,
-            22938,
-            22944,
-            22953,
-            22975
+            22737,
+            22743,
+            22752,
+            22774
         ]
     },
     "MMC_Server/Great_Bay_Temple_v1.0.nspc": {
@@ -791,20 +792,6 @@
             15426,
             15435,
             15457
-        ]
-    },
-    "MMC_Server/Deku_Tree_v1.0.nspc": {
-        "md5sum": "8183f91e507610279b02fc7b19f4420f",
-        "block_headers_offsets": [
-            0,
-            11893,
-            11901,
-            11911,
-            11917,
-            14095,
-            14101,
-            14110,
-            14132
         ]
     },
     "MMC_Server/Deku_Tree_v1.1.nspc": {
@@ -1286,18 +1273,19 @@
             19242
         ]
     },
-    "MMC_Server/Stone_Tower_v1.4.nspc": {
-        "md5sum": "82efce569a35fcf7d01f843d88c2492a",
+    "MMC_Server/Stone_Tower__No_Wind__-_TLOZ-MM_v1.5.nspc": {
+        "md5sum": "8bbbd2b5e6a54a76dcb1232a4a4a23cf",
         "block_headers_offsets": [
             0,
-            19219,
-            19263,
-            19327,
-            19333,
-            22814,
-            22820,
-            22829,
-            22851
+            17302,
+            17342,
+            17400,
+            17406,
+            22462,
+            22753,
+            22759,
+            22768,
+            22790
         ]
     },
     "MMC_Server/Study_v1.0.nspc": {
@@ -1736,19 +1724,19 @@
             23985
         ]
     },
-    "MMC_Server/The_Water_Temple_v1.2.nspc": {
-        "md5sum": "82160ce6e6ff39c7dad55567cd1cdb87",
+    "MMC_Server/The_Water_Temple_-_The_Legend_of_Zelda_OOT_v_1.4.nspc": {
+        "md5sum": "7c807c78a03a835f4a79b40177268028",
         "block_headers_offsets": [
             0,
-            11830,
-            11858,
-            11898,
-            11904,
-            16719,
-            23927,
-            23933,
-            23942,
-            23964
+            14746,
+            14774,
+            14814,
+            14820,
+            19813,
+            24856,
+            24862,
+            24871,
+            24893
         ]
     },
     "MMC_Server/Torvustar_v1.1.nspc": {
@@ -1837,16 +1825,19 @@
             24868
         ]
     },
-    "MMC_Server/AM2R_-_SR388_SM_v1.1.nspc": {
-        "md5sum": "37548f499cbf1642659359de54e2b58b",
+    "MMC_Server/AM2R_-_SR388__SM__v1.2.nspc": {
+        "md5sum": "30c719c88fbaa1d6a9d4dbeb8b5aa5d9",
         "block_headers_offsets": [
             0,
             16051,
             16103,
             16203,
             16209,
-            21231,
-            24806
+            21253,
+            21506,
+            21512,
+            21521,
+            21543
         ]
     },
     "MMC_Server/The_Cave_1.0.nspc": {
@@ -1922,19 +1913,18 @@
             24727
         ]
     },
-    "MMC_Server/Phendrana_Drift_Cover_By_Black_Falcon_and_Albert_V_v_1.2.nspc": {
-        "md5sum": "071b4cc4772433b663866ba7ec649a34",
+    "MMC_Server/Phendrana_Drift_Cover__By_Black_Falcon_and_Albert_V_v1.3.nspc": {
+        "md5sum": "37f7e3378db97eed0de8eacc1922e969",
         "block_headers_offsets": [
             0,
-            17401,
-            17441,
-            17517,
-            17523,
-            22544,
-            24768,
-            24774,
-            24783,
-            24805
+            18769,
+            18809,
+            18885,
+            18891,
+            23422,
+            23428,
+            23437,
+            23459
         ]
     },
     "MMC_Server/Arcterra_Depts_v1.0.nspc": {
@@ -2423,7 +2413,7 @@
             12539
         ]
     },
-    "MMC_Server/Game_Clear_Demonstration+Ending.nspc": {
+    "MMC_Server/Game_Clear_Demonstration_Ending.nspc": {
         "md5sum": "e36bddcc5ef8ad6d99388eee816989d2",
         "block_headers_offsets": [
             0,
@@ -3148,6 +3138,301 @@
             10681,
             10690,
             10735
+        ]
+    },
+    "MMC_Server/Prime_Escape_v1.0.nspc": {
+        "md5sum": "4453c4af205353c8b812be1883823a34",
+        "block_headers_offsets": [
+            0,
+            14071,
+            14115,
+            14185,
+            14191,
+            19171,
+            20311,
+            20317,
+            20326,
+            20348
+        ]
+    },
+    "MMC_Server/Submerged_Temple_v1.0.nspc": {
+        "md5sum": "c9fd1984dda831ede76efd036082d1f5",
+        "block_headers_offsets": [
+            0,
+            13423,
+            13455,
+            13507,
+            13513,
+            18124,
+            20756
+        ]
+    },
+    "MMC_Server/S_Mario_SF_Submerged_Temple_1.0.nspc": {
+        "md5sum": "22064ad0174b59ef32c065af611db3ff",
+        "block_headers_offsets": [
+            0,
+            14872,
+            14904,
+            14956,
+            14962,
+            19573,
+            22205
+        ]
+    },
+    "MMC_Server/SM_Torvus_Bog_v1.0.nspc": {
+        "md5sum": "c2d6de0c9eda5be9e53edf24f3599132",
+        "block_headers_offsets": [
+            0,
+            14116,
+            14160,
+            14266,
+            14272,
+            19345,
+            24906,
+            24912,
+            24921,
+            24943
+        ]
+    },
+    "MMC_Server/Castlevania_64_-_Renon_v1.2.nspc": {
+        "md5sum": "14b337b6a7b694e4cb1b3337351406f9",
+        "block_headers_offsets": [
+            0,
+            16150,
+            16174,
+            16208,
+            16214,
+            17623,
+            17629,
+            17638,
+            17660
+        ]
+    },
+    "MMC_Server/_Lite__Chemical_Warfare_Facility_2_v1.0.nspc": {
+        "md5sum": "17b96045aba34037d9d160d2b340162c",
+        "block_headers_offsets": [
+            0,
+            18958,
+            18994,
+            19046,
+            19052,
+            22507,
+            22513,
+            22522,
+            22544
+        ]
+    },
+    "MMC_Server/_SM__Golden_Eye_007_Pause_v1.0.nspc": {
+        "md5sum": "cb42bec54127091fe54c9a7af82961f3",
+        "block_headers_offsets": [
+            0,
+            14179,
+            14215,
+            14267,
+            14273,
+            15784,
+            15790,
+            15799,
+            15821
+        ]
+    },
+    "MMC_Server/_SM__Fire_Temple_1.0.nspc": {
+        "md5sum": "102473769126b8a7f3108ba853601e3c",
+        "block_headers_offsets": [
+            0,
+            19417,
+            19449,
+            19495,
+            19501,
+            24419,
+            24425,
+            24434,
+            24456
+        ]
+    },
+    "MMC_Server/_SM__Shadow_Temple_v1.1.nspc": {
+        "md5sum": "b4d4a032e487f37d71428d217e4052db",
+        "block_headers_offsets": [
+            0,
+            19354,
+            19398,
+            19462,
+            19468,
+            24305,
+            24311,
+            24320,
+            24342
+        ]
+    },
+    "MMC_Server/Snowhead_v1.0.nspc": {
+        "md5sum": "54539a6644f7db6ac94885b99ccee54f",
+        "block_headers_offsets": [
+            0,
+            11632,
+            11648,
+            11676,
+            11682,
+            14264,
+            14270,
+            14279,
+            14301
+        ]
+    },
+    "MMC_Server/Song_of_Healing_v_1.0.nspc": {
+        "md5sum": "6d21da17bcf455b328639f88d1e33018",
+        "block_headers_offsets": [
+            0,
+            16735,
+            16751,
+            16773,
+            16779,
+            21558,
+            21564,
+            21573,
+            21595
+        ]
+    },
+    "MMC_Server/_SM__Song_of_Healing_v_1.0.nspc": {
+        "md5sum": "643da7228d0d1abf597933f0e7c4a270",
+        "block_headers_offsets": [
+            0,
+            11434,
+            11450,
+            11472,
+            11478,
+            16257,
+            16263,
+            16272,
+            16294
+        ]
+    },
+    "MMC_Server/Spirit_Temple_v1.0.nspc": {
+        "md5sum": "2e1ca05301942d8ee2fcb833b2cae609",
+        "block_headers_offsets": [
+            0,
+            18688,
+            18716,
+            18756,
+            18762,
+            21498,
+            21504,
+            21513,
+            21535
+        ]
+    },
+    "MMC_Server/_SM__Spirit_Temple_v1.0.nspc": {
+        "md5sum": "92ccfff07728cd217a0b7f06e886b3ef",
+        "block_headers_offsets": [
+            0,
+            18013,
+            18041,
+            18081,
+            18087,
+            20823,
+            20829,
+            20838,
+            20860
+        ]
+    },
+    "MMC_Server/_Choir__Spirit_Temple_v1.0.nspc": {
+        "md5sum": "2a5394087eeb46fde35e38b3f3419a28",
+        "block_headers_offsets": [
+            0,
+            18364,
+            18392,
+            18432,
+            18438,
+            21174,
+            21180,
+            21189,
+            21211
+        ]
+    },
+    "MMC_Server/Glacius.nspc": {
+        "md5sum": "243429775b01ae5b06d1c427676141ed",
+        "block_headers_offsets": [
+            0,
+            14701,
+            14761,
+            14849,
+            14855,
+            18484,
+            18490,
+            18499,
+            18521
+        ]
+    },
+    "MMC_Server/SM_Save_Room_v1.0.nspc": {
+        "md5sum": "203a42aab05919d07b9240a398d4b84d",
+        "block_headers_offsets": [
+            0,
+            1894,
+            1902,
+            1912,
+            1918,
+            5876,
+            5882,
+            5891,
+            5913
+        ]
+    },
+    "MMC_Server/Samus_Attack_v1.0.nspc": {
+        "md5sum": "19afa8210b157fc62a7a64247fd27926",
+        "block_headers_offsets": [
+            0,
+            14458,
+            14494,
+            14552,
+            14558,
+            16315,
+            16321,
+            16330,
+            16352
+        ]
+    },
+    "MMC_Server/Final_Fantasy_7_-_Buried_in_Snow.nspc": {
+        "md5sum": "c59533169254b37e6e1e8f311e6de988",
+        "block_headers_offsets": [
+            0,
+            8563,
+            8583,
+            8611,
+            8617,
+            12662
+        ]
+    },
+    "MMC_Server/FF7_You_Can_Hear_the_Cry_of_the_Planet.nspc": {
+        "md5sum": "b2d54163d329eb687d98126597464f92",
+        "block_headers_offsets": [
+            0,
+            18607,
+            18635,
+            18681,
+            18687,
+            23731,
+            24297
+        ]
+    },
+    "MMC_Server/Heart_of_the_Grove.nspc": {
+        "md5sum": "020121c984f07c70c894c58a74b3b14e",
+        "block_headers_offsets": [
+            0,
+            14458,
+            14502,
+            14566,
+            14572,
+            18840
+        ]
+    },
+    "MMC_Server/Thoha_Ruins.nspc": {
+        "md5sum": "d7cc24c4ddff7766095e8739394477a7",
+        "block_headers_offsets": [
+            0,
+            17725,
+            17757,
+            17803,
+            17809,
+            22124
         ]
     },
     "mentlegen/Blue_on_Black.nspc": {

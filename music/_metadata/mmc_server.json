@@ -251,22 +251,22 @@
         "spc_path": "MMC_Server/High_Echo_Forest_Temple_v1.1.spc"
     },
     "Forest Temple": {
-        "nspc_path": "MMC_Server/Forest_Temple_v1.0.nspc",
+        "nspc_path": "MMC_Server/Forest_Temple_-_The_Legend_of_Zelda_OOT_v1.4.nspc",
         "track_index": 0,
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
-        "description": "Version 1.0",
+        "description": "Version 1.4",
         "group": "The Legend Of Zelda Ocarina Of Time",
-        "spc_path": "MMC_Server/Forest_Temple_v1.0.spc"
+        "spc_path": "MMC_Server/Forest_Temple_-_The_Legend_of_Zelda_OOT_v1.4.spc"
     },
     "Gerudo Valley": {
-        "nspc_path": "MMC_Server/Gerudo_Valley_v1.0.nspc",
+        "nspc_path": "MMC_Server/Gerudo_Valley_v1.2.nspc",
         "track_index": 0,
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
-        "description": "Version 1.0",
+        "description": "Version 1.2",
         "group": "The Legend Of Zelda Ocarina Of Time",
-        "spc_path": "MMC_Server/Gerudo_Valley_v1.0.spc"
+        "spc_path": "MMC_Server/Gerudo_Valley_v1.2.spc"
     },
     "Ghosts n Goblins": {
         "nspc_path": "MMC_Server/Ghosts_n_Goblins.nspc",
@@ -353,13 +353,13 @@
         "spc_path": "MMC_Server/House_Theme_v1.1.spc"
     },
     "Inside the Deku Tree": {
-        "nspc_path": "MMC_Server/Deku_Tree_v1.0.nspc",
+        "nspc_path": "MMC_Server/Deku_Tree_v1.1.nspc",
         "track_index": 0,
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
-        "description": "Version 1.0",
+        "description": "Version 1.1",
         "group": "The Legend Of Zelda Ocarina Of Time",
-        "spc_path": "MMC_Server/Deku_Tree_v1.0.spc"
+        "spc_path": "MMC_Server/Deku_Tree_v1.1.spc"
     },
     " Inside the Deku Tree H.E.": {
         "nspc_path": "MMC_Server/Deku_Tree_v1.1.nspc",
@@ -583,7 +583,7 @@
         "original_author": "Masahiko Kimura",
         "port_author": "Albert V",
         "description": "From Castlevania 64. Version 1.2",
-        "group": "Albert V Arrangement",
+        "group": "Castlevania 64",
         "spc_path": "MMC_Server/Annex_-_Silent_Madness_V_1.2.spc"
     },
     "Simon's Theme (Custom)": {
@@ -667,14 +667,23 @@
         "group": "Albert V Arrangement",
         "spc_path": "MMC_Server/Stairway_Boss_v1.0.spc"
     },
-    "Stone Tower": {
-        "nspc_path": "MMC_Server/Stone_Tower_v1.4.nspc",
+    "Stone Tower (normal)": {
+        "nspc_path": "MMC_Server/Stone_Tower__No_Wind__-_TLOZ-MM_v1.5.nspc",
         "track_index": 0,
         "original_author": "Koji Kondo Toru Minegishi",
         "port_author": "Albert V",
-        "description": "Version 1.4 Maybe for Endings or no enemies rooms",
+        "description": "Version 1.5 Maybe for Endings or no enemies rooms",
         "group": "The legend of Zelda - Majora's mask",
-        "spc_path": "MMC_Server/Stone_Tower_v1.4.spc"
+        "spc_path": "MMC_Server/Stone_Tower__No_Wind__-_TLOZ-MM_v1.5.spc"
+    },
+    "Stone Tower (SM Tone)": {
+        "nspc_path": "MMC_Server/Stone_Tower__No_Wind__-_TLOZ-MM_v1.5.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo Toru Minegishi",
+        "port_author": "Albert V",
+        "description": "Version 1.0",
+        "group": "The legend of Zelda - Majora's mask",
+        "spc_path": "MMC_Server/Stone_Tower__No_Wind__-_TLOZ-MM_v1.5.spc"
     },
     "Study": {
         "nspc_path": "MMC_Server/Study_v1.0.nspc",
@@ -946,20 +955,20 @@
     "Phendranas Drift Valley": {
         "nspc_path": "MMC_Server/Phendranas_Drift_Valley_v1.1.nspc",
         "track_index": 0,
-        "original_author": "TODO",
+        "original_author": "Kenji Yamamoto",
         "port_author": "Albert V",
         "description": "",
         "group": "Metroid Prime",
         "spc_path": "MMC_Server/Phendranas_Drift_Valley_v1.1.spc"
     },
     "Water Temple": {
-        "nspc_path": "MMC_Server/The_Water_Temple_v1.2.nspc",
+        "nspc_path": "MMC_Server/The_Water_Temple_-_The_Legend_of_Zelda_OOT_v_1.4.nspc",
         "track_index": 0,
         "original_author": "Koji Kondo",
         "port_author": "Albert V",
-        "description": "v1.2",
+        "description": "v1.4",
         "group": "The Legend Of Zelda Ocarina Of Time",
-        "spc_path": "MMC_Server/The_Water_Temple_v1.2.spc"
+        "spc_path": "MMC_Server/The_Water_Temple_-_The_Legend_of_Zelda_OOT_v_1.4.spc"
     },
     "Torvustar": {
         "nspc_path": "MMC_Server/Torvustar_v1.1.nspc",
@@ -1016,15 +1025,15 @@
         "spc_path": "MMC_Server/The_Metroid_Hatchling_Custom_v1.0.spc"
     },
     "AM2R - Initial descent (Custom Arrangement)": {
-        "nspc_path": "MMC_Server/AM2R_-_SR388_SM_v1.1.nspc",
+        "nspc_path": "MMC_Server/AM2R_-_SR388__SM__v1.2.nspc",
         "track_index": 0,
         "original_author": "Ryoji Yoshitomi, Milton Guasti, Albert V",
         "port_author": "Albert V",
-        "description": "Version 1.1",
+        "description": "Version 1.2",
         "group": "Metroid 2",
-        "spc_path": "MMC_Server/AM2R_-_SR388_SM_v1.1.spc"
+        "spc_path": "MMC_Server/AM2R_-_SR388__SM__v1.2.spc"
     },
-    "The Cave": {
+    "The Cave (normal)": {
         "nspc_path": "MMC_Server/The_Cave_1.0.nspc",
         "track_index": 0,
         "original_author": "Akihiro Minakata",
@@ -1033,7 +1042,7 @@
         "group": "Super Castlevania IV",
         "spc_path": "MMC_Server/The_Cave_1.0.spc"
     },
-    "The Cave (SM)": {
+    "The Cave (SM Tone)": {
         "nspc_path": "MMC_Server/SM_The_Cave_v1.0.nspc",
         "track_index": 0,
         "original_author": "Akihiro Minakata",
@@ -1070,13 +1079,13 @@
         "spc_path": "MMC_Server/SM_Tallon_Overworld_v1.4.spc"
     },
     "Phendrana Drifts": {
-        "nspc_path": "MMC_Server/Phendrana_Drift_Cover_By_Black_Falcon_and_Albert_V_v_1.2.nspc",
+        "nspc_path": "MMC_Server/Phendrana_Drift_Cover__By_Black_Falcon_and_Albert_V_v1.3.nspc",
         "track_index": 0,
         "original_author": "Kenji Yamamoto",
         "port_author": "Black Falcon, Albert V",
-        "description": "Albert V arrangement of Black Falcon cover. version 1.2",
+        "description": "Albert V arrangement of Black Falcon cover. version 1.3",
         "group": "Metroid Prime",
-        "spc_path": "MMC_Server/Phendrana_Drift_Cover_By_Black_Falcon_and_Albert_V_v_1.2.spc"
+        "spc_path": "MMC_Server/Phendrana_Drift_Cover__By_Black_Falcon_and_Albert_V_v1.3.spc"
     },
     "Prime Hunters - Arcterra Depths": {
         "nspc_path": "MMC_Server/Arcterra_Depts_v1.0.nspc",
@@ -1538,7 +1547,7 @@
         "group": "Star Fox"
     },
     "Game Clear Demonstration": {
-        "nspc_path": "MMC_Server/Game_Clear_Demonstration+Ending.nspc",
+        "nspc_path": "MMC_Server/Game_Clear_Demonstration_Ending.nspc",
         "spc_path": "MMC_Server/Game_Clear_Demonstration.spc",
         "track_index": 0,
         "original_author": "Hajime Hirasawa",
@@ -1547,7 +1556,7 @@
         "group": "Star Fox"
     },
     "Ending (Star Fox)": {
-        "nspc_path": "MMC_Server/Game_Clear_Demonstration+Ending.nspc",
+        "nspc_path": "MMC_Server/Game_Clear_Demonstration_Ending.nspc",
         "spc_path": "MMC_Server/Ending_Star_Fox.spc",
         "track_index": 1,
         "original_author": "Hajime Hirasawa",
@@ -2463,5 +2472,201 @@
         "port_author": "H A M",
         "description": "Inexact port from the April 15, 1994 build because the echo buffer of the original is too big, and it uses a different note length table, hence why common songs are different while this song is loaded",
         "group": "Star Fox 2"
+    },
+    "Prime Escape": {
+        "nspc_path": "MMC_Server/Prime_Escape_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Albert V",
+        "description": "",
+        "group": "Metroid Prime",
+        "spc_path": "MMC_Server/Prime_Escape_v1.0.spc"
+    },
+    "Submerged Temple (normal)": {
+        "nspc_path": "MMC_Server/Submerged_Temple_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "TODO",
+        "port_author": "Albert V",
+        "description": "v1.0, from a Pokemon game?",
+        "spc_path": "MMC_Server/Submerged_Temple_v1.0.spc"
+    },
+    "Submerged Temple (Mario Sound Font)": {
+        "nspc_path": "MMC_Server/S_Mario_SF_Submerged_Temple_1.0.nspc",
+        "track_index": 0,
+        "original_author": "TODO",
+        "port_author": "Albert V",
+        "description": "v1.0, from a Pokemon game?",
+        "spc_path": "MMC_Server/Submerged_Temple_v1.0.spc"
+    },
+    "Torvus Bog": {
+        "nspc_path": "MMC_Server/SM_Torvus_Bog_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "Kenji Yamamoto",
+        "port_author": "Albert V",
+        "description": "v1.0",
+        "group": "Metroid Prime 2",
+        "spc_path": "MMC_Server/SM_Torvus_Bog_v1.0.spc"
+    },
+    "Castlevania 64 - Renon": {
+        "nspc_path": "MMC_Server/Castlevania_64_-_Renon_v1.2.nspc",
+        "track_index": 0,
+        "original_author": "Masahiko Kimura",
+        "port_author": "Albert V",
+        "description": "From Castlevania 64. Version 1.2",
+        "group": "Castlevania 64",
+        "spc_path": "MMC_Server/Castlevania_64_-_Renon_v1.2.spc"
+    },
+    "Chemical Warfare Facility 2": {
+        "nspc_path": "MMC_Server/_Lite__Chemical_Warfare_Facility_2_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "Graeme Norgate, Grant Kirkhope",
+        "port_author": "Albert V",
+        "description": "v1.0",
+        "group": "Golden Eye 64",
+        "spc_path": "MMC_Server/_Lite__Chemical_Warfare_Facility_2_v1.0.spc"
+    },
+    "Golden Eye 007 Pause": {
+        "nspc_path": "MMC_Server/_SM__Golden_Eye_007_Pause_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "Graeme Norgate, Grant Kirkhope",
+        "port_author": "Albert V",
+        "description": "v1.0",
+        "group": "Golden Eye 64",
+        "spc_path": "MMC_Server/_SM__Golden_Eye_007_Pause_v1.0.spc"
+    },
+    "OOT Fire Temple": {
+        "nspc_path": "MMC_Server/_SM__Fire_Temple_1.0.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo Toru Minegishi",
+        "port_author": "Albert V",
+        "description": "v1.0",
+        "group": "The Legend Of Zelda Ocarina Of Time",
+        "spc_path": "MMC_Server/_SM__Fire_Temple_1.0.spc"
+    },
+    "OOT Shadow Temple": {
+        "nspc_path": "MMC_Server/_SM__Shadow_Temple_v1.1.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo Toru Minegishi",
+        "port_author": "Albert V",
+        "description": "v1.1",
+        "group": "The Legend Of Zelda Ocarina Of Time",
+        "spc_path": "MMC_Server/_SM__Shadow_Temple_v1.1.spc"
+    },
+    "Snowhead": {
+        "nspc_path": "MMC_Server/Snowhead_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo Toru Minegishi",
+        "port_author": "Albert V",
+        "description": "v1.0",
+        "group": "The Legend Of Zelda Ocarina Of Time",
+        "spc_path": "MMC_Server/Snowhead_v1.0.spc"
+    },
+    "Song of Healing (normal)": {
+        "nspc_path": "MMC_Server/Song_of_Healing_v_1.0.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo Toru Minegishi",
+        "port_author": "Albert V",
+        "description": "v1.0",
+        "group": "The Legend Of Zelda Ocarina Of Time",
+        "spc_path": "MMC_Server/Song_of_Healing_v_1.0.spc"
+    },
+    "Song of Healing (SM Tone)": {
+        "nspc_path": "MMC_Server/_SM__Song_of_Healing_v_1.0.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo Toru Minegishi",
+        "port_author": "Albert V",
+        "description": "v1.0",
+        "group": "The Legend Of Zelda Ocarina Of Time",
+        "spc_path": "MMC_Server/_SM__Song_of_Healing_v_1.0.spc"
+    },
+    "Spirit Temple (normal)": {
+        "nspc_path": "MMC_Server/Spirit_Temple_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo Toru Minegishi",
+        "port_author": "Albert V",
+        "description": "v1.0",
+        "group": "The Legend Of Zelda Ocarina Of Time",
+        "spc_path": "MMC_Server/Spirit_Temple_v1.0.spc"
+    },
+    "Spirit Temple (SM Tone)": {
+        "nspc_path": "MMC_Server/_SM__Spirit_Temple_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo Toru Minegishi",
+        "port_author": "Albert V",
+        "description": "v1.0",
+        "group": "The Legend Of Zelda Ocarina Of Time",
+        "spc_path": "MMC_Server/_SM__Spirit_Temple_v1.0.spc"
+    },
+    "Spirit Temple (Choir)": {
+        "nspc_path": "MMC_Server/_Choir__Spirit_Temple_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "Koji Kondo Toru Minegishi",
+        "port_author": "Albert V",
+        "description": "v1.0",
+        "group": "The Legend Of Zelda Ocarina Of Time",
+        "spc_path": "MMC_Server/_Choir__Spirit_Temple_v1.0.spc"
+    },
+    "Glacius": {
+        "nspc_path": "MMC_Server/Glacius.nspc",
+        "track_index": 0,
+        "original_author": "Robin Beanland",
+        "port_author": "Albert V",
+        "description": "",
+        "group": "Killer Instinct",
+        "spc_path": "MMC_Server/Glacius.spc"
+    },
+    "Save Room (RE1)": {
+        "nspc_path": "MMC_Server/SM_Save_Room_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "Shinji Mikami",
+        "port_author": "Albert V",
+        "description": "v1.0",
+        "group": "Resident Evil 1",
+        "spc_path": "MMC_Server/SM_Save_Room_v1.0.spc"
+    },
+    "Samus Attack": {
+        "nspc_path": "MMC_Server/Samus_Attack_v1.0.nspc",
+        "track_index": 0,
+        "original_author": "TODO",
+        "port_author": "Albert V",
+        "description": "TODO",
+        "group": "Albert V Arrangement",
+        "spc_path": "MMC_Server/Samus_Attack_v1.0.spc"
+    },
+    "Buried in Snow": {
+        "nspc_path": "MMC_Server/Final_Fantasy_7_-_Buried_in_Snow.nspc",
+        "track_index": 0,
+        "original_author": "Nobuo Uematsu",
+        "port_author": "Dewey Newt",
+        "description": "Original midi adapted from https://www.midishrine.com/index.php?id=85",
+        "group": "Final Fantasy 7",
+        "spc_path": "MMC_Server/Final_Fantasy_7_-_Buried_in_Snow.spc"
+    },
+    "You Can Hear the Cry of the Planet": {
+        "nspc_path": "MMC_Server/FF7_You_Can_Hear_the_Cry_of_the_Planet.nspc",
+        "track_index": 0,
+        "original_author": "Nobuo Uematsu",
+        "port_author": "Dewey Newt",
+        "description": "Original midi adapted from https://www.midishrine.com/index.php?id=85",
+        "group": "Final Fantasy 7",
+        "spc_path": "MMC_Server/Final_Fantasy_7_-_You_Can_Hear_the_Cry_of_the_Planet.spc"
+    },
+    "Heart_of_the_Grove": {
+        "nspc_path": "MMC_Server/Heart_of_the_Grove.nspc",
+        "track_index": 0,
+        "original_author": "Dewey Newt",
+        "port_author": "Dewey Newt",
+        "description": "Some original tracks. Free to use with credits. :)",
+        "group": "Original Tracks",
+        "spc_path": "MMC_Server/Heart_of_the_Grove.spc"
+    },
+    "Thoha Ruins": {
+        "nspc_path": "MMC_Server/Thoha_Ruins.nspc",
+        "track_index": 0,
+        "original_author": "Dewey Newt",
+        "port_author": "Dewey Newt",
+        "description": "Some original tracks. Free to use with credits. :)",
+        "group": "Original Tracks",
+        "spc_path": "MMC_Server/Thoha_Ruins.spc"
     }
 }
